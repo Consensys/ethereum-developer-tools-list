@@ -3,7 +3,7 @@ A guide to available tools, components, patterns, and platforms for developing o
 
 ## Intro
 
-Creation of this list was spurred by product managers at Consensys who saw a need for better sharing amongst both new and experienced developers of  tools, development patterns, and components.
+Creation of this list was spurred by product managers at Consensys who saw a need for better sharing of tools, development patterns, and components amongst both new and experienced developers.
 
 ## Contributions are welcome!
 
