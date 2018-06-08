@@ -2,6 +2,7 @@
 A guide to available tools, components, patterns, and platforms for developing on Ethereum.
 
 ### Intro
+
 Creation of this list was spurred by product managers at Consensys who saw a need for better sharing amongst both new and experienced developers of  tools, development patterns, and components.
 
 ## Contributions are welcome!
