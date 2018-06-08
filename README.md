@@ -177,6 +177,9 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
         * [ERC Dex](https://ercdex.com/)
 
     * [Opensea.io](http://Opensea.io)-  decentralized exchange of cryptocollectibles
+    * [Bancor](https://www.bancor.network/)
+    * [Kyber](https://www.kyber.network)
+    * [Gnosis Dutch Exchange](https://github.com/gnosis/dx-contracts)
 
 * KYC/AML Onboarding
 
