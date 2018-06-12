@@ -12,7 +12,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/issues) for topics that need to be covered or updated.
 
 
-### Development tools/libraries/frameworks
+### Development frameworks
 
 * [Truffle](http://truffleframework.com) - Most popular smart contract development, testing, and deployment framework
 
@@ -20,19 +20,25 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
 * [Infura](https://infura.io/) - API gateway so you don’t have to host your own ETH node
 
+### Security tools
+
 * [Mythril](https://github.com/ConsenSys/mythril) - Static smart contract security analysis
 
 * [Oyente](https://github.com/melonproject/oyente)- Static smart contract security analysis
 
-* [Solc](https://solidity.readthedocs.io/en/v0.4.21/using-the-compiler.html?highlight=bin) - Solidity compiler 
+### Decentralized storage
 
 * [IPFS](https://ipfs.io/) - Decentralized storage and file referencing 
 
-* [Solidity code coverage](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/sol-cov) - solidity code coverage tool
+### Developer IDE's and tools
 
 * [Remix-](https://remix.ethereum.org/) Web IDE with built in static analysis, test blockchain VM.
 
 * [Atom Solidity Linter](https://atom.io/packages/atom-solidity-linter)[-](https://atom.io/packages/etheratom) Atom package for Solidity linting
+
+* [Solc](https://solidity.readthedocs.io/en/v0.4.21/using-the-compiler.html?highlight=bin) - Solidity compiler 
+
+* [Solidity code coverage](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/sol-cov) - solidity code coverage tool
 
 * [Drizzle](https://github.com/truffle-box/drizzle-box) -  Redux library to connect a frontend to a blockchain
 
@@ -50,7 +56,7 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
 * Typescript- javascript with type safety, backwards compatible
 
-    * [0x ABI to Typescript Ge](https://blog.0xproject.com/abi-to-typescript-generator-b0fb5cae9e29)nerator- converts contract ABI code to Typescript
+    * [0x to Typescript Generator](https://blog.0xproject.com/abi-to-typescript-generator-b0fb5cae9e29)nerator- converts contract ABI code to Typescript
 
 * Python
 
@@ -123,7 +129,7 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 ### Middleware projects
 
 * [Mustekala](https://github.com/MetaMask/mustekala) - blockchain services framework
-* [IPFS-Store](https://github.com/ConsenSys/IPFS-Store) - IPFS Storage service with search capability
+* [IPFS-Store](https://github.com/ConsenSys/IPFS-Store) - IPFS Storage service with added search capability
 
 ### Web3 Libraries
 
@@ -147,11 +153,6 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
 * [0x](https://github.com/0xProject)
 
-### Security best practices
-
-* [Safety wiki](https://github.com/ethereum/wiki/wiki/Safety)- Ethereum Foundation wiki on safety
-
-* [Smart contract best practices](https://github.com/ConsenSys/smart-contract-best-practices) - " “ published by Consensys
 
 ### Other 
 
@@ -196,10 +197,18 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
     * [Oracalize](http://www.oraclize.it/)- oracle service for your smart contracts.
 
-* Understanding Ethereum Governance
+## Ethereum knowledge
 
-    * [ERC-721](https://github.com/ethereum/eips/issues/721) - A peek into debate and consensus-reaching on a token standard for non-fungible assets
+### Security best practices
 
-* Understanding Ethereum Scaling solutions
+* [Safety wiki](https://github.com/ethereum/wiki/wiki/Safety)- Ethereum Foundation wiki on safety
 
-    * [Comprehensive Medium article](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4) on various solutions to scale Ethereum
+* [Smart contract best practices](https://github.com/ConsenSys/smart-contract-best-practices) - " “ published by Consensys
+
+### Governance
+
+ * [ERC-721](https://github.com/ethereum/eips/issues/721) - A peek into debate and consensus-reaching on a token standard for non-fungible assets
+
+## Scaling
+
+ * [Comprehensive Medium article](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4) on various solutions to scale Ethereum
