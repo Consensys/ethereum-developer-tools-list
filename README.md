@@ -3,7 +3,7 @@ A guide to available tools, components, patterns, and platforms for developing o
 
 ## Intro
 
-Creation of this list was spurred by product managers at Consensys who saw a need for better sharing of tools, development patterns, and components amongst both new and experienced developers.
+Creation of this list was spurred by product managers at Consensys who saw a need for better sharing of tools, development patterns, and components amongst both new and experienced blockchain developers.
 
 ## Contributions are welcome!
 
@@ -153,7 +153,7 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
 * [Smart contract best practices](https://github.com/ConsenSys/smart-contract-best-practices) - " “ published by Consensys
 
-### Other
+### Other 
 
 * Block explorers
 
@@ -196,11 +196,10 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
     * [Oracalize](http://www.oraclize.it/)- oracle service for your smart contracts.
 
-* Governance Process
+* Understanding Ethereum Governance
 
     * [ERC-721](https://github.com/ethereum/eips/issues/721) - A peek into debate and consensus-reaching on a token standard for non-fungible assets
 
-* Scaling
+* Understanding Ethereum Scaling solutions
 
     * [Comprehensive Medium article](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4) on various solutions to scale Ethereum
-
