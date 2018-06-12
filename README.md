@@ -20,11 +20,13 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
 * [Infura](https://infura.io/) - API gateway so you don’t have to host your own ETH node
 
-### Security tools
+### Security and analysis tools
 
 * [Mythril](https://github.com/ConsenSys/mythril) - Static smart contract security analysis
 
 * [Oyente](https://github.com/melonproject/oyente)- Static smart contract security analysis
+
+* [Solidity code coverage](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/sol-cov) - solidity code coverage tool
 
 ### Decentralized storage
 
@@ -37,12 +39,6 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 * [Atom Solidity Linter](https://atom.io/packages/atom-solidity-linter)[-](https://atom.io/packages/etheratom) Atom package for Solidity linting
 
 * [Solc](https://solidity.readthedocs.io/en/v0.4.21/using-the-compiler.html?highlight=bin) - Solidity compiler 
-
-* [Solidity code coverage](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/sol-cov) - solidity code coverage tool
-
-* [Drizzle](https://github.com/truffle-box/drizzle-box) -  Redux library to connect a frontend to a blockchain
-
-* [Eventeum](https://github.com/ConsenSys/eventeum) - A bridge between Ethereum smart contract events and backend microservices, written in Java by Kauri.
 
 ### Programming Languages
 
@@ -129,9 +125,13 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 ### Middleware projects
 
 * [Mustekala](https://github.com/MetaMask/mustekala) - blockchain services framework
+
 * [IPFS-Store](https://github.com/ConsenSys/IPFS-Store) - IPFS Storage service with added search capability
 
-### Web3 Libraries
+* [Eventeum](https://github.com/ConsenSys/eventeum) - A bridge between Ethereum smart contract events and backend microservices, written in Java by Kauri.
+
+
+### Front end Libraries
 
 * [Web3.js](https://github.com/ethereum/web3.js/) - Javascript
 
@@ -145,7 +145,9 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
 * [Ethers.js](https://github.com/ethers-io/ethers.js/)- Web3 Alternative
 
-### Smart Contract Repos and Libraries
+* [Drizzle](https://github.com/truffle-box/drizzle-box) -  Redux library to connect a frontend to a blockchain
+
+### Example Smart Contract Repos and reusuable libraries
 
 * [Zeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity)- contains tested reusable smart contracts like [SafeMath](https://openzeppelin.org/api/docs/math_SafeMath.html)
 
