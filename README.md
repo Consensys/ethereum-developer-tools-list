@@ -123,6 +123,8 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 ### Middleware projects
 
 * [Mustekala](https://github.com/MetaMask/mustekala) - blockchain services framework
+* [IPFS-Store](https://github.com/ConsenSys/IPFS-Store) - IPFS Storage service with search capability
+* [Eventeum](https://github.com/ConsenSys/eventeum) - A bridge between Ethereum smart contract events and backend microservices
 
 ### Web3 Libraries
 
