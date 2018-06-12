@@ -36,7 +36,7 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
 * [Drizzle](https://github.com/truffle-box/drizzle-box) -  Redux library to connect a frontend to a blockchain
 
-* [Eventeum](https://github.com/ConsenSys/eventeum) - Java Ethereum-backend integration from Kauri
+* [Eventeum](https://github.com/ConsenSys/eventeum) - A bridge between Ethereum smart contract events and backend microservices, written in Java by Kauri.
 
 ### Programming Languages
 
@@ -123,6 +123,7 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 ### Middleware projects
 
 * [Mustekala](https://github.com/MetaMask/mustekala) - blockchain services framework
+* [IPFS-Store](https://github.com/ConsenSys/IPFS-Store) - IPFS Storage service with search capability
 
 ### Web3 Libraries
 
