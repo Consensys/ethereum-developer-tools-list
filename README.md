@@ -42,7 +42,7 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
 ### Programming Languages
 
-* [Solidity](http://solidity.readthedocs.io/en/v0.4.24/)- Ethereum smart contracting language. Play [CryptoZombies](https://cryptozombies.io/), read the docs, or checkout [Consensys academy](https://consensys.net/academy/resources/)
+* [Solidity](http://solidity.readthedocs.io/en/v0.4.24/)- Ethereum smart contracting language. Read the docs, play [CryptoZombies](https://cryptozombies.io/) and [Chainshot building blocks](https://www.chainshot.com/), or checkout [Consensys Academy](https://consensys.net/academy/resources/)
 
 * Javascript- Client side language for interacting with smart contracts
 
@@ -77,6 +77,8 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 * [Ether Address Lookup](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn?hl=en-GB) - Chrome extension for phishing protection and Eth address highlighting
 
 * [EthGasStation](https://ethgasstation.info/) - website for estimating tx prices vs times
+
+*[Portis](https://portis.io/) - web-based wallet for easy user onboarding to your DApp, no download required
 
 * [uPort](https://www.uport.me/) - Total identity solution.
 
@@ -122,7 +124,7 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
 * [Kovan Faucet](https://github.com/kovan-testnet/faucet)
 
-### Middleware projects
+### Storage, Middleware, Etc.
 
 * [Mustekala](https://github.com/MetaMask/mustekala) - blockchain services framework
 
