@@ -42,9 +42,9 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
 ### Programming Languages
 
-* [Solidity](http://solidity.readthedocs.io/en/v0.4.24/)- Ethereum smart contracting language. Read the docs, play [CryptoZombies](https://cryptozombies.io/) and [Chainshot building blocks](https://www.chainshot.com/), or checkout [Consensys Academy](https://consensys.net/academy/resources/)
+* [Solidity](http://solidity.readthedocs.io/en/v0.4.24/) - Ethereum smart contracting language. Read the docs, play [CryptoZombies](https://cryptozombies.io/) and [Chainshot building blocks](https://www.chainshot.com/), or checkout [Consensys Academy](https://consensys.net/academy/resources/)
 
-* Javascript- Client side language for interacting with smart contracts
+* Javascript - Client side language for interacting with smart contracts
 
     * [Web3.js](https://github.com/ethereum/web3.js/) - Javascript API for interacting with the Ethereum Blockchain
 
@@ -56,7 +56,7 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
 * Python
 
-    * [Web3.py ](https://github.com/ethereum/web3.py)- python implementation of web3.js
+    * [Web3.py ](https://github.com/ethereum/web3.py) - python implementation of web3.js
 
 ### Bootstrap/out of box tools
 
