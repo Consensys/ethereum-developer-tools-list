@@ -52,7 +52,7 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
 * Typescript- javascript with type safety, backwards compatible
 
-    * [0x to Typescript Generator](https://blog.0xproject.com/abi-to-typescript-generator-b0fb5cae9e29)nerator- converts contract ABI code to Typescript
+    * [0x to Typescript Generator](https://blog.0xproject.com/abi-to-typescript-generator-b0fb5cae9e29)- converts contract ABI code to Typescript
 
 * Python
 
