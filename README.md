@@ -94,6 +94,8 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
 * Gnosis multisig wallet
 
+* WallETH(https://walleth.org) - native Android Ethereum Wallet
+
 ### Ethereum clients
 
 1. [Geth](https://github.com/ethereum/go-ethereum/wiki/geth)
@@ -140,6 +142,8 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
     * [Eth.js](https://github.com/ethjs) - Lightweight alternative
 
 * [Web3j](https://github.com/web3j/web3j) - Java
+
+* [KEthereum](https://github.com/walleth/kethereum) - Kotlin
 
 * [Nethereum](https://nethereum.com/) - .Net
 
