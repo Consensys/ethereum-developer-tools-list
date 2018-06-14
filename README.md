@@ -79,6 +79,8 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 * [Kaleido](https://www.prnewswire.com/news-releases/consensys-unveils-kaleido-in-collaboration-with-amazon-web-services-to-simplify-enterprise-blockchain-adoption-300648209.html) - Use Kaleido for spinning up a consortium network. Great for PoCs and testing.
 
+* [Cheshire](https://github.com/endless-nameless-inc/cheshire) - A local sandbox implementation of the CryptoKitties API and smart contracts, available as a Truffle Box
+
 ### Wallets
 
 * [Metamask](https://metamask.io/) - Easiest way to get started using a dapp. Chrome extension Ether wallet.
