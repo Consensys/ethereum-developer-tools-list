@@ -50,27 +50,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 * [Solidity](http://solidity.readthedocs.io/en/v0.4.24/) - Ethereum smart contracting language. Read the docs, play [CryptoZombies](https://cryptozombies.io/) and [Chainshot building blocks](https://www.chainshot.com/), or checkout [Consensys Academy](https://consensys.net/academy/resources/)
 
-* Javascript - Client side language for interacting with smart contracts
-
-    * [Web3.js](https://github.com/ethereum/web3.js/) - Javascript API for interacting with the Ethereum Blockchain
-
-    * [Ethers.js](https://github.com/ethers-io/ethers.js) - Javascript Ethereum wallet implementation and utilities
-
-* Typescript- javascript with type safety, backwards compatible
-
-    * [0x to Typescript Generator](https://blog.0xproject.com/abi-to-typescript-generator-b0fb5cae9e29) - converts contract ABI code to Typescript
-
-* Python
-
-    * [Web3.py ](https://github.com/ethereum/web3.py)- python implementation of web3.js
-    
-* Java
-
-    * [Web3j](https://github.com/web3j/web3j) - Java implementation of web3
-
-* Haskell
-
-    * [web3](http://hackage.haskell.org/package/web3) - Haskell implementation of web3
+* [Vyper](https://vyper.readthedocs.io/en/latest/) - Experimental pythonic smart contracting language. Alternative to Solidity, but still under development.
 
 ### Bootstrap/out of box tools
 
@@ -171,11 +151,15 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 * [Nethereum](https://nethereum.com/) - .Net
 
+* [Web3.py](https://github.com/ethereum/web3.py)- Python implementation of Web3
+
 * [Pyethereum](https://github.com/ethereum/pyethereum) - Python
 
 * [Ethers.js](https://github.com/ethers-io/ethers.js/)- Web3 Alternative
 
 * [Drizzle](https://github.com/trufflesuite/drizzle) -  Redux library to connect a frontend to a blockchain
+
+* [Web3.hs](http://hackage.haskell.org/package/web3) - Haskell implementation of Web3
 
 ### Example Smart Contract Repos and reusuable libraries
 
