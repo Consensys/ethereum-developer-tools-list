@@ -57,6 +57,14 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 * Python
 
     * [Web3.py ](https://github.com/ethereum/web3.py)- python implementation of web3.js
+    
+* Java
+
+    * [web3j](https://github.com/web3j/web3j) - Java implementation of web3
+
+* Haskell
+
+    * [web3](http://hackage.haskell.org/package/web3) - Haskell implementation of web3
 
 ### Bootstrap/out of box tools
 
