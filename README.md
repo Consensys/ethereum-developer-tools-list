@@ -32,6 +32,8 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
 * [IPFS](https://ipfs.io/) - Decentralized storage and file referencing 
 
+* [OrbitDB](https://github.com/orbitdb/orbit-db) - Decentralized database on top of IPFS
+
 ### Developer IDE's and tools
 
 * [Remix-](https://remix.ethereum.org/) Web IDE with built in static analysis, test blockchain VM.
