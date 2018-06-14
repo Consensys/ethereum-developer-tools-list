@@ -81,7 +81,7 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
 * [EthGasStation](https://ethgasstation.info/) - website for estimating tx prices vs times
 
-*[Portis](https://portis.io/) - web-based wallet for easy user onboarding to your DApp, no download required
+* [Portis](https://portis.io/) - web-based wallet for easy user onboarding to your DApp, no download required
 
 * [uPort](https://www.uport.me/) - Total identity solution.
 
