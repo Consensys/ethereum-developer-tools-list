@@ -26,6 +26,8 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 * [Solidity code coverage](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/sol-cov) - solidity code coverage tool
 
+* [Quantstamp](https://quantstamp.com) A service that offers automated and manual smart contract security audits for a fee
+
 ### Decentralized storage
 
 * [IPFS](https://ipfs.io/) - Decentralized storage and file referencing 
