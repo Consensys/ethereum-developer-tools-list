@@ -198,8 +198,9 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 ### Other 
 
 * Block explorers
-
     * [Etherscan](https://etherscan.io/) - most popular centralized way to view Eth transactions and contract code
+    
+    * [POA Explorer](https://github.com/poanetwork/poa-explorer) - Open Source Ethereum Block explorer, funded by [Ethprize](ethprize.io) and developed by [POA](https://poa.net)
 
     * [Ganache](https://github.com/trufflesuite/ganache)- App for test Ethereum blockchain with visual UI and logs
 
@@ -213,6 +214,13 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
    * [EthGasStation](https://ethgasstation.info/) - website for estimating tx prices vs times
    
+* Side-Chains
+    * [POA Network](https://poa.net/)
+        * [POA Bridge] (http://bridge.poa.net/)
+        * [POA Bridge UI] (https://github.com/poanetwork/bridge-ui)
+        * [POA Bridge Contracts] (https://github.com/poanetwork/poa-bridge-contracts)
+    * [Loom Network](https://github.com/loomnetwork)
+    
 * Decentralized Exchanges
 
     * [Airswap](https://www.airswap.io/) - decentralized token exchange
