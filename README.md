@@ -118,6 +118,8 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 * Gnosis multisig wallet
 
+* WallETH(https://walleth.org) - native Android Ethereum Wallet
+
 * Hardware wallets
 
     * [Trezor](https://trezor.io) The original hardware wallet
@@ -125,6 +127,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
     * [Ledger](https://www.ledgerwallet.com)
 
     * [KeepKey](https://www.keepkey.com)
+
 
 ### Ethereum clients
 
@@ -163,6 +166,25 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [IPFS-Store](https://github.com/ConsenSys/IPFS-Store) - IPFS Storage service with added search capability
 
 * [Eventeum](https://github.com/ConsenSys/eventeum) - A bridge between Ethereum smart contract events and backend microservices, written in Java by Kauri.
+
+
+### Front end Libraries
+
+* [Web3.js](https://github.com/ethereum/web3.js/) - Javascript
+
+    * [Eth.js](https://github.com/ethjs) - Lightweight alternative
+
+* [Web3j](https://github.com/web3j/web3j) - Java
+
+* [KEthereum](https://github.com/walleth/kethereum) - Kotlin
+
+* [Nethereum](https://nethereum.com/) - .Net
+
+* [Pyethereum](https://github.com/ethereum/pyethereum) - Python
+
+* [Ethers.js](https://github.com/ethers-io/ethers.js/)- Web3 Alternative
+
+* [Drizzle](https://github.com/truffle-box/drizzle-box) -  Redux library to connect a frontend to a blockchain
 
 ### Example Smart Contract Repos and reusuable libraries
 
