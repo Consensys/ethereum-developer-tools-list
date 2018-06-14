@@ -46,11 +46,12 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 * [ethereum-graph-debugger](https://github.com/fergarrui/ethereum-graph-debugger) - Solidity graph debugger
 
-### Programming Languages
+### Programming Languages (for writing smart contracts, compiles to Ethereum Virtual Machine Bytecode)
 
 * [Solidity](http://solidity.readthedocs.io/en/v0.4.24/) - Ethereum smart contracting language. Read the docs, play [CryptoZombies](https://cryptozombies.io/) and [Chainshot building blocks](https://www.chainshot.com/), or checkout [Consensys Academy](https://consensys.net/academy/resources/)
-    
 
+* [Vyper](https://vyper.readthedocs.io/en/latest/) - Experimental pythonic smart contracting language. Alternative to Solidity, but still under development.
+    
 
 ### Front end Libraries
 
