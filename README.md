@@ -147,7 +147,7 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
 * [Ethers.js](https://github.com/ethers-io/ethers.js/)- Web3 Alternative
 
-* [Drizzle](https://github.com/truffle-box/drizzle-box) -  Redux library to connect a frontend to a blockchain
+* [Drizzle](https://github.com/trufflesuite/drizzle) -  Redux library to connect a frontend to a blockchain
 
 ### Example Smart Contract Repos and reusuable libraries
 
