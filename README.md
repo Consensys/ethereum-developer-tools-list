@@ -49,28 +49,31 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 ### Programming Languages
 
 * [Solidity](http://solidity.readthedocs.io/en/v0.4.24/) - Ethereum smart contracting language. Read the docs, play [CryptoZombies](https://cryptozombies.io/) and [Chainshot building blocks](https://www.chainshot.com/), or checkout [Consensys Academy](https://consensys.net/academy/resources/)
-
-* Javascript - Client side language for interacting with smart contracts
-
-    * [Web3.js](https://github.com/ethereum/web3.js/) - Javascript API for interacting with the Ethereum Blockchain
-
-    * [Ethers.js](https://github.com/ethers-io/ethers.js) - Javascript Ethereum wallet implementation and utilities
-
-* Typescript- javascript with type safety, backwards compatible
-
-    * [0x to Typescript Generator](https://blog.0xproject.com/abi-to-typescript-generator-b0fb5cae9e29) - converts contract ABI code to Typescript
-
-* Python
-
-    * [Web3.py ](https://github.com/ethereum/web3.py)- python implementation of web3.js
     
-* Java
 
-    * [Web3j](https://github.com/web3j/web3j) - Java implementation of web3
 
-* Haskell
+### Front end Libraries
 
-    * [web3](http://hackage.haskell.org/package/web3) - Haskell implementation of web3
+* [Web3.js](https://github.com/ethereum/web3.js/) - Javascript
+
+* [Ethers.js](https://github.com/ethers-io/ethers.js) - Javascript Ethereum wallet implementation and utilities
+
+* [Eth.js](https://github.com/ethjs) - Lightweight alternative
+
+* [Web3j](https://github.com/web3j/web3j) - Java
+
+* [Nethereum](https://nethereum.com/) - .Net
+
+* [Web3.py ](https://github.com/ethereum/web3.py)- python implementation of web3.js
+
+* [Pyethereum](https://github.com/ethereum/pyethereum) - Python version of web3
+
+* [Ethers.js](https://github.com/ethers-io/ethers.js/)- Web3 Alternative
+
+* [Drizzle](https://github.com/trufflesuite/drizzle) -  Redux library to connect a frontend to a blockchain
+
+* [Web3.hs](http://hackage.haskell.org/package/web3) - Haskell implementation of Web3
+
 
 ### Bootstrap/out of box tools
 
@@ -159,23 +162,6 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [IPFS-Store](https://github.com/ConsenSys/IPFS-Store) - IPFS Storage service with added search capability
 
 * [Eventeum](https://github.com/ConsenSys/eventeum) - A bridge between Ethereum smart contract events and backend microservices, written in Java by Kauri.
-
-
-### Front end Libraries
-
-* [Web3.js](https://github.com/ethereum/web3.js/) - Javascript
-
-    * [Eth.js](https://github.com/ethjs) - Lightweight alternative
-
-* [Web3j](https://github.com/web3j/web3j) - Java
-
-* [Nethereum](https://nethereum.com/) - .Net
-
-* [Pyethereum](https://github.com/ethereum/pyethereum) - Python
-
-* [Ethers.js](https://github.com/ethers-io/ethers.js/)- Web3 Alternative
-
-* [Drizzle](https://github.com/trufflesuite/drizzle) -  Redux library to connect a frontend to a blockchain
 
 ### Example Smart Contract Repos and reusuable libraries
 
