@@ -99,6 +99,8 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 * [MyEtherWallet](https://www.myetherwallet.com/)
 
+* [MyCrypto](https://mycrypto.com) - Ethereum blockchain interface. Access your wallet locally. Contract interaction and deployment. Swaps. Transaction status lookup. Testnet and 3rd-party ETH-based chain support.
+
 * [Trustology](https://www.trustology.io/) - Under development. Institutional custody.
 
 * Gnosis multisig wallet
