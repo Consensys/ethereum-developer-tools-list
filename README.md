@@ -106,7 +106,19 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 * [Trustology](https://www.trustology.io/) - Under development. Institutional custody.
 
+* [Jaxx](https://jaxx.io) Both a mobile and a desktop wallet. Has integrated Shapeshift support
+
+* [Exodus](https://www.exodus.io) Desktop wallet with Shapeshift integration
+
 * Gnosis multisig wallet
+
+* Hardware wallets
+
+    * [Trezor](https://trezor.io) The original hardware wallet
+
+    * [Ledger](https://www.ledgerwallet.com)
+
+    * [KeepKey](https://www.keepkey.com)
 
 ### Ethereum clients
 
