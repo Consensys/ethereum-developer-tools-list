@@ -45,7 +45,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 * [Solidity](http://solidity.readthedocs.io/en/v0.4.24/) - Ethereum smart contracting language. Read the docs, play [CryptoZombies](https://cryptozombies.io/) and [Chainshot building blocks](https://www.chainshot.com/), or checkout [Consensys Academy](https://consensys.net/academy/resources/)
 
-* [Vyper](https://vyper.readthedocs.io/en/latest/) - Experimental alternative smart contracting language.
+* [Vyper](https://vyper.readthedocs.io/en/latest/) - Experimental pythonic smart contracting language. Alternative to Solidity, but still under development.
 
 ### Bootstrap/out of box tools
 
