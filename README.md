@@ -38,7 +38,10 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 * [Atom Solidity Linter](https://atom.io/packages/atom-solidity-linter)[-](https://atom.io/packages/etheratom) Atom package for Solidity linting
 
+* [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) - Visual Studio Code extension that adds support for Solidity
+
 * [Solc](https://solidity.readthedocs.io/en/v0.4.21/using-the-compiler.html?highlight=bin) - Solidity compiler 
+
 * [ethereum-graph-debugger](https://github.com/fergarrui/ethereum-graph-debugger) - Solidity graph debugger
 
 ### Programming Languages
