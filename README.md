@@ -200,6 +200,18 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
         * [ERC Dex](https://ercdex.com/)
 
+        * [DDEX](https://ddex.io)
+
+        * [Ethfinex](https://www.ethfinex.com)
+
+        * [Shark Relay](https://app.sharkrelay.com)
+
+        * [Bamboo Relay](https://www.bamboorelay.com)
+
+        * [Instex](https://app.instex.io)
+
+        * [Starbit](https://www.starbitex.com)
+
     * [Opensea.io](http://Opensea.io)-  decentralized exchange of cryptocollectibles
     * [Bancor](https://www.bancor.network/)
     * [Kyber](https://www.kyber.network)
