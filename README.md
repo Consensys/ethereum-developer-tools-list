@@ -103,6 +103,8 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 * [Jaxx](https://jaxx.io) Both a mobile and a desktop wallet. Has integrated Shapeshift support
 
+* [Exodus](https://www.exodus.io) Desktop wallet with Shapeshift integration
+
 * Gnosis multisig wallet
 
 ### Ethereum clients
