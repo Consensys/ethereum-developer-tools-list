@@ -7,7 +7,7 @@ Creation of this list was spurred by product managers at Consensys who saw a nee
 
 ## Contributions are welcome!
 
-Feel free to submit a pull request, with anything from small fixes to tools you'd like to add.
+Feel free to submit a pull request, with anything from small fixes to tools you'd like to add. If adding a new tool, **please add a brief description** that you think new developers would understand. 
 
 See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/issues) for topics that need to be covered or updated.
 
