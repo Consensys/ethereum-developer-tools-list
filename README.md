@@ -118,7 +118,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 * Gnosis multisig wallet
 
-* WallETH(https://walleth.org) - native Android Ethereum Wallet
+* [WallETH](https://walleth.org) - native Android Ethereum Wallet
 
 * Hardware wallets
 
