@@ -85,8 +85,6 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 * [Ether Address Lookup](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn?hl=en-GB) - Chrome extension for phishing protection and Eth address highlighting
 
-* [EthGasStation](https://ethgasstation.info/) - website for estimating tx prices vs times
-
 * [Portis](https://portis.io/) - web-based wallet for easy user onboarding to your DApp, no download required
 
 * [uPort](https://www.uport.me/) - Total identity solution.
@@ -183,6 +181,10 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
     * [Supermax](https://www.supermax.cool/)- A live data feed of the activities and event logs of your smart contracts on Ethereum
 
+* Gas price calculators
+
+   * [EthGasStation](https://ethgasstation.info/) - website for estimating tx prices vs times
+   
 * Decentralized Exchanges
 
     * [Airswap](https://www.airswap.io/) - decentralized token exchange
