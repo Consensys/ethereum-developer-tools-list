@@ -254,6 +254,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 ### Governance
 
  * [ERC-721](https://github.com/ethereum/eips/issues/721) - A peek into debate and consensus-reaching on a token standard for non-fungible assets
+ * [Eth Research Chat](https://ethresear.ch) - Gitter-like forum for ongoing Ethereum Foundation research projects
 
 ## Scaling
 
