@@ -32,6 +32,8 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
 * [IPFS](https://ipfs.io/) - Decentralized storage and file referencing 
 
+* [OrbitDB](https://github.com/orbitdb/orbit-db) - Decentralized database on top of IPFS
+
 ### Developer IDE's and tools
 
 * [Remix-](https://remix.ethereum.org/) Web IDE with built in static analysis, test blockchain VM.
@@ -39,20 +41,21 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 * [Atom Solidity Linter](https://atom.io/packages/atom-solidity-linter)[-](https://atom.io/packages/etheratom) Atom package for Solidity linting
 
 * [Solc](https://solidity.readthedocs.io/en/v0.4.21/using-the-compiler.html?highlight=bin) - Solidity compiler 
+* [ethereum-graph-debugger](https://github.com/fergarrui/ethereum-graph-debugger) - Solidity graph debugger
 
 ### Programming Languages
 
-* [Solidity](http://solidity.readthedocs.io/en/v0.4.24/)- Ethereum smart contracting language. Read the docs, play [CryptoZombies](https://cryptozombies.io/) and [Chainshot building blocks](https://www.chainshot.com/), or checkout [Consensys Academy](https://consensys.net/academy/resources/)
+* [Solidity](http://solidity.readthedocs.io/en/v0.4.24/) - Ethereum smart contracting language. Read the docs, play [CryptoZombies](https://cryptozombies.io/) and [Chainshot building blocks](https://www.chainshot.com/), or checkout [Consensys Academy](https://consensys.net/academy/resources/)
 
-* Javascript- Client side language for interacting with smart contracts
+* Javascript - Client side language for interacting with smart contracts
 
-    * Web3.js- Javascript API for interacting with the Ethereum Blockchain
+    * [Web3.js](https://github.com/ethereum/web3.js/) - Javascript API for interacting with the Ethereum Blockchain
 
-    * Ethers.js- Javascript Ethereum wallet implementation and utilities
+    * [Ethers.js](https://github.com/ethers-io/ethers.js) - Javascript Ethereum wallet implementation and utilities
 
 * Typescript- javascript with type safety, backwards compatible
 
-    * [0x to Typescript Generator](https://blog.0xproject.com/abi-to-typescript-generator-b0fb5cae9e29)nerator- converts contract ABI code to Typescript
+    * [0x to Typescript Generator](https://blog.0xproject.com/abi-to-typescript-generator-b0fb5cae9e29)- converts contract ABI code to Typescript
 
 * Python
 
@@ -60,7 +63,7 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
     
 * Java
 
-    * [web3j](https://github.com/web3j/web3j) - Java implementation of web3
+    * [Web3j](https://github.com/web3j/web3j) - Java implementation of web3
 
 * Haskell
 
@@ -86,7 +89,7 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
 * [EthGasStation](https://ethgasstation.info/) - website for estimating tx prices vs times
 
-*[Portis](https://portis.io/) - web-based wallet for easy user onboarding to your DApp, no download required
+* [Portis](https://portis.io/) - web-based wallet for easy user onboarding to your DApp, no download required
 
 * [uPort](https://www.uport.me/) - Total identity solution.
 
@@ -155,7 +158,7 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
 * [Ethers.js](https://github.com/ethers-io/ethers.js/)- Web3 Alternative
 
-* [Drizzle](https://github.com/truffle-box/drizzle-box) -  Redux library to connect a frontend to a blockchain
+* [Drizzle](https://github.com/trufflesuite/drizzle) -  Redux library to connect a frontend to a blockchain
 
 ### Example Smart Contract Repos and reusuable libraries
 
