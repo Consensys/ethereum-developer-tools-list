@@ -107,6 +107,14 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 * Gnosis multisig wallet
 
+* Hardware wallets
+
+    * [Trezor](https://trezor.io) The original hardware wallet
+
+    * [Ledger](https://www.ledgerwallet.com)
+
+    * [KeepKey](https://www.keepkey.com)
+
 ### Ethereum clients
 
 1. [Geth](https://github.com/ethereum/go-ethereum/wiki/geth)
