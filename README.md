@@ -46,9 +46,9 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
 * Javascript- Client side language for interacting with smart contracts
 
-    * Web3.js- Javascript API for interacting with the Ethereum Blockchain
+    * [Web3.js](https://github.com/ethereum/web3.js/) - Javascript API for interacting with the Ethereum Blockchain
 
-    * Ethers.js- Javascript Ethereum wallet implementation and utilities
+    * [Ethers.js](https://github.com/ethers-io/ethers.js) - Javascript Ethereum wallet implementation and utilities
 
 * Typescript- javascript with type safety, backwards compatible
 
