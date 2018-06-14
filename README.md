@@ -42,13 +42,13 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
 ### Programming Languages
 
-* [Solidity](http://solidity.readthedocs.io/en/v0.4.24/)- Ethereum smart contracting language. Read the docs, play [CryptoZombies](https://cryptozombies.io/) and [Chainshot building blocks](https://www.chainshot.com/), or checkout [Consensys Academy](https://consensys.net/academy/resources/)
+* [Solidity](http://solidity.readthedocs.io/en/v0.4.24/) - Ethereum smart contracting language. Read the docs, play [CryptoZombies](https://cryptozombies.io/) and [Chainshot building blocks](https://www.chainshot.com/), or checkout [Consensys Academy](https://consensys.net/academy/resources/)
 
-* Javascript- Client side language for interacting with smart contracts
+* Javascript - Client side language for interacting with smart contracts
 
-    * Web3.js- Javascript API for interacting with the Ethereum Blockchain
+    * [Web3.js](https://github.com/ethereum/web3.js/) - Javascript API for interacting with the Ethereum Blockchain
 
-    * Ethers.js- Javascript Ethereum wallet implementation and utilities
+    * [Ethers.js](https://github.com/ethers-io/ethers.js) - Javascript Ethereum wallet implementation and utilities
 
 * Typescript- javascript with type safety, backwards compatible
 
@@ -56,7 +56,7 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
 * Python
 
-    * [Web3.py ](https://github.com/ethereum/web3.py)- python implementation of web3.js
+    * [Web3.py ](https://github.com/ethereum/web3.py) - python implementation of web3.js
 
 ### Bootstrap/out of box tools
 
@@ -147,7 +147,7 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
 * [Ethers.js](https://github.com/ethers-io/ethers.js/)- Web3 Alternative
 
-* [Drizzle](https://github.com/truffle-box/drizzle-box) -  Redux library to connect a frontend to a blockchain
+* [Drizzle](https://github.com/trufflesuite/drizzle) -  Redux library to connect a frontend to a blockchain
 
 ### Example Smart Contract Repos and reusuable libraries
 
