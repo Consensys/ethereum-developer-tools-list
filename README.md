@@ -266,7 +266,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 * Incentivization / Monetization Tools
 
-    * [Gitcoin](https://gitcoin.co)- Bounty network for funding Open Source
+    * [Gitcoin](https://gitcoin.co)- Bounty network for funding Open Source or finding Open Source work
     * [CodeFund](https://codefund.io)- Ethical Adveritsing Platform for Open Source
 
 
