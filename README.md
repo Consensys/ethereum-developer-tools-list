@@ -277,6 +277,10 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
  * [ERC-721](https://github.com/ethereum/eips/issues/721) - A peek into debate and consensus-reaching on a token standard for non-fungible assets
  * [Eth Research Chat](https://ethresear.ch) - Gitter-like forum for ongoing Ethereum Foundation research projects
 
+### DApp development
+
+ * [Ethereum Development with Go](https://goethereumbook.org/) - A guide on getting started on Ethereum DApp development with Golang.
+
 ## Scaling
 
  * [Comprehensive Medium article](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4) on various solutions to scale Ethereum
