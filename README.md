@@ -264,6 +264,12 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
     * [Oracalize](http://www.oraclize.it/)- oracle service for your smart contracts.
 
+* Incentivization / Monetization Tools
+
+    * [Gitcoin](https://gitcoin.co)- Bounty network for funding Open Source
+    * [CodeFund](https://codefund.io)- Ethical Adveritsing Platform for Open Source
+
+
 ## Ethereum knowledge
 
 ### Security best practices
