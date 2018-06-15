@@ -7,7 +7,7 @@ Creation of this list was spurred by product managers at Consensys who saw a nee
 
 ## Contributions are welcome!
 
-Feel free to submit a pull request, with anything from small fixes to tools you'd like to add. If adding a new tool, **please add a brief description** that you think new developers would understand. 
+Feel free to submit a pull request, with anything from small fixes to tools you'd like to add. If adding a new tool, **please add a brief description** that you think new developers would understand.
 
 
 ### Development frameworks
@@ -30,7 +30,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 ### Decentralized storage
 
-* [IPFS](https://ipfs.io/) - Decentralized storage and file referencing 
+* [IPFS](https://ipfs.io/) - Decentralized storage and file referencing
 
 * [OrbitDB](https://github.com/orbitdb/orbit-db) - Decentralized database on top of IPFS
 
@@ -42,7 +42,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 * [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) - Visual Studio Code extension that adds support for Solidity
 
-* [Solc](https://solidity.readthedocs.io/en/v0.4.21/using-the-compiler.html?highlight=bin) - Solidity compiler 
+* [Solc](https://solidity.readthedocs.io/en/v0.4.21/using-the-compiler.html?highlight=bin) - Solidity compiler
 
 * [ethereum-graph-debugger](https://github.com/fergarrui/ethereum-graph-debugger) - Solidity graph debugger
 
@@ -51,7 +51,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [Solidity](http://solidity.readthedocs.io/en/v0.4.24/) - Ethereum smart contracting language. Read the docs, play [CryptoZombies](https://cryptozombies.io/) and [Chainshot building blocks](https://www.chainshot.com/), or checkout [Consensys Academy](https://consensys.net/academy/resources/)
 
 * [Vyper](https://vyper.readthedocs.io/en/latest/) - Experimental pythonic smart contracting language. Alternative to Solidity, but still under development.
-    
+
 
 ### Front end Libraries
 
@@ -155,7 +155,9 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 ### Ethereum (test) faucets
 
-* [Rinkeby faucet ](https://faucet.rinkeby.io/)
+* [Ropsten faucet](http://faucet.ropsten.be:3001/)
+
+* [Rinkeby faucet](https://faucet.rinkeby.io/)
 
 * [Kovan Faucet](https://github.com/kovan-testnet/faucet)
 
@@ -195,11 +197,11 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [0x](https://github.com/0xProject)
 
 
-### Other 
+### Other
 
 * Block explorers
     * [Etherscan](https://etherscan.io/) - most popular centralized way to view Eth transactions and contract code
-    
+
     * [POA Explorer](https://github.com/poanetwork/poa-explorer) - Open Source Ethereum Block explorer, funded by [Ethprize](ethprize.io) and developed by [POA](https://poa.net)
 
     * [Ganache](https://github.com/trufflesuite/ganache)- App for test Ethereum blockchain with visual UI and logs
@@ -213,14 +215,14 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * Gas price calculators
 
    * [EthGasStation](https://ethgasstation.info/) - website for estimating tx prices vs times
-   
+
 * Side-Chains
     * [POA Network](https://poa.net/)
         * [POA Bridge] (http://bridge.poa.net/)
         * [POA Bridge UI] (https://github.com/poanetwork/bridge-ui)
         * [POA Bridge Contracts] (https://github.com/poanetwork/poa-bridge-contracts)
     * [Loom Network](https://github.com/loomnetwork)
-    
+
 * Decentralized Exchanges
 
     * [Airswap](https://www.airswap.io/) - decentralized token exchange
