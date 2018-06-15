@@ -100,6 +100,8 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 * [uPort](https://www.uport.me/) - Total identity solution.
 
+* [imToken](https://token.im/) - imToken is a feature-rich digital asset wallet enabling multi-chain asset management, DApp browsing and secure, private exchange of value.
+
 * [Cypher](https://www.cipherbrowser.com/) - Mobile dapp explorer
 
 * [Trust](https://trustwalletapp.com/)
