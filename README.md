@@ -216,6 +216,11 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
    * [EthGasStation](https://ethgasstation.info/) - website for estimating tx prices vs times
 
+* Contract Standards
+
+   * ERC-20: A standard interface for tokens. Used in ICOs and crowdfunding.
+   * ERC-721: A standard interface for implementing non-fungible tokens (NFTs) used in DApps such as Cryptokitties.
+
 * Side-Chains
     * [POA Network](https://poa.net/)
         * [POA Bridge] (http://bridge.poa.net/)
