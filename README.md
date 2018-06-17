@@ -217,12 +217,16 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
    * [EthGasStation](https://ethgasstation.info/) - website for estimating tx prices vs times
 
 * Contract Standards
-
-    * [ERC-20](https://eips.ethereum.org/EIPS/eip-20): A standard interface for tokens. Used in ICOs and crowdfunding.
-    * [ERC-721](https://eips.ethereum.org/EIPS/eip-721): A standard interface for implementing non-fungible tokens (NFTs) used in DApps such as Cryptokitties.
-    * [ERC-165](https://eips.ethereum.org/EIPS/eip-165): Creates a standard method to publish and detect what interfaces a smart contract implements.
-    * [ERC-725](https://eips.ethereum.org/EIPS/eip-725): Proxy contract for key management and execution, to establish a Blockchain identity.
-
+    
+    * Tokens
+        * [ERC-20](https://eips.ethereum.org/EIPS/eip-20): A standard interface for tokens. Used in ICOs and crowdfunding.
+        * [ERC-721](https://eips.ethereum.org/EIPS/eip-721): A standard interface for implementing non-fungible tokens (NFTs) used in DApps such as Cryptokitties.
+    
+    * Utilities
+        * [ERC-165](https://eips.ethereum.org/EIPS/eip-165): Creates a standard method to publish and detect what interfaces a smart contract implements.
+        * [ERC-725](https://eips.ethereum.org/EIPS/eip-725): Proxy contract for key management and execution, to establish a Blockchain identity.
+        * [ERC-173](https://eips.ethereum.org/EIPS/eip-173): A standard interface for ownership of contracts
+    
 * Side-Chains
     * [POA Network](https://poa.net/)
         * [POA Bridge] (http://bridge.poa.net/)
