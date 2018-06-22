@@ -13,6 +13,8 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 ### Development frameworks
 
 * [Truffle](http://truffleframework.com) - Most popular smart contract development, testing, and deployment framework
+**[Ganache](https://github.com/trufflesuite/ganache)- App for test Ethereum blockchain with visual UI and logs
+
 
 * [Embark](https://github.com/embark-framework/embark)- Framework for DApp development
 
@@ -44,7 +46,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 * [Solc](https://solidity.readthedocs.io/en/v0.4.21/using-the-compiler.html?highlight=bin) - Solidity compiler
 
-* [ethereum-graph-debugger](https://github.com/fergarrui/ethereum-graph-debugger) - Solidity graph debugger
+* [ethereum-graph-debugger](https://github.com/fergarrui/ethereum-graph-debugger) - Solidity graphical debugger
 
 * [py-eth](http://www.py-eth.com) - Collection of Python tools for the Ethereum ecosystem
 
@@ -53,7 +55,6 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [Solidity](http://solidity.readthedocs.io/en/v0.4.24/) - Ethereum smart contracting language. Read the docs, play [CryptoZombies](https://cryptozombies.io/) and [Chainshot building blocks](https://www.chainshot.com/), or checkout [Consensys Academy](https://consensys.net/academy/resources/)
 
 * [Vyper](https://vyper.readthedocs.io/en/latest/) - Experimental pythonic smart contracting language. Alternative to Solidity, but still under development.
-
 
 ### Front end Libraries
 
@@ -70,8 +71,6 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [Web3.py ](https://github.com/ethereum/web3.py)- python implementation of web3.js
 
 * [Pyethereum](https://github.com/ethereum/pyethereum) - Python version of web3
-
-* [Ethers.js](https://github.com/ethers-io/ethers.js/)- Web3 Alternative
 
 * [Drizzle](https://github.com/trufflesuite/drizzle) -  Redux library to connect a frontend to a blockchain
 
@@ -207,8 +206,6 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
     * [Etherscan](https://etherscan.io/) - most popular centralized way to view Eth transactions and contract code
 
     * [POA Explorer](https://github.com/poanetwork/poa-explorer) - Open Source Ethereum Block explorer, funded by [Ethprize](ethprize.io) and developed by [POA](https://poa.net)
-
-    * [Ganache](https://github.com/trufflesuite/ganache)- App for test Ethereum blockchain with visual UI and logs
 
     * [Etherchain lite](https://github.com/gobitfly/etherchain-light)- Lightweight blockchain explorer for your private Ethereum chain
 
