@@ -216,6 +216,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * Gas price calculators
 
    * [EthGasStation](https://ethgasstation.info/) - website for estimating tx prices vs times
+   * [Petrometer](https://github.com/makerdao/petrometer)- petrometer is a tool which summarizes daily and total gas consumption of all transactions sent from a specified Ethereum address.
 
 * Contract Standards
     
