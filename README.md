@@ -22,8 +22,6 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 ### Security and analysis tools
 
-* [SmartCheck](https://tool.smartdec.net/) - Static smart contract security analysis
-
 * [Mythril](https://github.com/ConsenSys/mythril) - Static smart contract security analysis
 
 * [Oyente](https://github.com/melonproject/oyente)- Static smart contract security analysis
@@ -31,6 +29,8 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [Solidity code coverage](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/sol-cov) - solidity code coverage tool
 
 * [Quantstamp](https://quantstamp.com) A service that offers automated and manual smart contract security audits for a fee
+
+* [SmartCheck](https://tool.smartdec.net/) - Static analysis of Solidity source code for security vulnerabilities and best practices.
 
 ### Decentralized storage
 
