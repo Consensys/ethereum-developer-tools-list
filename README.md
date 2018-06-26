@@ -20,6 +20,8 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 * [Infura](https://infura.io/) - API gateway so you don’t have to host your own ETH node
 
+* [Etherlime](https://github.com/LimeChain/etherlime) - ethers.js based framework for Dapp deployment
+
 ### Security and analysis tools
 
 * [Mythril](https://github.com/ConsenSys/mythril) - Static smart contract security analysis
