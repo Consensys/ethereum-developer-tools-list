@@ -22,6 +22,8 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 ### Security and analysis tools
 
+* [SmartCheck](https://tool.smartdec.net/) - Static smart contract security analysis
+
 * [Mythril](https://github.com/ConsenSys/mythril) - Static smart contract security analysis
 
 * [Oyente](https://github.com/melonproject/oyente)- Static smart contract security analysis
