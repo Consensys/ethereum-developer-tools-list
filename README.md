@@ -298,9 +298,13 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 ### Security best practices
 
-* [Safety wiki](https://github.com/ethereum/wiki/wiki/Safety)- Ethereum Foundation wiki on safety
+* [Safety wiki](https://github.com/ethereum/wiki/wiki/Safety) - Ethereum Foundation wiki on safety
 
-* [Smart contract best practices](https://github.com/ConsenSys/smart-contract-best-practices) - " Standard published by Consensys
+* [Smart contract best practices](https://github.com/ConsenSys/smart-contract-best-practices) - Standard published by ConsenSys
+
+### Known Vulnerabilities
+
+* [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
 
 ### Governance
 
