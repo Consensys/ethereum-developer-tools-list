@@ -30,6 +30,8 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 * [Quantstamp](https://quantstamp.com) A service that offers automated and manual smart contract security audits for a fee
 
+* [Manticore](https://github.com/trailofbits/manticore) Symbolic execution tool on Smart Contracts and Binaries
+
 * [SmartCheck](https://tool.smartdec.net/) - Static analysis of Solidity source code for security vulnerabilities and best practices.
 
 ### Decentralized storage
@@ -62,7 +64,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 * [Web3.js](https://github.com/ethereum/web3.js/) - Javascript
 
-* [Ethers.js](https://github.com/ethers-io/ethers.js) - Javascript Ethereum wallet implementation and utilities
+* [Ethers.js](https://github.com/ethers-io/ethers.js) - Javascript library for ethereum wallet implementation and utilities
 
 * [Eth.js](https://github.com/ethjs) - Lightweight alternative
 
@@ -208,18 +210,23 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
     * [Etherscan](https://etherscan.io/) - most popular centralized way to view Eth transactions and contract code
 
     * [POA Explorer](https://github.com/poanetwork/poa-explorer) - Open Source Ethereum Block explorer, funded by [Ethprize](ethprize.io) and developed by [POA](https://poa.net)
-
+    
+    * [QuickBlocks](https://github.com/Great-Hill-Corporation/quickBlocks)- QuickBlocks is a collection of software libraries, applications, tools, and examples that allow you to retrieve Ethereum blockchain data (a) more quickly, (b) with higher information content, (c) in an fully decentralized way, (d) in a fully automated way, and (e) in a highly maintenance free way.)
+    
     * [Etherchain lite](https://github.com/gobitfly/etherchain-light)- Lightweight blockchain explorer for your private Ethereum chain
 
     * [Alethio EthStats 2.0](https://media.consensys.net/alethio-lighting-up-the-blockchain-with-real-time-stats-a80bb30576db) coming soon
 
     * [Supermax](https://www.supermax.cool/)- A live data feed of the activities and event logs of your smart contracts on Ethereum
 
-* Gas price calculators
+* Gas price calculators and tools
 
    * [EthGasStation](https://ethgasstation.info/) - website for estimating tx prices vs times
+   
    * [Petrometer](https://github.com/makerdao/petrometer)- petrometer is a tool which summarizes daily and total gas consumption of all transactions sent from a specified Ethereum address.
-
+   
+   * [CryptoProf](https://github.com/doc-ai/cryptoprof)- Gas profiler for smart contracts
+   
 * Contract Standards
     
     * Tokens
@@ -284,14 +291,16 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
     * [Gitcoin](https://gitcoin.co)- Bounty network for funding Open Source or finding Open Source work
     * [CodeFund](https://codefund.io)- Ethical Adveritsing Platform for Open Source
 
-
+* Hash calculator tool
+    * [MD4 Online Hash Function](https://emn178.github.io/online-tools/md4.html) - Tool to hash input with a variety of hashing algorithm options
+    
 ## Ethereum knowledge
 
 ### Security best practices
 
 * [Safety wiki](https://github.com/ethereum/wiki/wiki/Safety)- Ethereum Foundation wiki on safety
 
-* [Smart contract best practices](https://github.com/ConsenSys/smart-contract-best-practices) - " “ published by Consensys
+* [Smart contract best practices](https://github.com/ConsenSys/smart-contract-best-practices) - " Standard published by Consensys
 
 ### Governance
 
