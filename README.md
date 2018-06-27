@@ -32,6 +32,8 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 * [Manticore](https://github.com/trailofbits/manticore) Symbolic execution tool on Smart Contracts and Binaries
 
+* [SmartCheck](https://tool.smartdec.net/) - Static analysis of Solidity source code for security vulnerabilities and best practices.
+
 ### Decentralized storage
 
 * [IPFS](https://ipfs.io/) - Decentralized storage and file referencing
