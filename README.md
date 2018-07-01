@@ -7,18 +7,20 @@ Creation of this list was spurred by product managers at Consensys who saw a nee
 
 ## Contributions are welcome!
 
-Feel free to submit a pull request, with anything from small fixes to tools you'd like to add.
-
-See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/issues) for topics that need to be covered or updated.
+Feel free to submit a pull request, with anything from small fixes to tools you'd like to add. If adding a new tool, **please add a brief description** that you think new developers would understand.
 
 
 ### Development frameworks
 
 * [Truffle](http://truffleframework.com) - Most popular smart contract development, testing, and deployment framework
+**[Ganache](https://github.com/trufflesuite/ganache)- App for test Ethereum blockchain with visual UI and logs
+
 
 * [Embark](https://github.com/embark-framework/embark)- Framework for DApp development
 
 * [Infura](https://infura.io/) - API gateway so you don’t have to host your own ETH node
+
+* [Etherlime](https://github.com/LimeChain/etherlime) - ethers.js based framework for Dapp deployment
 
 ### Security and analysis tools
 
@@ -28,9 +30,17 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
 * [Solidity code coverage](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/sol-cov) - solidity code coverage tool
 
+* [Quantstamp](https://quantstamp.com) A service that offers automated and manual smart contract security audits for a fee
+
+* [Manticore](https://github.com/trailofbits/manticore) Symbolic execution tool on Smart Contracts and Binaries
+
+* [SmartCheck](https://tool.smartdec.net/) - Static analysis of Solidity source code for security vulnerabilities and best practices.
+
 ### Decentralized storage
 
-* [IPFS](https://ipfs.io/) - Decentralized storage and file referencing 
+* [IPFS](https://ipfs.io/) - Decentralized storage and file referencing
+
+* [OrbitDB](https://github.com/orbitdb/orbit-db) - Decentralized database on top of IPFS
 
 ### Developer IDE's and tools
 
@@ -38,25 +48,40 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
 * [Atom Solidity Linter](https://atom.io/packages/atom-solidity-linter)[-](https://atom.io/packages/etheratom) Atom package for Solidity linting
 
-* [Solc](https://solidity.readthedocs.io/en/v0.4.21/using-the-compiler.html?highlight=bin) - Solidity compiler 
+* [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) - Visual Studio Code extension that adds support for Solidity
 
-### Programming Languages
+* [Solc](https://solidity.readthedocs.io/en/v0.4.21/using-the-compiler.html?highlight=bin) - Solidity compiler
 
-* [Solidity](http://solidity.readthedocs.io/en/v0.4.24/)- Ethereum smart contracting language. Read the docs, play [CryptoZombies](https://cryptozombies.io/) and [Chainshot building blocks](https://www.chainshot.com/), or checkout [Consensys Academy](https://consensys.net/academy/resources/)
+* [ethereum-graph-debugger](https://github.com/fergarrui/ethereum-graph-debugger) - Solidity graphical debugger
 
-* Javascript- Client side language for interacting with smart contracts
+* [py-eth](http://www.py-eth.com) - Collection of Python tools for the Ethereum ecosystem
 
-    * Web3.js- Javascript API for interacting with the Ethereum Blockchain
+### Programming Languages (for writing smart contracts, compiles to Ethereum Virtual Machine Bytecode)
 
-    * Ethers.js- Javascript Ethereum wallet implementation and utilities
+* [Solidity](http://solidity.readthedocs.io/en/v0.4.24/) - Ethereum smart contracting language. Read the docs, play [CryptoZombies](https://cryptozombies.io/) and [Chainshot building blocks](https://www.chainshot.com/), or checkout [Consensys Academy](https://consensys.net/academy/resources/)
 
-* Typescript- javascript with type safety, backwards compatible
+* [Vyper](https://vyper.readthedocs.io/en/latest/) - Experimental pythonic smart contracting language. Alternative to Solidity, but still under development.
 
-    * [0x to Typescript Generator](https://blog.0xproject.com/abi-to-typescript-generator-b0fb5cae9e29)nerator- converts contract ABI code to Typescript
+### Front end Libraries
 
-* Python
+* [Web3.js](https://github.com/ethereum/web3.js/) - Javascript
 
-    * [Web3.py ](https://github.com/ethereum/web3.py)- python implementation of web3.js
+* [Ethers.js](https://github.com/ethers-io/ethers.js) - Javascript library for ethereum wallet implementation and utilities
+
+* [Eth.js](https://github.com/ethjs) - Lightweight alternative
+
+* [Web3j](https://github.com/web3j/web3j) - Java
+
+* [Nethereum](https://nethereum.com/) - .Net
+
+* [Web3.py ](https://github.com/ethereum/web3.py)- python implementation of web3.js
+
+* [Pyethereum](https://github.com/ethereum/pyethereum) - Python version of web3
+
+* [Drizzle](https://github.com/trufflesuite/drizzle) -  Redux library to connect a frontend to a blockchain
+
+* [Web3.hs](http://hackage.haskell.org/package/web3) - Haskell implementation of Web3
+
 
 ### Bootstrap/out of box tools
 
@@ -70,17 +95,19 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
 * [Kaleido](https://www.prnewswire.com/news-releases/consensys-unveils-kaleido-in-collaboration-with-amazon-web-services-to-simplify-enterprise-blockchain-adoption-300648209.html) - Use Kaleido for spinning up a consortium network. Great for PoCs and testing.
 
+* [Cheshire](https://github.com/endless-nameless-inc/cheshire) - A local sandbox implementation of the CryptoKitties API and smart contracts, available as a Truffle Box
+
 ### Wallets
 
 * [Metamask](https://metamask.io/) - Easiest way to get started using a dapp. Chrome extension Ether wallet.
 
 * [Ether Address Lookup](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn?hl=en-GB) - Chrome extension for phishing protection and Eth address highlighting
 
-* [EthGasStation](https://ethgasstation.info/) - website for estimating tx prices vs times
-
-*[Portis](https://portis.io/) - web-based wallet for easy user onboarding to your DApp, no download required
+* [Portis](https://portis.io/) - web-based wallet for easy user onboarding to your DApp, no download required
 
 * [uPort](https://www.uport.me/) - Total identity solution.
+
+* [imToken](https://token.im/) - imToken is a feature-rich digital asset mobile wallet enabling multi-chain asset management, DApp browsing and secure, private exchange of value.
 
 * [Cypher](https://www.cipherbrowser.com/) - Mobile dapp explorer
 
@@ -90,9 +117,26 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
 * [MyEtherWallet](https://www.myetherwallet.com/)
 
+* [MyCrypto](https://mycrypto.com) - Ethereum blockchain interface. Access your wallet locally. Contract interaction and deployment. Swaps. Transaction status lookup. Testnet and 3rd-party ETH-based chain support.
+
 * [Trustology](https://www.trustology.io/) - Under development. Institutional custody.
 
+* [Jaxx](https://jaxx.io) Both a mobile and a desktop wallet. Has integrated Shapeshift support
+
+* [Exodus](https://www.exodus.io) Desktop wallet with Shapeshift integration
+
 * Gnosis multisig wallet
+
+* [WallETH](https://walleth.org) - native Android Ethereum Wallet
+
+* Hardware wallets
+
+    * [Trezor](https://trezor.io) The original hardware wallet
+
+    * [Ledger](https://www.ledgerwallet.com)
+
+    * [KeepKey](https://www.keepkey.com)
+
 
 ### Ethereum clients
 
@@ -120,7 +164,9 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
 ### Ethereum (test) faucets
 
-* [Rinkeby faucet ](https://faucet.rinkeby.io/)
+* [Ropsten faucet](http://faucet.ropsten.be:3001/)
+
+* [Rinkeby faucet](https://faucet.rinkeby.io/)
 
 * [Kovan Faucet](https://github.com/kovan-testnet/faucet)
 
@@ -141,6 +187,8 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
 * [Web3j](https://github.com/web3j/web3j) - Java
 
+* [KEthereum](https://github.com/walleth/kethereum) - Kotlin
+
 * [Nethereum](https://nethereum.com/) - .Net
 
 * [Pyethereum](https://github.com/ethereum/pyethereum) - Python
@@ -158,19 +206,46 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 * [0x](https://github.com/0xProject)
 
 
-### Other 
+### Other
 
 * Block explorers
-
     * [Etherscan](https://etherscan.io/) - most popular centralized way to view Eth transactions and contract code
 
-    * [Ganache](https://github.com/trufflesuite/ganache)- App for test Ethereum blockchain with visual UI and logs
-
+    * [POA Explorer](https://github.com/poanetwork/poa-explorer) - Open Source Ethereum Block explorer, funded by [Ethprize](ethprize.io) and developed by [POA](https://poa.net)
+    
+    * [QuickBlocks](https://github.com/Great-Hill-Corporation/quickBlocks)- QuickBlocks is a collection of software libraries, applications, tools, and examples that allow you to retrieve Ethereum blockchain data (a) more quickly, (b) with higher information content, (c) in an fully decentralized way, (d) in a fully automated way, and (e) in a highly maintenance free way.)
+    
     * [Etherchain lite](https://github.com/gobitfly/etherchain-light)- Lightweight blockchain explorer for your private Ethereum chain
 
     * [Alethio EthStats 2.0](https://media.consensys.net/alethio-lighting-up-the-blockchain-with-real-time-stats-a80bb30576db) coming soon
 
     * [Supermax](https://www.supermax.cool/)- A live data feed of the activities and event logs of your smart contracts on Ethereum
+
+* Gas price calculators and tools
+
+   * [EthGasStation](https://ethgasstation.info/) - website for estimating tx prices vs times
+   
+   * [Petrometer](https://github.com/makerdao/petrometer)- petrometer is a tool which summarizes daily and total gas consumption of all transactions sent from a specified Ethereum address.
+   
+   * [CryptoProf](https://github.com/doc-ai/cryptoprof)- Gas profiler for smart contracts
+   
+* Contract Standards
+    
+    * Tokens
+        * [ERC-20](https://eips.ethereum.org/EIPS/eip-20): A standard interface for tokens. Used in ICOs and crowdfunding.
+        * [ERC-721](https://eips.ethereum.org/EIPS/eip-721): A standard interface for implementing non-fungible tokens (NFTs) used in DApps such as Cryptokitties.
+    
+    * Utilities
+        * [ERC-165](https://eips.ethereum.org/EIPS/eip-165): Creates a standard method to publish and detect what interfaces a smart contract implements.
+        * [ERC-725](https://eips.ethereum.org/EIPS/eip-725): Proxy contract for key management and execution, to establish a Blockchain identity.
+        * [ERC-173](https://eips.ethereum.org/EIPS/eip-173): A standard interface for ownership of contracts
+    
+* Side-Chains
+    * [POA Network](https://poa.net/)
+        * [POA Bridge] (http://bridge.poa.net/)
+        * [POA Bridge UI] (https://github.com/poanetwork/bridge-ui)
+        * [POA Bridge Contracts] (https://github.com/poanetwork/poa-bridge-contracts)
+    * [Loom Network](https://github.com/loomnetwork)
 
 * Decentralized Exchanges
 
@@ -181,6 +256,18 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
         * [Radar relay](https://app.radarrelay.com/)
 
         * [ERC Dex](https://ercdex.com/)
+
+        * [DDEX](https://ddex.io)
+
+        * [Ethfinex](https://www.ethfinex.com)
+
+        * [Shark Relay](https://app.sharkrelay.com)
+
+        * [Bamboo Relay](https://www.bamboorelay.com)
+
+        * [Instex](https://app.instex.io)
+
+        * [Starbit](https://www.starbitex.com)
 
     * [Opensea.io](http://Opensea.io)-  decentralized exchange of cryptocollectibles
     * [Bancor](https://www.bancor.network/)
@@ -201,17 +288,34 @@ See the [issues](https://github.com/ConsenSysLabs/ethereum-developer-tools-list/
 
     * [Oracalize](http://www.oraclize.it/)- oracle service for your smart contracts.
 
+* Incentivization / Monetization Tools
+
+    * [Gitcoin](https://gitcoin.co)- Bounty network for funding Open Source or finding Open Source work
+    * [CodeFund](https://codefund.io)- Ethical Adveritsing Platform for Open Source
+
+* Hash calculator tool
+    * [MD4 Online Hash Function](https://emn178.github.io/online-tools/md4.html) - Tool to hash input with a variety of hashing algorithm options
+    
 ## Ethereum knowledge
 
 ### Security best practices
 
-* [Safety wiki](https://github.com/ethereum/wiki/wiki/Safety)- Ethereum Foundation wiki on safety
+* [Safety wiki](https://github.com/ethereum/wiki/wiki/Safety) - Ethereum Foundation wiki on safety
 
-* [Smart contract best practices](https://github.com/ConsenSys/smart-contract-best-practices) - " “ published by Consensys
+* [Smart contract best practices](https://github.com/ConsenSys/smart-contract-best-practices) - Standard published by ConsenSys
+
+### Known Vulnerabilities
+
+* [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
 
 ### Governance
 
  * [ERC-721](https://github.com/ethereum/eips/issues/721) - A peek into debate and consensus-reaching on a token standard for non-fungible assets
+ * [Eth Research Chat](https://ethresear.ch) - Gitter-like forum for ongoing Ethereum Foundation research projects
+
+### DApp development
+
+ * [Ethereum Development with Go](https://goethereumbook.org/) - A guide on getting started on Ethereum DApp development with Golang.
 
 ## Scaling
 
