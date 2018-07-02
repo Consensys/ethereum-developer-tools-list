@@ -44,6 +44,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [Drizzle](https://github.com/truffle-box/drizzle-box) -  Redux library to connect a frontend to a blockchain
 * [Eventeum](https://github.com/ConsenSys/eventeum) - A bridge between Ethereum smart contract events and backend microservices, written in Java by Kauri
 
+
 #### Bootstrap/out of box tools
 * [Truffle boxes](http://truffleframework.com/boxes/) - Packaged components for the Ethereum ecosystem
 * [Solutions PoC starter app](https://github.com/ConsenSys/solutions-poc-starter) - Simple MERN stack with built in token use case, uPort signing, and more
@@ -94,10 +95,14 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [IPFS-Store](https://github.com/ConsenSys/IPFS-Store) - IPFS Storage service with added search capability
 * [OrbitDB](https://github.com/orbitdb/orbit-db) - Decentralised database on top of IPFS
 
+
 #### Messaging
 * [Whisper](https://github.com/ethereum/wiki/wiki/Whisper) - Communication protocol for DApps to communicate with each other, a native base layer service of the Ethereum web3 stack
 * [DEVp2p Wire Protocol](https://github.com/ethereum/wiki/wiki/%C3%90%CE%9EVp2p-Wire-Protocol) - Peer-to-peer communications between nodes running Ethereum/Whisper
 * [Pydevp2p](https://github.com/ethereum/pydevp2p) - Python implementation of the RLPx network layer
+* [Truffle](http://truffleframework.com) - Most popular smart contract development, testing, and deployment framework
+**[Ganache](https://github.com/trufflesuite/ganache)- App for test Ethereum blockchain with visual UI and logs
+
 
 #### Wallets
 * [Metamask](https://metamask.io/) - Chrome extension Ether wallet with ERC tokens support
