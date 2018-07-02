@@ -321,6 +321,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [Awesome EVM](https://github.com/pirapira/awesome-ethereum-virtual-machine) - Ethereum Virtual Machine Awesome List
 * [Awesome State-Channels](https://github.com/machinomy/awesome-state-channels) - Curated list of resources regarding state channels on Ethereum.
 * [DEX protocols](https://github.com/evbots/dex-protocols) - A list of protocols for decentralised exchange
+* [Ethereum Token Standards](https://github.com/PhABC/ethereum-token-standards-list) - An exhaustive list of Ethereum Token Standards
 
 #### TBD
 * [ConsenSys clients](https://github.com/ethereum/wiki/wiki/Clients,-tools,-dapp-browsers,-wallets-and-other-projects#ethereum-clients)
