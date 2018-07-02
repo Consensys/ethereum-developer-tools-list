@@ -241,28 +241,75 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 ### Other
 
-#### Side-Chains
-* [POA Network](https://poa.net/)
-    * [POA Bridge] (http://bridge.poa.net/)
-    * [POA Bridge UI] (https://github.com/poanetwork/bridge-ui)
-    * [POA Bridge Contracts] (https://github.com/poanetwork/poa-bridge-contracts)
-* [Loom Network](https://github.com/loomnetwork)
+* Block explorers
+    * [Etherscan](https://etherscan.io/) - most popular centralized way to view Eth transactions and contract code
 
-#### Decentralised exchanges
-* [Airswap](https://www.airswap.io/) - Decentralised token exchange
-* 0x protocol based decentralised exchanges
-    * [Radar relay](https://app.radarrelay.com/)
-    * [ERC Dex](https://ercdex.com/)
-    * [DDEX](https://ddex.io)
-    * [Ethfinex](https://www.ethfinex.com)
-    * [Shark Relay](https://app.sharkrelay.com)
-    * [Bamboo Relay](https://www.bamboorelay.com)
-    * [Instex](https://app.instex.io)
-    * [Starbit](https://www.starbitex.com)    
-* [Opensea.io](http://Opensea.io) -  Decentralised exchange of crypto-collectibles
-* [Bancor](https://www.bancor.network/) - Decentralised exchange with stablecoin mechanism
-* [Kyber](https://www.kyber.network) - Decentralised token exchange
-* [Gnosis Dutch Exchange](https://github.com/gnosis/dx-contracts) - Decentralised token exchange with the Dutch auction principle
+    * [POA Explorer](https://github.com/poanetwork/poa-explorer) - Open Source Ethereum Block explorer, funded by [Ethprize](ethprize.io) and developed by [POA](https://poa.net)
+    
+    * [QuickBlocks](https://github.com/Great-Hill-Corporation/quickBlocks)- QuickBlocks is a collection of software libraries, applications, tools, and examples that allow you to retrieve Ethereum blockchain data (a) more quickly, (b) with higher information content, (c) in an fully decentralized way, (d) in a fully automated way, and (e) in a highly maintenance free way.)
+    
+    * [Etherchain lite](https://github.com/gobitfly/etherchain-light)- Lightweight blockchain explorer for your private Ethereum chain
+
+    * [Alethio EthStats 2.0](https://media.consensys.net/alethio-lighting-up-the-blockchain-with-real-time-stats-a80bb30576db) coming soon
+
+    * [Supermax](https://www.supermax.cool/)- A live data feed of the activities and event logs of your smart contracts on Ethereum
+
+* Gas price calculators and tools
+
+   * [EthGasStation](https://ethgasstation.info/) - website for estimating tx prices vs times
+   
+   * [Petrometer](https://github.com/makerdao/petrometer)- petrometer is a tool which summarizes daily and total gas consumption of all transactions sent from a specified Ethereum address.
+   
+   * [CryptoProf](https://github.com/doc-ai/cryptoprof)- Gas profiler for smart contracts
+   
+* Contract Standards
+    
+    * Tokens
+        * [ERC-20](https://eips.ethereum.org/EIPS/eip-20): A standard interface for tokens. Used in ICOs and crowdfunding.
+        * [ERC-721](https://eips.ethereum.org/EIPS/eip-721): A standard interface for implementing non-fungible tokens (NFTs) used in DApps such as Cryptokitties.
+    
+    * Utilities
+        * [ERC-165](https://eips.ethereum.org/EIPS/eip-165): Creates a standard method to publish and detect what interfaces a smart contract implements.
+        * [ERC-725](https://eips.ethereum.org/EIPS/eip-725): Proxy contract for key management and execution, to establish a Blockchain identity.
+        * [ERC-173](https://eips.ethereum.org/EIPS/eip-173): A standard interface for ownership of contracts
+    
+* Side-Chains
+    * [POA Network](https://poa.net/)
+        * [POA Bridge] (http://bridge.poa.net/)
+        * [POA Bridge UI] (https://github.com/poanetwork/bridge-ui)
+        * [POA Bridge Contracts] (https://github.com/poanetwork/poa-bridge-contracts)
+    * [Loom Network](https://github.com/loomnetwork)
+
+* Decentralized Exchanges
+
+    * [Airswap](https://www.airswap.io/) - decentralized token exchange
+
+    * 0x protocol based decentralized exchanges
+
+        * [Radar relay](https://app.radarrelay.com/)
+
+        * [ERC Dex](https://ercdex.com/)
+
+        * [DDEX](https://ddex.io)
+
+        * [Ethfinex](https://www.ethfinex.com)
+
+        * [Shark Relay](https://app.sharkrelay.com)
+
+	      * [LedgerDex](https://www.ledgerdex.com)
+
+        * [Bamboo Relay](https://www.bamboorelay.com)
+
+        * [Instex](https://app.instex.io)
+
+        * [Starbit](https://www.starbitex.com)
+
+    * [Opensea.io](http://Opensea.io)-  decentralized exchange of cryptocollectibles
+    * [Bancor](https://www.bancor.network/)
+    * [Kyber](https://www.kyber.network)
+    * [Gnosis Dutch Exchange](https://github.com/gnosis/dx-contracts)
+
+* KYC/AML Onboarding
 
 #### Incentivisation / Monetisation Tools
 * [Gitcoin](https://gitcoin.co) - Bounty network for funding Open Source or finding Open Source work
