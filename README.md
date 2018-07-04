@@ -143,6 +143,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [CryptoProf](https://github.com/doc-ai/cryptoprof) - Gas profiler for smart contracts
 
 #### Services
+* [dAppBridge](https://dAppBridge.com/) - Inteligent Data Oracle & setTimeout service for your smart contracts
 * [Oracalize](http://www.oraclize.it/) - Oracle service for your smart contracts
 * [Infura](https://infura.io/) - API gateway so you don’t have to host your own ETH node
 * [Supermax](https://www.supermax.cool/) - A live data feed of the activities and event logs of your smart contracts on Ethereum
