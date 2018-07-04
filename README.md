@@ -116,6 +116,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [Ether Address Lookup](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn?hl=en-GB) - Chrome extension for phishing protection and Eth address highlighting
 * [MyCrypto](https://github.com/MyCryptoHQ) - Open-source, client-side [tool](https://mycrypto.com/account) for generating ether wallets, handling ERC-20 tokens, and interacting with the blockchain more easily
 * [Portis](https://portis.io/) - Web-based wallet for easy user on-boarding to your DApp
+* [MoonWallet](https://moonwallet.tech) - [Open Source](https://github.com/secret-tech/backend-token-wallets) ETH and ERC-20 token wallet build on NodeJS + ReactJS with service oriented architecture. Good for creating MVPs and learning
 
 #### Mobile Wallets
 * [Toshi](https://github.com/toshiapp) - Mobile Dapp explorer and [wallet](https://itunes.apple.com/us/app/toshi-ethereum-wallet/id1278383455?mt=8)
@@ -141,6 +142,9 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [EthGasStation](https://ethgasstation.info/) - Website for estimating tx prices vs times
 * [Petrometer](https://github.com/makerdao/petrometer) - Summarises daily and total gas consumption of all transactions sent from a specified Ethereum address
 * [CryptoProf](https://github.com/doc-ai/cryptoprof) - Gas profiler for smart contracts
+
+#### ICO software
+* [Space Dashboard](https://icodashboard.space) - [Open Source](https://github.com/secret-tech/backend-ico-dashboard) & Free ICO dashboard with KYC/AML feature and HD wallet generation. 
 
 #### Services
 * [Oracalize](http://www.oraclize.it/) - Oracle service for your smart contracts
@@ -245,9 +249,9 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
     * [Etherscan](https://etherscan.io/) - most popular centralized way to view Eth transactions and contract code
 
     * [POA Explorer](https://github.com/poanetwork/poa-explorer) - Open Source Ethereum Block explorer, funded by [Ethprize](ethprize.io) and developed by [POA](https://poa.net)
-    
+
     * [QuickBlocks](https://github.com/Great-Hill-Corporation/quickBlocks)- QuickBlocks is a collection of software libraries, applications, tools, and examples that allow you to retrieve Ethereum blockchain data (a) more quickly, (b) with higher information content, (c) in an fully decentralized way, (d) in a fully automated way, and (e) in a highly maintenance free way.)
-    
+
     * [Etherchain lite](https://github.com/gobitfly/etherchain-light)- Lightweight blockchain explorer for your private Ethereum chain
 
     * [Alethio EthStats 2.0](https://media.consensys.net/alethio-lighting-up-the-blockchain-with-real-time-stats-a80bb30576db) coming soon
@@ -257,22 +261,22 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * Gas price calculators and tools
 
    * [EthGasStation](https://ethgasstation.info/) - website for estimating tx prices vs times
-   
+
    * [Petrometer](https://github.com/makerdao/petrometer)- petrometer is a tool which summarizes daily and total gas consumption of all transactions sent from a specified Ethereum address.
-   
+
    * [CryptoProf](https://github.com/doc-ai/cryptoprof)- Gas profiler for smart contracts
-   
+
 * Contract Standards
-    
+
     * Tokens
         * [ERC-20](https://eips.ethereum.org/EIPS/eip-20): A standard interface for tokens. Used in ICOs and crowdfunding.
         * [ERC-721](https://eips.ethereum.org/EIPS/eip-721): A standard interface for implementing non-fungible tokens (NFTs) used in DApps such as Cryptokitties.
-    
+
     * Utilities
         * [ERC-165](https://eips.ethereum.org/EIPS/eip-165): Creates a standard method to publish and detect what interfaces a smart contract implements.
         * [ERC-725](https://eips.ethereum.org/EIPS/eip-725): Proxy contract for key management and execution, to establish a Blockchain identity.
         * [ERC-173](https://eips.ethereum.org/EIPS/eip-173): A standard interface for ownership of contracts
-    
+
 * Side-Chains
     * [POA Network](https://poa.net/)
         * [POA Bridge] (http://bridge.poa.net/)
@@ -332,5 +336,5 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * KYC/AML On-boarding
     * SmartAML protospoke
     * Third party centralised versions
-    
+
 Many thanks to the 20+ contributors including @corbinpage of Meridio for the idea, @pakaplace for expanding and curating, and @jpantunes for restructuring the list in a more logical way.
