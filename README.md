@@ -45,6 +45,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [Pyethereum](https://github.com/ethereum/pyethereum) - The Python core library of the Ethereum project
 * [Drizzle](https://github.com/truffle-box/drizzle-box) -  Redux library to connect a frontend to a blockchain
 * [Eventeum](https://github.com/ConsenSys/eventeum) - A bridge between Ethereum smart contract events and backend microservices, written in Java by Kauri
+* [Vortex](https://github.com/Horyus/vortex) - A Dapp-ready Redux Store. Smart and Dynamic background data refresh thanks to WebSockets. Works with [Truffle](https://github.com/Horyus/vortex-demo) and [Embark](https://github.com/Horyus/vortex-demo-embark).
 
 
 #### Bootstrap/out of box tools
