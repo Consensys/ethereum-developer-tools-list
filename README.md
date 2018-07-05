@@ -29,6 +29,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [Superblocks Studio](https://superblocks.com/studio/) - Superblocks Studio helps you code, build, and deploy your smart contracts.
 * [Vim solidity](https://github.com/tomlion/vim-solidity) - Vim syntax file for solidity
 * [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) - Visual Studio Code extension that adds support for Solidity
+* [Intellij Solidity Plugin](https://github.com/intellij-solidity/intellij-solidity/wiki) - Open-source plug-in for [JetBrains IntelliJ Idea IDE](https://www.jetbrains.com/idea/) (free/commercial) with syntax highlighting, formatting, code completion etc. 
 
 #### Front-end (Web3) and Middleware
 * [Web3.js](https://github.com/ethereum/web3.js/) - Javascript Web3
