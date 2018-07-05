@@ -298,7 +298,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
         * [Shark Relay](https://app.sharkrelay.com)
 
-	      * [LedgerDex](https://www.ledgerdex.com)
+        * [LedgerDex](https://www.ledgerdex.com)
 
         * [Bamboo Relay](https://www.bamboorelay.com)
 
