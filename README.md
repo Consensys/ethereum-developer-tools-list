@@ -202,7 +202,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [Consensys Academy](https://consensys.net/academy/resources/) - Courses
 * [B9Lab](https://academy.b9lab.com/) - Paid courses
 * [Blockgeeks](https://courses.blockgeeks.com/) - Paid courses
-* [Chainshot building blocks](https://www.chainshot.com/) - Paid courses
+* [Chainshot building blocks](https://www.chainshot.com/) - Free Project-Based Courses and Challenges
 * [Delegate call](https://delegatecall.com/) - Q&A site
 * [Stackexchange](https://ethereum.stackexchange.com) - Q&A site
 * [r/EthDev](https://www.reddit.com/r/ethdev/) - Subreddit
