@@ -45,6 +45,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [KEthereum](https://github.com/walleth/kethereum) - Kotlin Web3
 * [Pyethereum](https://github.com/ethereum/pyethereum) - The Python core library of the Ethereum project
 * [Drizzle](https://github.com/truffle-box/drizzle-box) -  Redux library to connect a frontend to a blockchain
+* [web3-webpacked](https://github.com/NoahHydro/web3-webpacked) - JS framework to manage web3 injection
 * [Eventeum](https://github.com/ConsenSys/eventeum) - A bridge between Ethereum smart contract events and backend microservices, written in Java by Kauri
 * [Vortex](https://github.com/Horyus/vortex) - A Dapp-ready Redux Store. Smart and Dynamic background data refresh thanks to WebSockets. Works with [Truffle](https://github.com/Horyus/vortex-demo) and [Embark](https://github.com/Horyus/vortex-demo-embark).
 
@@ -63,6 +64,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [Ethereumjs](https://github.com/ethereumjs/) - A collection of utility functions for Ethereum like [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util) and [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx)
 * [Ethjs](https://github.com/ethjs) - Simple JS modules for the Ethereum ecosystem.
 * [Eth lightwallet](https://github.com/ConsenSys/eth-lightwallet) - Lightweight JS Wallet for Node and the browser
+* [eth-wallet-light](https://github.com/NoahHydro/eth-wallet-light) - Lightweight JS Wallet optimized for mobile
 * [RLP](https://github.com/ethereumjs/rlp) - Recursive Length Prefix Encoding in JavaScript
 * [Solium](https://github.com/duaraghav8/Solium) - Linter to identify and fix style & security issues in Solidity
 * [Ethereal](https://github.com/wealdtech/ethereal) - Ethereal is a command line tool for managing common tasks in Ethereum
@@ -148,6 +150,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 #### Services
 * [Oracalize](http://www.oraclize.it/) - Oracle service for your smart contracts
 * [Infura](https://infura.io/) - API gateway so you don’t have to host your own ETH node
+* [Quiknode](https://quiknode.io/) - Service to spin up personal Parity/Geth nodes
 * [Supermax](https://www.supermax.cool/) - A live data feed of the activities and event logs of your smart contracts on Ethereum
 * [Regis](https://regis.nu/) - Registry Framework for Digital Assets
 * [Viant](https://viant.io/) - Just consider using Viant as your backend if the use case is business process oriented
