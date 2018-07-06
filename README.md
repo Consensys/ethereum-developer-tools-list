@@ -203,6 +203,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [B9Lab](https://academy.b9lab.com/) - Paid courses
 * [Blockgeeks](https://courses.blockgeeks.com/) - Paid courses
 * [Chainshot building blocks](https://www.chainshot.com/) - Paid courses
+* [Zastrin](https://www.zastrin.com) - Paid courses
 * [Delegate call](https://delegatecall.com/) - Q&A site
 * [Stackexchange](https://ethereum.stackexchange.com) - Q&A site
 * [r/EthDev](https://www.reddit.com/r/ethdev/) - Subreddit
