@@ -159,6 +159,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [Quantstamp](https://quantstamp.com) - A service that offers automated and manual smart contract security audits for a fee
 * [SmartCheck](https://tool.smartdec.net/) - Static analysis of Solidity source code for security vulnerabilities and best practices
 * [MD4 Online Hash Function](https://emn178.github.io/online-tools/md4.html) - Tool to hash input with a variety of hashing algorithm options
+* [Solidstamp](https://www.solidstamp.com) - on-chain registry of smart contract audits.
 
 #### Test faucets
 * [Rinkeby faucet](https://faucet.rinkeby.io/)
