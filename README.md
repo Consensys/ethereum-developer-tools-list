@@ -171,6 +171,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [DateTime Library](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary) - A gas-efficient Solidity date and time library
 * [Aragon](https://github.com/aragon/aragon) - DAO protocol
 * [0x](https://github.com/0xProject) - DEX protocol
+* [Token Libraries with Proofs](https://github.com/sec-bit/tokenlibs-with-proofs) - Contains correctness proofs of token contracts wrt. given specifications and high-level properties
 
 
 #### Testing
