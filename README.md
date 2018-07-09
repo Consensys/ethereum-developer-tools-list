@@ -251,7 +251,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
 
 #### Monitoring
-* [Neufund - Smart Contract Watch](https://github.com/Neufund/smart-contract-watch) 
+* [Neufund - Smart Contract Watch](https://github.com/Neufund/smart-contract-watch) - A tool to monitor a number of smart contracts and transactions
 
 ### Knowledge
 * [CryptoZombies](https://cryptozombies.io/) - The best undead tutorial in the world
