@@ -69,7 +69,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [Solium](https://github.com/duaraghav8/Solium) - Linter to identify and fix style & security issues in Solidity
 * [Ethereal](https://github.com/wealdtech/ethereal) - Ethereal is a command line tool for managing common tasks in Ethereum
 * [ABI decoder](https://github.com/ConsenSys/abi-decoder) - library for decoding data params and events from Ethereum transactions
-* [ABI-gen](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/abi-gen) - Generated Typescript contract wrappers from contract ABI's.
+* [ABI-gen](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/abi-gen) - Generate Typescript contract wrappers from contract ABI's.
 * [Ethereum ABI UI](https://github.com/hiddentao/ethereum-abi-ui) - Auto-generate UI form field definitions and associated validators from an Ethereum contract ABI
 * [Eth crypto](https://github.com/pubkey/eth-crypto) - Cryptographic javascript-functions for Ethereum and tutorials to use them with web3js and solidity
 * [Solidity flattener](https://github.com/poanetwork/solidity-flattener) - Combine solidity project to flat file utility
