@@ -36,7 +36,8 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [Web3.js](https://github.com/ethereum/web3.js/) - Javascript Web3
     * [Eth.js](https://github.com/ethjs) - Javascript Web3 alternative
     * [Ethers.js](https://github.com/ethers-io/ethers.js/)- Javascript Web3 alternative
-* [Web3.py ](https://github.com/ethereum/web3.py)- Python Web3
+    * [Web3Wrapper](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/web3-wrapper)- Typescript Web3 alternative
+* [Web3.py](https://github.com/ethereum/web3.py)- Python Web3
 * [Web3.php](https://github.com/sc0Vu/web3.php) - PHP Web3
 * [Web3j](https://github.com/web3j/web3j) - Java Web3
 * [Nethereum](https://nethereum.com/) - .Net Web3
@@ -59,6 +60,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 #### Tools
 * [Solc](https://solidity.readthedocs.io/en/latest/using-the-compiler.html?highlight=bin) - Solidity compiler
+* [Sol-compiler](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/sol-compiler) - Project-level Solidity compiler
 * [Solidity cli](https://github.com/pubkey/solidity-cli) - Compile solidity-code faster, easier and more reliable
 * [Ethereumjs](https://github.com/ethereumjs/) - A collection of utility functions for Ethereum like [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util) and [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx)
 * [Ethjs](https://github.com/ethjs) - Simple JS modules for the Ethereum ecosystem.
@@ -67,6 +69,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [Solium](https://github.com/duaraghav8/Solium) - Linter to identify and fix style & security issues in Solidity
 * [Ethereal](https://github.com/wealdtech/ethereal) - Ethereal is a command line tool for managing common tasks in Ethereum
 * [ABI decoder](https://github.com/ConsenSys/abi-decoder) - library for decoding data params and events from Ethereum transactions
+* [ABI-gen](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/abi-gen) - Generated Typescript contract wrappers from contract ABI's.
 * [Ethereum ABI UI](https://github.com/hiddentao/ethereum-abi-ui) - Auto-generate UI form field definitions and associated validators from an Ethereum contract ABI
 * [Eth crypto](https://github.com/pubkey/eth-crypto) - Cryptographic javascript-functions for Ethereum and tutorials to use them with web3js and solidity
 * [Solidity flattener](https://github.com/poanetwork/solidity-flattener) - Combine solidity project to flat file utility
