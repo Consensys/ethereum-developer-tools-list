@@ -111,6 +111,27 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [Cryptozombies](https://cryptozombies.io/)
 * [Capture the Ether](https://capturetheether.com/)
 
+##### Developer Guides for 2nd Layer Infrastructure
+
+###### Scalability
+
+###### Payment/State Channels
+* [Ethereum Payment Channel](https://medium.com/@matthewdif/ethereum-payment-channel-in-50-lines-of-code-a94fad2704bc) - Ethereum Payment Channel in 50 lines of code
+* [µRaiden Documentation](http://microraiden.readthedocs.io) - Guides and Samples for µRaiden Sender/Receiver Use Cases
+
+###### Plasma
+* [Plasma MVP](https://github.com/omisego/plasma-mvp) - OmiseGO's research implementation of Minimal Viable Plasma
+* [Plasma MVP Golang](https://github.com/kyokan/plasma) - Golang implementation and extension of the Minimum Viable Plasma specification
+* [Plasma Cash](https://github.com/mkchungs/plasma-cash) - Simple Plasma Cash implementation
+
+###### Privacy
+
+###### zkSNARKs
+* [ZoKrates](https://github.com/JacobEberhardt/ZoKrates) - A toolbox for zkSNARKS on Ethereum
+
+###### Accessibility
+* [Trustlines](https://github.com/trustlines-network) - The Trustlines Network is built as a decentralized platform hosting customized and interconnected IOU based currency networks
+
 ### Infrastructure
 #### Clients
 * [Geth](https://github.com/ethereum/go-ethereum/wiki/geth) - Go client
