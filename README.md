@@ -210,6 +210,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [Stackexchange](https://ethereum.stackexchange.com) - Q&A site
 * [r/EthDev](https://www.reddit.com/r/ethdev/) - Subreddit
 * [Ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
+* [Dapp University](http://www.dappuniversity.com) - Free Video Tutorials
 
 #### Reference
 * [Wiki](https://github.com/ethereum/wiki/wiki) - Ethereum wiki covering all things related to Ethereum
