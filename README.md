@@ -321,6 +321,9 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [Gitcoin](https://gitcoin.co) - Bounty network for funding Open Source or finding Open Source work
 * [CodeFund](https://codefund.io) - Ethical Advertising Platform for Open Source
 
+#### Cryptoeconomics / Mechanism design tools
+* [Incentivai](http://incentivai.co) - Testing of smart contract economies via simulation with ML agents
+
 #### Awesome lists
 * [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics) - A curated list of cryptoeconomic research and learning materials
 * [Awesome Solidity](https://github.com/bkrem/awesome-solidity) - A curated list of awesome Solidity resources, libraries, tools and more
