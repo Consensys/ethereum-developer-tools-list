@@ -216,6 +216,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [Stackexchange](https://ethereum.stackexchange.com) - Q&A site
 * [r/EthDev](https://www.reddit.com/r/ethdev/) - Subreddit
 * [Ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
+* [Reducing Gas Fees](https://medium.com/@STKtoken/research-of-the-week-reducing-gas-fees-9061d19cc171) - Tips and tricks to reducing gas spent on execution
 
 #### Reference
 * [Wiki](https://github.com/ethereum/wiki/wiki) - Ethereum wiki covering all things related to Ethereum
