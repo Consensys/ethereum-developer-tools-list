@@ -317,6 +317,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
         * [Starbit](https://www.starbitex.com)
 
     * [Opensea.io](http://Opensea.io)-  decentralized exchange of cryptocollectibles
+    * [Emoon](https://www.emoon.io)-  decentralized marketplace for ERC20 and ERC721 assets
     * [Bancor](https://www.bancor.network/)
     * [Kyber](https://www.kyber.network)
     * [Gnosis Dutch Exchange](https://github.com/gnosis/dx-contracts)
