@@ -82,6 +82,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [Parity Signer](https://github.com/paritytech/parity-signer) - mobile app allows signing transactions
 * [py-eth](http://www.py-eth.com) - Collection of Python tools for the Ethereum ecosystem
 * [Decode](https://github.com/dteiml/decode) - npm package which parses tx's submitted to a local testrpc node to make them more readable and easier to understand
+* [TypeChain](https://github.com/Neufund/TypeChain) - Typescript bindings for Ethereum smartcontracts
 
 ### Infrastructure
 #### Clients
