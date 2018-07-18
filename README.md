@@ -261,6 +261,7 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
     * [Alethio EthStats 2.0](https://media.consensys.net/alethio-lighting-up-the-blockchain-with-real-time-stats-a80bb30576db) coming soon
 
     * [Supermax](https://www.supermax.cool/)- A live data feed of the activities and event logs of your smart contracts on Ethereum
+    * [ether_sql](https://github.com/analyseether/ether_sql) - A python library to push ethereum data into PostgreSql, can be used as a backbone for block-explorers or performing data analysis.
 
 * Gas price calculators and tools
 
