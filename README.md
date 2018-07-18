@@ -182,8 +182,8 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 
 #### Security
 * [Mythril](https://github.com/ConsenSys/mythril) - Static smart contract security analysis
-* [Securify](https://securify.ch) - Security scanner for Ethereum smart contracts
 * [Oyente](https://github.com/melonproject/oyente) - Alternative static smart contract security analysis
+* [Securify](https://securify.ch) - Security scanner for Ethereum smart contracts
 * [Porosity](https://github.com/comaeio/porosity) - Decompiler and Security Analysis tool for Blockchain-based Ethereum Smart-Contracts
 * [Ethersplay](https://github.com/trailofbits/ethersplay) - EVM disassembler
 * [Evmdis](https://github.com/Arachnid/evmdis) - Alternative EVM disassembler
