@@ -72,8 +72,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [iExec SDK](https://github.com/iExecBlockchainComputing/iexec-sdk) - Gives smart contract the ability to execute functions or applications off-chain. Support any legacy applications provided as a Docker image.
 
 
-### Knowledge
-* [CryptoZombies](https://cryptozombies.io/) - The best undead tutorial in the world
+### Knowledge/Education
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
 * [Smart contract best practices](https://github.com/ConsenSys/smart-contract-best-practices) - by ConsenSys
 * [Safety wiki](https://github.com/ethereum/wiki/wiki/Safety) - Ethereum Foundation wiki on safety
@@ -88,8 +87,13 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [r/EthDev](https://www.reddit.com/r/ethdev/) - Subreddit
 * [Ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
 * [Reducing Gas Fees](https://medium.com/@STKtoken/research-of-the-week-reducing-gas-fees-9061d19cc171) - Tips and tricks to reducing gas spent on execution
-+* [Dapp University](http://www.dappuniversity.com) - Free Video Tutorials
+* [Dapp University](http://www.dappuniversity.com) - Free Video Tutorials
+* [Attacks on Smart Contracts](https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/)
 
+#### Solidity Games!
+* [OpenZeppelin Ethernaut](https://ethernaut.zeppelin.solutions)
+* [Cryptozombies](https://cryptozombies.io/) - The best undead tutorial in the world
+* [Capture the Ether](https://capturetheether.com/)
 
 #### Scaling
 * [Comprehensive Medium article](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4) on various solutions to scale Ethereum
@@ -99,7 +103,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Yellow Paper](https://github.com/ethereum/yellowpaper) - Ethereum's formal specification
 * [Beige Paper](https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf) - Rewrite of the yellow paper in non-yellow-paper syntax
 * [EthOn](https://github.com/ConsenSys/EthOn) - An ontology is a formalisation of concepts and relations within a domain. EthOn is written in RDF and OWL
-* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - by Andreas M. Antonopoulos, Gavin Wood
+* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - by Andreas M. Antonopoulos, Gavin Wood, and many others
 * [EVM opcodes](https://github.com/trailofbits/evm-opcodes) - Ethereum opcodes and instruction reference
 * [EVM illustrated](http://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf) - This is an illustrated document about the Ethereum Virtual Machine
 * [4bytes](https://github.com/ethereum-lists/4bytes) - List of 4byte identifiers to common smart contract functions [function signatures](https://www.4byte.directory/)
