@@ -245,7 +245,6 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 ##### zkSNARKs
 * [ZoKrates](https://github.com/JacobEberhardt/ZoKrates) - A toolbox for zkSNARKS on Ethereum
 
-#### Accessibility
-* [Trustlines](https://github.com/trustlines-network) - The Trustlines Network is built as a decentralized platform hosting customized and interconnected IOU based currency networks
+
 
 
