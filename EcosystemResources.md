@@ -1,6 +1,6 @@
 
-# Ethereum Developer Tools List
-A guide to the available dapps, writings, and knowledge bases for learning and understanding the Ethereum ecosystem.
+# Ecosystem Resources
+A guide to the available dapps, services, writings, and knowledge bases for learning and understanding the Ethereum ecosystem.
 
 This resource is meant to be focused on ecosystem development, but the repo also includes:
 * [Ethereum Developer Tools List](README.md)
