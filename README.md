@@ -5,7 +5,7 @@ A guide to available tools, components, patterns, and platforms for developing a
 Creation of this list was spurred by product managers at ConsenSys who saw a need for better sharing of tools, development patterns, and components amongst both new and experienced blockchain developers.
 
 This resource is meant to be focused on developer tools, but the repo also includes:
-* [Ethereum Ecosystem Resources](EcosystemResources.md)
+* [Ethereum Ecosystem Resources](EcosystemResources.md) for useful DApps, educational resources, and services.
 
 ## Contributions are welcome!
 
