@@ -183,7 +183,11 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Solidity security blog](https://github.com/sigp/solidity-security-blog) - Comprehensive list of known attack vectors and common anti-patterns
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
 
-#### Miscellaneous Tools
+### Monitoring
+* [Neufund - Smart Contract Watch](https://github.com/Neufund/smart-contract-watch) - A tool to monitor a number of smart contracts and transactions
+* [Supermax](https://www.supermax.cool/) - A live data feed of the activities and event logs of your smart contracts on Ethereum
+
+### Other Miscellaneous Tools
 * [Truffle boxes](http://truffleframework.com/boxes/) - Packaged components for building DApps fast.
    * [Cheshire](https://github.com/endless-nameless-inc/cheshire) - A local sandbox implementation of the CryptoKitties API and smart contracts, available as a Truffle Box
 * [Solc](https://solidity.readthedocs.io/en/latest/using-the-compiler.html?highlight=bin) - Solidity compiler
@@ -198,10 +202,6 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [truffle-flattener](https://github.com/alcuadrado/truffle-flattener) - Concats solidity files developed under Truffle with all of their dependencies
 * [Decode](https://github.com/dteiml/decode) - npm package which parses tx's submitted to a local testrpc node to make them more readable and easier to understand
 * [TypeChain](https://github.com/Neufund/TypeChain) - Typescript bindings for Ethereum smartcontracts
-
-#### Monitoring
-* [Neufund - Smart Contract Watch](https://github.com/Neufund/smart-contract-watch) - A tool to monitor a number of smart contracts and transactions
-* [Supermax](https://www.supermax.cool/) - A live data feed of the activities and event logs of your smart contracts on Ethereum
 
 ### Smart Contract Standards & Libraries
 #### [ERCs](https://eips.ethereum.org/erc) - The Ethereum Request for Comment repository
@@ -233,17 +233,19 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Plasma MVP Golang](https://github.com/kyokan/plasma) - Golang implementation and extension of the Minimum Viable Plasma specification
 * [Plasma Cash](https://github.com/mkchungs/plasma-cash) - Simple Plasma Cash implementation
 
-#### Privacy
-
-#### zkSNARKs
-* [ZoKrates](https://github.com/JacobEberhardt/ZoKrates) - A toolbox for zkSNARKS on Ethereum
-
-#### Accessibility
-* [Trustlines](https://github.com/trustlines-network) - The Trustlines Network is built as a decentralized platform hosting customized and interconnected IOU based currency networks
-
 #### Side-Chains
 * [POA Network](https://poa.net/)
   * [POA Bridge](http://bridge.poa.net/)
   * [POA Bridge UI](https://github.com/poanetwork/bridge-ui)
   * [POA Bridge Contracts](https://github.com/poanetwork/poa-bridge-contracts)
   * [Loom Network](https://github.com/loomnetwork)
+  
+#### Privacy
+
+##### zkSNARKs
+* [ZoKrates](https://github.com/JacobEberhardt/ZoKrates) - A toolbox for zkSNARKS on Ethereum
+
+#### Accessibility
+* [Trustlines](https://github.com/trustlines-network) - The Trustlines Network is built as a decentralized platform hosting customized and interconnected IOU based currency networks
+
+
