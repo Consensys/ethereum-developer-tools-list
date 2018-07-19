@@ -83,10 +83,20 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Pyethereum](https://github.com/ethereum/pyethereum) - The Python core library of the Ethereum project
 * [Eventeum](https://github.com/ConsenSys/eventeum) - A bridge between Ethereum smart contract events and backend microservices, written in Java by Kauri
 
+#### Bootstrap/out of box tools
+* [Truffle boxes](http://truffleframework.com/boxes/) - Packaged components for the Ethereum ecosystem
+* [Local Raiden](https://github.com/ConsenSys/Local-Raiden) - Run a local Raiden network in docker containers for demo and testing purposes
+* [Private networks deployment scripts](https://github.com/ConsenSys/private-networks-deployment-scripts) - Out-of-the-box deployment scripts for private PoA networks
+* [Parity Demo-PoA Tutorial](https://wiki.parity.io/Demo-PoA-tutorial.html) - Step-by-Step tutorial for building a PoA test chain with 2 nodes with Parity authority round consensus
+* [Local Ethereum Network](https://github.com/ConsenSys/local_ethereum_network) - Out-of-the-box deployment scripts for private PoW networks
+* [Kaleido](https://kaleido.io/) - Use Kaleido for spinning up a consortium blockchain network. Great for PoCs and testing
+* [Cheshire](https://github.com/endless-nameless-inc/cheshire) - A local sandbox implementation of the CryptoKitties API and smart contracts, available as a Truffle Box
+
 ### Ethereum ABI (Application Binary Interface) tools
 * [ABI decoder](https://github.com/ConsenSys/abi-decoder) - library for decoding data params and events from Ethereum transactions
 * [ABI-gen](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/abi-gen) - Generate Typescript contract wrappers from contract ABI's.
 * [Ethereum ABI UI](https://github.com/hiddentao/ethereum-abi-ui) - Auto-generate UI form field definitions and associated validators from an Ethereum contract ABI
+
 
 #### Miscellaneous Tools
 * [Truffle boxes](http://truffleframework.com/boxes/) - Packaged components for building DApps fast.
@@ -103,6 +113,40 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [truffle-flattener](https://github.com/alcuadrado/truffle-flattener) - Concats solidity files developed under Truffle with all of their dependencies
 * [Decode](https://github.com/dteiml/decode) - npm package which parses tx's submitted to a local testrpc node to make them more readable and easier to understand
 * [TypeChain](https://github.com/Neufund/TypeChain) - Typescript bindings for Ethereum smartcontracts
+
+#### Patterns & Best Practices
+
+##### Patterns for Smart Contract Development
+* [Dappsys: Safe, simple, and flexible Ethereum contract building blocks](https://github.com/dapphub/dappsys)
+    * has solutions for common problems in Ethereum/Solidity, eg.
+        * [Whitelisting](https://steemit.com/ethereum/@nexusdev/dapp-a-day-11-whitelist-boring)
+        * [Upgradable ERC20-Token](https://steemit.com/ethereum/@nikolai/dapp-a-day-6-upgradeable-tokens)
+        * [ERC20-Token-Vault](https://steemit.com/ethereum/@nexusdev/dapp-a-day-18-erc20-token-vault)
+        * [Authentication (RBAC)](https://steemit.com/ethereum/@nikolai/dapp-a-day-4-access-control-via-auth)
+        * [...several more...](https://github.com/dapphub/dappsys)
+    * provides building blocks for the [MakerDAO](https://github.com/makerdao/maker-otc) or [The TAO](https://ryepdx.github.io/the-tao/)
+    * should be consulted before creating own, untested, solutions
+    * usage is described in [Dapp-a-day 1-10](https://steemit.com/@nikolai) and [Dapp-a-day 11-25](https://steemit.com/@nexusdev)
+* [OpenZeppelin: An open framework of reusable and secure smart contracts in the Solidity language.](http://zeppelin-solidity.readthedocs.io/en/latest/) 
+    * Similar to Dappsys, more integrated into Truffle framework
+    * [Blog about Best Practices with Security Audits](https://medium.com/zeppelin-blog)
+* [Advanced Workshop with Assembly](https://github.com/androlo/solidity-workshop)
+* [Simpler Ethereum Multisig](https://medium.com/@ChrisLundkvist/exploring-simpler-ethereum-multisig-contracts-b71020c19037) - especially section _Benefits_
+
+##### Upgradebility
+* [Blog von Elena Dimitrova, Dev at colony.io](https://blog.colony.io/@elena_di)
+    * https://blog.colony.io/writing-more-robust-smart-contracts-99ad0a11e948
+    * https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88
+* [Techblog von Aragon](https://blog.aragon.one/tagged/development)
+    * [Library driven development](https://blog.aragon.one/library-driven-development-in-solidity-2bebcaf88736)
+* [OpenZeppelin on Proxy Libraries](https://medium.com/zeppelin-blog/proxy-libraries-in-solidity-79fbe4b970fd)
+
+#### Gamification
+* [OpenZeppelin Ethernaut](https://ethernaut.zeppelin.solutions)
+* [Attacks on Smart Contracts](https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/)
+* [Cryptozombies](https://cryptozombies.io/)
+* [Capture the Ether](https://capturetheether.com/)
+
 
 ### Infrastructure
 #### Ethereum Clients
@@ -156,8 +200,9 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool on Smart Contracts and Binaries
 * [Solidity security blog](https://github.com/sigp/solidity-security-blog) - Comprehensive list of known attack vectors and common anti-patterns
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
-* [Smart contract best practices](https://github.com/ConsenSys/smart-contract-best-practices) - by ConsenSys
-* [Safety wiki](https://github.com/ethereum/wiki/wiki/Safety) - Ethereum Foundation wiki on safety
+
+#### Monitoring
+* [Neufund - Smart Contract Watch](https://github.com/Neufund/smart-contract-watch) - A tool to monitor a number of smart contracts and transactions
 
 ### Smart Contract Standards & Libraries
 #### [ERCs](https://eips.ethereum.org/erc) - The Ethereum Request for Comment repository
@@ -174,6 +219,28 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [DateTime Library](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary) - A gas-efficient Solidity date and time library
 * [Aragon](https://github.com/aragon/aragon) - DAO protocol
 * [0x](https://github.com/0xProject) - DEX protocol
+
+
+### Developer Guides for 2nd Layer Infrastructure
+
+#### Scalability
+
+#### Payment/State Channels
+* [Ethereum Payment Channel](https://medium.com/@matthewdif/ethereum-payment-channel-in-50-lines-of-code-a94fad2704bc) - Ethereum Payment Channel in 50 lines of code
+* [µRaiden Documentation](http://microraiden.readthedocs.io) - Guides and Samples for µRaiden Sender/Receiver Use Cases
+
+#### Plasma
+* [Plasma MVP](https://github.com/omisego/plasma-mvp) - OmiseGO's research implementation of Minimal Viable Plasma
+* [Plasma MVP Golang](https://github.com/kyokan/plasma) - Golang implementation and extension of the Minimum Viable Plasma specification
+* [Plasma Cash](https://github.com/mkchungs/plasma-cash) - Simple Plasma Cash implementation
+
+#### Privacy
+
+#### zkSNARKs
+* [ZoKrates](https://github.com/JacobEberhardt/ZoKrates) - A toolbox for zkSNARKS on Ethereum
+
+#### Accessibility
+* [Trustlines](https://github.com/trustlines-network) - The Trustlines Network is built as a decentralized platform hosting customized and interconnected IOU based currency networks
 
 #### Side-Chains
 * [POA Network](https://poa.net/)
