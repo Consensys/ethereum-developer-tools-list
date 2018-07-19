@@ -145,6 +145,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Gitcoin](https://gitcoin.co) - Bounty network for funding Open Source or finding Open Source work
 * [CodeFund](https://codefund.io) - Ethical Advertising Platform for Open Source
 
+
 ### Awesome lists
 * [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics) - A curated list of cryptoeconomic research and learning materials
 * [Awesome Solidity](https://github.com/bkrem/awesome-solidity) - A curated list of awesome Solidity resources, libraries, tools and more
