@@ -116,6 +116,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
     * should be consulted before creating own, untested, solutions
     * usage is described in [Dapp-a-day 1-10](https://steemit.com/@nikolai) and [Dapp-a-day 11-25](https://steemit.com/@nexusdev)
 * [OpenZeppelin: An open framework of reusable and secure smart contracts in the Solidity language.](http://zeppelin-solidity.readthedocs.io/en/latest/) 
+    * Likely the most widely-used libraries and smart contracts
     * Similar to Dappsys, more integrated into Truffle framework
     * [Blog about Best Practices with Security Audits](https://medium.com/zeppelin-blog)
 * [Advanced Workshop with Assembly](https://github.com/androlo/solidity-workshop)
@@ -128,13 +129,6 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Techblog von Aragon](https://blog.aragon.one/tagged/development)
     * [Library driven development](https://blog.aragon.one/library-driven-development-in-solidity-2bebcaf88736)
 * [OpenZeppelin on Proxy Libraries](https://medium.com/zeppelin-blog/proxy-libraries-in-solidity-79fbe4b970fd)
-
-#### Gamification
-* [OpenZeppelin Ethernaut](https://ethernaut.zeppelin.solutions)
-* [Attacks on Smart Contracts](https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/)
-* [Cryptozombies](https://cryptozombies.io/)
-* [Capture the Ether](https://capturetheether.com/)
-
 
 ### Infrastructure
 #### Ethereum Clients
