@@ -25,6 +25,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Portis](https://portis.io/) - Web-based wallet for easy user on-boarding to your DApp
 * [Eth lightwallet](https://github.com/ConsenSys/eth-lightwallet) - Lightweight JS Wallet for Node and the browser
 * [SpankCard](https://github.com/SpankChain/SpankCard) - An in-browser Ethereum wallet with support for payment channels
+* [Mnemonic generator](https://iancoleman.io/bip39/) - generate word mnemonic and associated public/private key pairs. Select "Ethereum" as coin to generate Ethereum addresses. Useful for truffle-hd-wallet.
 
 
 #### Mobile Wallets
@@ -68,7 +69,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Quantstamp](https://quantstamp.com) - A service that offers automated and manual smart contract security audits for a fee
 * [SmartCheck](https://tool.smartdec.net/) - Static analysis of Solidity source code for security vulnerabilities and best practices
 * [MD4 Online Hash Function](https://emn178.github.io/online-tools/md4.html) - Tool to hash input with a variety of hashing algorithm options
-
+* [iExec SDK](https://github.com/iExecBlockchainComputing/iexec-sdk) - Gives smart contract the ability to execute functions or applications off-chain. Support any legacy applications provided as a Docker image.
 
 
 ### Knowledge
