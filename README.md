@@ -147,26 +147,6 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Cryptozombies](https://cryptozombies.io/)
 * [Capture the Ether](https://capturetheether.com/)
 
-##### Developer Guides for 2nd Layer Infrastructure
-
-###### Scalability
-
-###### Payment/State Channels
-* [Ethereum Payment Channel](https://medium.com/@matthewdif/ethereum-payment-channel-in-50-lines-of-code-a94fad2704bc) - Ethereum Payment Channel in 50 lines of code
-* [µRaiden Documentation](http://microraiden.readthedocs.io) - Guides and Samples for µRaiden Sender/Receiver Use Cases
-
-###### Plasma
-* [Plasma MVP](https://github.com/omisego/plasma-mvp) - OmiseGO's research implementation of Minimal Viable Plasma
-* [Plasma MVP Golang](https://github.com/kyokan/plasma) - Golang implementation and extension of the Minimum Viable Plasma specification
-* [Plasma Cash](https://github.com/mkchungs/plasma-cash) - Simple Plasma Cash implementation
-
-###### Privacy
-
-###### zkSNARKs
-* [ZoKrates](https://github.com/JacobEberhardt/ZoKrates) - A toolbox for zkSNARKS on Ethereum
-
-###### Accessibility
-* [Trustlines](https://github.com/trustlines-network) - The Trustlines Network is built as a decentralized platform hosting customized and interconnected IOU based currency networks
 
 ### Infrastructure
 #### Ethereum Clients
@@ -239,6 +219,28 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [DateTime Library](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary) - A gas-efficient Solidity date and time library
 * [Aragon](https://github.com/aragon/aragon) - DAO protocol
 * [0x](https://github.com/0xProject) - DEX protocol
+
+
+### Developer Guides for 2nd Layer Infrastructure
+
+#### Scalability
+
+#### Payment/State Channels
+* [Ethereum Payment Channel](https://medium.com/@matthewdif/ethereum-payment-channel-in-50-lines-of-code-a94fad2704bc) - Ethereum Payment Channel in 50 lines of code
+* [µRaiden Documentation](http://microraiden.readthedocs.io) - Guides and Samples for µRaiden Sender/Receiver Use Cases
+
+#### Plasma
+* [Plasma MVP](https://github.com/omisego/plasma-mvp) - OmiseGO's research implementation of Minimal Viable Plasma
+* [Plasma MVP Golang](https://github.com/kyokan/plasma) - Golang implementation and extension of the Minimum Viable Plasma specification
+* [Plasma Cash](https://github.com/mkchungs/plasma-cash) - Simple Plasma Cash implementation
+
+#### Privacy
+
+#### zkSNARKs
+* [ZoKrates](https://github.com/JacobEberhardt/ZoKrates) - A toolbox for zkSNARKS on Ethereum
+
+#### Accessibility
+* [Trustlines](https://github.com/trustlines-network) - The Trustlines Network is built as a decentralized platform hosting customized and interconnected IOU based currency networks
 
 #### Side-Chains
 * [POA Network](https://poa.net/)
