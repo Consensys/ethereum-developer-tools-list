@@ -64,7 +64,6 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 * [Ethereumjs](https://github.com/ethereumjs/) - A collection of utility functions for Ethereum like [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util) and [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx)
 * [Ethjs](https://github.com/ethjs) - Simple JS modules for the Ethereum ecosystem.
 * [Eth lightwallet](https://github.com/ConsenSys/eth-lightwallet) - Lightweight JS Wallet for Node and the browser
-* [eth-wallet-light](https://github.com/NoahHydro/eth-wallet-light) - Lightweight JS Wallet optimized for mobile
 * [RLP](https://github.com/ethereumjs/rlp) - Recursive Length Prefix Encoding in JavaScript
 * [Solium](https://github.com/duaraghav8/Solium) - Linter to identify and fix style & security issues in Solidity
 * [Ethereal](https://github.com/wealdtech/ethereal) - Ethereal is a command line tool for managing common tasks in Ethereum
