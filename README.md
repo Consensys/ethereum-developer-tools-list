@@ -202,6 +202,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 
 #### Monitoring
 * [Neufund - Smart Contract Watch](https://github.com/Neufund/smart-contract-watch) - A tool to monitor a number of smart contracts and transactions
+* [Supermax](https://www.supermax.cool/) - A live data feed of the activities and event logs of your smart contracts on Ethereum
 
 ### Smart Contract Standards & Libraries
 #### [ERCs](https://eips.ethereum.org/erc) - The Ethereum Request for Comment repository
