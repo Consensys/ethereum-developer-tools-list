@@ -84,6 +84,8 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [r/EthDev](https://www.reddit.com/r/ethdev/) - Subreddit
 * [Ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
 * [Reducing Gas Fees](https://medium.com/@STKtoken/research-of-the-week-reducing-gas-fees-9061d19cc171) - Tips and tricks to reducing gas spent on execution
++* [Dapp University](http://www.dappuniversity.com) - Free Video Tutorials
+
 
 #### Scaling
 * [Comprehensive Medium article](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4) on various solutions to scale Ethereum
