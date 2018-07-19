@@ -84,6 +84,9 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [r/EthDev](https://www.reddit.com/r/ethdev/) - Subreddit
 * [Ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
 
+#### Scaling
+* [Comprehensive Medium article](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4) on various solutions to scale Ethereum
+
 ### Reference
 * [Wiki](https://github.com/ethereum/wiki/wiki) - Ethereum wiki covering all things related to Ethereum
 * [Yellow Paper](https://github.com/ethereum/yellowpaper) - Ethereum's formal specification
