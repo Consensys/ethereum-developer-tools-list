@@ -15,7 +15,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 ### Wallets
 * [Metamask](https://metamask.io/) - Chrome extension Ether wallet with ERC tokens support
 * [Gnosis multisig wallet](https://github.com/gnosis/MultiSigWallet) - Audited multi-sig wallet  
-* [Mist](https://github.com/ethereum/mist) - Browse and use Dapps on the Ethereum network
+* [Mist](https://github.com/ethereum/mist) - Browse and use Dapps on the Ethereum network 
 * [Exodus](https://www.exodus.io) - Desktop wallet with Shapeshift integration
 
 #### Web Wallets
@@ -74,8 +74,6 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 
 ### Knowledge/Education
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
-* [Smart contract best practices](https://github.com/ConsenSys/smart-contract-best-practices) - by ConsenSys
-* [Safety wiki](https://github.com/ethereum/wiki/wiki/Safety) - Ethereum Foundation wiki on safety
 * [Solidity idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies) - Solidity gotchas, pitfalls, limitations, and idiosyncrasies
 * [Ethereum development with Go](https://github.com/miguelmota/ethereum-development-with-go-book) - A little [book](https://goethereumbook.org) on Ethereum Development with Golang
 * [Consensys Academy](https://consensys.net/academy/resources/) - Courses
@@ -89,6 +87,10 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Reducing Gas Fees](https://medium.com/@STKtoken/research-of-the-week-reducing-gas-fees-9061d19cc171) - Tips and tricks to reducing gas spent on execution
 * [Dapp University](http://www.dappuniversity.com) - Free Video Tutorials
 * [Attacks on Smart Contracts](https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/)
+
+#### Security best practices
+* [Smart contract best practices](https://github.com/ConsenSys/smart-contract-best-practices) - by ConsenSys
+* [Safety wiki](https://github.com/ethereum/wiki/wiki/Safety) - Ethereum Foundation wiki on safety
 
 #### Solidity Games!
 * [OpenZeppelin Ethernaut](https://ethernaut.zeppelin.solutions)
