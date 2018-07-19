@@ -35,6 +35,8 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [imToken](https://token.im/) - Feature-rich digital asset mobile wallet enabling multi-chain asset management, DApp browsing and secure, private exchange of value
 * [Jaxx](https://jaxx.io) - Both a mobile and a desktop wallet. Has integrated Shapeshift support
 * [WallETH](https://walleth.org) - Native Android Ethereum Wallet
++ [eth-wallet-light](https://github.com/NoahHydro/eth-wallet-light) - Lightweight JS Wallet optimized for mobile
+
 
 #### Hardware Wallets
 * [Trezor](https://trezor.io) - The original hardware wallet
@@ -55,7 +57,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 ### Services
 * [Oracalize](http://www.oraclize.it/) - Oracle service for your smart contracts
 * [Infura](https://infura.io/) - API gateway so you don’t have to host your own ETH node
-* [Supermax](https://www.supermax.cool/) - A live data feed of the activities and event logs of your smart contracts on Ethereum
+* [Quiknode](https://quiknode.io/) - Service to spin up personal Parity/Geth nodes
 * [Regis](https://regis.nu/) - Registry Framework for Digital Assets
 * [Viant](https://viant.io/) - Just consider using Viant as your backend if the use case is business process oriented
 * [uPort](https://www.uport.me/) - Total identity solution
@@ -66,6 +68,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Quantstamp](https://quantstamp.com) - A service that offers automated and manual smart contract security audits for a fee
 * [SmartCheck](https://tool.smartdec.net/) - Static analysis of Solidity source code for security vulnerabilities and best practices
 * [MD4 Online Hash Function](https://emn178.github.io/online-tools/md4.html) - Tool to hash input with a variety of hashing algorithm options
+
 
 
 ### Knowledge
