@@ -14,6 +14,9 @@ Feel free to submit a pull request, with anything from small fixes to tools you'
 Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/corbpage) of Meridio for the idea, [@pakaplace](https://twitter.com/Parker_Place) for expanding and curating, and @jpantunes for restructuring the list in a more logical way.
 * Projects that do not have a working product will not be added.
 * Projects that are deprecated or no longer maintained will be removed.
+* Projects that are paid/restricted services without open source code or developer reviews will be further vetted.
+
+^Is the above fair? Share your input here - https://github.com/ConsenSysLabs/ethereum-developer-tools-list/pull/70
 
 ## New developers start here
 * [Solidity](http://solidity.readthedocs.io/en/latest/) - The most popular smart contract language. 
