@@ -87,6 +87,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [KEthereum](https://github.com/walleth/kethereum) - Kotlin Web3
 * [Pyethereum](https://github.com/ethereum/pyethereum) - The Python core library of the Ethereum project
 * [Eventeum](https://github.com/ConsenSys/eventeum) - A bridge between Ethereum smart contract events and backend microservices, written in Java by Kauri
+* [Ethereumex](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain
 
 #### Bootstrap/out of box tools
 * [Truffle boxes](http://truffleframework.com/boxes/) - Packaged components for the Ethereum ecosystem
