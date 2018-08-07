@@ -88,6 +88,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Pyethereum](https://github.com/ethereum/pyethereum) - The Python core library of the Ethereum project
 * [Eventeum](https://github.com/ConsenSys/eventeum) - A bridge between Ethereum smart contract events and backend microservices, written in Java by Kauri
 * [Ethereumex](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain
+* [EthContract](https://github.com/AgileAlpha/eth_contract) - A set of helper methods to help query ETH smart contracts in Elixir
 
 #### Bootstrap/out of box tools
 * [Truffle boxes](http://truffleframework.com/boxes/) - Packaged components for the Ethereum ecosystem
