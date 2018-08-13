@@ -21,6 +21,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 ## New developers start here
 * [Solidity](http://solidity.readthedocs.io/en/latest/) - The most popular smart contract language. 
 * [Truffle](http://truffleframework.com) - Most popular smart contract development, testing, and deployment framework. Install the cli via npm and start here to write your first smart contracts.
+* [Nethereum](http://nethereum.com/) - Brings Ethereum to .NET developers (Web3, Metamask, INFURA, Quorum, uPort)
 * [Metamask](https://metamask.io/) - Chrome extension wallet to interact with Dapps.
 * [Truffle boxes](http://truffleframework.com/boxes/) - Packaged components for the Ethereum ecosystem
 
@@ -35,6 +36,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 #### Frameworks
 * [Truffle](http://truffleframework.com) - Most popular smart contract development, testing, and deployment framework. The Truffle suite includes Truffle, [Ganache](https://github.com/trufflesuite/ganache), and Drizzle. [Deep dive on Truffle here](https://media.consensys.net/truffle-deep-dive-what-you-need-to-know-when-developing-on-ethereum-e548d4df6e9)
 * [Embark](https://github.com/embark-framework/embark) - Framework for DApp development
+* [Nethereum](https://github.com/nethereum) - .NET Framework for DApp development
 * [Dapp](https://github.com/dapphub/dapptools/tree/master/src/dapp) - Framework for DApp development, successor to DApple
 * [Populus](https://github.com/ethereum/populus) - The Ethereum development framework with the most cute animal pictures
 * [Etherlime](https://github.com/LimeChain/etherlime) - ethers.js based framework for Dapp deployment
@@ -101,6 +103,8 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [ABI decoder](https://github.com/ConsenSys/abi-decoder) - library for decoding data params and events from Ethereum transactions
 * [ABI-gen](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/abi-gen) - Generate Typescript contract wrappers from contract ABI's.
 * [Ethereum ABI UI](https://github.com/hiddentao/ethereum-abi-ui) - Auto-generate UI form field definitions and associated validators from an Ethereum contract ABI
+* [Nethereum.Generators.net](https://www.nuget.org/packages/Nethereum.Generators.Net/) - Code generation of Nethereum integration classes using the Solidity Abi and Bin
+            
 
 #### Patterns & Best Practices
 
