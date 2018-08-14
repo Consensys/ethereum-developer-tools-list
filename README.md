@@ -21,7 +21,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 ## New developers start here
 * [Solidity](http://solidity.readthedocs.io/en/latest/) - The most popular smart contract language. 
 * [Truffle](http://truffleframework.com) - Most popular smart contract development, testing, and deployment framework. Install the cli via npm and start here to write your first smart contracts.
-* [Nethereum](http://nethereum.com/) - Brings Ethereum to .NET developers (Web3, Metamask, INFURA, Quorum, uPort)
+* [Nethereum](http://nethereum.com/) - Brings Ethereum to .NET developers (along with Web3, Metamask, INFURA, Quorum, uPort...)
 * [Metamask](https://metamask.io/) - Chrome extension wallet to interact with Dapps.
 * [Truffle boxes](http://truffleframework.com/boxes/) - Packaged components for the Ethereum ecosystem
 
@@ -36,7 +36,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 #### Frameworks
 * [Truffle](http://truffleframework.com) - Most popular smart contract development, testing, and deployment framework. The Truffle suite includes Truffle, [Ganache](https://github.com/trufflesuite/ganache), and Drizzle. [Deep dive on Truffle here](https://media.consensys.net/truffle-deep-dive-what-you-need-to-know-when-developing-on-ethereum-e548d4df6e9)
 * [Embark](https://github.com/embark-framework/embark) - Framework for DApp development
-* [Nethereum](https://github.com/nethereum) - .NET Framework for DApp development
+* [Nethereum](https://github.com/nethereum) - Framework for DApp development on .NET
 * [Dapp](https://github.com/dapphub/dapptools/tree/master/src/dapp) - Framework for DApp development, successor to DApple
 * [Populus](https://github.com/ethereum/populus) - The Ethereum development framework with the most cute animal pictures
 * [Etherlime](https://github.com/LimeChain/etherlime) - ethers.js based framework for Dapp deployment
@@ -74,7 +74,8 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
     * [Web3Wrapper](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/web3-wrapper)- Typescript Web3 alternative
     * [Ethereumjs](https://github.com/ethereumjs/) - A collection of utility functions for Ethereum like [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util) and [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx)
 
-* [Drizzle](https://github.com/truffle-box/drizzle-box) -  Redux library to connect a frontend to a blockchain
+* [Drizzle](https://github.com/truffle-box/drizzle-box) - Redux library to connect a frontend to a blockchain
+* [Nethereum](https://nethereum.com/) - Nethereum enables Blockchain programming while using .NET various front-end tools (Desktop, Mobile, [Wasm](https://github.com/Nethereum/Nethereum-Blazor-Wasm-test), Games, VR, AR, [Cross-platform dev frameworks](https://visualstudio.microsoft.com/xamarin/), [Unity3d](https://unity3d.com/)
 * [Subproviders](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/subproviders) - Several useful subproviders to use in conjunction with [Web3-provider-engine](https://github.com/MetaMask/provider-engine/) (including a LedgerSubprovider for adding Ledger hardware wallet support to your dApp)
 * [web3-webpacked](https://github.com/NoahHydro/web3-webpacked) - JS framework to manage web3 injection
 * [Vortex](https://github.com/Horyus/vortex) - A Dapp-ready Redux Store. Smart and Dynamic background data refresh thanks to WebSockets. Works with [Truffle](https://github.com/Horyus/vortex-demo) and [Embark](https://github.com/Horyus/vortex-demo-embark).
@@ -143,6 +144,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Trinity](https://github.com/ethereum/trinity) - Python client using [py-evm](https://github.com/ethereum/py-evm)
 * [Ethereumjs](https://github.com/ethereumjs/ethereumjs-client) - JS client using [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-vm)
 * [Ethereumj](https://github.com/ethereum/ethereumj) - Java client by the Ethereum Foundation
+
 * [Harmony](https://github.com/ether-camp/ethereum-harmony) - Java client by EtherCamp
 * [Seth](https://github.com/dapphub/dapptools/tree/master/src/seth) - Seth is an Ethereum client tool—like a "MetaMask for the command line"
 * [Mustekala](https://github.com/MetaMask/mustekala) - Ethereum Light Client project of Metamask.
@@ -173,6 +175,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Ethereum graph debugger](https://github.com/fergarrui/ethereum-graph-debugger) - Solidity graphical debugger
 * [Solium](https://github.com/duaraghav8/Solium) - Linter to identify and fix style & security issues in Solidity
 * [Decode](https://github.com/dteiml/decode) - npm package which parses tx's submitted to a local testrpc node to make them more readable and easier to understand
+* [Nethereum.Contracts.IntegrationTester](https://www.nuget.org/packages/Nethereum.Contracts.IntegrationTester/2.0.0-rc1) - Nethereum / Ethereum Smart Contract Integration testing
 
 ### Security Tools
 * [Mythril](https://github.com/ConsenSys/mythril) - Static smart contract security analysis
