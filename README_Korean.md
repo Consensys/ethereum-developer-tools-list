@@ -1,21 +1,23 @@
 
 # 이더리움 개발자 툴들(tools) 리스트
-이더리움 위에서 개발 어플리케이션을 위한 툴들과 컴포넌트들, 패턴들, 플랫폼들의 사용 가이드 입니다.
+이더리움 위에서 개발 어플리케이션을 위한 툴들과 컴포넌트들(components), 패턴들(patterns), 플랫폼들(platforms)의 사용 가이드 입니다.
 
 신입과 경력있는 블록체인 개발자들 사이에서 툴들과 개발 패턴들, 컴포넌트들의 더 좋은 공유를 원하는 컨센시스(ConsenSys)의 프로덕트 매니저에 의해 이 리스트가 만들어졌습니다.
 
 이 자료(resource)는 개발자 툴들에 집중하는 것 처럼 여겨지지만, 이 저장소에는 유용한 DApps와 교육적인 자료들, 지갑들, 서비스들을 위한 [이더리움 생태계 자료들(Ethereum Ecosystem Resources)](EcosystemResources.md)도 포함되어 있습니다.
 
-## Contributions are welcome!
+## 기여자들(Contributions)을 환영합니다!
 
-Feel free to submit a pull request, with anything from small fixes to tools you'd like to add. If adding a new tool, **please add a brief description** that you think new developers would understand.
+작은 수정에서 부터 추가하려는 툴들 까지 어느 것이든 자유롭게 풀리퀘스트(pull request)를 해주세요.
+만약에 새로운 둘을 추가하면, 당신이 생각하기에 새로운 개발자들이 이해할 수 있도록 **간략한 설명을 적어주세요**
 
-Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/corbpage) of Meridio for the idea, [@pakaplace](https://twitter.com/Parker_Place) for expanding and curating, and @jpantunes for restructuring the list in a more logical way.
-* Projects that do not have a working product will not be added.
-* Projects that are deprecated or no longer maintained will be removed.
-* Projects that are paid/restricted services without open source code or developer reviews will be further vetted.
+Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레이팅을 한 [@pakaplace](https://twitter.com/Parker_Place), 그리고 좀 더 논리적인 방법으로 리스트를 재구축한 @jpantunes 을 포함한 20명이 넘는 기여자들에게 감사를 표합니다.
 
-^Is the above fair? Share your input here - https://github.com/ConsenSysLabs/ethereum-developer-tools-list/pull/70
+* 작동하지 않는 제품이 없는 프로젝트는 추가할 수 없습니다.
+* 더 이상 사용되지 않거나 유지되지 않는 프로젝트는 제거 되게 됩니다.
+* 오픈소스 코드가 아니거나 개발자 리뷰가 없는 유료/제한 서비스 프로젝트들은 추가로 조사될 것 입니다.
+
+^위 내용이 타당하죠? Share your input here - https://github.com/ConsenSysLabs/ethereum-developer-tools-list/pull/70
 
 ## New developers start here
 * [Solidity](http://solidity.readthedocs.io/en/latest/) - The most popular smart contract language.
