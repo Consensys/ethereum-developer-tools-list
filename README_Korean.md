@@ -1,11 +1,10 @@
 
-# Ethereum Developer Tools List
-A guide to available tools, components, patterns, and platforms for developing applications on Ethereum.
+# 이더리움 개발자 툴들(tools) 리스트
+이더리움 위에서 개발 어플리케이션을 위한 툴들과 컴포넌트들, 패턴들, 플랫폼들의 사용 가이드 입니다.
 
-Creation of this list was spurred by product managers at ConsenSys who saw a need for better sharing of tools, development patterns, and components amongst both new and experienced blockchain developers.
+신입과 경력있는 블록체인 개발자들 사이에서 툴들과 개발 패턴들, 컴포넌트들의 더 좋은 공유를 원하는 컨센시스(ConsenSys)의 프로덕트 매니저에 의해 이 리스트가 만들어졌습니다.
 
-This resource is meant to be focused on developer tools, but the repo also includes:
-* [Ethereum Ecosystem Resources](EcosystemResources.md) for useful DApps, educational resources, wallets, and services.
+이 자료(resource)는 개발자 툴들에 집중하는 것 처럼 여겨지지만, 이 저장소에는 유용한 DApps와 교육적인 자료들, 지갑들, 서비스들을 위한 [이더리움 생태계 자료들(Ethereum Ecosystem Resources)](EcosystemResources.md)도 포함되어 있습니다.
 
 ## Contributions are welcome!
 
@@ -19,7 +18,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 ^Is the above fair? Share your input here - https://github.com/ConsenSysLabs/ethereum-developer-tools-list/pull/70
 
 ## New developers start here
-* [Solidity](http://solidity.readthedocs.io/en/latest/) - The most popular smart contract language. 
+* [Solidity](http://solidity.readthedocs.io/en/latest/) - The most popular smart contract language.
 * [Truffle](http://truffleframework.com) - Most popular smart contract development, testing, and deployment framework. Install the cli via npm and start here to write your first smart contracts.
 * [Metamask](https://metamask.io/) - Chrome extension wallet to interact with Dapps.
 * [Truffle boxes](http://truffleframework.com/boxes/) - Packaged components for the Ethereum ecosystem
@@ -49,8 +48,8 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Superblocks Studio](https://superblocks.com/studio/) - Superblocks Studio helps you code, build, and deploy your smart contracts.
 * [Vim solidity](https://github.com/tomlion/vim-solidity) - Vim syntax file for solidity
 * [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) - Visual Studio Code extension that adds support for Solidity
-* [Intellij Solidity Plugin](https://github.com/intellij-solidity/intellij-solidity/wiki) - Open-source plug-in for [JetBrains IntelliJ Idea IDE](https://www.jetbrains.com/idea/) (free/commercial) with syntax highlighting, formatting, code completion etc. 
-* [YAKINDU Solidity Tools](https://github.com/Yakindu/solidity-ide) - Eclipse based IDE. Features context sensitive code completion and help, code navigation, syntax coloring, build in compiler, quick fixes and templates. 
+* [Intellij Solidity Plugin](https://github.com/intellij-solidity/intellij-solidity/wiki) - Open-source plug-in for [JetBrains IntelliJ Idea IDE](https://www.jetbrains.com/idea/) (free/commercial) with syntax highlighting, formatting, code completion etc.
+* [YAKINDU Solidity Tools](https://github.com/Yakindu/solidity-ide) - Eclipse based IDE. Features context sensitive code completion and help, code navigation, syntax coloring, build in compiler, quick fixes and templates.
 
 ### Test blockchain networks
 * [Ganache](https://github.com/trufflesuite/ganache) - App for test Ethereum blockchain with visual UI and logs
@@ -115,7 +114,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
     * provides building blocks for the [MakerDAO](https://github.com/makerdao/maker-otc) or [The TAO](https://ryepdx.github.io/the-tao/)
     * should be consulted before creating own, untested, solutions
     * usage is described in [Dapp-a-day 1-10](https://steemit.com/@nikolai) and [Dapp-a-day 11-25](https://steemit.com/@nexusdev)
-* [OpenZeppelin: An open framework of reusable and secure smart contracts in the Solidity language.](http://zeppelin-solidity.readthedocs.io/en/latest/) 
+* [OpenZeppelin: An open framework of reusable and secure smart contracts in the Solidity language.](http://zeppelin-solidity.readthedocs.io/en/latest/)
     * Likely the most widely-used libraries and smart contracts
     * Similar to Dappsys, more integrated into Truffle framework
     * [Blog about Best Practices with Security Audits](https://medium.com/zeppelin-blog)
@@ -239,12 +238,8 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
   * [POA Bridge UI](https://github.com/poanetwork/bridge-ui)
   * [POA Bridge Contracts](https://github.com/poanetwork/poa-bridge-contracts)
   * [Loom Network](https://github.com/loomnetwork)
-  
+
 #### Privacy
 
 ##### zkSNARKs
 * [ZoKrates](https://github.com/JacobEberhardt/ZoKrates) - A toolbox for zkSNARKS on Ethereum
-
-
-
-
