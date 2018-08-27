@@ -220,6 +220,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [DateTime Library](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary) - A gas-efficient Solidity date and time library
 * [Aragon](https://github.com/aragon/aragon) - DAO protocol
 * [0x](https://github.com/0xProject) - DEX protocol
+* [Token Libraries with Proofs](https://github.com/sec-bit/tokenlibs-with-proofs) - Contains correctness proofs of token contracts wrt. given specifications and high-level properties
 
 
 ### Developer Guides for 2nd Layer Infrastructure
