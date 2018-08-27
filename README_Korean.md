@@ -64,7 +64,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [롭스텐 파우셋(Ropsten faucet)](http://faucet.ropsten.be:3001/)
 
 ### 이더리움과 정보 전달
-#### 프론트엔드 이더리움 API들
+#### 이더리움 프론트엔드 API들
 * [Web3.js](https://github.com/ethereum/web3.js/) - 자바스크립트 웹3 입니다.
     * [Eth.js](https://github.com/ethjs) - 자바스크립트 웹3 대안입니다.
     * [Ethers.js](https://github.com/ethers-io/ethers.js/)- 자바스크립트 웹3 대안이고, 유용한 유틸리티들과 지갑 기능이 있습니다.
@@ -72,20 +72,20 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
     * [Ethereumjs](https://github.com/ethereumjs/) - 이더리움이 좋아하는  [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util) 와 [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx) 를 위한 유틸리티 함수 모음 입니다.
 
 * [드리즐(Drizzle)](https://github.com/truffle-box/drizzle-box) -  리덕스(Redux) 라이브러리 블록체인 프론트엔드와 연결합니다.
-* [Subproviders](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/subproviders) - [Web3-provider-engine](https://github.com/MetaMask/provider-engine/) 와 함께 사용되는 여러가지 유용한 subproviders 입니다. (당신의 탈중앙화 어플리케이션을 지원하는 렛저(Ledger) 하드웨어 월렛을 위한 LedgerSubprovider를 포함합니다.)
+* [Subproviders](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/subproviders) - [웹3 프로바이더 엔진(Web3-provider-engine)](https://github.com/MetaMask/provider-engine/) 과 함께 사용되는 여러가지 유용한 subproviders 입니다. (당신의 탈중앙화 어플리케이션을 지원하는 렛저(Ledger) 하드웨어 월렛을 위한 LedgerSubprovider를 포함합니다.)
 * [web3-webpacked](https://github.com/NoahHydro/web3-webpacked) - JS 프레임워크를 관리하기 위한 웹3 인젝션 입니다.
 * [볼텍스(Vortex)](https://github.com/Horyus/vortex) - Dapp-ready 리덕스 Store 입니다. 웹소켓(WebSockets) 덕분에 효율적(Smart)이고 민첩(Dynamic)하게 백그라운드 데이터를 새로고침 합니다. [트러플](https://github.com/Horyus/vortex-demo) 과 [엠바크](https://github.com/Horyus/vortex-demo-embark)와 작동합니다.
 
-#### Backend Ethereum APIs
-* [Web3.py](https://github.com/ethereum/web3.py)- Python Web3
-* [Web3.php](https://github.com/sc0Vu/web3.php) - PHP Web3
-* [Web3j](https://github.com/web3j/web3j) - Java Web3
-* [Nethereum](https://nethereum.com/) - .Net Web3
-* [Ethereum.rb](https://github.com/EthWorks/ethereum.rb) - Ruby Web3
-* [Web3.hs](http://hackage.haskell.org/package/web3) - Haskell Web3
-* [KEthereum](https://github.com/walleth/kethereum) - Kotlin Web3
-* [Pyethereum](https://github.com/ethereum/pyethereum) - The Python core library of the Ethereum project
-* [Eventeum](https://github.com/ConsenSys/eventeum) - A bridge between Ethereum smart contract events and backend microservices, written in Java by Kauri
+#### 이더리움 백엔드 API들
+* [Web3.py](https://github.com/ethereum/web3.py)- 파이썬 웹3 입니다.
+* [Web3.php](https://github.com/sc0Vu/web3.php) - PHP 웹3 입니다.
+* [Web3j](https://github.com/web3j/web3j) - 자바 웹3 입니다.
+* [Nethereum](https://nethereum.com/) - 닷넷 웹3 입니다.
+* [Ethereum.rb](https://github.com/EthWorks/ethereum.rb) - 루비 웹3 입니다.
+* [Web3.hs](http://hackage.haskell.org/package/web3) - 하스켈(Haskell) 웹3 입니다.
+* [KEthereum](https://github.com/walleth/kethereum) - 코틀린(Kotlin) 웹3 입니다.
+* [Pyethereum](https://github.com/ethereum/pyethereum) - 이더리움 프로젝트의 파이썬 코어 라이브러리 입니다.
+* [Eventeum](https://github.com/ConsenSys/eventeum) - 이더리움 스마트 컨트렉트 이벤트와 백엔드 마이크로서비스를 연결 합니다. Kauri가 자바로 작성했습니다.
 
 #### Bootstrap/out of box tools
 * [Truffle boxes](http://truffleframework.com/boxes/) - Packaged components for the Ethereum ecosystem
