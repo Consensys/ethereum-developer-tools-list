@@ -101,10 +101,9 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [ABI-gen](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/abi-gen) - 컨트렉트 ABI의 타입스크립트 컨트렉트 래퍼(wrappers)를 생성합니다.
 * [이더리움 ABI UI](https://github.com/hiddentao/ethereum-abi-ui) - 이더리움 컨트렉트 ABI의 필드 정의와 관련 발리데이터(validators) UI를 자동 생성 합니다.
 
+#### 패턴들 & 습관들(Best Practices)
 
-#### Patterns & Best Practices
-
-##### Patterns for Smart Contract Development
+##### 스마트 컨트렉트 개발을 위한 패턴들
 * [Dappsys: Safe, simple, and flexible Ethereum contract building blocks](https://github.com/dapphub/dappsys)
     * has solutions for common problems in Ethereum/Solidity, eg.
         * [Whitelisting](https://steemit.com/ethereum/@nexusdev/dapp-a-day-11-whitelist-boring)
@@ -130,8 +129,8 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
     * [Library driven development](https://blog.aragon.one/library-driven-development-in-solidity-2bebcaf88736)
 * [OpenZeppelin on Proxy Libraries](https://medium.com/zeppelin-blog/proxy-libraries-in-solidity-79fbe4b970fd)
 
-### Infrastructure
-#### Ethereum Clients
+### 기반시설
+#### 이더리움 클라이언트들
 * [Geth](https://github.com/ethereum/go-ethereum/wiki/geth) - Go client
 * [Parity](https://www.parity.io/) - Rust client
 * [Cpp-ethereum](https://github.com/ethereum/cpp-ethereum) - C++ client
