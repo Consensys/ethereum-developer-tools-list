@@ -123,37 +123,38 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [간단한 이더리움 멀티시그(Multisig)](https://medium.com/@ChrisLundkvist/exploring-simpler-ethereum-multisig-contracts-b71020c19037) - 특히 _이득(Benefits)_ 부분
 
 ##### 고급과정(Upgradebility)
-* [Elena Dimitrova의 블로그, Dev at colony.io](https://blog.colony.io/@elena_di)
+* [엘레나 디미트로바(Elena Dimitrova)의 블로그, 콜로니(colony.io) 개발자](https://blog.colony.io/@elena_di)
     * https://blog.colony.io/writing-more-robust-smart-contracts-99ad0a11e948
     * https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88
-* [Aragon의 기술블로그](https://blog.aragon.one/tagged/development)
+* [아라곤(Aragon)의 기술블로그](https://blog.aragon.one/tagged/development)
     * [라이브러리 주도 개발(Library driven development)](https://blog.aragon.one/library-driven-development-in-solidity-2bebcaf88736)
 * [오픈제플린 프록시 라이브러리](https://medium.com/zeppelin-blog/proxy-libraries-in-solidity-79fbe4b970fd)
 
 ### 기반시설
 #### 이더리움 클라이언트들
-* [Geth](https://github.com/ethereum/go-ethereum/wiki/geth) - Go client
-* [Parity](https://www.parity.io/) - Rust client
-* [Cpp-ethereum](https://github.com/ethereum/cpp-ethereum) - C++ client
-* [Pyethapp](https://github.com/ethereum/pyethapp) - Python client using [pyethereum](https://github.com/ethereum/pyethereum)
-* [Trinity](https://github.com/ethereum/trinity) - Python client using [py-evm](https://github.com/ethereum/py-evm)
-* [Ethereumjs](https://github.com/ethereumjs/ethereumjs-client) - JS client using [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-vm)
-* [Ethereumj](https://github.com/ethereum/ethereumj) - Java client by the Ethereum Foundation
-* [Harmony](https://github.com/ether-camp/ethereum-harmony) - Java client by EtherCamp
-* [Seth](https://github.com/dapphub/dapptools/tree/master/src/seth) - Seth is an Ethereum client tool—like a "MetaMask for the command line"
-* [Mustekala](https://github.com/MetaMask/mustekala) - Ethereum Light Client project of Metamask.
-* [Exthereum](https://github.com/exthereum/blockchain) - Elixir client
-* [EWF Parity](https://github.com/energywebfoundation/energyweb-client) - Energy Web Foundation client for the Tobalaba test network
-* [Quorum](https://github.com/jpmorganchase/quorum) - A permissioned implementation of Ethereum supporting data privacy by [JP Morgan](https://www.jpmorgan.com/quorum)
+* [게스(Geth)](https://github.com/ethereum/go-ethereum/wiki/geth) - 고(Go) 클라이언트
+* [패리티(Parity)](https://www.parity.io/) - 러스트(Rust) 클라이언트
+* [Cpp-ethereum](https://github.com/ethereum/cpp-ethereum) - C++ 클라이언트
+* [Pyethapp](https://github.com/ethereum/pyethapp) - [pyethereum](https://github.com/ethereum/pyethereum) 을 이용하는 파이썬 클라이언트
+* [트리니티(Trinity)](https://github.com/ethereum/trinity) - [py-evm](https://github.com/ethereum/py-evm) 을 이용하는 파이썬 클라이언트
+* [이더리움js(Ethereumjs)](https://github.com/ethereumjs/ethereumjs-client) - [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-vm) 을 이용하는 JS 클라이언트
+* [이더리움j(Ethereumj)](https://github.com/ethereum/ethereumj) - 이더리움 재단의 자바 클라이언트
+* [하모니(Harmony)](https://github.com/ether-camp/ethereum-harmony) - 이더캠프(EtherCamp)의 자바 클라이언트
+* [세스(Seth)](https://github.com/dapphub/dapptools/tree/master/src/seth) - 세스는 "커멘드 라인(command line)을 위한 메타마스크" 형태의 이더리움 클라이언트 도구
+* [머스테카라(Mustekala)](https://github.com/MetaMask/mustekala) - 메타마스크의 이더리움 라이트 클라이언트 프로젝트
+* [Exthereum](https://github.com/exthereum/blockchain) - Elixir 클라이언트
+* [EWF 패리티](https://github.com/energywebfoundation/energyweb-client) - Tobalaba 테스트 네트워크를 위한 에너지 웹 재단 클라이언트
+* [큐럼(Quorum)](https://github.com/jpmorganchase/quorum) -
+[제이피모건(JP Morgan)](https://www.jpmorgan.com/quorum)에 의해 데이터 프라이버시를 지원하는 이더리움의 승인받은 구현(permissioned implementation)
 
-#### Storage
+#### 저장소
 * [IPFS](https://ipfs.io/) - Decentralised storage and file referencing
    * [IPFS-Store](https://github.com/ConsenSys/IPFS-Store) - IPFS Storage service with added search capability
    * [OrbitDB](https://github.com/orbitdb/orbit-db) - Decentralised database on top of IPFS
    * [JS IPFS API](https://github.com/ipfs/js-ipfs-api) - A client library for the IPFS HTTP API, implemented in JavaScript.
 * [Swarm](http://swarm-gateways.net/) - Distributed storage platform and content distribution service, a native base layer service of the Ethereum web3 stack
 
-#### Messaging
+#### 메세징
 * [Whisper](https://github.com/ethereum/wiki/wiki/Whisper) - Communication protocol for DApps to communicate with each other, a native base layer service of the Ethereum web3 stack
 * [DEVp2p Wire Protocol](https://github.com/ethereum/wiki/wiki/%C3%90%CE%9EVp2p-Wire-Protocol) - Peer-to-peer communications between nodes running Ethereum/Whisper
 * [Pydevp2p](https://github.com/ethereum/pydevp2p) - Python implementation of the RLPx network layer
