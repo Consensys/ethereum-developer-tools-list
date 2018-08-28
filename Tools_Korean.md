@@ -50,7 +50,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [비주얼 스튜디오 코드(Visual Studio Code)](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) - 비주얼 스튜디오 코드에서 솔리디티 지원 확장 프로그램 입니다.
 * [인텔리j 솔리디티 플러그인(Intellij Solidity Plugin)](https://github.com/intellij-solidity/intellij-solidity/wiki) - Open-source plug-in for [젯브레인 인텔리j 아이디어 통합개발환경(JetBrains IntelliJ Idea IDE)](https://www.jetbrains.com/idea/) (무료/상업용)으로 문법 강조, 형식, 코드 완성 등의 오픈소스 플러그인 입니다.
 * [야킨두 솔리디티 도구(YAKINDU Solidity Tools)](https://github.com/Yakindu/solidity-ide) - 이클립스(Eclipse)를 기반으로 한 통합 개발 환경입니다. 문맥 완성이 민감하고 도움말, 코드 탐색, 문법 색구분, 컴파일러 빌딩, 빠른 수정, 템플릿이 특징입니다.
-* [Eth Fiddle](https://ethfiddle.com/) - IDE developed by [The Loom Network](https://loomx.io/) that allows you to write, compile and debug your smart contract. Easy to share and find code snippets. 
+* [Eth Fiddle](https://ethfiddle.com/) - IDE developed by [The Loom Network](https://loomx.io/) that allows you to write, compile and debug your smart contract. Easy to share and find code snippets.
 
 ### 블록체인 테스트 네트워크들
 * [가나쉬(Ganache)](https://github.com/trufflesuite/ganache) - 시각적인 UI와 로그들을 보여주는 테스트 이더리움 블록체인 어플리케이션 입니다.
@@ -105,30 +105,30 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 #### 패턴들 & 습관들(Best Practices)
 
 ##### 스마트 컨트렉트 개발을 위한 패턴들
-* [Dappsys: Safe, simple, and flexible Ethereum contract building blocks](https://github.com/dapphub/dappsys)
-    * has solutions for common problems in Ethereum/Solidity, eg.
-        * [Whitelisting](https://steemit.com/ethereum/@nexusdev/dapp-a-day-11-whitelist-boring)
-        * [Upgradable ERC20-Token](https://steemit.com/ethereum/@nikolai/dapp-a-day-6-upgradeable-tokens)
+* [댑시스(Dappsys): 안전하고, 단순하며, 유연한 이더리움 컨트렉트 개발 블록](https://github.com/dapphub/dappsys)
+    * 댑시스는 이더리움/솔리디티의 일반적인 문제들에 대한 해결책을 가지고 있습니다. 예로,
+        * [화이트리스팅(Whitelisting)](https://steemit.com/ethereum/@nexusdev/dapp-a-day-11-whitelist-boring)
+        * [향상 가능한 ERC20 토큰(Upgradable ERC20-Token)](https://steemit.com/ethereum/@nikolai/dapp-a-day-6-upgradeable-tokens)
         * [ERC20-Token-Vault](https://steemit.com/ethereum/@nexusdev/dapp-a-day-18-erc20-token-vault)
-        * [Authentication (RBAC)](https://steemit.com/ethereum/@nikolai/dapp-a-day-4-access-control-via-auth)
-        * [...several more...](https://github.com/dapphub/dappsys)
-    * provides building blocks for the [MakerDAO](https://github.com/makerdao/maker-otc) or [The TAO](https://ryepdx.github.io/the-tao/)
-    * should be consulted before creating own, untested, solutions
-    * usage is described in [Dapp-a-day 1-10](https://steemit.com/@nikolai) and [Dapp-a-day 11-25](https://steemit.com/@nexusdev)
-* [OpenZeppelin: An open framework of reusable and secure smart contracts in the Solidity language.](http://zeppelin-solidity.readthedocs.io/en/latest/)
-    * Likely the most widely-used libraries and smart contracts
-    * Similar to Dappsys, more integrated into Truffle framework
-    * [Blog about Best Practices with Security Audits](https://medium.com/zeppelin-blog)
-* [Advanced Workshop with Assembly](https://github.com/androlo/solidity-workshop)
-* [Simpler Ethereum Multisig](https://medium.com/@ChrisLundkvist/exploring-simpler-ethereum-multisig-contracts-b71020c19037) - especially section _Benefits_
+        * [RBAC 증명](https://steemit.com/ethereum/@nikolai/dapp-a-day-4-access-control-via-auth)
+        * [...몇가지 더...](https://github.com/dapphub/dappsys)
+    * [메이커다오(MakerDAO)](https://github.com/makerdao/maker-otc) 와 [더타오(The TAO)](https://ryepdx.github.io/the-tao/) 를 위한 개발 블록들도 제공합니다.
+    * own을 만들거나, 검증되지 않거나, 솔루션 전에 상의해야 합니다.
+    * 사용 설명은 [Dapp-a-day 1-10](https://steemit.com/@nikolai) 과 [Dapp-a-day 11-25](https://steemit.com/@nexusdev) 입니다.
+* [오픈제플린(OpenZeppelin): 솔리디티 언어의 재사용과 안전한 스마트 컨트렉트의 오픈 프레임워크](http://zeppelin-solidity.readthedocs.io/en/latest/)
+    * 가장 널리 사용되는 라이브러리와 스마트 컨트렉트들
+    * 댑시스와 유사하고, 트러플 프레임워크에 더 통합
+    * [보안 검증(Audits)과 습관들에 대한 블로그](https://medium.com/zeppelin-blog)
+* [어셈블리와 향상된 워크샵](https://github.com/androlo/solidity-workshop)
+* [간단한 이더리움 멀티시그(Multisig)](https://medium.com/@ChrisLundkvist/exploring-simpler-ethereum-multisig-contracts-b71020c19037) - 특히 _이득(Benefits)_ 부분
 
-##### Upgradebility
-* [Blog von Elena Dimitrova, Dev at colony.io](https://blog.colony.io/@elena_di)
+##### 고급과정(Upgradebility)
+* [Elena Dimitrova의 블로그, Dev at colony.io](https://blog.colony.io/@elena_di)
     * https://blog.colony.io/writing-more-robust-smart-contracts-99ad0a11e948
     * https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88
-* [Techblog von Aragon](https://blog.aragon.one/tagged/development)
-    * [Library driven development](https://blog.aragon.one/library-driven-development-in-solidity-2bebcaf88736)
-* [OpenZeppelin on Proxy Libraries](https://medium.com/zeppelin-blog/proxy-libraries-in-solidity-79fbe4b970fd)
+* [Aragon의 기술블로그](https://blog.aragon.one/tagged/development)
+    * [라이브러리 주도 개발(Library driven development)](https://blog.aragon.one/library-driven-development-in-solidity-2bebcaf88736)
+* [오픈제플린 프록시 라이브러리](https://medium.com/zeppelin-blog/proxy-libraries-in-solidity-79fbe4b970fd)
 
 ### 기반시설
 #### 이더리움 클라이언트들
