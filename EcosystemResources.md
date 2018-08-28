@@ -78,7 +78,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Ethereum development with Go](https://github.com/miguelmota/ethereum-development-with-go-book) - A little [book](https://goethereumbook.org) on Ethereum Development with Golang
 * [Consensys Academy](https://consensys.net/academy/resources/) - Courses
 * [B9Lab](https://academy.b9lab.com/) - Paid courses
-* [Blockgeeks](https://courses.blockgeeks.com/) - Paid courses
+* [Blockgeeks](https://courses.blockgeeks.com/) - Paid courses on solidity/dapp development.
 * [Chainshot building blocks](https://www.chainshot.com/) - Free Project-Based Courses and Challenges
 * [Delegate call](https://delegatecall.com/) - Q&A site
 * [Stackexchange](https://ethereum.stackexchange.com) - Q&A site
@@ -87,6 +87,8 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Reducing Gas Fees](https://medium.com/@STKtoken/research-of-the-week-reducing-gas-fees-9061d19cc171) - Tips and tricks to reducing gas spent on execution
 * [Dapp University](http://www.dappuniversity.com) - Free Video Tutorials
 * [Attacks on Smart Contracts](https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/)
+* [Zastrin](https://www.zastrin.com) - Paid courses on Solidity/Dapp Development.
+
 
 #### Security best practices
 * [Smart contract best practices](https://github.com/ConsenSys/smart-contract-best-practices) - by ConsenSys
@@ -109,6 +111,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [EVM opcodes](https://github.com/trailofbits/evm-opcodes) - Ethereum opcodes and instruction reference
 * [EVM illustrated](http://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf) - This is an illustrated document about the Ethereum Virtual Machine
 * [4bytes](https://github.com/ethereum-lists/4bytes) - List of 4byte identifiers to common smart contract functions [function signatures](https://www.4byte.directory/)
+* [Solidity cheat sheet](https://topmonks.github.io/solidity_quick_ref/) - Quick overview of Solidity syntax
 
 ### Governance
 * [Ethresear.ch](https://ethresear.ch/) - Semi-public forum for participating in Ethereum’s research efforts, including but not limited to: Casper, Sharding, EVM improvements, Crytpeconomics, Plasma and State-channels
