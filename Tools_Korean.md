@@ -172,17 +172,17 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [디코드(Decode)](https://github.com/dteiml/decode) - 읽을 수 있고 쉽게 이해할 수 있도록 로컬 testrpc 노드에서 제출된 거래를 분석하는 npm 패키지 입니다.
 
 ### 보안 도구들
-* [Mythril](https://github.com/ConsenSys/mythril) - Static smart contract security analysis
-* [Oyente](https://github.com/melonproject/oyente) - Alternative static smart contract security analysis
-* [Securify](https://securify.ch) - Security scanner for Ethereum smart contracts
-* [Porosity](https://github.com/comaeio/porosity) - Decompiler and Security Analysis tool for Blockchain-based Ethereum Smart-Contracts
-* [Ethersplay](https://github.com/trailofbits/ethersplay) - EVM disassembler
-* [Evmdis](https://github.com/Arachnid/evmdis) - Alternative EVM disassembler
-* [Hydra](https://github.com/IC3Hydra/Hydra) - Framework for cryptoeconomic contract security, decentralised security bounties
-* [Solgraph](https://github.com/raineorshine/solgraph) - Visualise Solidity control flow for smart contract security analysis
-* [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool on Smart Contracts and Binaries
-* [Solidity security blog](https://github.com/sigp/solidity-security-blog) - Comprehensive list of known attack vectors and common anti-patterns
-* [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
+* [마이스릴(Mythril)](https://github.com/ConsenSys/mythril) - 정적(Static) 스마트 컨트렉트 보안 분석 입니다.
+* [오옌테(Oyente)](https://github.com/melonproject/oyente) - 정적 스마트 컨트렉트 보안 분석 대안 입니다.
+* [시큐리파이(Securify)](https://securify.ch) - 이더리움 스마트 컨트렉트를 위한 보안 스캐너 입니다.
+* [포로시티(Porosity)](https://github.com/comaeio/porosity) - 블록체인을 기반으로 한 이더리움 스마트 컨트렉트를 위한 디컴파일러(Decompiler)와 보안 분석 도구 입니다.
+* [이더스프레이(Ethersplay)](https://github.com/trailofbits/ethersplay) - EVM 역어셈블러(disassembler) 입니다.
+* [Evmdis](https://github.com/Arachnid/evmdis) - EVM 역어셈블러 대안 입니다.
+* [하이드라(Hydra)](https://github.com/IC3Hydra/Hydra) - 암호화폐경제학(cryptoeconomic) 컨트렉트 보안, 탈중앙화 보안 바운티를 위한 프레임워크 입니다.
+* [솔그래프(Solgraph)](https://github.com/raineorshine/solgraph) - 스마트 컨트렉트 보안분석을 위해 시각적인 솔리디티 제어 흐름을 보여줍니다.
+* [만티코어(Manticore)](https://github.com/trailofbits/manticore) - 스마트 컨트렉트와 바이너리(Binaries)의 심볼릭 실행 도구 입니다.
+* [솔리디티 보안 블로그(Solidity security blog)](https://github.com/sigp/solidity-security-blog) - 알려진 공격 백터(vectors)와 일반적인 안티패턴(anti-patterns) 종합 리스트 입니다.
+* [어썸 버기 ERC20 토큰(Awesome Buggy ERC20 Tokens)](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - 토큰에 영향을 주는 ERC20 스마트 컨트렉트의 취약성 모음 입니다.
 
 ### Monitoring
 * [Neufund - Smart Contract Watch](https://github.com/Neufund/smart-contract-watch) - A tool to monitor a number of smart contracts and transactions
