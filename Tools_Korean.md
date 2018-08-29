@@ -184,27 +184,27 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [솔리디티 보안 블로그(Solidity security blog)](https://github.com/sigp/solidity-security-blog) - 알려진 공격 백터(vectors)와 일반적인 안티패턴(anti-patterns) 종합 리스트 입니다.
 * [어썸 버기 ERC20 토큰(Awesome Buggy ERC20 Tokens)](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - 토큰에 영향을 주는 ERC20 스마트 컨트렉트의 취약성 모음 입니다.
 
-### Monitoring
-* [Neufund - Smart Contract Watch](https://github.com/Neufund/smart-contract-watch) - A tool to monitor a number of smart contracts and transactions
-* [Supermax](https://www.supermax.cool/) - A live data feed of the activities and event logs of your smart contracts on Ethereum
+### 모니터링
+* [노이펀드(Neufund) - Smart Contract Watch](https://github.com/Neufund/smart-contract-watch) - 스마트 컨트렉트와 거래의 수를 모니터하는 도구 입니다.
+* [수퍼맥스(Supermax)](https://www.supermax.cool/) - 이더리움 안에서 당신의 스마트 컨트렉트의 이벤트 로그와 활동을 바로(live) 데이터 피드(data feed) 합니다.
 
-### Other Miscellaneous Tools
-* [Truffle boxes](http://truffleframework.com/boxes/) - Packaged components for building DApps fast.
-   * [Cheshire](https://github.com/endless-nameless-inc/cheshire) - A local sandbox implementation of the CryptoKitties API and smart contracts, available as a Truffle Box
-* [Solc](https://solidity.readthedocs.io/en/latest/using-the-compiler.html?highlight=bin) - Solidity compiler
-* [Sol-compiler](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/sol-compiler) - Project-level Solidity compiler
-* [Solidity cli](https://github.com/pubkey/solidity-cli) - Compile solidity-code faster, easier and more reliable
-* [Solidity flattener](https://github.com/poanetwork/solidity-flattener) - Combine solidity project to flat file utility. Useful for visualizing imported contracts or for verifying your contract on Etherscan
-* [RLP](https://github.com/ethereumjs/rlp) - Recursive Length Prefix Encoding in JavaScript
-* [Ethereal](https://github.com/wealdtech/ethereal) - Ethereal is a command line tool for managing common tasks in Ethereum
-* [Eth crypto](https://github.com/pubkey/eth-crypto) - Cryptographic javascript-functions for Ethereum and tutorials to use them with web3js and solidity
-* [Parity Signer](https://github.com/paritytech/parity-signer) - mobile app allows signing transactions
-* [py-eth](http://www.py eth.com) - Collection of Python tools for the Ethereum ecosystem
-* [truffle-flattener](https://github.com/alcuadrado/truffle-flattener) - Concats solidity files developed under Truffle with all of their dependencies
-* [Decode](https://github.com/dteiml/decode) - npm package which parses tx's submitted to a local testrpc node to make them more readable and easier to understand
-* [TypeChain](https://github.com/Neufund/TypeChain) - Typescript bindings for Ethereum smartcontracts
-* [EthSum](https://ethsum.netlify.com) - A Simple Ethereum Address Checksum Tool
-* [PHP based Blockchain indexer](https://github.com/digitaldonkey/ethereum-php-eventlistener) - allows indexing blocks or listening to Events in PHP
+### 그 밖에 다양한 도구들
+* [트러플 박스(Truffle boxes)](http://truffleframework.com/boxes/) - 탈중앙화 어플리케이션을 빠르게 만들기 위한 패키지 컴포넌트 입니다.
+   * [쳬셔(Cheshire)](https://github.com/endless-nameless-inc/cheshire) - 크립토키티(CryptoKitties) API와 스마트 컨트렉트의 로컬 샌드박스 도구이며, 트러플 박스로 이용 가능합니다.
+* [Solc](https://solidity.readthedocs.io/en/latest/using-the-compiler.html?highlight=bin) - 솔리디티 컴파일러 입니다.
+* [솔컴파일러(Sol-compiler)](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/sol-compiler) - 프로젝트 단계의 솔리디티 컴파일러 입니다.
+* [Solidity cli](https://github.com/pubkey/solidity-cli) - 솔리디티 코드를 빠르고 쉽고, 더 믿을 수 있게 컴파일 합니다.
+* [Solidity flattener](https://github.com/poanetwork/solidity-flattener) - 솔리디티 프로젝트와 단층 파일(flat file) 유틸리티를 합쳐줍니다. 이더스캔(Etherscan)에서 컨트렉트 인증하거나 임포트(imported) 된 컨트렉트 시각화에 유용합니다.
+* [RLP](https://github.com/ethereumjs/rlp) - 자바스크립트의 RLP(Recursive Length Prefix) 인코딩 입니다.
+* [이더리얼(Ethereal)](https://github.com/wealdtech/ethereal) - 이더리얼은 이더리움에서 일반 작업 관리를 위한 커멘드 라인 도구 입니다.
+* [Eth crypto](https://github.com/pubkey/eth-crypto) - web3js와 솔리디티를 사용하는 튜토리얼과 이더리움을 위한 암호적(Cryptographic) 자바스크립트 함수 입니다.
+* [패리티 싸이너(Parity Signer)](https://github.com/paritytech/parity-signer) - 서명(signing) 거래를 모바일 어플리케이션으로 가능하게 합니다.
+* [py-eth](http://www.py eth.com) - 이더리움 생태계를 위한 파이썬 도구들 모음 입니다.
+* [truffle-flattener](https://github.com/alcuadrado/truffle-flattener) - 트러플에서 개발 중인 솔리디티 파일의 의존성(dependencies)을 연결(concats)해 줍니다.
+* [디코드(Decode)](https://github.com/dteiml/decode) - 읽을 수 있고 쉽게 이해할 수 있도록 로컬 testrpc 노드에서 제출된 거래를 분석하는 npm 패키지 입니다.
+* [타입체인(TypeChain)](https://github.com/Neufund/TypeChain) - 이더리움 스마트 컨트렉트를 위한 타입스크립트 바인딩(bindings) 입니다.
+* [EthSum](https://ethsum.netlify.com) - 간단하게 이더리움 주소를 검사합(Checksum)하는 도구 입니다.
+* [PHP를 기반 블록체인 인덱서(PHP based Blockchain indexer)](https://github.com/digitaldonkey/ethereum-php-eventlistener) - PHP에서 이벤트 리스닝 또는 블록 인덱싱 해 줍니다.
 
 ### Smart Contract Standards & Libraries
 #### [ERCs](https://eips.ethereum.org/erc) - The Ethereum Request for Comment repository
