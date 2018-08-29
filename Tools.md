@@ -122,6 +122,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
     * [Blog about Best Practices with Security Audits](https://medium.com/zeppelin-blog)
 * [Advanced Workshop with Assembly](https://github.com/androlo/solidity-workshop)
 * [Simpler Ethereum Multisig](https://medium.com/@ChrisLundkvist/exploring-simpler-ethereum-multisig-contracts-b71020c19037) - especially section _Benefits_
+* [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
 
 ##### Upgradebility
 * [Blog von Elena Dimitrova, Dev at colony.io](https://blog.colony.io/@elena_di)
@@ -217,6 +218,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 
 #### Popular Smart Contract Libraries
 * [Zeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity) - Contains tested reusable smart contracts like [SafeMath](https://openzeppelin.org/api/docs/math_SafeMath.html) and ZeppelinOS [library](https://github.com/zeppelinos/zos-lib) for smart contract upgradeability
+* [cryptofin-solidity](https://github.com/cryptofinlabs/cryptofin-solidity) - A collection of Solidity libraries for building secure and gas-efficient smart contracts on Ethereum.
 * [Modular Libraries](https://github.com/Modular-Network/ethereum-libraries) -  A group of packages built for use on blockchains utilising the Ethereum Virtual Machine
 * [DateTime Library](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary) - A gas-efficient Solidity date and time library
 * [Aragon](https://github.com/aragon/aragon) - DAO protocol
