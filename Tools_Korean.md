@@ -69,12 +69,12 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [Web3.js](https://github.com/ethereum/web3.js/) - 자바스크립트 웹3 입니다.
     * [Eth.js](https://github.com/ethjs) - 자바스크립트 웹3 대안입니다.
     * [Ethers.js](https://github.com/ethers-io/ethers.js/)- 자바스크립트 웹3 대안이고, 유용한 유틸리티들과 지갑 기능이 있습니다.
-    * [Web3Wrapper](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/web3-wrapper)- 타입스크립트 웹3 대안입니다.
-    * [Ethereumjs](https://github.com/ethereumjs/) - 이더리움이 좋아하는  [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util) 와 [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx) 를 위한 유틸리티 함수 모음 입니다.
+    * [웹3래퍼(Web3Wrapper)](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/web3-wrapper)- 타입스크립트 웹3 대안입니다.
+    * [이더리움js(Ethereumjs)](https://github.com/ethereumjs/) - 이더리움이 좋아하는  [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util) 와 [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx) 를 위한 유틸리티 함수 모음 입니다.
 
 * [드리즐(Drizzle)](https://github.com/truffle-box/drizzle-box) -  리덕스(Redux) 라이브러리 블록체인 프론트엔드와 연결합니다.
 * [Subproviders](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/subproviders) - [웹3 프로바이더 엔진(Web3-provider-engine)](https://github.com/MetaMask/provider-engine/) 과 함께 사용되는 여러가지 유용한 subproviders 입니다. (당신의 탈중앙화 어플리케이션을 지원하는 렛저(Ledger) 하드웨어 월렛을 위한 LedgerSubprovider를 포함합니다.)
-* [web3-webpacked](https://github.com/NoahHydro/web3-webpacked) - JS 프레임워크를 관리하기 위한 웹3 인젝션 입니다.
+* [웹3-웹팩(web3-webpacked)](https://github.com/NoahHydro/web3-webpacked) - JS 프레임워크를 관리하기 위한 웹3 인젝션 입니다.
 * [볼텍스(Vortex)](https://github.com/Horyus/vortex) - Dapp-ready 리덕스 Store 입니다. 웹소켓(WebSockets) 덕분에 효율적(Smart)이고 민첩(Dynamic)하게 백그라운드 데이터를 새로고침 합니다. [트러플](https://github.com/Horyus/vortex-demo) 과 [엠바크](https://github.com/Horyus/vortex-demo-embark)와 작동합니다.
 
 #### 이더리움 백엔드 API들
@@ -148,18 +148,18 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 [제이피모건(JP Morgan)](https://www.jpmorgan.com/quorum)에 의해 데이터 프라이버시를 지원하는 이더리움의 승인받은 구현(permissioned implementation)
 
 #### 저장소
-* [IPFS](https://ipfs.io/) - Decentralised storage and file referencing
-   * [IPFS-Store](https://github.com/ConsenSys/IPFS-Store) - IPFS Storage service with added search capability
-   * [OrbitDB](https://github.com/orbitdb/orbit-db) - Decentralised database on top of IPFS
-   * [JS IPFS API](https://github.com/ipfs/js-ipfs-api) - A client library for the IPFS HTTP API, implemented in JavaScript.
-* [Swarm](http://swarm-gateways.net/) - Distributed storage platform and content distribution service, a native base layer service of the Ethereum web3 stack
+* [IPFS](https://ipfs.io/) - 탈중앙화 된 저장소와 파일 레퍼런스(referencing)
+   * [IPFS-Store](https://github.com/ConsenSys/IPFS-Store) - 검색 기능이 포함된 IPFS 저장소 서비스
+   * [OrbitDB](https://github.com/orbitdb/orbit-db) - IPFS의 최상단 탈중앙화 된 데이터베이스
+   * [JS IPFS API](https://github.com/ipfs/js-ipfs-api) - IPFS HTTP API를 위한 클라이언트 라이브러리, 자바스크립트로 실행
+* [스웜(Swarm)](http://swarm-gateways.net/) - 분산화 된 저장소 플랫폼과 컨텐츠 분산 서비스, 이더리움 웹3 스택(stack)의 네이티브(native) 기초 계층 서비스
 
 #### 메세징
-* [Whisper](https://github.com/ethereum/wiki/wiki/Whisper) - Communication protocol for DApps to communicate with each other, a native base layer service of the Ethereum web3 stack
-* [DEVp2p Wire Protocol](https://github.com/ethereum/wiki/wiki/%C3%90%CE%9EVp2p-Wire-Protocol) - Peer-to-peer communications between nodes running Ethereum/Whisper
-* [Pydevp2p](https://github.com/ethereum/pydevp2p) - Python implementation of the RLPx network layer
+* [위스퍼(Whisper)](https://github.com/ethereum/wiki/wiki/Whisper) - 각각의 탈중앙화 어플리케이션들 통신을 위한 의사소통 프로토콜, 이더리움 웹3 스택의 네이티브 기초 계층 서비스
+* [데브p2p 와이어 프로토콜(DEVp2p Wire Protocol)](https://github.com/ethereum/wiki/wiki/%C3%90%CE%9EVp2p-Wire-Protocol) - 작동 중인 이더리움/위스퍼 노드간 피어-투-피어(Peer-to-peer) 통신
+* [파이데브p2p(Pydevp2p)](https://github.com/ethereum/pydevp2p) - RLPx 네트워크 계층의 파이썬 구현
 
-### Testing Tools
+### 테스팅 도구들
 * [Solidity code coverage](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/sol-cov) - Solidity code coverage tool
 * [Solidity coverage](https://github.com/sc-forks/solidity-coverage) - Alternative code coverage for Solidity smart-contracts
 * [Solidity function profiler](https://github.com/EricR/sol-function-profiler) - Solidity contract function profiler
