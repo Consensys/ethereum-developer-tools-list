@@ -116,8 +116,8 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
     * own을 만들거나, 검증되지 않거나, 솔루션 전에 상의해야 합니다.
     * 사용 설명은 [Dapp-a-day 1-10](https://steemit.com/@nikolai) 과 [Dapp-a-day 11-25](https://steemit.com/@nexusdev) 입니다.
 * [오픈제플린(OpenZeppelin): 솔리디티 언어의 재사용과 안전한 스마트 컨트렉트의 오픈 프레임워크](http://zeppelin-solidity.readthedocs.io/en/latest/)
-    * 가장 널리 사용되는 라이브러리와 스마트 컨트렉트들
-    * 댑시스와 유사하고, 트러플 프레임워크에 더 통합
+    * 가장 널리 사용되는 라이브러리와 스마트 컨트렉트들 입니다.
+    * 댑시스와 유사하고, 트러플 프레임워크에 더 통합됩니다.
     * [보안 검증(Audits)과 습관들에 대한 블로그](https://medium.com/zeppelin-blog)
 * [어셈블리와 향상된 워크샵](https://github.com/androlo/solidity-workshop)
 * [간단한 이더리움 멀티시그(Multisig)](https://medium.com/@ChrisLundkvist/exploring-simpler-ethereum-multisig-contracts-b71020c19037) - 특히 _이득(Benefits)_ 부분
@@ -132,46 +132,46 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 
 ### 기반시설
 #### 이더리움 클라이언트들
-* [게스(Geth)](https://github.com/ethereum/go-ethereum/wiki/geth) - 고(Go) 클라이언트
-* [패리티(Parity)](https://www.parity.io/) - 러스트(Rust) 클라이언트
-* [Cpp-ethereum](https://github.com/ethereum/cpp-ethereum) - C++ 클라이언트
-* [Pyethapp](https://github.com/ethereum/pyethapp) - [pyethereum](https://github.com/ethereum/pyethereum) 을 이용하는 파이썬 클라이언트
-* [트리니티(Trinity)](https://github.com/ethereum/trinity) - [py-evm](https://github.com/ethereum/py-evm) 을 이용하는 파이썬 클라이언트
-* [이더리움js(Ethereumjs)](https://github.com/ethereumjs/ethereumjs-client) - [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-vm) 을 이용하는 JS 클라이언트
-* [이더리움j(Ethereumj)](https://github.com/ethereum/ethereumj) - 이더리움 재단의 자바 클라이언트
-* [하모니(Harmony)](https://github.com/ether-camp/ethereum-harmony) - 이더캠프(EtherCamp)의 자바 클라이언트
-* [세스(Seth)](https://github.com/dapphub/dapptools/tree/master/src/seth) - 세스는 "커멘드 라인(command line)을 위한 메타마스크" 형태의 이더리움 클라이언트 도구
-* [머스테카라(Mustekala)](https://github.com/MetaMask/mustekala) - 메타마스크의 이더리움 라이트 클라이언트 프로젝트
-* [Exthereum](https://github.com/exthereum/blockchain) - Elixir 클라이언트
-* [EWF 패리티](https://github.com/energywebfoundation/energyweb-client) - Tobalaba 테스트 네트워크를 위한 에너지 웹 재단 클라이언트
+* [게스(Geth)](https://github.com/ethereum/go-ethereum/wiki/geth) - 고(Go) 클라이언트 입니다.
+* [패리티(Parity)](https://www.parity.io/) - 러스트(Rust) 클라이언트 입니다.
+* [Cpp-ethereum](https://github.com/ethereum/cpp-ethereum) - C++ 클라이언트 입니다.
+* [Pyethapp](https://github.com/ethereum/pyethapp) - [pyethereum](https://github.com/ethereum/pyethereum) 을 이용하는 파이썬 클라이언트 입니다.
+* [트리니티(Trinity)](https://github.com/ethereum/trinity) - [py-evm](https://github.com/ethereum/py-evm) 을 이용하는 파이썬 클라이언트 입니다.
+* [이더리움js(Ethereumjs)](https://github.com/ethereumjs/ethereumjs-client) - [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-vm) 을 이용하는 JS 클라이언트 입니다.
+* [이더리움j(Ethereumj)](https://github.com/ethereum/ethereumj) - 이더리움 재단의 자바 클라이언트 입니다.
+* [하모니(Harmony)](https://github.com/ether-camp/ethereum-harmony) - 이더캠프(EtherCamp)의 자바 클라이언트 입니다.
+* [세스(Seth)](https://github.com/dapphub/dapptools/tree/master/src/seth) - 세스는 "커멘드 라인(command line)을 위한 메타마스크" 형태의 이더리움 클라이언트 도구 입니다.
+* [머스테카라(Mustekala)](https://github.com/MetaMask/mustekala) - 메타마스크의 이더리움 라이트 클라이언트 프로젝트 입니다.
+* [Exthereum](https://github.com/exthereum/blockchain) - Elixir 클라이언트 입니다.
+* [EWF 패리티](https://github.com/energywebfoundation/energyweb-client) - Tobalaba 테스트 네트워크를 위한 에너지 웹 재단 클라이언트 입니다.
 * [큐럼(Quorum)](https://github.com/jpmorganchase/quorum) -
-[제이피모건(JP Morgan)](https://www.jpmorgan.com/quorum)에 의해 데이터 프라이버시를 지원하는 이더리움의 승인받은 구현(permissioned implementation)
+[제이피모건(JP Morgan)](https://www.jpmorgan.com/quorum)에 의해 데이터 프라이버시를 지원하는 이더리움의 승인받은 구현(permissioned implementation) 입니다.
 
 #### 저장소
-* [IPFS](https://ipfs.io/) - 탈중앙화 된 저장소와 파일 레퍼런스(referencing)
+* [IPFS](https://ipfs.io/) - 탈중앙화 된 저장소와 파일 레퍼런스(referencing) 입니다.
    * [IPFS-Store](https://github.com/ConsenSys/IPFS-Store) - 검색 기능이 포함된 IPFS 저장소 서비스
    * [OrbitDB](https://github.com/orbitdb/orbit-db) - IPFS의 최상단 탈중앙화 된 데이터베이스
    * [JS IPFS API](https://github.com/ipfs/js-ipfs-api) - IPFS HTTP API를 위한 클라이언트 라이브러리, 자바스크립트로 실행
-* [스웜(Swarm)](http://swarm-gateways.net/) - 분산화 된 저장소 플랫폼과 컨텐츠 분산 서비스, 이더리움 웹3 스택(stack)의 네이티브(native) 기초 계층 서비스
+* [스웜(Swarm)](http://swarm-gateways.net/) - 분산화 된 저장소 플랫폼과 컨텐츠 분산 서비스, 이더리움 웹3 스택(stack)의 네이티브(native) 기초 계층 서비스 입니다.
 
 #### 메세징
-* [위스퍼(Whisper)](https://github.com/ethereum/wiki/wiki/Whisper) - 각각의 탈중앙화 어플리케이션들 통신을 위한 의사소통 프로토콜, 이더리움 웹3 스택의 네이티브 기초 계층 서비스
-* [데브p2p 와이어 프로토콜(DEVp2p Wire Protocol)](https://github.com/ethereum/wiki/wiki/%C3%90%CE%9EVp2p-Wire-Protocol) - 작동 중인 이더리움/위스퍼 노드간 피어-투-피어(Peer-to-peer) 통신
-* [파이데브p2p(Pydevp2p)](https://github.com/ethereum/pydevp2p) - RLPx 네트워크 계층의 파이썬 구현
+* [위스퍼(Whisper)](https://github.com/ethereum/wiki/wiki/Whisper) - 각각의 탈중앙화 어플리케이션들 통신을 위한 의사소통 프로토콜, 이더리움 웹3 스택의 네이티브 기초 계층 서비스 입니다.
+* [데브p2p 와이어 프로토콜(DEVp2p Wire Protocol)](https://github.com/ethereum/wiki/wiki/%C3%90%CE%9EVp2p-Wire-Protocol) - 작동 중인 이더리움/위스퍼 노드간 피어-투-피어(Peer-to-peer) 통신 입니다.
+* [파이데브p2p(Pydevp2p)](https://github.com/ethereum/pydevp2p) - RLPx 네트워크 계층의 파이썬 구현 입니다.
 
 ### 테스팅 도구들
-* [Solidity code coverage](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/sol-cov) - Solidity code coverage tool
-* [Solidity coverage](https://github.com/sc-forks/solidity-coverage) - Alternative code coverage for Solidity smart-contracts
-* [Solidity function profiler](https://github.com/EricR/sol-function-profiler) - Solidity contract function profiler
-* [Espresso](https://github.com/hillstreetlabs/espresso) - Speedy, parallelised, hot-reloading solidity test framework
-* [Eth tester](https://github.com/ethereum/eth-tester) - Tool suite for testing Ethereum applications
-* [Cliquebait](https://github.com/f-o-a-m/cliquebait) - Simplifies integration and accepting testing of smart contract applications with docker instances that closely resembles a real blockchain network
-* [Hevm](https://github.com/dapphub/dapptools/tree/master/src/hevm) - The hevm project is an implementation of the Ethereum virtual machine (EVM) made specifically for unit testing and debugging smart contracts
-* [Ethereum graph debugger](https://github.com/fergarrui/ethereum-graph-debugger) - Solidity graphical debugger
-* [Solium](https://github.com/duaraghav8/Solium) - Linter to identify and fix style & security issues in Solidity
-* [Decode](https://github.com/dteiml/decode) - npm package which parses tx's submitted to a local testrpc node to make them more readable and easier to understand
+* [솔리디티 코드 커버리지(Solidity code coverage)](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/sol-cov) - 솔리디티 코드 커버리지 도구 입니다.
+* [솔리디티 커버리지(Solidity coverage)](https://github.com/sc-forks/solidity-coverage) - 솔리디티 스마트 컨트렉트를 위한 코드 커버리지 대안 입니다.
+* [솔리디티 함수 프로파일러(Solidity function profiler)](https://github.com/EricR/sol-function-profiler) - 솔리디티 컨트렉트 함수 프로파일러 입니다.
+* [에스프레소(Espresso)](https://github.com/hillstreetlabs/espresso) - 빠르고, 병렬(parallelised) 방식이며, 핫 리로딩(hot-reloading)이 있는 솔리디티 테스트 프레임워크 입니다.
+* [Eth tester](https://github.com/ethereum/eth-tester) - 테스팅 이더리움 어플리케이션들을 위한 도구 세트(Tool suite) 입니다.
+* [클리끄베이트(Cliquebait)](https://github.com/f-o-a-m/cliquebait) - 실제 블록체인 네트워크와 유사한 도커(docker) 인스턴스를 사용해 스마트 컨트렉트 어플리케이션을 통합(integration)하고 테스팅을 합니다.
+* [Hevm](https://github.com/dapphub/dapptools/tree/master/src/hevm) - hevm 프로젝트는 단위 테스팅과 스마트 컨트렉트 디버깅을 위해 특별히 만들어진 이더리움 가상 머신(EVM) 구현체 입니다.
+* [이더리움 그래프 디버거(Ethereum graph debugger)](https://github.com/fergarrui/ethereum-graph-debugger) - 솔리디티 그래픽적인 디버거 입니다.
+* [솔리움(Solium)](https://github.com/duaraghav8/Solium) - 솔리디티 보안 이슈 & 식별과 스타일 수정을 린터(Linter)로 합니다.
+* [디코드(Decode)](https://github.com/dteiml/decode) - 읽을 수 있고 쉽게 이해할 수 있도록 로컬 testrpc 노드에서 제출된 거래를 분석하는 npm 패키지 입니다.
 
-### Security Tools
+### 보안 도구들
 * [Mythril](https://github.com/ConsenSys/mythril) - Static smart contract security analysis
 * [Oyente](https://github.com/melonproject/oyente) - Alternative static smart contract security analysis
 * [Securify](https://securify.ch) - Security scanner for Ethereum smart contracts
