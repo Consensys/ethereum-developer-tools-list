@@ -121,6 +121,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
     * [보안 검증(Audits)과 습관들에 대한 블로그](https://medium.com/zeppelin-blog)
 * [어셈블리와 향상된 워크샵](https://github.com/androlo/solidity-workshop)
 * [간단한 이더리움 멀티시그(Multisig)](https://medium.com/@ChrisLundkvist/exploring-simpler-ethereum-multisig-contracts-b71020c19037) - 특히 _이득(Benefits)_ 부분
+* [크립토핀 솔리디티 감사 체크리스크(CryptoFin Solidity Auditing Checklist)](https://github.com/cryptofinlabs/audit-checklist) - 일반적인 조사 결과들(findings)과 메인넷 시작(launch)을 위한 컨트렉트 분석(auditing)때 주의해야 할 이슈의 체크리스트 입니다.
 
 ##### 고급과정(Upgradebility)
 * [엘레나 디미트로바(Elena Dimitrova)의 블로그, 콜로니(colony.io) 개발자](https://blog.colony.io/@elena_di)
@@ -217,6 +218,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 
 #### 인기있는 스마트 컨트렉트 라이브러리들
 * [제플린(Zeppelin)](https://github.com/OpenZeppelin/openzeppelin-solidity) - 스마트 컨트렉트 향상을 위한 제플린OS [라이브러리](https://github.com/zeppelinos/zos-lib) 와 [세이프매스(SafeMath)](https://openzeppelin.org/api/docs/math_SafeMath.html)와 같이 테스트 된 재사용가능 스마트 컨트렉트들이 포함되어 있습니다.
+* [크립토핀 솔리디티(cryptofin-solidity)](https://github.com/cryptofinlabs/cryptofin-solidity) - 이더리움에서 가스 효율이 좋은 스마트 컨트렉트와 보안 구축을 위한 솔리디티 라이브러리 모음 입니다.
 * [모듈러 라이브러리(Modular Libraries)](https://github.com/Modular-Network/ethereum-libraries) - 이더리움 가상 머신을 활용하는 블록체인 사용을 위한 개발 패키지 그룹 입니다.
 * [데이트타임 라이브러리(DateTime Library)](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary) - 가스 효율이 좋은 솔리디티 일시(date and time) 라이브러리 입니다.
 * [아라곤(Aragon)](https://github.com/aragon/aragon) - DAO 프로토콜 입니다.
