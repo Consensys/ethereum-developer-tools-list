@@ -199,21 +199,21 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [이더리얼(Ethereal)](https://github.com/wealdtech/ethereal) - 이더리얼은 이더리움에서 일반 작업 관리를 위한 커멘드 라인 도구 입니다.
 * [Eth crypto](https://github.com/pubkey/eth-crypto) - web3js와 솔리디티를 사용하는 튜토리얼과 이더리움을 위한 암호적(Cryptographic) 자바스크립트 함수 입니다.
 * [패리티 싸이너(Parity Signer)](https://github.com/paritytech/parity-signer) - 서명(signing) 거래를 모바일 어플리케이션으로 가능하게 합니다.
-* [py-eth](http://www.py eth.com) - 이더리움 생태계를 위한 파이썬 도구들 모음 입니다.
+* [py-eth](http://www.pyeth.com) - 이더리움 생태계를 위한 파이썬 도구들 모음 입니다.
 * [truffle-flattener](https://github.com/alcuadrado/truffle-flattener) - 트러플에서 개발 중인 솔리디티 파일의 의존성(dependencies)을 연결(concats)해 줍니다.
 * [디코드(Decode)](https://github.com/dteiml/decode) - 읽을 수 있고 쉽게 이해할 수 있도록 로컬 testrpc 노드에서 제출된 거래를 분석하는 npm 패키지 입니다.
 * [타입체인(TypeChain)](https://github.com/Neufund/TypeChain) - 이더리움 스마트 컨트렉트를 위한 타입스크립트 바인딩(bindings) 입니다.
 * [EthSum](https://ethsum.netlify.com) - 간단하게 이더리움 주소를 검사합(Checksum)하는 도구 입니다.
 * [PHP를 기반 블록체인 인덱서(PHP based Blockchain indexer)](https://github.com/digitaldonkey/ethereum-php-eventlistener) - PHP에서 이벤트 리스닝 또는 블록 인덱싱 해 줍니다.
 
-### Smart Contract Standards & Libraries
-#### [ERCs](https://eips.ethereum.org/erc) - The Ethereum Request for Comment repository
-* Tokens
-  * [ERC-20](https://eips.ethereum.org/EIPS/eip-20) - Original token contract for fungible assets
-  * [ERC-721](https://github.com/ethereum/eips/issues/721) - Token standard for non-fungible assets
-* [ERC-165](https://eips.ethereum.org/EIPS/eip-165) -  Creates a standard method to publish and detect what interfaces a smart contract implements.
-* [ERC-725](https://eips.ethereum.org/EIPS/eip-725) -  Proxy contract for key management and execution, to establish a Blockchain identity.
-* [ERC-173](https://eips.ethereum.org/EIPS/eip-173) - A standard interface for ownership of contracts
+### 스마트 컨트렉트 표준들 & 라이브러리들
+#### [ERCs](https://eips.ethereum.org/erc) - 이더리움 주석 요청(Ethereum Request for Comment) 리포지토리(repository)
+* 토큰들
+  * [ERC-20](https://eips.ethereum.org/EIPS/eip-20) - 대체 가능 자산(fungible assets)의 토큰 컨트렉트 입니다.
+  * [ERC-721](https://github.com/ethereum/eips/issues/721) - 대체 불가 자산(non-fungible assets) 토큰 기준 입니다.
+* [ERC-165](https://eips.ethereum.org/EIPS/eip-165) - 스마트 컨트렉트 도구 인터페이스 확인(detect)과 발행(publish)를 표준 방법으로 생성 합니다.
+* [ERC-725](https://eips.ethereum.org/EIPS/eip-725) - 키 관리와 실행, 블록체인 아이덴티 구축을 위한 프록시 컨트렉트 입니다.
+* [ERC-173](https://eips.ethereum.org/EIPS/eip-173) - 컨트렉트의 소유권(ownership)을 위한 표준 인터페이스 입니다.
 
 #### Popular Smart Contract Libraries
 * [Zeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity) - Contains tested reusable smart contracts like [SafeMath](https://openzeppelin.org/api/docs/math_SafeMath.html) and ZeppelinOS [library](https://github.com/zeppelinos/zos-lib) for smart contract upgradeability
