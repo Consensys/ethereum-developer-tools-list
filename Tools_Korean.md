@@ -207,7 +207,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [PHP를 기반 블록체인 인덱서(PHP based Blockchain indexer)](https://github.com/digitaldonkey/ethereum-php-eventlistener) - PHP에서 이벤트 리스닝 또는 블록 인덱싱 해 줍니다.
 
 ### 스마트 컨트렉트 표준들 & 라이브러리들
-#### [ERCs](https://eips.ethereum.org/erc) - 이더리움 주석 요청(Ethereum Request for Comment) 리포지토리(repository)
+#### [ERCs](https://eips.ethereum.org/erc) - 이더리움 주석 요청(Ethereum Request for Comment) 레포지토리(repository)
 * 토큰들
   * [ERC-20](https://eips.ethereum.org/EIPS/eip-20) - 대체 가능 자산(fungible assets)의 토큰 컨트렉트 입니다.
   * [ERC-721](https://github.com/ethereum/eips/issues/721) - 대체 불가 자산(non-fungible assets) 토큰 기준 입니다.
@@ -225,25 +225,25 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 
 ### 2번째 계층 구조(Infrastructure)를 위한 개발자 가이드들
 
-#### Scalability
+#### 확장성(Scalability)
 
-#### Payment/State Channels
-* [Ethereum Payment Channel](https://medium.com/@matthewdif/ethereum-payment-channel-in-50-lines-of-code-a94fad2704bc) - Ethereum Payment Channel in 50 lines of code
-* [µRaiden Documentation](http://microraiden.readthedocs.io) - Guides and Samples for µRaiden Sender/Receiver Use Cases
+#### 결제/상태 채널들(Payment/State Channels)
+* [이더리움 결제 채널](https://medium.com/@matthewdif/ethereum-payment-channel-in-50-lines-of-code-a94fad2704bc) - 50 줄 코드의 이더리움 결제 채널 입니다.
+* [뮤라이덴 문서(µRaiden Documentation)](http://microraiden.readthedocs.io) - 뮤라이덴 발신자/수신자 유스케이스(Use Cases)를 위한 샘플과 가이드 입니다.
 
-#### Plasma
-* [Plasma MVP](https://github.com/omisego/plasma-mvp) - OmiseGO's research implementation of Minimal Viable Plasma
-* [Plasma MVP Golang](https://github.com/kyokan/plasma) - Golang implementation and extension of the Minimum Viable Plasma specification
-* [Plasma Cash](https://github.com/mkchungs/plasma-cash) - Simple Plasma Cash implementation
+#### 플라즈마(Plasma)
+* [플라즈마 MVP](https://github.com/omisego/plasma-mvp) - 오미세고(OmiseGO)의 최소 실행 가능한 플라즈마의 연구 구현물 입니다.
+* [플라즈마 MVP 고랭(Golang)](https://github.com/kyokan/plasma) - 최소 실행 가능한 플라즈마 규격 확장과 고랭 구현물 입니다.
+* [플라즈마 캐시(Cash)](https://github.com/mkchungs/plasma-cash) - 간단한 플라즈마 캐시 구현물 입니다.
 
-#### Side-Chains
+#### 사이드체인들
 * [POA Network](https://poa.net/)
   * [POA Bridge](http://bridge.poa.net/)
   * [POA Bridge UI](https://github.com/poanetwork/bridge-ui)
   * [POA Bridge Contracts](https://github.com/poanetwork/poa-bridge-contracts)
-  * [Loom Network](https://github.com/loomnetwork)
+  * [룸 네트워크(Loom Network)](https://github.com/loomnetwork)
 
-#### Privacy
+#### 프라이버시
 
 ##### zkSNARKs
-* [ZoKrates](https://github.com/JacobEberhardt/ZoKrates) - A toolbox for zkSNARKS on Ethereum
+* [ZoKrates](https://github.com/JacobEberhardt/ZoKrates) - 이더리움에서 zkSNARKS을 위한 툴박스 입니다.
