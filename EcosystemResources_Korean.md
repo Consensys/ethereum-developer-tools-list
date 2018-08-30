@@ -16,17 +16,16 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [메타마스크(Metamask)](https://metamask.io/) - ERC 토큰들을 지원하는 크롬 확장(extension) 이더 지갑 입니다.
 * [노시스 멀티시그 지갑(Gnosis multisig wallet)](https://github.com/gnosis/MultiSigWallet) - 검증된(Audited) 멀티 시그 지갑 입니다.  
 * [미스트(Mist)](https://github.com/ethereum/mist) - 이더리움 네트워크의 탈중앙화 어플리케이션에서 사용가능하고 인터넷 사용(Browse)할 수 있습니다.
-* [엑소더스(Exodus)](https://www.exodus.io) - Shapeshift와 통합된 데스크탑 지갑 입니다.
+* [엑소더스(Exodus)](https://www.exodus.io) - 쉐이프시프트(Shapeshift)와 통합된 데스크탑 지갑 입니다.
 
-#### Web Wallets
-* [MyEtherWallet](https://github.com/MyEtherWallet) - Open-source [tools](https://www.myetherwallet.com/) for interacting with the blockchains easily & securely
-* [Ether Address Lookup](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn?hl=en-GB) - Chrome extension for phishing protection and Eth address highlighting
-* [MyCrypto](https://github.com/MyCryptoHQ) - Open-source, client-side [tool](https://mycrypto.com/account) for generating ether wallets, handling ERC-20 tokens, and interacting with the blockchain more easily
-* [Portis](https://portis.io/) - Web-based wallet for easy user on-boarding to your DApp
-* [Eth lightwallet](https://github.com/ConsenSys/eth-lightwallet) - Lightweight JS Wallet for Node and the browser
-* [SpankCard](https://github.com/SpankChain/SpankCard) - An in-browser Ethereum wallet with support for payment channels
-* [Mnemonic generator](https://iancoleman.io/bip39/) - generate word mnemonic and associated public/private key pairs. Select "Ethereum" as coin to generate Ethereum addresses. Useful for truffle-hd-wallet.
-
+#### 웹 지갑들
+* [마이이더월렛(MyEtherWallet)](https://github.com/MyEtherWallet) - 블록체인을 쉽고 안전하게 이용하기 위한 오픈소스 [도구](https://www.myetherwallet.com/) 입니다.
+* [이더 어드레스 룩업(Ether Address Lookup)](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn?hl=en-GB) - 피싱(phishing) 방지하고 이더리움 주소를 강조하기 위한 크롬 확장 프로그램 입니다.
+* [마이크립토(MyCrypto)](https://github.com/MyCryptoHQ) - 오픈 소스이고, 블록체인과 더 쉽게 작동하며, ERC-20 토큰들을 다룰 수 있고, 이더리움 지갑을 생성하기 위한 클라이언트 쪽 [도구](https://mycrypto.com/account) 입니다.
+* [포티스(Portis)](https://portis.io/) - 당신의 탈중앙화 어플리케이션을 사용자가 쉽게 적응하기(on-boarding) 위한 웹 기반 지갑 입니다.
+* [Eth 라이트월렛(lightwallet)](https://github.com/ConsenSys/eth-lightwallet) - 브라우저와 노드를 위해 가벼운(Lightweight) JS 지갑 입니다.
+* [스팽크카드(SpankCard)](https://github.com/SpankChain/SpankCard) - 결제 채널을 지원하며 브라우저에 내장된 이더리움 지갑 입니다.
+* [니모닉 제네레이터(Mnemonic generator)](https://iancoleman.io/bip39/) - 단어 연상기호(mnemonic)와 퍼블릭/프라이빗 키 쌍(key pairs)들을 생성합니다. 이더리움 주소를 생성하려면 "이더리움"을 선택하세요. truffle-hd-wallet과 유용 합니다.
 
 #### Mobile Wallets
 * [Toshi](https://github.com/toshiapp) - Mobile Dapp explorer and [wallet](https://itunes.apple.com/us/app/toshi-ethereum-wallet/id1278383455?mt=8)
