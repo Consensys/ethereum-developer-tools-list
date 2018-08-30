@@ -4,7 +4,7 @@
 
 신입과 경력있는 블록체인 개발자들 사이에서 툴과 개발 패턴, 컴포넌트들의 더 좋은 공유를 원하는 컨센시스(ConsenSys)의 프로덕트 매니저에 의해 이 리스트가 만들어졌습니다.
 
-이 자료(resource)는 개발자 툴에 집중하는 것 처럼 여겨지지만, 이 저장소에는 유용한 탈중앙화 어플리케이션(DApps)과 교육적인 자료들, 지갑들, 서비스들을 위한 [이더리움 생태계 자료들(Ethereum Ecosystem Resources)](EcosystemResources.md)도 포함되어 있습니다.
+이 자료(resource)는 개발자 툴에 집중하는 것 처럼 여겨지지만, 이 저장소에는 유용한 탈중앙화 어플리케이션(DApps)과 교육적인 자료들, 지갑들, 서비스들을 위한 [이더리움 생태계 자료들(Ethereum Ecosystem Resources)](EcosystemResources_Korean.md)도 포함되어 있습니다.
 
 ## 기여자들(Contributions)을 환영합니다!
 
