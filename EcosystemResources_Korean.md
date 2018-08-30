@@ -1,22 +1,22 @@
 
-# Ecosystem Resources
-A guide to the available dapps, services, writings, and knowledge bases for learning and understanding the Ethereum ecosystem.
+# 생태계 자료들(Ecosystem Resources)
+이더리움 생태계 이해와 실행 가능한 탈중앙화 어플리케이션들, 서비스들, 글들(writings) 과 학습을 위한 지식 기반(knowledge) 가이드 입니다.
 
-This resource is meant to be focused on ecosystem development, but the repo also includes:
-* [Ethereum Developer Tools List](README.md)
+이 자료는 생태계 자료들에 집중하는 것 뿐만 아니라, [이더리움 개발자 도구 리스트(Ethereum Developer Tools List)](Tools_Korean.md)도 포함되어 있습니다.
 
-## Contributions are welcome!
+## 기여자들(Contributions)을 환영합니다!
 
-Feel free to submit a pull request, with anything from small fixes to tools you'd like to add. If adding a new tool, **please add a brief description** that you think new developers would understand.
+작은 수정에서 부터 추가하려는 툴까지 어느 것이든 자유롭게 풀리퀘스트(pull request)를 해주세요.
+만약에 새로운 툴을 추가하면, 당신이 생각하기에 새로운 개발자들이 이해할 수 있도록 **간략한 설명을 적어주세요**
 
-Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/corbpage) of Meridio for the idea, [@pakaplace](https://twitter.com/Parker_Place) for expanding and curating, and @jpantunes for restructuring the list in a more logical way.
+Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레이팅을 한 [@pakaplace](https://twitter.com/Parker_Place), 그리고 좀 더 논리적인 방법으로 리스트를 재구축한 @jpantunes 를 포함해 20명이 넘는 기여자들에게 감사를 표합니다.
 
-## Resources
-### Wallets
-* [Metamask](https://metamask.io/) - Chrome extension Ether wallet with ERC tokens support
-* [Gnosis multisig wallet](https://github.com/gnosis/MultiSigWallet) - Audited multi-sig wallet  
-* [Mist](https://github.com/ethereum/mist) - Browse and use Dapps on the Ethereum network 
-* [Exodus](https://www.exodus.io) - Desktop wallet with Shapeshift integration
+## 자료들
+### 지갑들
+* [메타마스크(Metamask)](https://metamask.io/) - ERC 토큰들을 지원하는 크롬 확장(extension) 이더 지갑 입니다.
+* [노시스 멀티시그 지갑(Gnosis multisig wallet)](https://github.com/gnosis/MultiSigWallet) - 검증된(Audited) 멀티 시그 지갑 입니다.  
+* [미스트(Mist)](https://github.com/ethereum/mist) - 이더리움 네트워크의 탈중앙화 어플리케이션에서 사용가능하고 인터넷 사용(Browse)할 수 있습니다.
+* [엑소더스(Exodus)](https://www.exodus.io) - Shapeshift와 통합된 데스크탑 지갑 입니다.
 
 #### Web Wallets
 * [MyEtherWallet](https://github.com/MyEtherWallet) - Open-source [tools](https://www.myetherwallet.com/) for interacting with the blockchains easily & securely
