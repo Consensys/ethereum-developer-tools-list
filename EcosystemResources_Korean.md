@@ -23,20 +23,19 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [이더 어드레스 룩업(Ether Address Lookup)](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn?hl=en-GB) - 피싱(phishing) 방지하고 이더리움 주소를 강조하기 위한 크롬 확장 프로그램 입니다.
 * [마이크립토(MyCrypto)](https://github.com/MyCryptoHQ) - 오픈 소스이고, 블록체인과 더 쉽게 작동하며, ERC-20 토큰들을 다룰 수 있고, 이더리움 지갑을 생성하기 위한 클라이언트 쪽 [도구](https://mycrypto.com/account) 입니다.
 * [포티스(Portis)](https://portis.io/) - 당신의 탈중앙화 어플리케이션을 사용자가 쉽게 적응하기(on-boarding) 위한 웹 기반 지갑 입니다.
-* [Eth 라이트월렛(lightwallet)](https://github.com/ConsenSys/eth-lightwallet) - 브라우저와 노드를 위해 가벼운(Lightweight) JS 지갑 입니다.
+* [Eth 라이트월렛(Eth-lightwallet)](https://github.com/ConsenSys/eth-lightwallet) - 브라우저와 노드를 위해 가벼운(Lightweight) JS 지갑 입니다.
 * [스팽크카드(SpankCard)](https://github.com/SpankChain/SpankCard) - 결제 채널을 지원하며 브라우저에 내장된 이더리움 지갑 입니다.
 * [니모닉 제네레이터(Mnemonic generator)](https://iancoleman.io/bip39/) - 단어 연상기호(mnemonic)와 퍼블릭/프라이빗 키 쌍(key pairs)들을 생성합니다. 이더리움 주소를 생성하려면 "이더리움"을 선택하세요. truffle-hd-wallet과 유용 합니다.
 
-#### Mobile Wallets
-* [Toshi](https://github.com/toshiapp) - Mobile Dapp explorer and [wallet](https://itunes.apple.com/us/app/toshi-ethereum-wallet/id1278383455?mt=8)
-* [Cypher](https://www.cipherbrowser.com/) - Mobile Dapp explorer
-* [Trust](https://github.com/TrustWallet/trust-wallet-ios) - Mobile [wallet](https://trustwalletapp.com/) for ERC tokens
-* [Status](https://github.com/status-im/status-react) - A free open-source, mobile OS for Ethereum
-* [imToken](https://token.im/) - Feature-rich digital asset mobile wallet enabling multi-chain asset management, DApp browsing and secure, private exchange of value
-* [Jaxx](https://jaxx.io) - Both a mobile and a desktop wallet. Has integrated Shapeshift support
-* [WallETH](https://walleth.org) - Native Android Ethereum Wallet
-+ [eth-wallet-light](https://github.com/NoahHydro/eth-wallet-light) - Lightweight JS Wallet optimized for mobile
-
+#### 모바일 지갑들
+* [토시(Toshi)](https://github.com/toshiapp) - 모바일 탈중앙화 어플리케이션 익스플로러(explorer)와 [지갑](https://itunes.apple.com/us/app/toshi-ethereum-wallet/id1278383455?mt=8) 입니다.
+* [사이퍼(Cypher)](https://www.cipherbrowser.com/) - 모바일 탈중앙화 익스플로러 입니다.
+* [트러스트(Trust)](https://github.com/TrustWallet/trust-wallet-ios) - ERC 토큰들을 위한 모바일 [지갑](https://trustwalletapp.com/) 입니다.
+* [스테이터스(Status)](https://github.com/status-im/status-react) - 이더리움 기반의 모바일 운영체제(OS)로, 무료이며 오픈소스 입니다.
+* [아임토큰(imToken)](https://token.im/) - 멀티 체인 자산 관리, 탈중앙화 어플리케이션 브라우징과 보안, 프라이빗 거래를 가능하게 하는 다양한 기능의 모바일 디지털 자산 지갑 입니다.
+* [작스(Jaxx)](https://jaxx.io) - 모바일과 데스크탑에 사용가능 한 지갑이며, 쉐이프시프트(Shapeshift) 지원이 통합되어 있습니다.
+* [WallETH](https://walleth.org) - 안드로이드 기반 이더리움 지갑 입니다.
++ [eth 월렛라이트(eth-wallet-light)](https://github.com/NoahHydro/eth-wallet-light) - 모바일로 최적화된 가벼운 JS 지갑 입니다.
 
 #### Hardware Wallets
 * [Trezor](https://trezor.io) - The original hardware wallet
