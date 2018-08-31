@@ -37,10 +37,10 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [WallETH](https://walleth.org) - 안드로이드 기반 이더리움 지갑 입니다.
 + [eth 월렛라이트(eth-wallet-light)](https://github.com/NoahHydro/eth-wallet-light) - 모바일로 최적화된 가벼운 JS 지갑 입니다.
 
-#### Hardware Wallets
-* [Trezor](https://trezor.io) - The original hardware wallet
-* [Ledger](https://www.ledgerwallet.com) - Support for multiple cryptocurrencies and tokens
-* [KeepKey](https://www.keepkey.com) - The simple hardware wallet
+#### 하드웨어 지갑들
+* [트레져(Trezor)](https://trezor.io) - 오리지널 하드웨어 지갑 입니다.
+* [렛져(Ledger)](https://www.ledgerwallet.com) - 다양한 암호화폐와 토큰을 지원 합니다.
+* [킵키(KeepKey)](https://www.keepkey.com) - 단순한 하드웨어 지갑 입니다.
 
 ### Block explorers
 * [Etherscan](https://etherscan.io/) - Most popular centralised way to view Eth transactions and contract code
