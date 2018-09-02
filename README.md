@@ -101,6 +101,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [ABI decoder](https://github.com/ConsenSys/abi-decoder) - library for decoding data params and events from Ethereum transactions
 * [ABI-gen](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/abi-gen) - Generate Typescript contract wrappers from contract ABI's.
 * [Ethereum ABI UI](https://github.com/hiddentao/ethereum-abi-ui) - Auto-generate UI form field definitions and associated validators from an Ethereum contract ABI
+* [headlong](https://github.com/esaulpaugh/headlong/) - type-safe Contract ABI and Recursive Length Prefix library in Java
 
 #### Patterns & Best Practices
 
@@ -195,7 +196,6 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Solidity cli](https://github.com/pubkey/solidity-cli) - Compile solidity-code faster, easier and more reliable
 * [Solidity flattener](https://github.com/poanetwork/solidity-flattener) - Combine solidity project to flat file utility. Useful for visualizing imported contracts or for verifying your contract on Etherscan
 * [RLP](https://github.com/ethereumjs/rlp) - Recursive Length Prefix Encoding in JavaScript
-* [headlong](https://github.com/esaulpaugh/headlong/) - Recursive Length Prefix library in Java
 * [Ethereal](https://github.com/wealdtech/ethereal) - Ethereal is a command line tool for managing common tasks in Ethereum
 * [Eth crypto](https://github.com/pubkey/eth-crypto) - Cryptographic javascript-functions for Ethereum and tutorials to use them with web3js and solidity
 * [Parity Signer](https://github.com/paritytech/parity-signer) - mobile app allows signing transactions
