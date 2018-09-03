@@ -69,23 +69,22 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [MD4 온라인 해시 펑션(MD4 Online Hash Function)](https://emn178.github.io/online-tools/md4.html) - 다양한 해싱 알고리즘 옵션을 사용하여 해쉬를 입력하는 도구 입니다.
 * [아이젝 SDK(iExec SDK)](https://github.com/iExecBlockchainComputing/iexec-sdk) - 스마트 컨트렉트의 실행 함수 또는 오프체인 어플리케이션의 권한을 부여합니다. 도커 이미지로 제공되는 기존 어플리케이션들을 지원합니다.
 
-### Knowledge/Education
-* [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
-* [Solidity idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies) - Solidity gotchas, pitfalls, limitations, and idiosyncrasies
-* [Ethereum development with Go](https://github.com/miguelmota/ethereum-development-with-go-book) - A little [book](https://goethereumbook.org) on Ethereum Development with Golang
-* [Consensys Academy](https://consensys.net/academy/resources/) - Courses
-* [B9Lab](https://academy.b9lab.com/) - Paid courses
-* [Blockgeeks](https://courses.blockgeeks.com/) - Paid courses on solidity/dapp development.
-* [Chainshot building blocks](https://www.chainshot.com/) - Free Project-Based Courses and Challenges
-* [Delegate call](https://delegatecall.com/) - Q&A site
-* [Stackexchange](https://ethereum.stackexchange.com) - Q&A site
-* [r/EthDev](https://www.reddit.com/r/ethdev/) - Subreddit
-* [Ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
-* [Reducing Gas Fees](https://medium.com/@STKtoken/research-of-the-week-reducing-gas-fees-9061d19cc171) - Tips and tricks to reducing gas spent on execution
-* [Dapp University](http://www.dappuniversity.com) - Free Video Tutorials
-* [Attacks on Smart Contracts](https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/)
-* [Zastrin](https://www.zastrin.com) - Paid courses on Solidity/Dapp Development.
-
+### 지식/교육
+* [어썸 버기 ERC20 토큰(Awesome Buggy ERC20 Tokens)](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - 토큰에 영향을 주는 ERC20 스마트 컨트렉트의 취약성 모음 입니다.
+* [솔리디티 이디오신크리시(Solidity idiosyncrasies)](https://github.com/miguelmota/solidity-idiosyncrasies) - 솔리디티 과거(gotchas), 함정, 제한성과 독특성에 대해 알아봅니다.
+* [Go를 이용한 이더리움 개발(Ethereum development with Go)](https://github.com/miguelmota/ethereum-development-with-go-book) - 고언어로 이더리움 개발하는 [책](https://goethereumbook.org) 입니다.
+* [컨센시스 아카데미(Consensys Academy)](https://consensys.net/academy/resources/) - 과정 입니다.
+* [B9Lab](https://academy.b9lab.com/) - 유료 과정 입니다.
+* [블록긱스(Blockgeeks)](https://courses.blockgeeks.com/) - 솔리디티/탈중앙화 어플리케이션 개발에 관한 유료 과정 입니다.
+* [체인샷 빌딩 블록스(Chainshot building blocks)](https://www.chainshot.com/) - 무료 프로젝트 기반 과정과 시험(Challenges)이 있습니다.
+* [델리게이트 콜(Delegate call)](https://delegatecall.com/) - 질문 답변 사이트 입니다.
+* [스택익스체인지(Stackexchange)](https://ethereum.stackexchange.com) - 질문 답변 사이트 입니다.
+* [r/EthDev](https://www.reddit.com/r/ethdev/) - 서브레딧(Subreddit) 입니다.
+* [Ethernaut](https://github.com/OpenZeppelin/ethernaut) - 웹3/솔리디티 기반 워게임(wargame) 입니다.
+* [Reducing Gas Fees](https://medium.com/@STKtoken/research-of-the-week-reducing-gas-fees-9061d19cc171) - 실행시 사용하는 가스를 줄이기 위한 요령과 팁 입니다.
+* [디앱 유니버시티(Dapp University)](http://www.dappuniversity.com) - 무료 동영상 학습 입니다.
+* [스마트 컨트렉트에 대한 공격](https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/)
+* [재스트린(Zastrin)](https://www.zastrin.com) - 솔리디티/탈중앙화 어플리케이션 개발 유료 과정 입니다.
 
 #### Security best practices
 * [Smart contract best practices](https://github.com/ConsenSys/smart-contract-best-practices) - by ConsenSys
