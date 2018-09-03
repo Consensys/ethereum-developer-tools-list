@@ -48,10 +48,10 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [POA Explorer](https://github.com/poanetwork/poa-explorer) - 오픈소스 이더리움 블록 익스플로러로 [이더프리즈(Ethprize)](ethprize.io)의 지원(funded)을 받아 [POA](https://poa.net)가 개발했습니다.
 * [퀵블록스(QuickBlocks)](https://github.com/Great-Hill-Corporation/quickBlocks) - 퀵블록스는 소프트웨어 라이브러리, 어플리케이션, 도구와 이더리움 블록체인 데이터를 찾아볼 수 있는 예제로 구성되어 있습니다.
 
-### Gas price calculators and tools
-* [EthGasStation](https://ethgasstation.info/) - Website for estimating tx prices vs times
-* [Petrometer](https://github.com/makerdao/petrometer) - Summarises daily and total gas consumption of all transactions sent from a specified Ethereum address
-* [CryptoProf](https://github.com/doc-ai/cryptoprof) - Gas profiler for smart contracts
+### 가스 가격 계산기들과 도구들
+* [이더가스스테이션(EthGasStation)](https://ethgasstation.info/) - 실시간 거래가격 추산을 위한 웹사이트 입니다.
+* [페트로미터(Petrometer)](https://github.com/makerdao/petrometer) - 특정 이더리움 주소로 부터 발생한 모든 거래의 총 가스 소비량과 일간 요약이 되어 있습니다.
+* [크립토프로프(CryptoProf)](https://github.com/doc-ai/cryptoprof) - 스마트 컨트렉트를 위한 가스 프로파일러(profiler) 입니다.
 
 ### Services
 * [Oracalize](http://www.oraclize.it/) - Oracle service for your smart contracts
