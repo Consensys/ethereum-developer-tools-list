@@ -208,7 +208,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [PHP를 기반 블록체인 인덱서(PHP based Blockchain indexer)](https://github.com/digitaldonkey/ethereum-php-eventlistener) - PHP에서 이벤트 리스닝 또는 블록 인덱싱 해 줍니다.
 
 ### 스마트 컨트렉트 표준들 & 라이브러리들
-#### [ERCs](https://eips.ethereum.org/erc) - 이더리움 주석 요청(Ethereum Request for Comment) 레포지토리(repository)
+#### [ERCs](https://eips.ethereum.org/erc) - 이더리움 주석 요청(Ethereum Request for Comment) 저장소
 * 토큰들
   * [ERC-20](https://eips.ethereum.org/EIPS/eip-20) - 대체 가능 자산(fungible assets)의 토큰 컨트렉트 입니다.
   * [ERC-721](https://github.com/ethereum/eips/issues/721) - 대체 불가 자산(non-fungible assets) 토큰 기준 입니다.

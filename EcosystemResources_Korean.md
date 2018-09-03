@@ -53,22 +53,21 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [페트로미터(Petrometer)](https://github.com/makerdao/petrometer) - 특정 이더리움 주소로 부터 발생한 모든 거래의 총 가스 소비량과 일간 요약이 되어 있습니다.
 * [크립토프로프(CryptoProf)](https://github.com/doc-ai/cryptoprof) - 스마트 컨트렉트를 위한 가스 프로파일러(profiler) 입니다.
 
-### Services
-* [Oracalize](http://www.oraclize.it/) - Oracle service for your smart contracts
-* [Infura](https://infura.io/) - API gateway so you don’t have to host your own ETH node
-* [Quiknode](https://quiknode.io/) - Service to spin up personal Parity/Geth nodes
-* [Regis](https://regis.nu/) - Registry Framework for Digital Assets
-* [Viant](https://viant.io/) - Just consider using Viant as your backend if the use case is business process oriented
-* [uPort](https://www.uport.me/) - Total identity solution
-* [Ether Address Lookup](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn?hl=en-GB) - Chrome extension for phishing protection and Eth address highlighting
-* [Netstats](https://github.com/cubedro/eth-netstats) - Ethereum Network [Stats](https://ethstats.net/)
-* [ENS](https://github.com/ensdomains) - ENS offers a secure & decentralised way to address resources both on and off the blockchain using simple, human-readable [names](https://ens.domains/)
-* [Name Bazaar](https://namebazaar.io/) - A peer-to-peer marketplace for the exchange of names registered via the Ethereum Name Service
-* [Quantstamp](https://quantstamp.com) - A service that offers automated and manual smart contract security audits for a fee
-* [SmartCheck](https://tool.smartdec.net/) - Static analysis of Solidity source code for security vulnerabilities and best practices
-* [MD4 Online Hash Function](https://emn178.github.io/online-tools/md4.html) - Tool to hash input with a variety of hashing algorithm options
-* [iExec SDK](https://github.com/iExecBlockchainComputing/iexec-sdk) - Gives smart contract the ability to execute functions or applications off-chain. Support any legacy applications provided as a Docker image.
-
+### 서비스들
+* [오라칼리즈(Oracalize)](http://www.oraclize.it/) - 당신의 스마트 컨트렉트를 위한 오라클(Oracle) 서비스 입니다.
+* [인퓨라(Infura)](https://infura.io/) - ETH 노드를 소유할 필요없는 API 게이트웨이 입니다.
+* [퀵노드(Quiknode)](https://quiknode.io/) - 개인 패리티(Parity)/게스(Geth) 노드를 돌려주는 서비스 입니다.
+* [레지스(Regis)](https://regis.nu/) - 디지털 자산을 위한 레지스트리(Registry) 프레임워크 입니다.
+* [바이안트(Viant)](https://viant.io/) - 유스케이스가 비즈니스 프로세스 지향적인 경우에 백엔드를 바이안트로 사용하세요.
+* [유포트(uPort)](https://www.uport.me/) - 통합 아이덴티티(identity) 솔루션 입니다.
+* [이더 어드레스 룩업(Ether Address Lookup)](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn?hl=en-GB) - 피싱(phishing) 방지하고 이더리움 주소를 강조하기 위한 크롬 확장 프로그램 입니다.
+* [넷스탯(Netstats)](https://github.com/cubedro/eth-netstats) - 이더리움 네트워크 [통계수치](https://ethstats.net/) 입니다.
+* [ENS](https://github.com/ensdomains) - ENS는 사람이 읽을수 있는 [이름](https://ens.domains/)과 사용하기 편하게 블록체인 안밖(on and off)에서 주소 리소스들을 탈중앙화 방식으로 안전하게 제공합니다.
+* [네임 바자(Name Bazaar)](https://namebazaar.io/) - 이더리움 네임 서비스(ENS)에서 등록된 이름을 주고받기 위한 P2P 장터 입니다.
+* [퀀트스탬프(Quantstamp)](https://quantstamp.com) - 자동 방식과 수동 방식으로 스마트 컨트렉트 보안 감사를 유료로 해 주는 서비스 입니다.
+* [스마트체크(SmartCheck)](https://tool.smartdec.net/) - 보안 취약성(vulnerabilities)과 모범 사례(best practices)에 대한 솔리디티 소스 코드 정적 분석을 제공합니다.
+* [MD4 온라인 해시 펑션(MD4 Online Hash Function)](https://emn178.github.io/online-tools/md4.html) - 다양한 해싱 알고리즘 옵션을 사용하여 해쉬를 입력하는 도구 입니다.
+* [아이젝 SDK(iExec SDK)](https://github.com/iExecBlockchainComputing/iexec-sdk) - 스마트 컨트렉트의 실행 함수 또는 오프체인 어플리케이션의 권한을 부여합니다. 도커 이미지로 제공되는 기존 어플리케이션들을 지원합니다.
 
 ### Knowledge/Education
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
@@ -141,11 +140,9 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [Kyber](https://www.kyber.network)
 * [Gnosis Dutch Exchange](https://github.com/gnosis/dx-contracts)
 
-
- ### Incentivisation / Monetisation Tools
+### Incentivisation / Monetisation Tools
 * [Gitcoin](https://gitcoin.co) - Bounty network for funding Open Source or finding Open Source work
 * [CodeFund](https://codefund.io) - Ethical Advertising Platform for Open Source
-
 
 ### Awesome lists
 * [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics) - A curated list of cryptoeconomic research and learning materials
