@@ -15,7 +15,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 ### Wallets
 * [Metamask](https://metamask.io/) - Chrome extension Ether wallet with ERC tokens support
 * [Gnosis multisig wallet](https://github.com/gnosis/MultiSigWallet) - Audited multi-sig wallet  
-* [Mist](https://github.com/ethereum/mist) - Browse and use Dapps on the Ethereum network 
+* [Mist](https://github.com/ethereum/mist) - Browse and use Dapps on the Ethereum network
 * [Exodus](https://www.exodus.io) - Desktop wallet with Shapeshift integration
 
 #### Web Wallets
@@ -117,6 +117,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Ethresear.ch](https://ethresear.ch/) - Semi-public forum for participating in Ethereum’s research efforts, including but not limited to: Casper, Sharding, EVM improvements, Crytpeconomics, Plasma and State-channels
 * [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/) - This discussion board facilitates meaningful communications among individuals throughout the Ethereum community
 * [EIPs](http://eips.ethereum.org/) - The Ethereum Improvement Proposal repository
+* [Aragon Research Forum](https://research.aragon.org/) - Long-form discussions related to Aragon's research efforts including governance, economics, and token engineering
 
 ### Block explorers
 * [Etherscan](https://etherscan.io/) - most popular centralized way to view Eth transactions and contract code

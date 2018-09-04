@@ -19,7 +19,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 ^Is the above fair? Share your input here - https://github.com/ConsenSysLabs/ethereum-developer-tools-list/pull/70
 
 ## New developers start here
-* [Solidity](http://solidity.readthedocs.io/en/latest/) - The most popular smart contract language. 
+* [Solidity](http://solidity.readthedocs.io/en/latest/) - The most popular smart contract language.
 * [Truffle](http://truffleframework.com) - Most popular smart contract development, testing, and deployment framework. Install the cli via npm and start here to write your first smart contracts.
 * [Metamask](https://metamask.io/) - Chrome extension wallet to interact with Dapps.
 * [Truffle boxes](http://truffleframework.com/boxes/) - Packaged components for the Ethereum ecosystem
@@ -49,9 +49,9 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Superblocks Studio](https://superblocks.com/studio/) - Superblocks Studio helps you code, build, and deploy your smart contracts.
 * [Vim solidity](https://github.com/tomlion/vim-solidity) - Vim syntax file for solidity
 * [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) - Visual Studio Code extension that adds support for Solidity
-* [Intellij Solidity Plugin](https://github.com/intellij-solidity/intellij-solidity/wiki) - Open-source plug-in for [JetBrains IntelliJ Idea IDE](https://www.jetbrains.com/idea/) (free/commercial) with syntax highlighting, formatting, code completion etc. 
-* [YAKINDU Solidity Tools](https://github.com/Yakindu/solidity-ide) - Eclipse based IDE. Features context sensitive code completion and help, code navigation, syntax coloring, build in compiler, quick fixes and templates. 
-* [Eth Fiddle](https://ethfiddle.com/) - IDE developed by [The Loom Network](https://loomx.io/) that allows you to write, compile and debug your smart contract. Easy to share and find code snippets. 
+* [Intellij Solidity Plugin](https://github.com/intellij-solidity/intellij-solidity/wiki) - Open-source plug-in for [JetBrains IntelliJ Idea IDE](https://www.jetbrains.com/idea/) (free/commercial) with syntax highlighting, formatting, code completion etc.
+* [YAKINDU Solidity Tools](https://github.com/Yakindu/solidity-ide) - Eclipse based IDE. Features context sensitive code completion and help, code navigation, syntax coloring, build in compiler, quick fixes and templates.
+* [Eth Fiddle](https://ethfiddle.com/) - IDE developed by [The Loom Network](https://loomx.io/) that allows you to write, compile and debug your smart contract. Easy to share and find code snippets.
 
 ### Test blockchain networks
 * [Ganache](https://github.com/trufflesuite/ganache) - App for test Ethereum blockchain with visual UI and logs
@@ -97,6 +97,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Local Ethereum Network](https://github.com/ConsenSys/local_ethereum_network) - Out-of-the-box deployment scripts for private PoW networks
 * [Kaleido](https://kaleido.io/) - Use Kaleido for spinning up a consortium blockchain network. Great for PoCs and testing
 * [Cheshire](https://github.com/endless-nameless-inc/cheshire) - A local sandbox implementation of the CryptoKitties API and smart contracts, available as a Truffle Box
+* [Aragon CLI](https://hack.aragon.org/docs/cli-usage.html) - The Aragon CLI is used to create and develop Aragon apps
 
 #### Ethereum ABI (Application Binary Interface) tools
 * [ABI decoder](https://github.com/ConsenSys/abi-decoder) - library for decoding data params and events from Ethereum transactions
@@ -116,20 +117,25 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
     * provides building blocks for the [MakerDAO](https://github.com/makerdao/maker-otc) or [The TAO](https://ryepdx.github.io/the-tao/)
     * should be consulted before creating own, untested, solutions
     * usage is described in [Dapp-a-day 1-10](https://steemit.com/@nikolai) and [Dapp-a-day 11-25](https://steemit.com/@nexusdev)
-* [OpenZeppelin: An open framework of reusable and secure smart contracts in the Solidity language.](http://zeppelin-solidity.readthedocs.io/en/latest/) 
+* [OpenZeppelin: An open framework of reusable and secure smart contracts in the Solidity language.](http://zeppelin-solidity.readthedocs.io/en/latest/)
     * Likely the most widely-used libraries and smart contracts
     * Similar to Dappsys, more integrated into Truffle framework
     * [Blog about Best Practices with Security Audits](https://medium.com/zeppelin-blog)
 * [Advanced Workshop with Assembly](https://github.com/androlo/solidity-workshop)
 * [Simpler Ethereum Multisig](https://medium.com/@ChrisLundkvist/exploring-simpler-ethereum-multisig-contracts-b71020c19037) - especially section _Benefits_
 * [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
+* [aragonOS: A smart contract framework for building DAOs, Dapps and protocols](https://hack.aragon.org/docs/aragonos-intro.html)
+    * Upgreadability: Smart contracts can be upgraded to a newer version
+    * Permission control: By using the `auth` and `authP` modifiers, you can protect functionality so only other apps or entities can access it
+    * Forwarders: aragonOS apps can send their intent to perform an action to other apps, so that intent is forwarded if a set of requirements are met
 
 ##### Upgradebility
 * [Blog von Elena Dimitrova, Dev at colony.io](https://blog.colony.io/@elena_di)
     * https://blog.colony.io/writing-more-robust-smart-contracts-99ad0a11e948
     * https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88
-* [Techblog von Aragon](https://blog.aragon.one/tagged/development)
-    * [Library driven development](https://blog.aragon.one/library-driven-development-in-solidity-2bebcaf88736)
+* [Techblog von Aragon](https://blog.aragon.org/tag/development/)
+    * [Library driven development](https://blog.aragon.org/library-driven-development-in-solidity-2bebcaf88736)
+    * [Advanced Solidity code deployment techniques](https://blog.aragon.org/advanced-solidity-code-deployment-techniques-dc032665f434/)
 * [OpenZeppelin on Proxy Libraries](https://medium.com/zeppelin-blog/proxy-libraries-in-solidity-79fbe4b970fd)
 
 ### Infrastructure
@@ -221,7 +227,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [cryptofin-solidity](https://github.com/cryptofinlabs/cryptofin-solidity) - A collection of Solidity libraries for building secure and gas-efficient smart contracts on Ethereum.
 * [Modular Libraries](https://github.com/Modular-Network/ethereum-libraries) -  A group of packages built for use on blockchains utilising the Ethereum Virtual Machine
 * [DateTime Library](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary) - A gas-efficient Solidity date and time library
-* [Aragon](https://github.com/aragon/aragon) - DAO protocol
+* [Aragon](https://github.com/aragon/aragon) - DAO protocol. Contains [aragonOS smart contract framework](https://github.com/aragon/aragonOS) with focus on upgradeability and governance
 * [0x](https://github.com/0xProject) - DEX protocol
 * [Token Libraries with Proofs](https://github.com/sec-bit/tokenlibs-with-proofs) - Contains correctness proofs of token contracts wrt. given specifications and high-level properties
 
@@ -245,12 +251,8 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
   * [POA Bridge UI](https://github.com/poanetwork/bridge-ui)
   * [POA Bridge Contracts](https://github.com/poanetwork/poa-bridge-contracts)
   * [Loom Network](https://github.com/loomnetwork)
-  
+
 #### Privacy
 
 ##### zkSNARKs
 * [ZoKrates](https://github.com/JacobEberhardt/ZoKrates) - A toolbox for zkSNARKS on Ethereum
-
-
-
-
