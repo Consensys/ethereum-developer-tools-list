@@ -72,6 +72,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [iExec SDK](https://github.com/iExecBlockchainComputing/iexec-sdk) - Gives smart contract the ability to execute functions or applications off-chain. Support any legacy applications provided as a Docker image.
 * [dAppBridge](https://dAppBridge.com/) - Inteligent Data Oracle & setTimeout service for your smart contracts
 * [Solidstamp](https://www.solidstamp.com) - on-chain registry of smart contract audits.
+* [Incentivai](http://incentivai.co) - Testing of smart contract economies via simulation with ML agents
 
 ### Knowledge/Education
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
