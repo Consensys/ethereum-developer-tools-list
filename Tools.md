@@ -82,6 +82,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 #### Backend Ethereum APIs
 * [Web3.py](https://github.com/ethereum/web3.py)- Python Web3
 * [Web3.php](https://github.com/sc0Vu/web3.php) - PHP Web3
+* [Ethereum-php](https://github.com/digitaldonkey/ethereum-php) - PHP Web3
 * [Web3j](https://github.com/web3j/web3j) - Java Web3
 * [Nethereum](https://nethereum.com/) - .Net Web3
 * [Ethereum.rb](https://github.com/EthWorks/ethereum.rb) - Ruby Web3
