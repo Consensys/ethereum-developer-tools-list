@@ -35,7 +35,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [아임토큰(imToken)](https://token.im/) - 멀티 체인 자산 관리, 탈중앙화 어플리케이션 브라우징과 보안, 프라이빗 거래를 가능하게 하는 다양한 기능의 모바일 디지털 자산 지갑 입니다.
 * [작스(Jaxx)](https://jaxx.io) - 모바일과 데스크탑에 사용가능 한 지갑이며, 쉐이프시프트(Shapeshift) 지원이 통합되어 있습니다.
 * [WallETH](https://walleth.org) - 안드로이드 기반 이더리움 지갑 입니다.
-+ [eth 월렛라이트(eth-wallet-light)](https://github.com/NoahHydro/eth-wallet-light) - 모바일로 최적화된 가벼운 JS 지갑 입니다.
+* [eth 월렛라이트(eth-wallet-light)](https://github.com/NoahHydro/eth-wallet-light) - 모바일로 최적화된 가벼운 JS 지갑 입니다.
 
 #### 하드웨어 지갑들
 * [트레져(Trezor)](https://trezor.io) - 오리지널 하드웨어 지갑 입니다.
@@ -96,7 +96,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [Capture the Ether](https://capturetheether.com/)
 
 #### 스케일링
-* [종합적인 미디움(Medium) 기사 ](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4) - 이더리움 스케일의 다양한 해결책들
+* [종합적인 미디움(Medium) 기사 ](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4) - 이더리움 스케일의 다양한 해결책들 입니다.
 
 ### 레퍼런스
 * [위키(Wiki)](https://github.com/ethereum/wiki/wiki) - 이더리움과 관련된 모든 것이 있습니다.
@@ -110,18 +110,18 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 일반적인 스마트 컨트렉트 함수의 [함수 시그니처(function signatures)](https://www.4byte.directory/) 4바이트 식별자(identifiers) 리스트 입니다.
 * [Solidity cheat sheet](https://topmonks.github.io/solidity_quick_ref/) - 솔리디티 문법의 간략한 개요 입니다.
 
-### Governance
+### 거버넌스(Governance)
 * [Ethresear.ch](https://ethresear.ch/) - Semi-public forum for participating in Ethereum’s research efforts, including but not limited to: Casper, Sharding, EVM improvements, Crytpeconomics, Plasma and State-channels
 * [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/) - This discussion board facilitates meaningful communications among individuals throughout the Ethereum community
-* [EIPs](http://eips.ethereum.org/) - The Ethereum Improvement Proposal repository
+* [EIPs](http://eips.ethereum.org/) - 이더리움 개선 제안(Ethereum Improvement Proposal) 저장소 입니다.
 
-### Block explorers
-* [Etherscan](https://etherscan.io/) - most popular centralized way to view Eth transactions and contract code
-* [POA Explorer](https://github.com/poanetwork/poa-explorer) - Open Source Ethereum Block explorer, funded by [Ethprize](ethprize.io) and developed by [POA](https://poa.net)
-* [QuickBlocks](https://github.com/Great-Hill-Corporation/quickBlocks)- QuickBlocks is a collection of software libraries, applications, tools, and examples that allow you to retrieve Ethereum blockchain data (a) more quickly, (b) with higher information content, (c) in an fully decentralized way, (d) in a fully automated way, and (e) in a highly maintenance free way.)
-* [Etherchain lite](https://github.com/gobitfly/etherchain-light)- Lightweight blockchain explorer for your private Ethereum chain
-* [Alethio EthStats 2.0](https://media.consensys.net/alethio-lighting-up-the-blockchain-with-real-time-stats-a80bb30576db) coming soon
-* [Supermax](https://www.supermax.cool/)- A live data feed of the activities and event logs of your smart contracts on Ethereum
+### 블록 익스플로러
+* [이더스캔(Etherscan)](https://etherscan.io/) - 이더리움 거래와 컨트렉트 코드를 보는 가장 인기있는 중앙집중 방식 입니다.
+* [POA Explorer](https://github.com/poanetwork/poa-explorer) - 오픈소스 이더리움 블록 익스플로러로 [이더프리즈(Ethprize)](ethprize.io)의 지원(funded)을 받아 [POA](https://poa.net)가 개발했습니다.
+* [퀵블록스(QuickBlocks)](https://github.com/Great-Hill-Corporation/quickBlocks) - 퀵블록스는 소프트웨어 라이브러리, 어플리케이션, 도구와 이더리움 블록체인 데이터를 찾아볼 수 있는 예제로 구성되어 있습니다. (a) 더 빠르고, (b) 컨텐츠 정보를 많이 제공하면서, (c) 전체가 탈중앙화 방식으로, (d) 완전히 자동방식이며, (e) 자유롭게 유지보수 합니다.
+* [이더체인 라이트(Etherchain Light)](https://github.com/gobitfly/etherchain-light)- 당신의 프라이빗 이더리움 체인을 위한 가벼운 블록체인 익스플로러 입니다.
+* [Alethio EthStats 2.0](https://media.consensys.net/alethio-lighting-up-the-blockchain-with-real-time-stats-a80bb30576db) 곧 공개 됩니다.
+* [수퍼맥스(Supermax)](https://www.supermax.cool/)- 이더리움 안에서 당신의 스마트 컨트렉트의 이벤트 로그와 활동을 바로(live) 데이터 피드(data feed) 합니다.
 
 ### Decentralized Exchanges
 * [Airswap](https://www.airswap.io/) - decentralized token exchange
