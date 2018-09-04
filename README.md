@@ -211,7 +211,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Ethereal](https://github.com/wealdtech/ethereal) - Ethereal is a command line tool for managing common tasks in Ethereum
 * [Eth crypto](https://github.com/pubkey/eth-crypto) - Cryptographic javascript-functions for Ethereum and tutorials to use them with web3js and solidity
 * [Parity Signer](https://github.com/paritytech/parity-signer) - mobile app allows signing transactions
-* [py-eth](http://www.py eth.com) - Collection of Python tools for the Ethereum ecosystem
+* [py-eth](http://py-eth.com) - Collection of Python tools for the Ethereum ecosystem
 * [truffle-flattener](https://github.com/alcuadrado/truffle-flattener) - Concats solidity files developed under Truffle with all of their dependencies
 * [Decode](https://github.com/dteiml/decode) - npm package which parses tx's submitted to a local testrpc node to make them more readable and easier to understand
 * [TypeChain](https://github.com/Neufund/TypeChain) - Typescript bindings for Ethereum smartcontracts
