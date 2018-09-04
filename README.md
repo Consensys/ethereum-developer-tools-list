@@ -221,6 +221,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * Tokens
   * [ERC-20](https://eips.ethereum.org/EIPS/eip-20) - Original token contract for fungible assets
   * [ERC-721](https://github.com/ethereum/eips/issues/721) - Token standard for non-fungible assets
+  * [ERC-918](https://eips.ethereum.org/EIPS/eip-918) - Mineable Token Standard
 * [ERC-165](https://eips.ethereum.org/EIPS/eip-165) -  Creates a standard method to publish and detect what interfaces a smart contract implements.
 * [ERC-725](https://eips.ethereum.org/EIPS/eip-725) -  Proxy contract for key management and execution, to establish a Blockchain identity.
 * [ERC-173](https://eips.ethereum.org/EIPS/eip-173) - A standard interface for ownership of contracts
