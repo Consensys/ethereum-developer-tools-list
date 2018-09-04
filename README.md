@@ -251,6 +251,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [µRaiden Documentation](http://microraiden.readthedocs.io) - Guides and Samples for µRaiden Sender/Receiver Use Cases
 
 #### Plasma
+* [Learn Plasma](https://github.com/ethsociety/learn-plasma) - Website as Node application that was started at the 2018 IC3-Ethereum Crypto Boot Camp at Cornell University, covering all Plasma variants (MVP/Cash/Debit)
 * [Plasma MVP](https://github.com/omisego/plasma-mvp) - OmiseGO's research implementation of Minimal Viable Plasma
 * [Plasma MVP Golang](https://github.com/kyokan/plasma) - Golang implementation and extension of the Minimum Viable Plasma specification
 * [Plasma Cash](https://github.com/mkchungs/plasma-cash) - Simple Plasma Cash implementation
