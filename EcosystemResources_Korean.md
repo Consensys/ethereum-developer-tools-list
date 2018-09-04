@@ -80,34 +80,35 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [델리게이트 콜(Delegate call)](https://delegatecall.com/) - 질문 답변 사이트 입니다.
 * [스택익스체인지(Stackexchange)](https://ethereum.stackexchange.com) - 질문 답변 사이트 입니다.
 * [r/EthDev](https://www.reddit.com/r/ethdev/) - 서브레딧(Subreddit) 입니다.
-* [Ethernaut](https://github.com/OpenZeppelin/ethernaut) - 웹3/솔리디티 기반 워게임(wargame) 입니다.
+* [이더넛(Ethernaut)](https://github.com/OpenZeppelin/ethernaut) - 웹3/솔리디티 기반 워게임(wargame) 입니다.
 * [Reducing Gas Fees](https://medium.com/@STKtoken/research-of-the-week-reducing-gas-fees-9061d19cc171) - 실행시 사용하는 가스를 줄이기 위한 요령과 팁 입니다.
 * [디앱 유니버시티(Dapp University)](http://www.dappuniversity.com) - 무료 동영상 학습 입니다.
 * [스마트 컨트렉트에 대한 공격](https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/)
 * [재스트린(Zastrin)](https://www.zastrin.com) - 솔리디티/탈중앙화 어플리케이션 개발 유료 과정 입니다.
 
-#### Security best practices
-* [Smart contract best practices](https://github.com/ConsenSys/smart-contract-best-practices) - by ConsenSys
-* [Safety wiki](https://github.com/ethereum/wiki/wiki/Safety) - Ethereum Foundation wiki on safety
+#### 보안 모범 사례들
+* [스마트 컨트렉트 모범 사례들(Smart contract best practices)](https://github.com/ConsenSys/smart-contract-best-practices) - 컨센시스(ConsenSys)가 제작합니다.
+* [Safety wiki](https://github.com/ethereum/wiki/wiki/Safety) - 안전에 관한 이더리움 재단 위키 입니다.
 
-#### Solidity Games!
-* [OpenZeppelin Ethernaut](https://ethernaut.zeppelin.solutions)
-* [Cryptozombies](https://cryptozombies.io/) - The best undead tutorial in the world
+#### 솔리디티 게임들!
+* [오픈제플린 이더넛(OpenZeppelin Ethernaut)](https://ethernaut.zeppelin.solutions)
+* [크립토좀비(Cryptozombies)](https://cryptozombies.io/) - 세계 최고의 언데드(undead) 튜토리얼 입니다.
 * [Capture the Ether](https://capturetheether.com/)
 
-#### Scaling
-* [Comprehensive Medium article](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4) on various solutions to scale Ethereum
+#### 스케일링
+* [종합적인 미디움(Medium) 기사 ](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4) - 이더리움 스케일의 다양한 해결책들
 
-### Reference
-* [Wiki](https://github.com/ethereum/wiki/wiki) - Ethereum wiki covering all things related to Ethereum
-* [Yellow Paper](https://github.com/ethereum/yellowpaper) - Ethereum's formal specification
-* [Beige Paper](https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf) - Rewrite of the yellow paper in non-yellow-paper syntax
-* [EthOn](https://github.com/ConsenSys/EthOn) - An ontology is a formalisation of concepts and relations within a domain. EthOn is written in RDF and OWL
-* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - by Andreas M. Antonopoulos, Gavin Wood, and many others
-* [EVM opcodes](https://github.com/trailofbits/evm-opcodes) - Ethereum opcodes and instruction reference
-* [EVM illustrated](http://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf) - This is an illustrated document about the Ethereum Virtual Machine
-* [4bytes](https://github.com/ethereum-lists/4bytes) - List of 4byte identifiers to common smart contract functions [function signatures](https://www.4byte.directory/)
-* [Solidity cheat sheet](https://topmonks.github.io/solidity_quick_ref/) - Quick overview of Solidity syntax
+### 레퍼런스
+* [위키(Wiki)](https://github.com/ethereum/wiki/wiki) - 이더리움과 관련된 모든 것이 있습니다.
+* [옐로우 페이퍼(Yellow Paper)](https://github.com/ethereum/yellowpaper) - 이더리움의 형식 명세서 입니다.
+* [베이지 페이퍼(Beige Paper)](https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf) - 옐로우 페이퍼가 아닌 구절의 옐로우 페이퍼를 재작성 했습니다.
+* [EthOn](https://github.com/ConsenSys/EthOn) - 온톨로지(ontology)는 개념을 공식화하며 도메인 안에서의 관계입니다. EthOn은 RDF와 OWL로 작성되었습니다.
+* [마스터링 이더리움(Mastering Ethereum)](https://github.com/ethereumbook/ethereumbook) - 안드레아스 안토노폴로스(Andreas M. Antonopoulos), 가빈 우드(Gavin Wood) 등 많은 사람들이 작성 중 입니다.
+* [EVM opcodes](https://github.com/trailofbits/evm-opcodes) - 이더리움 옵코드(opcodes)와 설명 참조 입니다.
+* [EVM illustrated](http://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf) - EVM에 대해 그림이 들어간 문서 입니다.
+* [4bytes](https://github.com/ethereum-lists/4bytes) -
+일반적인 스마트 컨트렉트 함수의 [함수 시그니처(function signatures)](https://www.4byte.directory/) 4바이트 식별자(identifiers) 리스트 입니다.
+* [Solidity cheat sheet](https://topmonks.github.io/solidity_quick_ref/) - 솔리디티 문법의 간략한 개요 입니다.
 
 ### Governance
 * [Ethresear.ch](https://ethresear.ch/) - Semi-public forum for participating in Ethereum’s research efforts, including but not limited to: Casper, Sharding, EVM improvements, Crytpeconomics, Plasma and State-channels
