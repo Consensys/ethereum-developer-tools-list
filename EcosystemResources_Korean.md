@@ -140,14 +140,14 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [카이버(Kyber)](https://www.kyber.network)
 * [Gnosis Dutch Exchange](https://github.com/gnosis/dx-contracts)
 
-### Incentivisation / Monetisation Tools
-* [Gitcoin](https://gitcoin.co) - Bounty network for funding Open Source or finding Open Source work
-* [CodeFund](https://codefund.io) - Ethical Advertising Platform for Open Source
+### 장려책(Incentivisation) / 가치화(Monetisation) 도구들
+* [깃코인(Gitcoin)](https://gitcoin.co) - 오픈소스 작업을 찾거나 오픈소스 펀딩을 위한 바운티(bounty) 네트워크 입니다.
+* [코드펀드(CodeFund)](https://codefund.io) - 오픈소스를 위한 윤리적인 광고 플랫폼 입니다.
 
-### Awesome lists
-* [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics) - A curated list of cryptoeconomic research and learning materials
-* [Awesome Solidity](https://github.com/bkrem/awesome-solidity) - A curated list of awesome Solidity resources, libraries, tools and more
-* [Awesome EVM](https://github.com/pirapira/awesome-ethereum-virtual-machine) - Ethereum Virtual Machine Awesome List
-* [Awesome State-Channels](https://github.com/machinomy/awesome-state-channels) - Curated list of resources regarding state channels on Ethereum.
-* [DEX protocols](https://github.com/evbots/dex-protocols) - A list of protocols for decentralised exchange
-* [Ethereum Token Standards](https://github.com/PhABC/ethereum-token-standards-list) - An exhaustive list of Ethereum Token Standards
+### 기막히게 좋은 명단들(Awesome lists)
+* [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics) - 암호화폐 경제(cryptoeconomic)연구와 공부 자료들이 큐레이트 된 리스트 입니다.
+* [Awesome Solidity](https://github.com/bkrem/awesome-solidity) - 솔리디티 자료, 라이브러리, 도구 등이 큐레이트 된 리스트 입니다.
+* [Awesome EVM](https://github.com/pirapira/awesome-ethereum-virtual-machine) - 이더리움 가상 머신(EVM) 관련된 좋은 리스트 입니다.
+* [Awesome State-Channels](https://github.com/machinomy/awesome-state-channels) - 이더리움의 상태 채널(state channels) 관련 리소스 리스트 입니다.
+* [DEX protocols](https://github.com/evbots/dex-protocols) - 탈중앙화 거래소의 프로토콜 리스트 입니다.
+* [이더리움 토큰 표준(Ethereum Token Standards)](https://github.com/PhABC/ethereum-token-standards-list) - 이더리움 토큰 표준에 대해 모두 적혀있는 리스트 입니다.
