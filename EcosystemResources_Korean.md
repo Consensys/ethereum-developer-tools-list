@@ -123,10 +123,10 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [Alethio EthStats 2.0](https://media.consensys.net/alethio-lighting-up-the-blockchain-with-real-time-stats-a80bb30576db) 곧 공개 됩니다.
 * [수퍼맥스(Supermax)](https://www.supermax.cool/)- 이더리움 안에서 당신의 스마트 컨트렉트의 이벤트 로그와 활동을 바로(live) 데이터 피드(data feed) 합니다.
 
-### Decentralized Exchanges
-* [Airswap](https://www.airswap.io/) - decentralized token exchange
-* 0x protocol based decentralized exchanges
-* [Radar relay](https://app.radarrelay.com/)
+### 탈중앙화 거래소
+* [에어스왑(Airswap)](https://www.airswap.io/) - 탈중앙화 토큰 거래소 입니다.
+* [0x](https://github.com/0xProject) - 탈중앙화 거래소 프로토콜 입니다.
+* [레이더 릴레이(Radar relay)](https://app.radarrelay.com/)
 * [ERC Dex](https://ercdex.com/)
 * [DDEX](https://ddex.io)
 * [Ethfinex](https://www.ethfinex.com)
@@ -135,9 +135,9 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [Bamboo Relay](https://www.bamboorelay.com)
 * [Instex](https://app.instex.io)
 * [Starbit](https://www.starbitex.com)
-* [Opensea.io](http://Opensea.io)-  decentralized exchange of cryptocollectibles
-* [Bancor](https://www.bancor.network/)
-* [Kyber](https://www.kyber.network)
+* [Opensea.io](http://Opensea.io)-  암호수집(cryptocollectibles) 방식의 탈중앙화 거래소 입니다.
+* [뱅코르(Bancor)](https://www.bancor.network/)
+* [카이버(Kyber)](https://www.kyber.network)
 * [Gnosis Dutch Exchange](https://github.com/gnosis/dx-contracts)
 
 ### Incentivisation / Monetisation Tools
