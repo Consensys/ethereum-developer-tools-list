@@ -1,6 +1,6 @@
 
 # 생태계 자료들(Ecosystem Resources)
-이더리움 생태계 이해와 실행 가능한 탈중앙화 어플리케이션들, 서비스들, 글들(writings) 과 학습을 위한 지식 기반(knowledge) 가이드 입니다.
+이더리움 생태계 이해와 실행 가능한 탈중앙화 어플리케이션, 서비스, 글(writings) 과 학습을 위한 지식 기반(knowledge) 가이드 입니다.
 
 이 자료는 생태계 자료들에 집중하는 것 뿐만 아니라, [이더리움 개발자 도구 리스트(Ethereum Developer Tools List)](Tools_Korean.md)도 포함되어 있습니다.
 
@@ -11,23 +11,23 @@
 
 Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레이팅을 한 [@pakaplace](https://twitter.com/Parker_Place), 그리고 좀 더 논리적인 방법으로 리스트를 재구축한 @jpantunes 를 포함해 20명이 넘는 기여자들에게 감사를 표합니다.
 
-## 자료들
-### 지갑들
-* [메타마스크(Metamask)](https://metamask.io/) - ERC 토큰들을 지원하는 크롬 확장(extension) 이더 지갑 입니다.
-* [노시스 멀티시그 지갑(Gnosis multisig wallet)](https://github.com/gnosis/MultiSigWallet) - 검증된(Audited) 멀티 시그 지갑 입니다.  
+## 자료
+### 지갑
+* [메타마스크(Metamask)](https://metamask.io/) - ERC 토큰들을 지원하는 크롬 확장(extension) 이더리움 지갑 입니다.
+* [노시스 멀티시그 지갑(Gnosis multisig wallet)](https://github.com/gnosis/MultiSigWallet) - 검증 된(Audited) 멀티 시그 지갑 입니다.  
 * [미스트(Mist)](https://github.com/ethereum/mist) - 이더리움 네트워크의 탈중앙화 어플리케이션에서 사용가능하고 인터넷 사용(Browse)할 수 있습니다.
 * [엑소더스(Exodus)](https://www.exodus.io) - 쉐이프시프트(Shapeshift)와 통합된 데스크탑 지갑 입니다.
 
-#### 웹 지갑들
+#### 웹 지갑
 * [마이이더월렛(MyEtherWallet)](https://github.com/MyEtherWallet) - 블록체인을 쉽고 안전하게 이용하기 위한 오픈소스 [도구](https://www.myetherwallet.com/) 입니다.
 * [이더 어드레스 룩업(Ether Address Lookup)](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn?hl=en-GB) - 피싱(phishing) 방지하고 이더리움 주소를 강조하기 위한 크롬 확장 프로그램 입니다.
-* [마이크립토(MyCrypto)](https://github.com/MyCryptoHQ) - 오픈 소스이고, 블록체인과 더 쉽게 작동하며, ERC-20 토큰들을 다룰 수 있고, 이더리움 지갑을 생성하기 위한 클라이언트 쪽 [도구](https://mycrypto.com/account) 입니다.
+* [마이크립토(MyCrypto)](https://github.com/MyCryptoHQ) - 오픈 소스이고, 블록체인과 더 쉽게 작동하며, ERC-20 토큰들을 다룰 수 있고, 이더리움 지갑을 생성하기 위한 클라이언트 [도구](https://mycrypto.com/account) 입니다.
 * [포티스(Portis)](https://portis.io/) - 당신의 탈중앙화 어플리케이션을 사용자가 쉽게 적응하기(on-boarding) 위한 웹 기반 지갑 입니다.
 * [Eth 라이트월렛(Eth-lightwallet)](https://github.com/ConsenSys/eth-lightwallet) - 브라우저와 노드를 위해 가벼운(Lightweight) JS 지갑 입니다.
 * [스팽크카드(SpankCard)](https://github.com/SpankChain/SpankCard) - 결제 채널을 지원하며 브라우저에 내장된 이더리움 지갑 입니다.
 * [니모닉 제네레이터(Mnemonic generator)](https://iancoleman.io/bip39/) - 단어 연상기호(mnemonic)와 퍼블릭/프라이빗 키 쌍(key pairs)들을 생성합니다. 이더리움 주소를 생성하려면 "이더리움"을 선택하세요. truffle-hd-wallet과 유용 합니다.
 
-#### 모바일 지갑들
+#### 모바일 지갑
 * [토시(Toshi)](https://github.com/toshiapp) - 모바일 탈중앙화 어플리케이션 익스플로러(explorer)와 [지갑](https://itunes.apple.com/us/app/toshi-ethereum-wallet/id1278383455?mt=8) 입니다.
 * [사이퍼(Cypher)](https://www.cipherbrowser.com/) - 모바일 탈중앙화 익스플로러 입니다.
 * [트러스트(Trust)](https://github.com/TrustWallet/trust-wallet-ios) - ERC 토큰들을 위한 모바일 [지갑](https://trustwalletapp.com/) 입니다.
@@ -37,23 +37,23 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [WallETH](https://walleth.org) - 안드로이드 기반 이더리움 지갑 입니다.
 * [eth 월렛라이트(eth-wallet-light)](https://github.com/NoahHydro/eth-wallet-light) - 모바일로 최적화된 가벼운 JS 지갑 입니다.
 
-#### 하드웨어 지갑들
+#### 하드웨어 지갑
 * [트레져(Trezor)](https://trezor.io) - 오리지널 하드웨어 지갑 입니다.
 * [렛져(Ledger)](https://www.ledgerwallet.com) - 다양한 암호화폐와 토큰을 지원 합니다.
 * [킵키(KeepKey)](https://www.keepkey.com) - 단순한 하드웨어 지갑 입니다.
 
-### 블록 익스플로러들(explorers)
+### 블록 익스플로러(explorers)
 * [이더스캔(Etherscan)](https://etherscan.io/) - 이더리움 거래와 컨트렉트 코드를 보는 가장 인기있는 중앙집중 방식 입니다.
 * [이더체인 라이트(Etherchain Light)](https://github.com/gobitfly/etherchain-light)- 당신의 프라이빗 이더리움 체인을 위한 가벼운 블록체인 익스플로러 입니다.
 * [POA Explorer](https://github.com/poanetwork/poa-explorer) - 오픈소스 이더리움 블록 익스플로러로 [이더프리즈(Ethprize)](ethprize.io)의 지원(funded)을 받아 [POA](https://poa.net)가 개발했습니다.
 * [퀵블록스(QuickBlocks)](https://github.com/Great-Hill-Corporation/quickBlocks) - 퀵블록스는 소프트웨어 라이브러리, 어플리케이션, 도구와 이더리움 블록체인 데이터를 찾아볼 수 있는 예제로 구성되어 있습니다.
 
-### 가스 가격 계산기들과 도구들
+### 가스 가격 계산기와 도구
 * [이더가스스테이션(EthGasStation)](https://ethgasstation.info/) - 실시간 거래가격 추산을 위한 웹사이트 입니다.
 * [페트로미터(Petrometer)](https://github.com/makerdao/petrometer) - 특정 이더리움 주소로 부터 발생한 모든 거래의 총 가스 소비량과 일간 요약이 되어 있습니다.
 * [크립토프로프(CryptoProf)](https://github.com/doc-ai/cryptoprof) - 스마트 컨트렉트를 위한 가스 프로파일러(profiler) 입니다.
 
-### 서비스들
+### 서비스
 * [오라칼리즈(Oracalize)](http://www.oraclize.it/) - 당신의 스마트 컨트렉트를 위한 오라클(Oracle) 서비스 입니다.
 * [인퓨라(Infura)](https://infura.io/) - ETH 노드를 소유할 필요없는 API 게이트웨이 입니다.
 * [퀵노드(Quiknode)](https://quiknode.io/) - 개인 패리티(Parity)/게스(Geth) 노드를 돌려주는 서비스 입니다.
@@ -90,7 +90,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [스마트 컨트렉트 모범 사례들(Smart contract best practices)](https://github.com/ConsenSys/smart-contract-best-practices) - 컨센시스(ConsenSys)가 제작합니다.
 * [Safety wiki](https://github.com/ethereum/wiki/wiki/Safety) - 안전에 관한 이더리움 재단 위키 입니다.
 
-#### 솔리디티 게임들!
+#### 솔리디티 게임!
 * [오픈제플린 이더넛(OpenZeppelin Ethernaut)](https://ethernaut.zeppelin.solutions)
 * [크립토좀비(Cryptozombies)](https://cryptozombies.io/) - 세계 최고의 언데드(undead) 튜토리얼 입니다.
 * [Capture the Ether](https://capturetheether.com/)
@@ -140,11 +140,11 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [카이버(Kyber)](https://www.kyber.network)
 * [Gnosis Dutch Exchange](https://github.com/gnosis/dx-contracts)
 
-### 장려책(Incentivisation) / 가치화(Monetisation) 도구들
+### 장려책(Incentivisation) / 가치화(Monetisation) 도구
 * [깃코인(Gitcoin)](https://gitcoin.co) - 오픈소스 작업을 찾거나 오픈소스 펀딩을 위한 바운티(bounty) 네트워크 입니다.
 * [코드펀드(CodeFund)](https://codefund.io) - 오픈소스를 위한 윤리적인 광고 플랫폼 입니다.
 
-### 기막히게 좋은 명단들(Awesome lists)
+### 기막히게 좋은 명단(Awesome lists)
 * [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics) - 암호화폐 경제(cryptoeconomic)연구와 공부 자료들이 큐레이트 된 리스트 입니다.
 * [Awesome Solidity](https://github.com/bkrem/awesome-solidity) - 솔리디티 자료, 라이브러리, 도구 등이 큐레이트 된 리스트 입니다.
 * [Awesome EVM](https://github.com/pirapira/awesome-ethereum-virtual-machine) - 이더리움 가상 머신(EVM) 관련된 좋은 리스트 입니다.
