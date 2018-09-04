@@ -70,6 +70,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [SmartCheck](https://tool.smartdec.net/) - Static analysis of Solidity source code for security vulnerabilities and best practices
 * [MD4 Online Hash Function](https://emn178.github.io/online-tools/md4.html) - Tool to hash input with a variety of hashing algorithm options
 * [iExec SDK](https://github.com/iExecBlockchainComputing/iexec-sdk) - Gives smart contract the ability to execute functions or applications off-chain. Support any legacy applications provided as a Docker image.
+* [dAppBridge](https://dAppBridge.com/) - Inteligent Data Oracle & setTimeout service for your smart contracts
 
 
 ### Knowledge/Education
