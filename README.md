@@ -261,7 +261,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
   * [POA Bridge](http://bridge.poa.net/)
   * [POA Bridge UI](https://github.com/poanetwork/bridge-ui)
   * [POA Bridge Contracts](https://github.com/poanetwork/poa-bridge-contracts)
-  * [Loom Network](https://github.com/loomnetwork)
+ * [Loom Network](https://github.com/loomnetwork)
 
 #### Privacy
 
