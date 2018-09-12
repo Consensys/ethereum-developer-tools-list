@@ -114,6 +114,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [Ethresear.ch](https://ethresear.ch/) - Semi-public forum for participating in Ethereum’s research efforts, including but not limited to: Casper, Sharding, EVM improvements, Crytpeconomics, Plasma and State-channels
 * [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/) - This discussion board facilitates meaningful communications among individuals throughout the Ethereum community
 * [EIPs](http://eips.ethereum.org/) - 이더리움 개선 제안(Ethereum Improvement Proposal) 저장소 입니다.
+* [Aragon Research Forum](https://research.aragon.org/) - Long-form discussions related to Aragon's research efforts including governance, economics, and token engineering
 
 ### 블록 익스플로러
 * [이더스캔(Etherscan)](https://etherscan.io/) - 이더리움 거래와 컨트렉트 코드를 보는 가장 인기있는 중앙집중 방식 입니다.

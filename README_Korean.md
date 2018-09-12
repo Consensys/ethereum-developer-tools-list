@@ -96,6 +96,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [로컬 이더리움 네트워크(Local Ethereum Network)](https://github.com/ConsenSys/local_ethereum_network) - 개인 작업증명(PoW) 네트워크를 위한 배포 스크립트로 실행 합니다.
 * [칼레이도(Kaleido)](https://kaleido.io/) - 컨소시엄(consortium) 블록체인 네트워크를 돌릴때 사용하세요. 개념증명들(PoCs)과 테스팅에 좋습니다.
 * [쳬셔(Cheshire)](https://github.com/endless-nameless-inc/cheshire) - 크립토키티(CryptoKitties) API와 스마트 컨트렉트의 로컬 샌드박스 도구이며, 트러플 박스로 이용 가능합니다.
+* [Aragon CLI](https://hack.aragon.org/docs/cli-usage.html) - The Aragon CLI is used to create and develop Aragon apps
 
 #### 이더리움 ABI(Application Binary Interface) 도구
 * [ABI 디코더(decoder)](https://github.com/ConsenSys/abi-decoder) - 이더리움 거래(transactions)의 데이터 매개변수 디코딩과 이벤트를 위한 라이브러리
@@ -122,6 +123,10 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [어셈블리와 향상된 워크샵](https://github.com/androlo/solidity-workshop)
 * [간단한 이더리움 멀티시그(Multisig)](https://medium.com/@ChrisLundkvist/exploring-simpler-ethereum-multisig-contracts-b71020c19037) - 특히 _이득(Benefits)_ 부분
 * [크립토핀 솔리디티 감사 체크리스크(CryptoFin Solidity Auditing Checklist)](https://github.com/cryptofinlabs/audit-checklist) - 일반적인 조사 결과들(findings)과 메인넷 시작(launch)을 위한 컨트렉트 분석(auditing)때 주의해야 할 이슈의 체크리스트 입니다.
+* [aragonOS: A smart contract framework for building DAOs, Dapps and protocols](https://hack.aragon.org/docs/aragonos-intro.html)
+     * Upgreadability: Smart contracts can be upgraded to a newer version
+     * Permission control: By using the `auth` and `authP` modifiers, you can protect functionality so only other apps or entities can access it
+     * Forwarders: aragonOS apps can send their intent to perform an action to other apps, so that intent is forwarded if a set of requirements are met
 
 ##### 고급과정(Upgradebility)
 * [엘레나 디미트로바(Elena Dimitrova)의 블로그, 콜로니(colony.io) 개발자](https://blog.colony.io/@elena_di)
@@ -129,6 +134,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
     * https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88
 * [아라곤(Aragon)의 기술블로그](https://blog.aragon.one/tagged/development)
     * [라이브러리 주도 개발(Library driven development)](https://blog.aragon.one/library-driven-development-in-solidity-2bebcaf88736)
+    * [Advanced Solidity code deployment techniques](https://blog.aragon.org/advanced-solidity-code-deployment-techniques-dc032665f434/)
 * [오픈제플린 프록시 라이브러리](https://medium.com/zeppelin-blog/proxy-libraries-in-solidity-79fbe4b970fd)
 
 ### 기반시설
@@ -221,7 +227,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [크립토핀 솔리디티(cryptofin-solidity)](https://github.com/cryptofinlabs/cryptofin-solidity) - 이더리움에서 가스 효율이 좋은 스마트 컨트렉트와 보안 구축을 위한 솔리디티 라이브러리 모음 입니다.
 * [모듈러 라이브러리(Modular Libraries)](https://github.com/Modular-Network/ethereum-libraries) - 이더리움 가상 머신을 활용하는 블록체인 사용을 위한 개발 패키지 그룹 입니다.
 * [데이트타임 라이브러리(DateTime Library)](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary) - 가스 효율이 좋은 솔리디티 일시(date and time) 라이브러리 입니다.
-* [아라곤(Aragon)](https://github.com/aragon/aragon) - DAO 프로토콜 입니다.
+* [아라곤(Aragon)](https://github.com/aragon/aragon) - DAO 프로토콜 입니다. Contains [aragonOS smart contract framework](https://github.com/aragon/aragonOS) with focus on upgradeability and governance
 * [0x](https://github.com/0xProject) - DEX 프로토콜 입니다.
 * [프루프 토큰 라이브러리(Token Libraries with Proofs)](https://github.com/sec-bit/tokenlibs-with-proofs) - 주어진 사양(specifications)과 고차원 속성(high-level properties)에 관해 토큰 컨트렉트의 정확성(correctness) 증명을 포함합니다.
 
