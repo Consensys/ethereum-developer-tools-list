@@ -58,6 +58,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [로컬 라이덴(Local Raiden)](https://github.com/ConsenSys/Local-Raiden) - 데모(demo)와 테스트 목적으로 도커 컨테이너에서 로컬 라이덴 네트워크를 실행하세요.
 * [개인 네트워크 배포 스크립트(Private networks deployment scripts)](https://github.com/ConsenSys/private-networks-deployment-scripts) - 개인 권위증명(PoA) 네트워크를 위한 배포 스크립트를 실행(Out-of-the-box) 합니다.
 * [로컬 이더리움 네트워크(Local Ethereum Network)](https://github.com/ConsenSys/local_ethereum_network) - 개인 작업증명(PoW) 네트워크를 위한 배포 스크립트로 실행 합니다.
+* [Ethereum on Azure](https://docs.microsoft.com/en-us/azure/blockchain-workbench/ethereum-poa-deployment) - Deployment and governance of consortium Ethereum PoA networks
 
 #### 테스트 이더 파우셋(faucets)
 * [링크비 파우셋(Rinkeby faucet)](https://faucet.rinkeby.io/)
