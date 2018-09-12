@@ -2,7 +2,7 @@
 # 생태계 자료들(Ecosystem Resources)
 이더리움 생태계 이해와 실행 가능한 탈중앙화 어플리케이션, 서비스, 글(writings) 과 학습을 위한 지식 기반(knowledge) 가이드 입니다.
 
-이 자료는 생태계 자료들에 집중하는 것 뿐만 아니라, [이더리움 개발자 도구 리스트(Ethereum Developer Tools List)](Tools_Korean.md)도 포함되어 있습니다.
+이 자료는 생태계 자료들에 집중하는 것 뿐만 아니라, [이더리움 개발자 도구 리스트(Ethereum Developer Tools List)](README_Korean.md)도 포함되어 있습니다.
 
 ## 기여자들(Contributions)을 환영합니다!
 
@@ -68,6 +68,9 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [스마트체크(SmartCheck)](https://tool.smartdec.net/) - 보안 취약성(vulnerabilities)과 모범 사례(best practices)에 대한 솔리디티 소스 코드 정적 분석을 제공합니다.
 * [MD4 온라인 해시 펑션(MD4 Online Hash Function)](https://emn178.github.io/online-tools/md4.html) - 다양한 해싱 알고리즘 옵션을 사용하여 해쉬를 입력하는 도구 입니다.
 * [아이젝 SDK(iExec SDK)](https://github.com/iExecBlockchainComputing/iexec-sdk) - 스마트 컨트렉트의 실행 함수 또는 오프체인 어플리케이션의 권한을 부여합니다. 도커 이미지로 제공되는 기존 어플리케이션들을 지원합니다.
+* [dAppBridge](https://dAppBridge.com/) - 인텔리젼트 데이터 오라클과 스마트 컨트렉트를 위한 setTimeout 서비스 입니다.
+* [솔리드스탬프(Solidstamp)](https://www.solidstamp.com) - 스마트 컨트렉트 오딧(audits) 온체인 레지스트리 입니다.
+* [인센티바이(Incentivai)](http://incentivai.co) - ML agents의 시뮬레이션에서 스마트 컨트렉트 경제를 테스팅 합니다.
 
 ### 지식/교육
 * [어썸 버기 ERC20 토큰(Awesome Buggy ERC20 Tokens)](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - 토큰에 영향을 주는 ERC20 스마트 컨트렉트의 취약성 모음 입니다.
@@ -77,6 +80,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [B9Lab](https://academy.b9lab.com/) - 유료 과정 입니다.
 * [블록긱스(Blockgeeks)](https://courses.blockgeeks.com/) - 솔리디티/탈중앙화 어플리케이션 개발에 관한 유료 과정 입니다.
 * [체인샷 빌딩 블록스(Chainshot building blocks)](https://www.chainshot.com/) - 무료 프로젝트 기반 과정과 시험(Challenges)이 있습니다.
+* [카우리(Kauri)](https://beta.kauri.io/) - 공개적으로 접근가능한 커뮤니티 지식 기반으로 튜토리얼이 있습니다.
 * [델리게이트 콜(Delegate call)](https://delegatecall.com/) - 질문 답변 사이트 입니다.
 * [스택익스체인지(Stackexchange)](https://ethereum.stackexchange.com) - 질문 답변 사이트 입니다.
 * [r/EthDev](https://www.reddit.com/r/ethdev/) - 서브레딧(Subreddit) 입니다.
@@ -111,9 +115,10 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [Solidity cheat sheet](https://topmonks.github.io/solidity_quick_ref/) - 솔리디티 문법의 간략한 개요 입니다.
 
 ### 거버넌스(Governance)
-* [Ethresear.ch](https://ethresear.ch/) - Semi-public forum for participating in Ethereum’s research efforts, including but not limited to: Casper, Sharding, EVM improvements, Crytpeconomics, Plasma and State-channels
-* [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/) - This discussion board facilitates meaningful communications among individuals throughout the Ethereum community
+* [Ethresear.ch](https://ethresear.ch/) - 캐스퍼(Casper), 샤딩(Sharding), EVM 개선(EVM improvements), 크립토경제학, 플라즈마(Plasma)와 상태채널(State-channels)에 제한되지 않는, 이더리움의 연구 성과에 참여하기 위한 세미-공공(Semi-public) 포럼 입니다.
+* [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/) - 각 이더리움 커뮤니티에서 개인들간 의미있는 의사소통을 하기 편하게 하는 토론장(discussion board) 입니다.
 * [EIPs](http://eips.ethereum.org/) - 이더리움 개선 제안(Ethereum Improvement Proposal) 저장소 입니다.
+* [아라곤 리서치 포럼(Aragon Research Forum)](https://research.aragon.org/) - 거버넌스와 경제, 토큰 엔지니어링을 포함한 아라곤 연구 성과에 관련있는 긴-형식(Long-form) 토론 입니다.
 
 ### 블록 익스플로러
 * [이더스캔(Etherscan)](https://etherscan.io/) - 이더리움 거래와 컨트렉트 코드를 보는 가장 인기있는 중앙집중 방식 입니다.
