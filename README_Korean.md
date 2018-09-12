@@ -58,7 +58,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [로컬 라이덴(Local Raiden)](https://github.com/ConsenSys/Local-Raiden) - 데모(demo)와 테스트 목적으로 도커 컨테이너에서 로컬 라이덴 네트워크를 실행하세요.
 * [개인 네트워크 배포 스크립트(Private networks deployment scripts)](https://github.com/ConsenSys/private-networks-deployment-scripts) - 개인 권위증명(PoA) 네트워크를 위한 배포 스크립트를 실행(Out-of-the-box) 합니다.
 * [로컬 이더리움 네트워크(Local Ethereum Network)](https://github.com/ConsenSys/local_ethereum_network) - 개인 작업증명(PoW) 네트워크를 위한 배포 스크립트로 실행 합니다.
-* [Ethereum on Azure](https://docs.microsoft.com/en-us/azure/blockchain-workbench/ethereum-poa-deployment) - Deployment and governance of consortium Ethereum PoA networks
+* [Ethereum on Azure](https://docs.microsoft.com/en-us/azure/blockchain-workbench/ethereum-poa-deployment) - 이더리움 PoA 네트워크 컨소시엄의 거버넌스와 배포 네트워크 입니다.
 
 #### 테스트 이더 파우셋(faucets)
 * [링크비 파우셋(Rinkeby faucet)](https://faucet.rinkeby.io/)
@@ -77,14 +77,14 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [Subproviders](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/subproviders) - [웹3 프로바이더 엔진(Web3-provider-engine)](https://github.com/MetaMask/provider-engine/) 과 함께 사용되는 여러가지 유용한 subproviders 입니다. (당신의 탈중앙화 어플리케이션을 지원하는 렛저(Ledger) 하드웨어 월렛을 위한 LedgerSubprovider를 포함합니다.)
 * [web3-webpacked](https://github.com/NoahHydro/web3-webpacked) - JS 프레임워크를 관리하기 위한 웹3 인젝션 입니다.
 * [볼텍스(Vortex)](https://github.com/Horyus/vortex) - Dapp-ready 리덕스 Store 입니다. 웹소켓(WebSockets) 덕분에 효율적(Smart)이고 민첩(Dynamic)하게 백그라운드 데이터를 새로고침 합니다. [트러플](https://github.com/Horyus/vortex-demo) 과 [엠바크](https://github.com/Horyus/vortex-demo-embark)와 작동합니다.
-* Strictly Typed - Javascript alternatives
+* Strictly Typed - 자바스크립트 대안 입니다.
      * [elm-ethereum](https://github.com/cmditch/elm-ethereum)
      * [purescript-web3](https://github.com/f-o-a-m/purescript-web3)
 
 #### 이더리움 백엔드 API
 * [Web3.py](https://github.com/ethereum/web3.py)- 파이썬 웹3 입니다.
 * [Web3.php](https://github.com/sc0Vu/web3.php) - PHP 웹3 입니다.
-* [Ethereum-php](https://github.com/digitaldonkey/ethereum-php) - PHP Web3
+* [Ethereum-php](https://github.com/digitaldonkey/ethereum-php) - PHP 웹3 입니다.
 * [Web3j](https://github.com/web3j/web3j) - 자바 웹3 입니다.
 * [Nethereum](https://nethereum.com/) - 닷넷 웹3 입니다.
 * [Ethereum.rb](https://github.com/EthWorks/ethereum.rb) - 루비 웹3 입니다.
@@ -92,8 +92,8 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [KEthereum](https://github.com/walleth/kethereum) - 코틀린(Kotlin) 웹3 입니다.
 * [Pyethereum](https://github.com/ethereum/pyethereum) - 이더리움 프로젝트의 파이썬 코어 라이브러리 입니다.
 * [Eventeum](https://github.com/ConsenSys/eventeum) - 이더리움 스마트 컨트렉트 이벤트와 백엔드 마이크로서비스를 연결 합니다. Kauri가 자바로 작성했습니다.
-* [Ethereumex](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain
-* [EthContract](https://github.com/AgileAlpha/eth_contract) - A set of helper methods to help query ETH smart contracts in Elixir
+* [Ethereumex](https://github.com/exthereum/ethereumex) - 이더리움 블록체인을 위한 엘릭서(Elixir) JSON-RPC 클라이언트 입니다.
+* [EthContract](https://github.com/AgileAlpha/eth_contract) - 엘릭서(Elixir) 언어로 된 이더리움 스마트 컨트렉트 쿼리를 도와주는 헬퍼 메소드(helper methods) 세트 입니다.
 
 #### 부트스트랩(Bootstrap) / 실행(out of box) 도구
 * [트러플 박스(Truffle boxes)](http://truffleframework.com/boxes/) - 이더리움 생태계를 위한 패키지 컴포넌트 입니다.
@@ -103,13 +103,14 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [로컬 이더리움 네트워크(Local Ethereum Network)](https://github.com/ConsenSys/local_ethereum_network) - 개인 작업증명(PoW) 네트워크를 위한 배포 스크립트로 실행 합니다.
 * [칼레이도(Kaleido)](https://kaleido.io/) - 컨소시엄(consortium) 블록체인 네트워크를 돌릴때 사용하세요. 개념증명들(PoCs)과 테스팅에 좋습니다.
 * [쳬셔(Cheshire)](https://github.com/endless-nameless-inc/cheshire) - 크립토키티(CryptoKitties) API와 스마트 컨트렉트의 로컬 샌드박스 도구이며, 트러플 박스로 이용 가능합니다.
-* [Aragon CLI](https://hack.aragon.org/docs/cli-usage.html) - The Aragon CLI is used to create and develop Aragon apps
+* [Aragon CLI](https://hack.aragon.org/docs/cli-usage.html) - 아라곤(Aragon) CLI는 아라곤 앱 개발과 생성하는데 이용됩니다.
 
 #### 이더리움 ABI(Application Binary Interface) 도구
 * [ABI 디코더(decoder)](https://github.com/ConsenSys/abi-decoder) - 이더리움 거래(transactions)의 데이터 매개변수 디코딩과 이벤트를 위한 라이브러리
 * [ABI-gen](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/abi-gen) - 컨트렉트 ABI의 타입스크립트 컨트렉트 래퍼(wrappers)를 생성합니다.
 * [이더리움 ABI UI](https://github.com/hiddentao/ethereum-abi-ui) - 이더리움 컨트렉트 ABI의 필드 정의와 관련 발리데이터(validators) UI를 자동 생성 합니다.
-* [headlong](https://github.com/esaulpaugh/headlong/) - type-safe Contract ABI and Recursive Length Prefix library in Java
+* [headlong](https://github.com/esaulpaugh/headlong/) - 프로그램의 동작이 잘 정의된(type-safe) 컨트렉트 ABI와 자바 언어로 된 RLP(Recursive Length Prefix) 라이브러리 입니다.
+
 
 #### 패턴 & 모범 사례(Best Practices)
 
@@ -131,10 +132,10 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [어셈블리와 향상된 워크샵](https://github.com/androlo/solidity-workshop)
 * [간단한 이더리움 멀티시그(Multisig)](https://medium.com/@ChrisLundkvist/exploring-simpler-ethereum-multisig-contracts-b71020c19037) - 특히 _이득(Benefits)_ 부분
 * [크립토핀 솔리디티 감사 체크리스크(CryptoFin Solidity Auditing Checklist)](https://github.com/cryptofinlabs/audit-checklist) - 일반적인 조사 결과들(findings)과 메인넷 시작(launch)을 위한 컨트렉트 분석(auditing)때 주의해야 할 이슈의 체크리스트 입니다.
-* [aragonOS: A smart contract framework for building DAOs, Dapps and protocols](https://hack.aragon.org/docs/aragonos-intro.html)
-     * Upgreadability: Smart contracts can be upgraded to a newer version
-     * Permission control: By using the `auth` and `authP` modifiers, you can protect functionality so only other apps or entities can access it
-     * Forwarders: aragonOS apps can send their intent to perform an action to other apps, so that intent is forwarded if a set of requirements are met
+* [아라곤OS(aragonOS): DAO와 탈중앙화 어플리케이션, 프로토콜을 위한 스마트 컨트렉트 프레임워크](https://hack.aragon.org/docs/aragonos-intro.html)
+     * 업그레이드가능(Upgradebility): 스마트 컨트렉트는 최신 버전으로 업그레이드 할 수 있습니다.
+     * 승인 통제(Permission control): `auth` 와 `authP` 수정자를 사용함으로써, 다른 어플리케이션 또는 엔티티(entities)만 접근할 수 있도록 기능을 보호할 수 있습니다.
+     * 촉진자(Forwarders): 아라곤OS 어플리케이션 다른 어플리케이션에게 실행(action)을 할 인텐트(intent)를 보내는데, 인텐트는 일련의 요구사항 충족이 되어야 전달됩니다.
 
 ##### 고급과정(Upgradebility)
 * [엘레나 디미트로바(Elena Dimitrova)의 블로그, 콜로니(colony.io) 개발자](https://blog.colony.io/@elena_di)
@@ -157,7 +158,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [하모니(Harmony)](https://github.com/ether-camp/ethereum-harmony) - 이더캠프(EtherCamp)의 자바 클라이언트 입니다.
 * [세스(Seth)](https://github.com/dapphub/dapptools/tree/master/src/seth) - 세스는 "커멘드 라인(command line)을 위한 메타마스크" 형태의 이더리움 클라이언트 도구 입니다.
 * [머스테카라(Mustekala)](https://github.com/MetaMask/mustekala) - 메타마스크의 이더리움 라이트 클라이언트 프로젝트 입니다.
-* [Exthereum](https://github.com/exthereum/blockchain) - Elixir 클라이언트 입니다.
+* [Exthereum](https://github.com/exthereum/blockchain) - 엘릭서(Elixir) 클라이언트 입니다.
 * [EWF 패리티](https://github.com/energywebfoundation/energyweb-client) - Tobalaba 테스트 네트워크를 위한 에너지 웹 재단 클라이언트 입니다.
 * [큐럼(Quorum)](https://github.com/jpmorganchase/quorum) -
 [제이피모건(JP Morgan)](https://www.jpmorgan.com/quorum)에 의해 데이터 프라이버시를 지원하는 이더리움의 승인받은 구현(permissioned implementation) 입니다.
@@ -167,7 +168,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
    * [IPFS-Store](https://github.com/ConsenSys/IPFS-Store) - 검색 기능이 포함된 IPFS 저장소 서비스
    * [OrbitDB](https://github.com/orbitdb/orbit-db) - IPFS의 최상단 탈중앙화 된 데이터베이스
    * [JS IPFS API](https://github.com/ipfs/js-ipfs-api) - IPFS HTTP API를 위한 클라이언트 라이브러리, 자바스크립트로 실행
-   * [TEMPORAL](https://github.com/RTradeLtd/Temporal) - Easy to use API into IPFS and other distributed/decentralised storage protocols
+   * [TEMPORAL](https://github.com/RTradeLtd/Temporal) - 다른 분산화/탈중앙화 저장소 프로토콜과 IPFS로 들어오는 API를 쉽게 이용
 * [스웜(Swarm)](http://swarm-gateways.net/) - 분산화 된 저장소 플랫폼과 컨텐츠 분산 서비스, 이더리움 웹3 스택(stack)의 네이티브(native) 기초 계층 서비스 입니다.
 
 #### 메세징
@@ -184,6 +185,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [클리끄베이트(Cliquebait)](https://github.com/f-o-a-m/cliquebait) - 실제 블록체인 네트워크와 유사한 도커(docker) 인스턴스를 사용해 스마트 컨트렉트 어플리케이션을 통합(integration)하고 테스팅을 합니다.
 * [Hevm](https://github.com/dapphub/dapptools/tree/master/src/hevm) - hevm 프로젝트는 단위 테스팅과 스마트 컨트렉트 디버깅을 위해 특별히 만들어진 이더리움 가상 머신(EVM) 구현체 입니다.
 * [이더리움 그래프 디버거(Ethereum graph debugger)](https://github.com/fergarrui/ethereum-graph-debugger) - 솔리디티 그래픽적인 디버거 입니다.
+* [솔힌트(Solhint)](https://github.com/protofire/solhint) - 보안을 제공하는 솔리디티 린터, 스타일 가이드와 스마트 컨트렉트 인증을 위한 모범 사례 규칙이 있습니다.
 * [솔리움(Solium)](https://github.com/duaraghav8/Solium) - 솔리디티 보안 이슈 & 식별과 스타일 수정을 린터(Linter)로 합니다.
 * [디코드(Decode)](https://github.com/dteiml/decode) - 읽을 수 있고 쉽게 이해할 수 있도록 로컬 testrpc 노드에서 제출된 거래를 분석하는 npm 패키지 입니다.
 
@@ -212,6 +214,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [Solidity cli](https://github.com/pubkey/solidity-cli) - 솔리디티 코드를 빠르고 쉽고, 더 믿을 수 있게 컴파일 합니다.
 * [Solidity flattener](https://github.com/poanetwork/solidity-flattener) - 솔리디티 프로젝트와 단층 파일(flat file) 유틸리티를 합쳐줍니다. 이더스캔(Etherscan)에서 컨트렉트 인증하거나 임포트(imported) 된 컨트렉트 시각화에 유용합니다.
 * [RLP](https://github.com/ethereumjs/rlp) - 자바스크립트의 RLP(Recursive Length Prefix) 인코딩 입니다.
+* [eth-cli](https://github.com/protofire/eth-cli) - 이더리움 학습과 개발을 도와주는 CLI 도구 모음집 입니다.
 * [이더리얼(Ethereal)](https://github.com/wealdtech/ethereal) - 이더리얼은 이더리움에서 일반 작업 관리를 위한 커멘드 라인 도구 입니다.
 * [Eth crypto](https://github.com/pubkey/eth-crypto) - web3js와 솔리디티를 사용하는 튜토리얼과 이더리움을 위한 암호적(Cryptographic) 자바스크립트 함수 입니다.
 * [패리티 싸이너(Parity Signer)](https://github.com/paritytech/parity-signer) - 서명(signing) 거래를 모바일 어플리케이션으로 가능하게 합니다.
@@ -237,7 +240,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [크립토핀 솔리디티(cryptofin-solidity)](https://github.com/cryptofinlabs/cryptofin-solidity) - 이더리움에서 가스 효율이 좋은 스마트 컨트렉트와 보안 구축을 위한 솔리디티 라이브러리 모음 입니다.
 * [모듈러 라이브러리(Modular Libraries)](https://github.com/Modular-Network/ethereum-libraries) - 이더리움 가상 머신을 활용하는 블록체인 사용을 위한 개발 패키지 그룹 입니다.
 * [데이트타임 라이브러리(DateTime Library)](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary) - 가스 효율이 좋은 솔리디티 일시(date and time) 라이브러리 입니다.
-* [아라곤(Aragon)](https://github.com/aragon/aragon) - DAO 프로토콜 입니다. Contains [aragonOS smart contract framework](https://github.com/aragon/aragonOS) with focus on upgradeability and governance
+* [아라곤(Aragon)](https://github.com/aragon/aragon) - DAO 프로토콜 입니다. upgradeability와 거버넌스에 집중한 [아라곤OS 스마트 컨트렉트 프레임워크](https://github.com/aragon/aragonOS)도 포함 되었습니다.
 * [0x](https://github.com/0xProject) - DEX 프로토콜 입니다.
 * [프루프 토큰 라이브러리(Token Libraries with Proofs)](https://github.com/sec-bit/tokenlibs-with-proofs) - 주어진 사양(specifications)과 고차원 속성(high-level properties)에 관해 토큰 컨트렉트의 정확성(correctness) 증명을 포함합니다.
 
@@ -250,7 +253,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [뮤라이덴 문서(µRaiden Documentation)](http://microraiden.readthedocs.io) - 뮤라이덴 발신자/수신자 유스케이스(Use Cases)를 위한 샘플과 가이드 입니다.
 
 #### 플라즈마(Plasma)
-* [Learn Plasma](https://github.com/ethsociety/learn-plasma) - Website as Node application that was started at the 2018 IC3-Ethereum Crypto Boot Camp at Cornell University, covering all Plasma variants (MVP/Cash/Debit)
+* [Learn Plasma](https://github.com/ethsociety/learn-plasma) - 코넬 대학교(Cornell University)에서 시작한 2018 IC3-Ethereum Crypto Boot Camp의 노드 어플리케이션 웹사이트로, 다양한(MVP/Cash/Debit) 플라즈마를 모두 포함합니다.
 * [플라즈마 MVP](https://github.com/omisego/plasma-mvp) - 오미세고(OmiseGO)의 최소 실행 가능한 플라즈마의 연구 구현물 입니다.
 * [플라즈마 MVP 고랭(Golang)](https://github.com/kyokan/plasma) - 최소 실행 가능한 플라즈마 규격 확장과 고랭 구현물 입니다.
 * [플라즈마 캐시(Cash)](https://github.com/mkchungs/plasma-cash) - 간단한 플라즈마 캐시 구현물 입니다.
