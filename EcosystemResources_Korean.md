@@ -68,6 +68,9 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [스마트체크(SmartCheck)](https://tool.smartdec.net/) - 보안 취약성(vulnerabilities)과 모범 사례(best practices)에 대한 솔리디티 소스 코드 정적 분석을 제공합니다.
 * [MD4 온라인 해시 펑션(MD4 Online Hash Function)](https://emn178.github.io/online-tools/md4.html) - 다양한 해싱 알고리즘 옵션을 사용하여 해쉬를 입력하는 도구 입니다.
 * [아이젝 SDK(iExec SDK)](https://github.com/iExecBlockchainComputing/iexec-sdk) - 스마트 컨트렉트의 실행 함수 또는 오프체인 어플리케이션의 권한을 부여합니다. 도커 이미지로 제공되는 기존 어플리케이션들을 지원합니다.
+* [dAppBridge](https://dAppBridge.com/) - Inteligent Data Oracle & setTimeout service for your smart contracts
+* [Solidstamp](https://www.solidstamp.com) - on-chain registry of smart contract audits.
+* [Incentivai](http://incentivai.co) - Testing of smart contract economies via simulation with ML agents
 
 ### 지식/교육
 * [어썸 버기 ERC20 토큰(Awesome Buggy ERC20 Tokens)](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - 토큰에 영향을 주는 ERC20 스마트 컨트렉트의 취약성 모음 입니다.
