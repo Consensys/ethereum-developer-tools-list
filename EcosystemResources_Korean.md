@@ -80,6 +80,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [B9Lab](https://academy.b9lab.com/) - 유료 과정 입니다.
 * [블록긱스(Blockgeeks)](https://courses.blockgeeks.com/) - 솔리디티/탈중앙화 어플리케이션 개발에 관한 유료 과정 입니다.
 * [체인샷 빌딩 블록스(Chainshot building blocks)](https://www.chainshot.com/) - 무료 프로젝트 기반 과정과 시험(Challenges)이 있습니다.
+* [Kauri](https://beta.kauri.io/) - Openly accessible community knowledge base and tutorials
 * [델리게이트 콜(Delegate call)](https://delegatecall.com/) - 질문 답변 사이트 입니다.
 * [스택익스체인지(Stackexchange)](https://ethereum.stackexchange.com) - 질문 답변 사이트 입니다.
 * [r/EthDev](https://www.reddit.com/r/ethdev/) - 서브레딧(Subreddit) 입니다.
