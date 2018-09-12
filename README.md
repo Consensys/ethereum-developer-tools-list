@@ -38,7 +38,6 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Dapp](https://dapp.tools/dapp/) - Framework for DApp development, successor to DApple
 * [Populus](https://github.com/ethereum/populus) - The Ethereum development framework with the most cute animal pictures
 * [Etherlime](https://github.com/LimeChain/etherlime) - ethers.js based framework for Dapp deployment
-* [Cliquebait](https://github.com/f-o-a-m/cliquebait) - Simplifies integration and accepting testing of smart contract applications with docker instances that closely resembles a real blockchain network
 
 #### IDEs
 * [Remix](https://remix.ethereum.org/) - Web IDE with built in static analysis, test blockchain VM.
@@ -56,6 +55,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 ### Test blockchain networks
 * [Ganache](https://github.com/trufflesuite/ganache) - App for test Ethereum blockchain with visual UI and logs
 * [Kaleido](https://kaleido.io/) - Use Kaleido for spinning up a consortium blockchain network. Great for PoCs and testing
+* [Cliquebait](https://github.com/f-o-a-m/cliquebait) - Simplifies integration and accepting testing of smart contract applications with docker instances that closely resembles a real blockchain network
 * [Local Raiden](https://github.com/ConsenSys/Local-Raiden) - Run a local Raiden network in docker containers for demo and testing purposes
 * [Private networks deployment scripts](https://github.com/ConsenSys/private-networks-deployment-scripts) - Out-of-the-box deployment scripts for private PoA networks
 * [Local Ethereum Network](https://github.com/ConsenSys/local_ethereum_network) - Out-of-the-box deployment scripts for private PoW networks
