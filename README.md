@@ -189,7 +189,8 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Decode](https://github.com/dteiml/decode) - npm package which parses tx's submitted to a local testrpc node to make them more readable and easier to understand
 
 ### Security Tools
-* [Mythril](https://github.com/ConsenSys/mythril) - Static smart contract security analysis
+* [Mythril Platform](https://mythril.ai) - Security verification platform and tools ecosystem for Ethereum developers
+* [Mythril OSS](https://github.com/ConsenSys/mythril) - Open-source EVM bytecode security analysis tool
 * [Oyente](https://github.com/melonproject/oyente) - Alternative static smart contract security analysis
 * [Securify](https://securify.ch) - Security scanner for Ethereum smart contracts
 * [Porosity](https://github.com/comaeio/porosity) - Decompiler and Security Analysis tool for Blockchain-based Ethereum Smart-Contracts
