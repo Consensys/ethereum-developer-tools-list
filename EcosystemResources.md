@@ -17,6 +17,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Gnosis multisig wallet](https://github.com/gnosis/MultiSigWallet) - Audited multi-sig wallet  
 * [Mist](https://github.com/ethereum/mist) - Browse and use Dapps on the Ethereum network
 * [Exodus](https://www.exodus.io) - Desktop wallet with Shapeshift integration
+* [Nifty Wallet](https://github.com/poanetwork/metamask-extension) - Ethereum Browser Extension focused on usability of real world applications
 
 #### Web Wallets
 * [MyEtherWallet](https://github.com/MyEtherWallet) - Open-source [tools](https://www.myetherwallet.com/) for interacting with the blockchains easily & securely
