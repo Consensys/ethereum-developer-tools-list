@@ -269,4 +269,4 @@ Ethereum開発で利用可能なツール、コンポーネント、パターン
 #### Privacy
 
 ##### zkSNARKs
-* [ZoKrates](https://github.com/JacobEberhardt/ZoKrates) - EthereumのzkSNARKDのツールボックス
+* [ZoKrates](https://github.com/JacobEberhardt/ZoKrates) - EthereumのzkSNARKSのツールボックス
