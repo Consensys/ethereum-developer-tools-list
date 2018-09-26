@@ -115,7 +115,7 @@ Ethereum開発で利用可能なツール、コンポーネント、パターン
 
 #### パターン ＆ ベストプラクティス
 
-##### Patterns for Smart Contract Development
+##### スマートコントラクトのパターン
 * [Dappsys: Safe, simple, and flexible Ethereum contract building blocks](https://github.com/dapphub/dappsys)
     * EthereumとSolidityの一般的な問題への解決方法。以下は例:
         * [Whitelisting](https://steemit.com/ethereum/@nexusdev/dapp-a-day-11-whitelist-boring)
