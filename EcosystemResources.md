@@ -14,9 +14,10 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 ## Resources
 ### Wallets
 * [Metamask](https://metamask.io/) - Chrome extension Ether wallet with ERC tokens support
-* [Gnosis multisig wallet](https://github.com/gnosis/MultiSigWallet) - Audited multi-sig wallet  
+* [Gnosis multisig wallet](https://github.com/gnosis/MultiSigWallet) - Audited multi-sig wallet
 * [Mist](https://github.com/ethereum/mist) - Browse and use Dapps on the Ethereum network
 * [Exodus](https://www.exodus.io) - Desktop wallet with Shapeshift integration
+* [Nifty Wallet](https://github.com/poanetwork/metamask-extension) - Ethereum Browser Extension focused on usability of real world applications
 
 #### Web Wallets
 * [MyEtherWallet](https://github.com/MyEtherWallet) - Open-source [tools](https://www.myetherwallet.com/) for interacting with the blockchains easily & securely
@@ -104,6 +105,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 
 #### Scaling
 * [Comprehensive Medium article](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4) on various solutions to scale Ethereum
+* [Using Multitoken Payment Channels to sign off-chain transactions](https://github.com/STKtoken/Multi-Token-smart-contracts)
 
 ### Reference
 * [Wiki](https://github.com/ethereum/wiki/wiki) - Ethereum wiki covering all things related to Ethereum

@@ -41,10 +41,10 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 
 #### IDEs
 * [Remix](https://remix.ethereum.org/) - Web IDE with built in static analysis, test blockchain VM.
+* [Superblocks Lab](https://superblocks.com/lab/) - Web IDE. Built in browser blochain VM, Metamask integration (one click deployments to Testnet/Mainnet), transaction logger and live code your WebApp among many other features. 
 * [Atom](https://atom.io/) - Atom editor with [Atom Solidity Linter](https://atom.io/packages/atom-solidity-linter), [Etheratom](https://atom.io/packages/etheratom)
 * [Pragma](https://www.withpragma.com/) - Very simple web IDE for solidity, and auto-generated interfaces for smart contracts.
 [autocomplete-solidity](https://atom.io/packages/autocomplete-solidity), and [language-solidity](https://atom.io/packages/language-solidity) packages
-* [Superblocks Studio](https://superblocks.com/studio/) - Superblocks Studio helps you code, build, and deploy your smart contracts.
 * [Vim solidity](https://github.com/tomlion/vim-solidity) - Vim syntax file for solidity
 * [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) - Visual Studio Code extension that adds support for Solidity
 * [Intellij Solidity Plugin](https://github.com/intellij-solidity/intellij-solidity/wiki) - Open-source plug-in for [JetBrains IntelliJ Idea IDE](https://www.jetbrains.com/idea/) (free/commercial) with syntax highlighting, formatting, code completion etc.
@@ -185,11 +185,14 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Solhint](https://github.com/protofire/solhint) - Solidity linter that provides security, style guide and best practice rules for smart contract validation
 * [Solium](https://github.com/duaraghav8/Solium) - Linter to identify and fix style & security issues in Solidity
 * [Decode](https://github.com/dteiml/decode) - npm package which parses tx's submitted to a local testrpc node to make them more readable and easier to understand
+* [truffle-assertions](https://github.com/rkalis/truffle-assertions) - An npm package with additional assertions and utilities used in testing Solidity smart contracts with truffle. Most importantly, it adds the ability to assert whether specific events have (not) been emitted.
 
 ### Security Tools
-* [Mythril](https://github.com/ConsenSys/mythril) - Static smart contract security analysis
+* [Mythril Platform](https://mythril.ai) - Security verification platform and tools ecosystem for Ethereum developers
+* [Mythril OSS](https://github.com/ConsenSys/mythril) - Open-source EVM bytecode security analysis tool
 * [Oyente](https://github.com/melonproject/oyente) - Alternative static smart contract security analysis
 * [Securify](https://securify.ch) - Security scanner for Ethereum smart contracts
+* [SmartCheck](https://tool.smartdec.net/) - Static smart contract security analyzer
 * [Porosity](https://github.com/comaeio/porosity) - Decompiler and Security Analysis tool for Blockchain-based Ethereum Smart-Contracts
 * [Ethersplay](https://github.com/trailofbits/ethersplay) - EVM disassembler
 * [Evmdis](https://github.com/Arachnid/evmdis) - Alternative EVM disassembler
@@ -198,6 +201,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool on Smart Contracts and Binaries
 * [Solidity security blog](https://github.com/sigp/solidity-security-blog) - Comprehensive list of known attack vectors and common anti-patterns
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
+* [Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) - Free smart contract security audits from Callisto Network
 
 ### Monitoring
 * [Neufund - Smart Contract Watch](https://github.com/Neufund/smart-contract-watch) - A tool to monitor a number of smart contracts and transactions
