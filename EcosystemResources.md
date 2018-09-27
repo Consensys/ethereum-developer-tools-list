@@ -46,10 +46,12 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [KeepKey](https://www.keepkey.com) - The simple hardware wallet
 
 ### Block explorers
-* [Etherscan](https://etherscan.io/) - Most popular centralised way to view Eth transactions and contract code
-* [Etherchain Light](https://github.com/gobitfly/etherchain-light)- Lightweight blockchain explorer for your private Ethereum chain
+* [Etherscan](https://etherscan.io/) - most popular centralized way to view Eth transactions and contract code
 * [POA Explorer](https://github.com/poanetwork/poa-explorer) - Open Source Ethereum Block explorer, funded by [Ethprize](http://ethprize.io) and developed by [POA](https://poa.net)
-* [QuickBlocks](https://github.com/Great-Hill-Corporation/quickBlocks) - QuickBlocks is a collection of software libraries, applications, tools, and examples that allow you to retrieve Ethereum blockchain data
+* [QuickBlocks](https://github.com/Great-Hill-Corporation/quickBlocks)- QuickBlocks is a collection of software libraries, applications, tools, and examples that allow you to retrieve Ethereum blockchain data (a) more quickly, (b) with higher information content, (c) in an fully decentralized way, (d) in a fully automated way, and (e) in a highly maintenance free way.)
+* [Etherchain lite](https://github.com/gobitfly/etherchain-light)- Lightweight blockchain explorer for your private Ethereum chain
+* [Alethio EthStats 2.0](https://media.consensys.net/alethio-lighting-up-the-blockchain-with-real-time-stats-a80bb30576db) coming soon
+* [Supermax](https://www.supermax.cool/)- A live data feed of the activities and event logs of your smart contracts on Ethereum
 
 ### Gas price calculators and tools
 * [EthGasStation](https://ethgasstation.info/) - Website for estimating tx prices vs times
@@ -123,14 +125,6 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/) - This discussion board facilitates meaningful communications among individuals throughout the Ethereum community
 * [EIPs](http://eips.ethereum.org/) - The Ethereum Improvement Proposal repository
 * [Aragon Research Forum](https://research.aragon.org/) - Long-form discussions related to Aragon's research efforts including governance, economics, and token engineering
-
-### Block explorers
-* [Etherscan](https://etherscan.io/) - most popular centralized way to view Eth transactions and contract code
-* [POA Explorer](https://github.com/poanetwork/poa-explorer) - Open Source Ethereum Block explorer, funded by [Ethprize](http://ethprize.io) and developed by [POA](https://poa.net)
-* [QuickBlocks](https://github.com/Great-Hill-Corporation/quickBlocks)- QuickBlocks is a collection of software libraries, applications, tools, and examples that allow you to retrieve Ethereum blockchain data (a) more quickly, (b) with higher information content, (c) in an fully decentralized way, (d) in a fully automated way, and (e) in a highly maintenance free way.)
-* [Etherchain lite](https://github.com/gobitfly/etherchain-light)- Lightweight blockchain explorer for your private Ethereum chain
-* [Alethio EthStats 2.0](https://media.consensys.net/alethio-lighting-up-the-blockchain-with-real-time-stats-a80bb30576db) coming soon
-* [Supermax](https://www.supermax.cool/)- A live data feed of the activities and event logs of your smart contracts on Ethereum
 
 ### Decentralized Exchanges
 * [Airswap](https://www.airswap.io/) - decentralized token exchange
