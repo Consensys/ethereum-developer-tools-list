@@ -58,7 +58,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 
 ### Services
 * [Oracalize](http://www.oraclize.it/) - Oracle service for your smart contracts
-* [Infura](https://infura.io/) - API gateway so you don’t have to host your own ETH node
+* [Infura](https://infura.io/) - API gateway so you don't have to host your own ETH node
 * [Quiknode](https://quiknode.io/) - Service to spin up personal Parity/Geth nodes
 * [Regis](https://regis.nu/) - Registry Framework for Digital Assets
 * [Viant](https://viant.io/) - Just consider using Viant as your backend if the use case is business process oriented
@@ -119,7 +119,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Solidity cheat sheet](https://topmonks.github.io/solidity_quick_ref/) - Quick overview of Solidity syntax
 
 ### Governance
-* [Ethresear.ch](https://ethresear.ch/) - Semi-public forum for participating in Ethereum’s research efforts, including but not limited to: Casper, Sharding, EVM improvements, Crytpeconomics, Plasma and State-channels
+* [Ethresear.ch](https://ethresear.ch/) - Semi-public forum for participating in Ethereum's research efforts, including but not limited to: Casper, Sharding, EVM improvements, Crytpeconomics, Plasma and State-channels
 * [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/) - This discussion board facilitates meaningful communications among individuals throughout the Ethereum community
 * [EIPs](http://eips.ethereum.org/) - The Ethereum Improvement Proposal repository
 * [Aragon Research Forum](https://research.aragon.org/) - Long-form discussions related to Aragon's research efforts including governance, economics, and token engineering
