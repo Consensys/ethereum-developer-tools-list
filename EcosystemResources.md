@@ -47,7 +47,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 ### Block explorers
 * [Etherscan](https://etherscan.io/) - Most popular centralised way to view Eth transactions and contract code
 * [Etherchain Light](https://github.com/gobitfly/etherchain-light)- Lightweight blockchain explorer for your private Ethereum chain
-* [POA Explorer](https://github.com/poanetwork/poa-explorer) - Open Source Ethereum Block explorer, funded by [Ethprize](ethprize.io) and developed by [POA](https://poa.net)
+* [POA Explorer](https://github.com/poanetwork/poa-explorer) - Open Source Ethereum Block explorer, funded by [Ethprize](http://ethprize.io) and developed by [POA](https://poa.net)
 * [QuickBlocks](https://github.com/Great-Hill-Corporation/quickBlocks) - QuickBlocks is a collection of software libraries, applications, tools, and examples that allow you to retrieve Ethereum blockchain data
 
 ### Gas price calculators and tools
