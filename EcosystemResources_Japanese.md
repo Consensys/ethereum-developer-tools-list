@@ -1,55 +1,52 @@
 ※この日本語訳は[c5bd220](https://github.com/ConsenSys/ethereum-developer-tools-list/commit/d4ed743361802cb69a8367752960818c43da2a5c)時点のものです。
 
 # Ecosystem Resources
-
-A guide to the available dapps, services, writings, and knowledge bases for learning and understanding the Ethereum ecosystem.
-
-This resource is meant to be focused on ecosystem development, but the repo also includes:
+Ethereumエコシステムを学習・理解するためのDApps、サービス、テキスト、ナレッジベースのガイドです。  
+このリソースはエコシステムの開発にフォーカスしていますが、このリポジトリには以下も含まれます:
 * [Ethereum Developer Tools List](README_Japanese.md)
 
-## Contributions are welcome!
+## Contributions 大歓迎!
 
-Feel free to submit a pull request, with anything from small fixes to tools you'd like to add. If adding a new tool, **please add a brief description** that you think new developers would understand.
+あなたが追加(または削除!)したいツールについて、小さな修正であっても気軽にプルリクエストを送ってください。ツールを追加する場合は、開発者の理解を助ける**短い説明文を付加してください**。
 
-Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/corbpage) of Meridio for the idea, [@pakaplace](https://twitter.com/Parker_Place) for expanding and curating, and @jpantunes for restructuring the list in a more logical way.
+発起人の[@corbpage](https://twitter.com/corbpage)、キュレーションと拡大へ貢献してくれた[@pakaplace](https://twitter.com/Parker_Place)、よりロジカルにリストを再構築してくれた@jpantunesを含む20人以上のコントリビュータに感謝します。
 
-## Resources
-### Wallets
-* [Metamask](https://metamask.io/) - Chrome extension Ether wallet with ERC tokens support
-* [Gnosis multisig wallet](https://github.com/gnosis/MultiSigWallet) - Audited multi-sig wallet
-* [Mist](https://github.com/ethereum/mist) - Browse and use Dapps on the Ethereum network
-* [Exodus](https://www.exodus.io) - Desktop wallet with Shapeshift integration
-* [Nifty Wallet](https://github.com/poanetwork/metamask-extension) - Ethereum Browser Extension focused on usability of real world applications
+## リソース
+### ウォレット
+* [Metamask](https://metamask.io/) - ERCトークンをサポートするChrome拡張ウォレット。
+* [Gnosis multisig wallet](https://github.com/gnosis/MultiSigWallet) - Audit済のマルチ・シグ・ウォレット
+* [Mist](https://github.com/ethereum/mist) - Ethereumネットワーク上でのDAppsの検索と利用 
+* [Exodus](https://www.exodus.io) - Shapeshift統合されたデスクトップウォレット 
+* [Nifty Wallet](https://github.com/poanetwork/metamask-extension) - 現実世界のアプリケーションにフォーカスしたEthereumのブラウザ拡張 
 
-#### Web Wallets
-* [MyEtherWallet](https://github.com/MyEtherWallet) - Open-source [tools](https://www.myetherwallet.com/) for interacting with the blockchains easily & securely
-* [Ether Address Lookup](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn?hl=en-GB) - Chrome extension for phishing protection and Eth address highlighting
-* [MyCrypto](https://github.com/MyCryptoHQ) - Open-source, client-side [tool](https://mycrypto.com/account) for generating ether wallets, handling ERC-20 tokens, and interacting with the blockchain more easily
-* [Portis](https://portis.io/) - Web-based wallet for easy user on-boarding to your DApp
-* [Eth lightwallet](https://github.com/ConsenSys/eth-lightwallet) - Lightweight JS Wallet for Node and the browser
-* [SpankCard](https://github.com/SpankChain/SpankCard) - An in-browser Ethereum wallet with support for payment channels
-* [Mnemonic generator](https://iancoleman.io/bip39/) - generate word mnemonic and associated public/private key pairs. Select "Ethereum" as coin to generate Ethereum addresses. Useful for truffle-hd-wallet.
+#### Web ウォレット
+* [MyEtherWallet](https://github.com/MyEtherWallet) - ブロックチェーンに接続できる安全かつ堅牢な[オープンソースツール](https://www.myetherwallet.com/)
+* [Ether Address Lookup](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn?hl=en-GB) - フィッシング詐欺帽子とETHアドレスのハイライト機能を持つChrome拡張 
+* [MyCrypto](https://github.com/MyCryptoHQ) - 安全かつ堅牢にブロックチェーンに接続でき、ETHウォレット作成やERCトークン管理の機能を持つ[オープンソース・クライアントサイド・ツール](https://mycrypto.com/account)
+* [Portis](https://portis.io/) - ユーザにDAppの利用を習熟してもらうためのWebベースのウォレット 
+* [Eth lightwallet](https://github.com/ConsenSys/eth-lightwallet) - Node.jsとブラウザのための軽量JSウォレット 
+* [SpankCard](https://github.com/SpankChain/SpankCard) - ペイメントチャネルをサポートしたEthereum Webウォレット 
+* [Mnemonic generator](https://iancoleman.io/bip39/) - 公開鍵・秘密鍵に関連付けたニーモニック・ワードを作成。Ethereumアドレスを生成するためには"Ethereum"を対象コインとして選択する。truffle-hd-walletで利用すると便利。
+
+#### モバイルウォレット
+* [Toshi](https://github.com/toshiapp) - モバイルDAppエクスプローラと[ウォレット](https://itunes.apple.com/us/app/toshi-ethereum-wallet/id1278383455?mt=8) 
+* [Cypher](https://www.cipherbrowser.com/) - モバイルDAppエクスプローラ
+* [Trust](https://github.com/TrustWallet/trust-wallet-ios) - ERCトークンのための[モバイルウォレット](https://trustwalletapp.com/)
+* [Status](https://github.com/status-im/status-react) - Ethereum用のフリーでオープンソースなモバイルOS 
+* [imToken](https://token.im/) - DAppsを検索でき、堅牢でプライベートな資産の交換と複数のブロックチェーンの資産管理が可能な、機能豊富なモバイルウォレット
+* [Jaxx](https://jaxx.io) - モバイルとデスクトップで利用可能なウォレット。Shapeshiftに対応 
+* [WallETH](https://walleth.org) - ネイティブ実装のAndroid Ethereumウォレット
++ [eth-wallet-light](https://github.com/NoahHydro/eth-wallet-light) - モバイルに最適化された軽量JSウォレット  
 
 
-#### Mobile Wallets
-* [Toshi](https://github.com/toshiapp) - Mobile Dapp explorer and [wallet](https://itunes.apple.com/us/app/toshi-ethereum-wallet/id1278383455?mt=8)
-* [Cypher](https://www.cipherbrowser.com/) - Mobile Dapp explorer
-* [Trust](https://github.com/TrustWallet/trust-wallet-ios) - Mobile [wallet](https://trustwalletapp.com/) for ERC tokens
-* [Status](https://github.com/status-im/status-react) - A free open-source, mobile OS for Ethereum
-* [imToken](https://token.im/) - Feature-rich digital asset mobile wallet enabling multi-chain asset management, DApp browsing and secure, private exchange of value
-* [Jaxx](https://jaxx.io) - Both a mobile and a desktop wallet. Has integrated Shapeshift support
-* [WallETH](https://walleth.org) - Native Android Ethereum Wallet
-+ [eth-wallet-light](https://github.com/NoahHydro/eth-wallet-light) - Lightweight JS Wallet optimized for mobile
+#### ハードウェアウォレット
+* [Trezor](https://trezor.io) - 元祖ハードウェアウォレット
+* [Ledger](https://www.ledgerwallet.com) - 複数の暗号通貨やトークンをサポート 
+* [KeepKey](https://www.keepkey.com) - シンプルなハードウェアウォレット
 
-
-#### Hardware Wallets
-* [Trezor](https://trezor.io) - The original hardware wallet
-* [Ledger](https://www.ledgerwallet.com) - Support for multiple cryptocurrencies and tokens
-* [KeepKey](https://www.keepkey.com) - The simple hardware wallet
-
-### Block explorers
-* [Etherscan](https://etherscan.io/) - Most popular centralised way to view Eth transactions and contract code
-* [Etherchain Light](https://github.com/gobitfly/etherchain-light)- Lightweight blockchain explorer for your private Ethereum chain
+### ブロック・エクスプローラ
+* [Etherscan](https://etherscan.io/) - もっとも有名なEthereumのトランザクションとコントラクトのコードが確認可能な手段(中央集権) 
+* [Etherchain Light](https://github.com/gobitfly/etherchain-light) - Ethereumのプライベートチェーン用の軽量ブロックチェーン・エクスプローラ 
 * [POA Explorer](https://github.com/poanetwork/poa-explorer) - Open Source Ethereum Block explorer, funded by [Ethprize](ethprize.io) and developed by [POA](https://poa.net)
 * [QuickBlocks](https://github.com/Great-Hill-Corporation/quickBlocks) - QuickBlocks is a collection of software libraries, applications, tools, and examples that allow you to retrieve Ethereum blockchain data
 
