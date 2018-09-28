@@ -46,10 +46,12 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [KeepKey](https://www.keepkey.com) - The simple hardware wallet
 
 ### Block explorers
-* [Etherscan](https://etherscan.io/) - Most popular centralised way to view Eth transactions and contract code
-* [Etherchain Light](https://github.com/gobitfly/etherchain-light)- Lightweight blockchain explorer for your private Ethereum chain
-* [POA Explorer](https://github.com/poanetwork/poa-explorer) - Open Source Ethereum Block explorer, funded by [Ethprize](ethprize.io) and developed by [POA](https://poa.net)
-* [QuickBlocks](https://github.com/Great-Hill-Corporation/quickBlocks) - QuickBlocks is a collection of software libraries, applications, tools, and examples that allow you to retrieve Ethereum blockchain data
+* [Etherscan](https://etherscan.io/) - most popular centralized way to view Eth transactions and contract code
+* [POA Explorer](https://github.com/poanetwork/poa-explorer) - Open Source Ethereum Block explorer, funded by [Ethprize](http://ethprize.io) and developed by [POA](https://poa.net)
+* [QuickBlocks](https://github.com/Great-Hill-Corporation/quickBlocks)- QuickBlocks is a collection of software libraries, applications, tools, and examples that allow you to retrieve Ethereum blockchain data (a) more quickly, (b) with higher information content, (c) in an fully decentralized way, (d) in a fully automated way, and (e) in a highly maintenance free way.)
+* [Etherchain lite](https://github.com/gobitfly/etherchain-light)- Lightweight blockchain explorer for your private Ethereum chain
+* [Alethio EthStats 2.0](https://media.consensys.net/alethio-lighting-up-the-blockchain-with-real-time-stats-a80bb30576db) coming soon
+* [Supermax](https://www.supermax.cool/)- A live data feed of the activities and event logs of your smart contracts on Ethereum
 
 ### Gas price calculators and tools
 * [EthGasStation](https://ethgasstation.info/) - Website for estimating tx prices vs times
@@ -58,7 +60,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 
 ### Services
 * [Oracalize](http://www.oraclize.it/) - Oracle service for your smart contracts
-* [Infura](https://infura.io/) - API gateway so you don’t have to host your own ETH node
+* [Infura](https://infura.io/) - API gateway so you don't have to host your own ETH node
 * [Quiknode](https://quiknode.io/) - Service to spin up personal Parity/Geth nodes
 * [Regis](https://regis.nu/) - Registry Framework for Digital Assets
 * [Viant](https://viant.io/) - Just consider using Viant as your backend if the use case is business process oriented
@@ -71,7 +73,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [SmartCheck](https://tool.smartdec.net/) - Static analysis of Solidity source code for security vulnerabilities and best practices
 * [MD4 Online Hash Function](https://emn178.github.io/online-tools/md4.html) - Tool to hash input with a variety of hashing algorithm options
 * [iExec SDK](https://github.com/iExecBlockchainComputing/iexec-sdk) - Gives smart contract the ability to execute functions or applications off-chain. Support any legacy applications provided as a Docker image.
-* [dAppBridge](https://dAppBridge.com/) - Inteligent Data Oracle & setTimeout service for your smart contracts
+* [dAppBridge](https://dAppBridge.com/) - Intelligent Data Oracle & setTimeout service for your smart contracts
 * [Solidstamp](https://www.solidstamp.com) - on-chain registry of smart contract audits.
 * [Incentivai](http://incentivai.co) - Testing of smart contract economies via simulation with ML agents
 
@@ -87,7 +89,6 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Delegate call](https://delegatecall.com/) - Q&A site
 * [Stackexchange](https://ethereum.stackexchange.com) - Q&A site
 * [r/EthDev](https://www.reddit.com/r/ethdev/) - Subreddit
-* [Ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
 * [Reducing Gas Fees](https://medium.com/@STKtoken/research-of-the-week-reducing-gas-fees-9061d19cc171) - Tips and tricks to reducing gas spent on execution
 * [Dapp University](http://www.dappuniversity.com) - Free Video Tutorials
 * [Attacks on Smart Contracts](https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/)
@@ -99,7 +100,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Safety wiki](https://github.com/ethereum/wiki/wiki/Safety) - Ethereum Foundation wiki on safety
 
 #### Solidity Games!
-* [OpenZeppelin Ethernaut](https://ethernaut.zeppelin.solutions)
+* [OpenZeppelin Ethernaut](https://ethernaut.zeppelin.solutions) - Web3/Solidity based wargame
 * [Cryptozombies](https://cryptozombies.io/) - The best undead tutorial in the world
 * [Capture the Ether](https://capturetheether.com/)
 
@@ -119,18 +120,10 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Solidity cheat sheet](https://topmonks.github.io/solidity_quick_ref/) - Quick overview of Solidity syntax
 
 ### Governance
-* [Ethresear.ch](https://ethresear.ch/) - Semi-public forum for participating in Ethereum’s research efforts, including but not limited to: Casper, Sharding, EVM improvements, Crytpeconomics, Plasma and State-channels
+* [Ethresear.ch](https://ethresear.ch/) - Semi-public forum for participating in Ethereum's research efforts, including but not limited to: Casper, Sharding, EVM improvements, Crytpeconomics, Plasma and State-channels
 * [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/) - This discussion board facilitates meaningful communications among individuals throughout the Ethereum community
 * [EIPs](http://eips.ethereum.org/) - The Ethereum Improvement Proposal repository
 * [Aragon Research Forum](https://research.aragon.org/) - Long-form discussions related to Aragon's research efforts including governance, economics, and token engineering
-
-### Block explorers
-* [Etherscan](https://etherscan.io/) - most popular centralized way to view Eth transactions and contract code
-* [POA Explorer](https://github.com/poanetwork/poa-explorer) - Open Source Ethereum Block explorer, funded by [Ethprize](ethprize.io) and developed by [POA](https://poa.net)
-* [QuickBlocks](https://github.com/Great-Hill-Corporation/quickBlocks)- QuickBlocks is a collection of software libraries, applications, tools, and examples that allow you to retrieve Ethereum blockchain data (a) more quickly, (b) with higher information content, (c) in an fully decentralized way, (d) in a fully automated way, and (e) in a highly maintenance free way.)
-* [Etherchain lite](https://github.com/gobitfly/etherchain-light)- Lightweight blockchain explorer for your private Ethereum chain
-* [Alethio EthStats 2.0](https://media.consensys.net/alethio-lighting-up-the-blockchain-with-real-time-stats-a80bb30576db) coming soon
-* [Supermax](https://www.supermax.cool/)- A live data feed of the activities and event logs of your smart contracts on Ethereum
 
 ### Decentralized Exchanges
 * [Airswap](https://www.airswap.io/) - decentralized token exchange
