@@ -89,7 +89,6 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Delegate call](https://delegatecall.com/) - Q&A site
 * [Stackexchange](https://ethereum.stackexchange.com) - Q&A site
 * [r/EthDev](https://www.reddit.com/r/ethdev/) - Subreddit
-* [Ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
 * [Reducing Gas Fees](https://medium.com/@STKtoken/research-of-the-week-reducing-gas-fees-9061d19cc171) - Tips and tricks to reducing gas spent on execution
 * [Dapp University](http://www.dappuniversity.com) - Free Video Tutorials
 * [Attacks on Smart Contracts](https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/)
@@ -101,7 +100,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Safety wiki](https://github.com/ethereum/wiki/wiki/Safety) - Ethereum Foundation wiki on safety
 
 #### Solidity Games!
-* [OpenZeppelin Ethernaut](https://ethernaut.zeppelin.solutions)
+* [OpenZeppelin Ethernaut](https://ethernaut.zeppelin.solutions) - Web3/Solidity based wargame
 * [Cryptozombies](https://cryptozombies.io/) - The best undead tutorial in the world
 * [Capture the Ether](https://capturetheether.com/)
 
