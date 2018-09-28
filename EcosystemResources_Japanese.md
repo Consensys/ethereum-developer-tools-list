@@ -47,46 +47,46 @@ Ethereumエコシステムを学習・理解するためのDApps、サービス�
 ### ブロック・エクスプローラ
 * [Etherscan](https://etherscan.io/) - もっとも有名なEthereumのトランザクションとコントラクトのコードが確認可能な手段(中央集権) 
 * [Etherchain Light](https://github.com/gobitfly/etherchain-light) - Ethereumのプライベートチェーン用の軽量ブロックチェーン・エクスプローラ 
-* [POA Explorer](https://github.com/poanetwork/poa-explorer) - Open Source Ethereum Block explorer, funded by [Ethprize](ethprize.io) and developed by [POA](https://poa.net)
-* [QuickBlocks](https://github.com/Great-Hill-Corporation/quickBlocks) - QuickBlocks is a collection of software libraries, applications, tools, and examples that allow you to retrieve Ethereum blockchain data
+* [POA Explorer](https://github.com/poanetwork/poa-explorer) - [POA](https://poa.net)により開発され、[Ethprize](http://ethprize.io)に資金を提供されたオープンソースのEthereumブロック・エクスプローラ
+* [QuickBlocks](https://github.com/Great-Hill-Corporation/quickBlocks) - Ethereumブロックチェーンからデータを引き出すためのライブラリ、アプリケーション、ツール、サンプル集のコレクション 
 
-### Gas price calculators and tools
-* [EthGasStation](https://ethgasstation.info/) - Website for estimating tx prices vs times
-* [Petrometer](https://github.com/makerdao/petrometer) - Summarises daily and total gas consumption of all transactions sent from a specified Ethereum address
-* [CryptoProf](https://github.com/doc-ai/cryptoprof) - Gas profiler for smart contracts
+### gas計算&ツール
+* [EthGasStation](https://ethgasstation.info/) - トランザクションの価格と時間を見積もるWebサイト  
+* [Petrometer](https://github.com/makerdao/petrometer) - 特定のEthereumアドレスから送信された全てのトランザクションの日時のgas総消費量 
+* [CryptoProf](https://github.com/doc-ai/cryptoprof) - スマートコントラクトのgasプロファイラ 
 
-### Services
-* [Oracalize](http://www.oraclize.it/) - Oracle service for your smart contracts
-* [Infura](https://infura.io/) - API gateway so you don’t have to host your own ETH node
-* [Quiknode](https://quiknode.io/) - Service to spin up personal Parity/Geth nodes
-* [Regis](https://regis.nu/) - Registry Framework for Digital Assets
-* [Viant](https://viant.io/) - Just consider using Viant as your backend if the use case is business process oriented
-* [uPort](https://www.uport.me/) - Total identity solution
-* [Ether Address Lookup](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn?hl=en-GB) - Chrome extension for phishing protection and Eth address highlighting
-* [Netstats](https://github.com/cubedro/eth-netstats) - Ethereum Network [Stats](https://ethstats.net/)
-* [ENS](https://github.com/ensdomains) - ENS offers a secure & decentralised way to address resources both on and off the blockchain using simple, human-readable [names](https://ens.domains/)
-* [Name Bazaar](https://namebazaar.io/) - A peer-to-peer marketplace for the exchange of names registered via the Ethereum Name Service
-* [Quantstamp](https://quantstamp.com) - A service that offers automated and manual smart contract security audits for a fee
-* [SmartCheck](https://tool.smartdec.net/) - Static analysis of Solidity source code for security vulnerabilities and best practices
-* [MD4 Online Hash Function](https://emn178.github.io/online-tools/md4.html) - Tool to hash input with a variety of hashing algorithm options
-* [iExec SDK](https://github.com/iExecBlockchainComputing/iexec-sdk) - Gives smart contract the ability to execute functions or applications off-chain. Support any legacy applications provided as a Docker image.
-* [dAppBridge](https://dAppBridge.com/) - Inteligent Data Oracle & setTimeout service for your smart contracts
-* [Solidstamp](https://www.solidstamp.com) - on-chain registry of smart contract audits.
-* [Incentivai](http://incentivai.co) - Testing of smart contract economies via simulation with ML agents
+### サービス
+* [Oracalize](http://www.oraclize.it/) - スマートコントラクトのためのOracleサービス 
+* [Infura](https://infura.io/) - EthereumのAPIゲートウェイ。自分のEthereumホストを立ち上げなくて済む
+* [Quiknode](https://quiknode.io/) - Parity/Gethのノードをスピンアップするサービス
+* [Regis](https://regis.nu/) - デジタル資産の登録サービス 
+* [Viant](https://viant.io/) - ビジネスプロセスの用途ならViantをバックエンドに利用することを検討してください 
+* [uPort](https://www.uport.me/) - 総合IDソリューション 
+* [Ether Address Lookup](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn?hl=en-GB) - フィッシング詐欺帽子とETHアドレスのハイライト機能を持つChrome拡張 
+* [Netstats](https://github.com/cubedro/eth-netstats) - Ethereumネットワークの[ステータス](https://ethstats.net/)
+* [ENS](https://github.com/ensdomains) - ENSはシンプルで人間が読める[名前](https://ens.domains/)を使って、ブロックチェーン内外のリソースに対応させるセキュアで非中央集権な方法を提供
+* [Name Bazaar](https://namebazaar.io/) - ENSで登録されたドメイン名のマーケットプレイス 
+* [Quantstamp](https://quantstamp.com) - フィーを伴う自動または手動の、スマートコントラクトのSecurity Auditsを提供するサービス
+* [SmartCheck](https://tool.smartdec.net/) - Solidityコードの脆弱性とベストプラクティスの分析のための静的解析サービス 
+* [MD4 Online Hash Function](https://emn178.github.io/online-tools/md4.html) - 様々なハッシュ化アルゴリズムをサポートする、入力データをハッシュ化するツール
+* [iExec SDK](https://github.com/iExecBlockchainComputing/iexec-sdk) - オフチェーンのアプリケーションをスマートコントラクトから実行。いかなる既存アプリケーションでもサポートし、Dockerイメージとして提供される 
+* [dAppBridge](https://dAppBridge.com/) - スマートコントラクト用のインテリジェントなOracleと`setTimeout`サービス 
+* [Solidstamp](https://www.solidstamp.com) - スマートコントラクトAudits用のオンチェーン・レジストリ 
+* [Incentivai](http://incentivai.co) - スマートコントラクト・エコノミーを機械学習エージェントでのシミュレーションを用いてテスト 
 
-### Knowledge/Education
-* [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
-* [Solidity idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies) - Solidity gotchas, pitfalls, limitations, and idiosyncrasies
-* [Ethereum development with Go](https://github.com/miguelmota/ethereum-development-with-go-book) - A little [book](https://goethereumbook.org) on Ethereum Development with Golang
-* [Consensys Academy](https://consensys.net/academy/resources/) - Courses
-* [B9Lab](https://academy.b9lab.com/) - Paid courses
-* [Blockgeeks](https://courses.blockgeeks.com/) - Paid courses on solidity/dapp development
-* [Chainshot building blocks](https://www.chainshot.com/) - Free Project-Based Courses and Challenges
-* [Kauri](https://beta.kauri.io/) - Openly accessible community knowledge base and tutorials
-* [Delegate call](https://delegatecall.com/) - Q&A site
-* [Stackexchange](https://ethereum.stackexchange.com) - Q&A site
-* [r/EthDev](https://www.reddit.com/r/ethdev/) - Subreddit
-* [Ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
+### ナレッジ・学習
+* [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - ERC20トークン・スマートコントラクトの脆弱性コレクション
+* [Solidity idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies) - Solidityの罠、落とし穴、制限、そして特異性 
+* [Ethereum development with Go](https://github.com/miguelmota/ethereum-development-with-go-book) - EthereumをGoで開発するための短い[本](https://goethereumbook.org) 
+* [Consensys Academy](https://consensys.net/academy/resources/) - コース
+* [B9Lab](https://academy.b9lab.com/) - 有料コース
+* [Blockgeeks](https://courses.blockgeeks.com/) - Solidity/DApp開発のための有料コース 
+* [Chainshot building blocks](https://www.chainshot.com/) - 無料のプロジェクトベースのコースと問題集 
+* [Kauri](https://beta.kauri.io/) - 公開されたコミュニティのナレッジベースとチュートリアル 
+* [Delegate call](https://delegatecall.com/) - Q&Aサイト
+* [Stackexchange](https://ethereum.stackexchange.com) - Q&Aサイト
+* [r/EthDev](https://www.reddit.com/r/ethdev/) - サブreddit
+* [Ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidityベースの戦争ゲーム
 * [Reducing Gas Fees](https://medium.com/@STKtoken/research-of-the-week-reducing-gas-fees-9061d19cc171) - Tips and tricks to reducing gas spent on execution
 * [Dapp University](http://www.dappuniversity.com) - Free Video Tutorials
 * [Attacks on Smart Contracts](https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/)
@@ -125,7 +125,7 @@ Ethereumエコシステムを学習・理解するためのDApps、サービス�
 
 ### Block explorers
 * [Etherscan](https://etherscan.io/) - most popular centralized way to view Eth transactions and contract code
-* [POA Explorer](https://github.com/poanetwork/poa-explorer) - Open Source Ethereum Block explorer, funded by [Ethprize](ethprize.io) and developed by [POA](https://poa.net)
+* [POA Explorer](https://github.com/poanetwork/poa-explorer) - Open Source Ethereum Block explorer, funded by [Ethprize](http://ethprize.io) and developed by [POA](https://poa.net)
 * [QuickBlocks](https://github.com/Great-Hill-Corporation/quickBlocks)- QuickBlocks is a collection of software libraries, applications, tools, and examples that allow you to retrieve Ethereum blockchain data (a) more quickly, (b) with higher information content, (c) in an fully decentralized way, (d) in a fully automated way, and (e) in a highly maintenance free way.)
 * [Etherchain lite](https://github.com/gobitfly/etherchain-light)- Lightweight blockchain explorer for your private Ethereum chain
 * [Alethio EthStats 2.0](https://media.consensys.net/alethio-lighting-up-the-blockchain-with-real-time-stats-a80bb30576db) coming soon
