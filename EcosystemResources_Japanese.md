@@ -50,6 +50,14 @@ Ethereumエコシステムを学習・理解するためのDApps、サービス�
 * [POA Explorer](https://github.com/poanetwork/poa-explorer) - [POA](https://poa.net)により開発され、[Ethprize](http://ethprize.io)に資金を提供されたオープンソースのEthereumブロック・エクスプローラ
 * [QuickBlocks](https://github.com/Great-Hill-Corporation/quickBlocks) - Ethereumブロックチェーンからデータを引き出すためのライブラリ、アプリケーション、ツール、サンプル集のコレクション 
 
+### ブロック・エクスプローラ
+* [Etherscan](https://etherscan.io/) - もっとも有名なEthereumのトランザクションとコントラクトのコードが確認可能な手段(中央集権)
+* [POA Explorer](https://github.com/poanetwork/poa-explorer) - [POA](https://poa.net)により開発され、[Ethprize](http://ethprize.io)に資金を提供されたオープンソースのEthereumブロック・エクスプローラ
+* [QuickBlocks](https://github.com/Great-Hill-Corporation/quickBlocks) - Ethereumブロックチェーンからデータを引き出すためのライブラリ、アプリケーション、ツール、サンプル集のコレクション。(a)より迅速 (b)より詳細な情報 (c)非中央集権 (d)自動化 (e)メンテナンスフリー 
+* [Etherchain Light](https://github.com/gobitfly/etherchain-light) - Ethereumのプライベートチェーン用の軽量ブロックチェーン・エクスプローラ
+* [Alethio EthStats 2.0](https://media.consensys.net/alethio-lighting-up-the-blockchain-with-real-time-stats-a80bb30576db) coming soon
+* [Supermax](https://www.supermax.cool/) - Ethereumスマートコントラクトのアクティビティ、Event logのライブデータフィード
+
 ### gas計算&ツール
 * [EthGasStation](https://ethgasstation.info/) - トランザクションの価格と時間を見積もるWebサイト  
 * [Petrometer](https://github.com/makerdao/petrometer) - 特定のEthereumアドレスから送信された全てのトランザクションの日時のgas総消費量 
@@ -87,49 +95,41 @@ Ethereumエコシステムを学習・理解するためのDApps、サービス�
 * [Stackexchange](https://ethereum.stackexchange.com) - Q&Aサイト
 * [r/EthDev](https://www.reddit.com/r/ethdev/) - サブreddit
 * [Ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidityベースの戦争ゲーム
-* [Reducing Gas Fees](https://medium.com/@STKtoken/research-of-the-week-reducing-gas-fees-9061d19cc171) - Tips and tricks to reducing gas spent on execution
-* [Dapp University](http://www.dappuniversity.com) - Free Video Tutorials
+* [Reducing Gas Fees](https://medium.com/@STKtoken/research-of-the-week-reducing-gas-fees-9061d19cc171) - 実行時のgas節約技術とTips 
+* [Dapp University](http://www.dappuniversity.com) - 無料ビデオチュートリアル
 * [Attacks on Smart Contracts](https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/)
-* [Zastrin](https://www.zastrin.com) - Paid courses on Solidity/Dapp Development
+* [Zastrin](https://www.zastrin.com) - Solidity/DApp開発のための有料コース 
 
 
-#### Security best practices
+#### セキュリティ・ベストプラクティス
 * [Smart contract best practices](https://github.com/ConsenSys/smart-contract-best-practices) - by ConsenSys
-* [Safety wiki](https://github.com/ethereum/wiki/wiki/Safety) - Ethereum Foundation wiki on safety
+* [Safety wiki](https://github.com/ethereum/wiki/wiki/Safety) - EthereumファウンデーションのWiki
 
-#### Solidity Games!
+#### Solidityゲーム!
 * [OpenZeppelin Ethernaut](https://ethernaut.zeppelin.solutions)
-* [Cryptozombies](https://cryptozombies.io/) - The best undead tutorial in the world
+* [Cryptozombies](https://cryptozombies.io/) - 世界最高のゾンビ・チュートリアル 
 * [Capture the Ether](https://capturetheether.com/)
 
-#### Scaling
-* [Comprehensive Medium article](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4) on various solutions to scale Ethereum
-* [Using Multitoken Payment Channels to sign off-chain transactions](https://github.com/STKtoken/Multi-Token-smart-contracts)
+#### スケーリング
+* Ethereumをスケールするための[込み入ったMedium記事](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)
+* [オフチェーンのトランザクションに署名するため複数トークン対応のペイメント・チャネルを利用](https://github.com/STKtoken/Multi-Token-smart-contracts)
 
-### Reference
-* [Wiki](https://github.com/ethereum/wiki/wiki) - Ethereum wiki covering all things related to Ethereum
-* [Yellow Paper](https://github.com/ethereum/yellowpaper) - Ethereum's formal specification
-* [Beige Paper](https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf) - Rewrite of the yellow paper in non-yellow-paper syntax
-* [EthOn](https://github.com/ConsenSys/EthOn) - An ontology is a formalisation of concepts and relations within a domain. EthOn is written in RDF and OWL
+### リファレンス
+* [Wiki](https://github.com/ethereum/wiki/wiki) - EthereumのすべてをカバーするWiki 
+* [Yellow Paper](https://github.com/ethereum/yellowpaper) - Ethereumの公式な仕様 
+* [Beige Paper](https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf) - イエローペーパーを異なる構文で書き直したもの  
+* [EthOn](https://github.com/ConsenSys/EthOn) - Ethereumのオントロジー。ドメイン内の概念と関係の定式化。PDFとOWLで記載されている
 * [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - by Andreas M. Antonopoulos, Gavin Wood, and many others
-* [EVM opcodes](https://github.com/trailofbits/evm-opcodes) - Ethereum opcodes and instruction reference
-* [EVM illustrated](http://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf) - This is an illustrated document about the Ethereum Virtual Machine
-* [4bytes](https://github.com/ethereum-lists/4bytes) - List of 4byte identifiers to common smart contract functions [function signatures](https://www.4byte.directory/)
-* [Solidity cheat sheet](https://topmonks.github.io/solidity_quick_ref/) - Quick overview of Solidity syntax
+* [EVM opcodes](https://github.com/trailofbits/evm-opcodes) - Ethereumのオペコードとインストラクション 
+* [EVM illustrated](http://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf) - EVMに関するイラスト化されたドキュメント 
+* [4bytes](https://github.com/ethereum-lists/4bytes) - 一般的なスマートコントラクト関数を識別するための4バイトの[function signatures](https://www.4byte.directory/)のリスト  
+* [Solidity cheat sheet](https://topmonks.github.io/solidity_quick_ref/) - Solidityシンタックスの概要 
 
-### Governance
-* [Ethresear.ch](https://ethresear.ch/) - Semi-public forum for participating in Ethereum’s research efforts, including but not limited to: Casper, Sharding, EVM improvements, Crytpeconomics, Plasma and State-channels
-* [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/) - This discussion board facilitates meaningful communications among individuals throughout the Ethereum community
-* [EIPs](http://eips.ethereum.org/) - The Ethereum Improvement Proposal repository
-* [Aragon Research Forum](https://research.aragon.org/) - Long-form discussions related to Aragon's research efforts including governance, economics, and token engineering
-
-### Block explorers
-* [Etherscan](https://etherscan.io/) - most popular centralized way to view Eth transactions and contract code
-* [POA Explorer](https://github.com/poanetwork/poa-explorer) - Open Source Ethereum Block explorer, funded by [Ethprize](http://ethprize.io) and developed by [POA](https://poa.net)
-* [QuickBlocks](https://github.com/Great-Hill-Corporation/quickBlocks)- QuickBlocks is a collection of software libraries, applications, tools, and examples that allow you to retrieve Ethereum blockchain data (a) more quickly, (b) with higher information content, (c) in an fully decentralized way, (d) in a fully automated way, and (e) in a highly maintenance free way.)
-* [Etherchain lite](https://github.com/gobitfly/etherchain-light)- Lightweight blockchain explorer for your private Ethereum chain
-* [Alethio EthStats 2.0](https://media.consensys.net/alethio-lighting-up-the-blockchain-with-real-time-stats-a80bb30576db) coming soon
-* [Supermax](https://www.supermax.cool/)- A live data feed of the activities and event logs of your smart contracts on Ethereum
+### ガバナンス
+* [Ethresear.ch](https://ethresear.ch/) - Ethereumの研究に参加するための半公開のフォーラム。Casper,Sharding,EVM改善,Cryptoeconomics,Plasma,サイドチェーン,その他の話題 
+* [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/) - 個人からEthereumコミュニティ全体まで、価値ある議論を促進するためのディスカッション・ボード
+* [EIPs](http://eips.ethereum.org/) - Ethereum改善提案リポジトリ
+* [Aragon Research Forum](https://research.aragon.org/) - Aragonの研究に関連した長文形式のディスカッション。ガバナンス、エコノミクス、トークンエンジニアリング 
 
 ### Decentralized Exchanges
 * [Airswap](https://www.airswap.io/) - decentralized token exchange
