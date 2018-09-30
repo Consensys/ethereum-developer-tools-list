@@ -131,9 +131,8 @@ Ethereumエコシステムを学習・理解するためのDApps、サービス�
 * [EIPs](http://eips.ethereum.org/) - Ethereum改善提案リポジトリ
 * [Aragon Research Forum](https://research.aragon.org/) - Aragonの研究に関連した長文形式のディスカッション。ガバナンス、エコノミクス、トークンエンジニアリング 
 
-### Decentralized Exchanges
-* [Airswap](https://www.airswap.io/) - decentralized token exchange
-* 0x protocol based decentralized exchanges
+### DEX(Decentralized Exchanges)
+* [Airswap](https://www.airswap.io/) - 非中央集権のトークン取引所
 * [Radar relay](https://app.radarrelay.com/)
 * [ERC Dex](https://ercdex.com/)
 * [DDEX](https://ddex.io)
@@ -143,21 +142,21 @@ Ethereumエコシステムを学習・理解するためのDApps、サービス�
 * [Bamboo Relay](https://www.bamboorelay.com)
 * [Instex](https://app.instex.io)
 * [Starbit](https://www.starbitex.com)
-* [Opensea.io](http://Opensea.io)-  decentralized exchange of cryptocollectibles
+* [Opensea.io](http://Opensea.io)-  クリプト資産のDEX
 * [Bancor](https://www.bancor.network/)
 * [Kyber](https://www.kyber.network)
 * [Gnosis Dutch Exchange](https://github.com/gnosis/dx-contracts)
 
 
- ### Incentivisation / Monetisation Tools
-* [Gitcoin](https://gitcoin.co) - Bounty network for funding Open Source or finding Open Source work
-* [CodeFund](https://codefund.io) - Ethical Advertising Platform for Open Source
+### インセンティブ化/マネタイズのツール 
+* [Gitcoin](https://gitcoin.co) - オープンソースのタスクのためのバウンティ・ネットワーク 
+* [CodeFund](https://codefund.io) - オープンソースのための倫理的な広告プレットフォーム 
 
 
-### Awesome lists
-* [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics) - A curated list of cryptoeconomic research and learning materials
-* [Awesome Solidity](https://github.com/bkrem/awesome-solidity) - A curated list of awesome Solidity resources, libraries, tools and more
-* [Awesome EVM](https://github.com/pirapira/awesome-ethereum-virtual-machine) - Ethereum Virtual Machine Awesome List
-* [Awesome State-Channels](https://github.com/machinomy/awesome-state-channels) - Curated list of resources regarding state channels on Ethereum.
-* [DEX protocols](https://github.com/evbots/dex-protocols) - A list of protocols for decentralised exchange
-* [Ethereum Token Standards](https://github.com/PhABC/ethereum-token-standards-list) - An exhaustive list of Ethereum Token Standards
+### Awesome リスト
+* [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics) - Cryptoeconomicsの研究と習熟素材の厳選されたリスト 
+* [Awesome Solidity](https://github.com/bkrem/awesome-solidity) - Solidityのリソース、ライブラリ、ツールの厳選されたリスト
+* [Awesome EVM](https://github.com/pirapira/awesome-ethereum-virtual-machine) - EVMの厳選されたリスト 
+* [Awesome State-Channels](https://github.com/machinomy/awesome-state-channels) - Ethereumのステートチャネルに関連した厳選されたリスト 
+* [DEX protocols](https://github.com/evbots/dex-protocols) - DEXのプロトコルに関する厳選されたリスト 
+* [Ethereum Token Standards](https://github.com/PhABC/ethereum-token-standards-list) - Ethereumのトークン規格に関する網羅的リスト  
