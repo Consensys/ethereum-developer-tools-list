@@ -142,10 +142,10 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Kyber](https://www.kyber.network)
 * [Gnosis Dutch Exchange](https://github.com/gnosis/dx-contracts)
 
- ### Secure Decentralized Data Protocols
- * [Linnia](https://linnia.com) - Securely store and share data for your users in minutes with our components and SDK
+### Secure Decentralized Data Protocols
+* [Linnia](https://linnia.com) - Securely store and share data for your users in minutes with our components and SDK
 
- ### Incentivisation / Monetisation Tools
+### Incentivisation / Monetisation Tools
 * [Gitcoin](https://gitcoin.co) - Bounty network for funding Open Source or finding Open Source work
 * [CodeFund](https://codefund.io) - Ethical Advertising Platform for Open Source
 
