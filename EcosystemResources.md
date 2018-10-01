@@ -127,7 +127,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 
 ### Decentralized Exchanges
 * [Airswap](https://www.airswap.io/) - decentralized token exchange
-* 0x protocol based decentralized exchanges
+* [0x](https://0xproject.com/) protocol based decentralized exchanges
 * [Radar relay](https://app.radarrelay.com/)
 * [ERC Dex](https://ercdex.com/)
 * [DDEX](https://ddex.io)
