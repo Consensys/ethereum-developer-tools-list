@@ -45,12 +45,6 @@ Ethereumエコシステムを学習・理解するためのDApps、サービス�
 * [KeepKey](https://www.keepkey.com) - シンプルなハードウェアウォレット
 
 ### ブロック・エクスプローラ
-* [Etherscan](https://etherscan.io/) - もっとも有名なEthereumのトランザクションとコントラクトのコードが確認可能な手段(中央集権) 
-* [Etherchain Light](https://github.com/gobitfly/etherchain-light) - Ethereumのプライベートチェーン用の軽量ブロックチェーン・エクスプローラ 
-* [POA Explorer](https://github.com/poanetwork/poa-explorer) - [POA](https://poa.net)により開発され、[Ethprize](http://ethprize.io)に資金を提供されたオープンソースのEthereumブロック・エクスプローラ
-* [QuickBlocks](https://github.com/Great-Hill-Corporation/quickBlocks) - Ethereumブロックチェーンからデータを引き出すためのライブラリ、アプリケーション、ツール、サンプル集のコレクション 
-
-### ブロック・エクスプローラ
 * [Etherscan](https://etherscan.io/) - もっとも有名なEthereumのトランザクションとコントラクトのコードが確認可能な手段(中央集権)
 * [POA Explorer](https://github.com/poanetwork/poa-explorer) - [POA](https://poa.net)により開発され、[Ethprize](http://ethprize.io)に資金を提供されたオープンソースのEthereumブロック・エクスプローラ
 * [QuickBlocks](https://github.com/Great-Hill-Corporation/quickBlocks) - Ethereumブロックチェーンからデータを引き出すためのライブラリ、アプリケーション、ツール、サンプル集のコレクション。(a)より迅速 (b)より詳細な情報 (c)非中央集権 (d)自動化 (e)メンテナンスフリー 
