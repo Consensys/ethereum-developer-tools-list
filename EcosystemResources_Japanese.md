@@ -1,4 +1,4 @@
-※この日本語訳は[c5bd220](https://github.com/ConsenSys/ethereum-developer-tools-list/commit/d4ed743361802cb69a8367752960818c43da2a5c)時点のものです。
+※この日本語訳は[c52fc61](https://github.com/ConsenSys/ethereum-developer-tools-list/commit/c52fc613be3bef24208dc9f6a3289ea597fafc95)時点のものです。
 
 # Ecosystem Resources
 Ethereumエコシステムを学習・理解するためのDApps、サービス、テキスト、ナレッジベースのガイドです。  
@@ -147,6 +147,8 @@ Ethereumエコシステムを学習・理解するためのDApps、サービス�
 * [Kyber](https://www.kyber.network)
 * [Gnosis Dutch Exchange](https://github.com/gnosis/dx-contracts)
 
+### セキュアな非中央集権のデータ・プロトコル 
+* [Linnia](https://linnia.com) - セキュアなストレージとデータの共有を手軽に利用可能なコンポーネントとSDK 
 
 ### インセンティブ化/マネタイズのツール 
 * [Gitcoin](https://gitcoin.co) - オープンソースのタスクのためのバウンティ・ネットワーク 
