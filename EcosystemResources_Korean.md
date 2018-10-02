@@ -101,6 +101,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 
 #### 스케일링
 * [종합적인 미디움(Medium) 기사 ](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4) - 이더리움 스케일의 다양한 해결책들 입니다.
+* [Using Multitoken Payment Channels to sign off-chain transactions](https://github.com/STKtoken/Multi-Token-smart-contracts)
 
 ### 레퍼런스
 * [위키(Wiki)](https://github.com/ethereum/wiki/wiki) - 이더리움과 관련된 모든 것이 있습니다.
