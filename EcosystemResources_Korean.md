@@ -45,9 +45,11 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 
 ### 블록 익스플로러(explorers)
 * [이더스캔(Etherscan)](https://etherscan.io/) - 이더리움 거래와 컨트렉트 코드를 보는 가장 인기있는 중앙집중 방식 입니다.
-* [이더체인 라이트(Etherchain Light)](https://github.com/gobitfly/etherchain-light)- 당신의 프라이빗 이더리움 체인을 위한 가벼운 블록체인 익스플로러 입니다.
 * [POA Explorer](https://github.com/poanetwork/poa-explorer) - 오픈소스 이더리움 블록 익스플로러로 [이더프리즈(Ethprize)](ethprize.io)의 지원(funded)을 받아 [POA](https://poa.net)가 개발했습니다.
-* [퀵블록스(QuickBlocks)](https://github.com/Great-Hill-Corporation/quickBlocks) - 퀵블록스는 소프트웨어 라이브러리, 어플리케이션, 도구와 이더리움 블록체인 데이터를 찾아볼 수 있는 예제로 구성되어 있습니다.
+* [퀵블록스(QuickBlocks)](https://github.com/Great-Hill-Corporation/quickBlocks) - 퀵블록스는 소프트웨어 라이브러리, 어플리케이션, 도구와 이더리움 블록체인 데이터를 찾아볼 수 있는 예제로 구성되어 있습니다. (a) 더 빠르고, (b) 컨텐츠 정보를 많이 제공하면서, (c) 전체가 탈중앙화 방식으로, (d) 완전히 자동방식이며, (e) 자유롭게 유지보수 합니다.
+* [이더체인 라이트(Etherchain Light)](https://github.com/gobitfly/etherchain-light)- 당신의 프라이빗 이더리움 체인을 위한 가벼운 블록체인 익스플로러 입니다.
+* [Alethio EthStats 2.0](https://media.consensys.net/alethio-lighting-up-the-blockchain-with-real-time-stats-a80bb30576db) 곧 공개 됩니다.
+* [수퍼맥스(Supermax)](https://www.supermax.cool/)- 이더리움 안에서 당신의 스마트 컨트렉트의 이벤트 로그와 활동을 바로(live) 데이터 피드(data feed) 합니다.
 
 ### 가스 가격 계산기와 도구
 * [이더가스스테이션(EthGasStation)](https://ethgasstation.info/) - 실시간 거래가격 추산을 위한 웹사이트 입니다.
@@ -121,14 +123,6 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/) - 각 이더리움 커뮤니티에서 개인들간 의미있는 의사소통을 하기 편하게 하는 토론장(discussion board) 입니다.
 * [EIPs](http://eips.ethereum.org/) - 이더리움 개선 제안(Ethereum Improvement Proposal) 저장소 입니다.
 * [아라곤 리서치 포럼(Aragon Research Forum)](https://research.aragon.org/) - 거버넌스와 경제, 토큰 엔지니어링을 포함한 아라곤 연구 성과에 관련있는 긴-형식(Long-form) 토론 입니다.
-
-### 블록 익스플로러
-* [이더스캔(Etherscan)](https://etherscan.io/) - 이더리움 거래와 컨트렉트 코드를 보는 가장 인기있는 중앙집중 방식 입니다.
-* [POA Explorer](https://github.com/poanetwork/poa-explorer) - 오픈소스 이더리움 블록 익스플로러로 [이더프리즈(Ethprize)](ethprize.io)의 지원(funded)을 받아 [POA](https://poa.net)가 개발했습니다.
-* [퀵블록스(QuickBlocks)](https://github.com/Great-Hill-Corporation/quickBlocks) - 퀵블록스는 소프트웨어 라이브러리, 어플리케이션, 도구와 이더리움 블록체인 데이터를 찾아볼 수 있는 예제로 구성되어 있습니다. (a) 더 빠르고, (b) 컨텐츠 정보를 많이 제공하면서, (c) 전체가 탈중앙화 방식으로, (d) 완전히 자동방식이며, (e) 자유롭게 유지보수 합니다.
-* [이더체인 라이트(Etherchain Light)](https://github.com/gobitfly/etherchain-light)- 당신의 프라이빗 이더리움 체인을 위한 가벼운 블록체인 익스플로러 입니다.
-* [Alethio EthStats 2.0](https://media.consensys.net/alethio-lighting-up-the-blockchain-with-real-time-stats-a80bb30576db) 곧 공개 됩니다.
-* [수퍼맥스(Supermax)](https://www.supermax.cool/)- 이더리움 안에서 당신의 스마트 컨트렉트의 이벤트 로그와 활동을 바로(live) 데이터 피드(data feed) 합니다.
 
 ### 탈중앙화 거래소
 * [에어스왑(Airswap)](https://www.airswap.io/) - 탈중앙화 토큰 거래소 입니다.
