@@ -191,7 +191,8 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [truffle-assertions](https://github.com/rkalis/truffle-assertions) - An npm package with additional assertions and utilities used in testing Solidity smart contracts with truffle. Most importantly, it adds the ability to assert whether specific events have (not) been emitted.
 
 ### 보안 도구
-* [마이스릴(Mythril)](https://github.com/ConsenSys/mythril) - 정적(Static) 스마트 컨트렉트 보안 분석 입니다.
+* [Mythril Platform](https://mythril.ai) - Security verification platform and tools ecosystem for Ethereum developers
+* [Mythril OSS](https://github.com/ConsenSys/mythril) - Open-source EVM bytecode security analysis tool
 * [오옌테(Oyente)](https://github.com/melonproject/oyente) - 정적 스마트 컨트렉트 보안 분석 대안 입니다.
 * [시큐리파이(Securify)](https://securify.ch) - 이더리움 스마트 컨트렉트를 위한 보안 스캐너 입니다.
 * [포로시티(Porosity)](https://github.com/comaeio/porosity) - 블록체인을 기반으로 한 이더리움 스마트 컨트렉트를 위한 디컴파일러(Decompiler)와 보안 분석 도구 입니다.
