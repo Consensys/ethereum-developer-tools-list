@@ -195,6 +195,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [Mythril OSS](https://github.com/ConsenSys/mythril) - Open-source EVM bytecode security analysis tool
 * [오옌테(Oyente)](https://github.com/melonproject/oyente) - 정적 스마트 컨트렉트 보안 분석 대안 입니다.
 * [시큐리파이(Securify)](https://securify.ch) - 이더리움 스마트 컨트렉트를 위한 보안 스캐너 입니다.
+* [SmartCheck](https://tool.smartdec.net/) - Static smart contract security analyzer
 * [포로시티(Porosity)](https://github.com/comaeio/porosity) - 블록체인을 기반으로 한 이더리움 스마트 컨트렉트를 위한 디컴파일러(Decompiler)와 보안 분석 도구 입니다.
 * [이더스프레이(Ethersplay)](https://github.com/trailofbits/ethersplay) - EVM 역어셈블러(disassembler) 입니다.
 * [Evmdis](https://github.com/Arachnid/evmdis) - EVM 역어셈블러 대안 입니다.
