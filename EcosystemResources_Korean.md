@@ -87,7 +87,6 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [델리게이트 콜(Delegate call)](https://delegatecall.com/) - 질문 답변 사이트 입니다.
 * [스택익스체인지(Stackexchange)](https://ethereum.stackexchange.com) - 질문 답변 사이트 입니다.
 * [r/EthDev](https://www.reddit.com/r/ethdev/) - 서브레딧(Subreddit) 입니다.
-* [이더넛(Ethernaut)](https://github.com/OpenZeppelin/ethernaut) - 웹3/솔리디티 기반 워게임(wargame) 입니다.
 * [Reducing Gas Fees](https://medium.com/@STKtoken/research-of-the-week-reducing-gas-fees-9061d19cc171) - 실행시 사용하는 가스를 줄이기 위한 요령과 팁 입니다.
 * [디앱 유니버시티(Dapp University)](http://www.dappuniversity.com) - 무료 동영상 학습 입니다.
 * [스마트 컨트렉트에 대한 공격](https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/)
@@ -98,7 +97,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [Safety wiki](https://github.com/ethereum/wiki/wiki/Safety) - 안전에 관한 이더리움 재단 위키 입니다.
 
 #### 솔리디티 게임!
-* [오픈제플린 이더넛(OpenZeppelin Ethernaut)](https://ethernaut.zeppelin.solutions)
+* [오픈제플린 이더넛(OpenZeppelin Ethernaut)](https://ethernaut.zeppelin.solutions) - 웹3/솔리디티 기반 워게임(wargame) 입니다.
 * [크립토좀비(Cryptozombies)](https://cryptozombies.io/) - 세계 최고의 언데드(undead) 튜토리얼 입니다.
 * [Capture the Ether](https://capturetheether.com/)
 
