@@ -18,6 +18,42 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 
 ^Is the above fair? Share your input here - https://github.com/ConsenSysLabs/ethereum-developer-tools-list/pull/70
 
+## Table of Contents
+- [New developers start here](#new-developers-start-here)
+- [Developer Tools](#developer-tools)
+   - [Smart Contract Languages](#smart-contract-languages)
+   - [Frameworks](#frameworks)
+   - [IDEs](#ides)
+   - [Test blockchain networks](#test-blockchain-networks)
+   - [Test Ether faucets](#test-ether-faucets)
+- [Communicating with Ethereum](#communicating-with-ethereum)
+   - [Frontend Ethereum APIs](#frontend-ethereum-apis)
+   - [Backend Ethereum APIs](#backend-ethereum-apis)
+   - [Bootstrap/out of box tools](#bootstrapout-of-box-tools)
+   - [Ethereum ABI (Application Binary Interface) tools](#ethereum-abi-application-binary-interface-tools)
+- [Patterns & Best Practices](#patterns--best-practices)
+   - [Patterns for Smart Contract Development](#patterns-for-smart-contract-development)
+   - [Upgradebility](#upgradebility)
+- [Infrastructure](#infrastructure)
+   - [Ethereum Clients](#ethereum-clients)
+   - [Storage](#storage)
+   - [Messaging](#messaging)
+- [Testing Tools](#testing-tools)
+- [Security Tools](#security-tools)
+- [Monitoring](#monitoring)
+- [Other Miscellaneous Tools](#other-miscellaneous-tools)
+- [Smart Contract Standards & Libraries](#smart-contract-standards--libraries)
+   - [ERCs - The Ethereum Request for Comment repository](#ercs---the-ethereum-request-for-comment-repository)
+   - [Popular Smart Contract Libraries](#popular-smart-contract-libraries)
+- [Developer Guides for 2nd Layer Infrastructure](#developer-guides-for-2nd-layer-infrastructure)
+   -[Scalability](#scalability)
+   -[Payment/State Channels](#paymentstate-channels)
+   -[Plasma](#plasma)
+   -[Side-Chains](#side-chains)
+-[Privacy](#privacy)
+   -[zkSNARKs](#zksnarks)
+
+
 ## New developers start here
 * [Solidity](http://solidity.readthedocs.io/en/latest/) - The most popular smart contract language.
 * [Truffle](http://truffleframework.com) - Most popular smart contract development, testing, and deployment framework. Install the cli via npm and start here to write your first smart contracts.
