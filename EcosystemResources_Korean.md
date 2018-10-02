@@ -140,6 +140,9 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [카이버(Kyber)](https://www.kyber.network)
 * [Gnosis Dutch Exchange](https://github.com/gnosis/dx-contracts)
 
+### Secure Decentralized Data Protocols
+ * [Linnia](https://linnia.com) - Securely store and share data for your users in minutes with our components and SDK
+
 ### 장려책(Incentivisation) / 가치화(Monetisation) 도구
 * [깃코인(Gitcoin)](https://gitcoin.co) - 오픈소스 작업을 찾거나 오픈소스 펀딩을 위한 바운티(bounty) 네트워크 입니다.
 * [코드펀드(CodeFund)](https://codefund.io) - 오픈소스를 위한 윤리적인 광고 플랫폼 입니다.
