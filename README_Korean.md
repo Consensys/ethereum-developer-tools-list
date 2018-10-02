@@ -8,7 +8,7 @@
 
 ## 기여자들(Contributions)을 환영합니다!
 
-작은 수정에서 부터 추가하려는 툴까지 어느 것이든 자유롭게 풀리퀘스트(pull request)를 해주세요.
+작은 수정에서 부터 추가(삭제)하려는 툴까지 어느 것이든 자유롭게 풀리퀘스트(pull request)를 해주세요.
 만약에 새로운 툴을 추가하면, 당신이 생각하기에 새로운 개발자들이 이해할 수 있도록 **간략한 설명을 적어주세요**
 
 Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레이팅을 한 [@pakaplace](https://twitter.com/Parker_Place), 그리고 좀 더 논리적인 방법으로 리스트를 재구축한 @jpantunes 를 포함해 20명이 넘는 기여자들에게 감사를 표합니다.
