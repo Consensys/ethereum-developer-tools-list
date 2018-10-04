@@ -139,13 +139,14 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [칼레이도(Kaleido)](https://kaleido.io/) - 컨소시엄(consortium) 블록체인 네트워크를 돌릴때 사용하세요. 개념증명들(PoCs)과 테스팅에 좋습니다.
 * [쳬셔(Cheshire)](https://github.com/endless-nameless-inc/cheshire) - 크립토키티(CryptoKitties) API와 스마트 컨트렉트의 로컬 샌드박스 도구이며, 트러플 박스로 이용 가능합니다.
 * [Aragon CLI](https://hack.aragon.org/docs/cli-usage.html) - 아라곤(Aragon) CLI는 아라곤 앱 개발과 생성하는데 이용됩니다.
+* [ColonyJS](https://github.com/JoinColony/colonyJS) - JavaScript client that provides an API for interacting with the Colony Network smart contracts.
 
 #### 이더리움 ABI(Application Binary Interface) 도구
 * [ABI 디코더(decoder)](https://github.com/ConsenSys/abi-decoder) - 이더리움 거래(transactions)의 데이터 매개변수 디코딩과 이벤트를 위한 라이브러리
 * [ABI-gen](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/abi-gen) - 컨트렉트 ABI의 타입스크립트 컨트렉트 래퍼(wrappers)를 생성합니다.
 * [이더리움 ABI UI](https://github.com/hiddentao/ethereum-abi-ui) - 이더리움 컨트렉트 ABI의 필드 정의와 관련 발리데이터(validators) UI를 자동 생성 합니다.
 * [headlong](https://github.com/esaulpaugh/headlong/) - 프로그램의 동작이 잘 정의된(type-safe) 컨트렉트 ABI와 자바 언어로 된 RLP(Recursive Length Prefix) 라이브러리 입니다.
-
+* [Truffle Pig](https://www.npmjs.com/package/trufflepig) - a development tool that provides a simple HTTP API to find and read from Truffle-generated contract files, for use during local development. Serves fresh contract ABIs over http.
 
 #### 패턴 & 모범 사례(Best Practices)
 
@@ -263,6 +264,8 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [타입체인(TypeChain)](https://github.com/Neufund/TypeChain) - 이더리움 스마트 컨트렉트를 위한 타입스크립트 바인딩(bindings) 입니다.
 * [EthSum](https://ethsum.netlify.com) - 간단하게 이더리움 주소를 검사합(Checksum)하는 도구 입니다.
 * [PHP를 기반 블록체인 인덱서(PHP based Blockchain indexer)](https://github.com/digitaldonkey/ethereum-php-eventlistener) - PHP에서 이벤트 리스닝 또는 블록 인덱싱 해 줍니다.
+* [Purser](https://github.com/JoinColony/purser) - JavaScript universal wallet tool for Ethereum-based wallets. Supports software, hardware, and Metamask -- brings all wallets into a consistent and predictable interface for dApp development.
+* [Node-Metamask](https://github.com/JoinColony/node-metamask) - Connect to MetaMask from node.js
 
 ### 스마트 컨트렉트 표준 & 라이브러리
 #### [ERCs](https://eips.ethereum.org/erc) - 이더리움 주석 요청(Ethereum Request for Comment) 저장소
