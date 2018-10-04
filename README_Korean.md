@@ -80,7 +80,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 <a name="통합개발환경"></a>
 #### 통합 개발 환경
 * [리믹스(Remix)](https://remix.ethereum.org/) - 블록체인 가상머신에서 테스트와 정적 분석(static analysis)이 포함된 웹 통합 개발 환경 입니다.
-* [Superblocks Lab](https://superblocks.com/lab/) - Web IDE. Built in browser blochain VM, Metamask integration (one click deployments to Testnet/Mainnet), transaction logger and live code your WebApp among many other features.
+* [수퍼블록스 랩(Superblocks Lab)](https://superblocks.com/lab/) - 웹 통합 개발 환경입니다. 브라우저에 내장된 블록체인 가상머신, 메타마스크 통합 (테스트넷/메인넷에 클릭 한번으로 배포), 거래 기록과 웹앱(WebApp)의 다른 기능들간 라이브 코드 입니다.
 * [아톰(Atom)](https://atom.io/) - [아톰 솔리디티 린터(Atom Solidity Linter)](https://atom.io/packages/atom-solidity-linter)와 [이더아톰(Etheratom)](https://atom.io/packages/etheratom)이 있는 아톰 에디터 입니다.
 * [프라그마(Pragma)](https://www.withpragma.com/) - 솔리디티를 위한 아주 간단한 웹 통합 개발 환경으로, 스마트 컨트렉트를 자동 생성 인터페이스 입니다. [autocomplete-solidity](https://atom.io/packages/autocomplete-solidity)과  [language-solidity](https://atom.io/packages/language-solidity) 패키지가 있습니다.
 * [빔 솔리디티(Vim solidity)](https://github.com/tomlion/vim-solidity) - 솔리디티를 위한 빔 문법 파일 입니다.
@@ -143,14 +143,14 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [칼레이도(Kaleido)](https://kaleido.io/) - 컨소시엄(consortium) 블록체인 네트워크를 돌릴때 사용하세요. 개념증명들(PoCs)과 테스팅에 좋습니다.
 * [쳬셔(Cheshire)](https://github.com/endless-nameless-inc/cheshire) - 크립토키티(CryptoKitties) API와 스마트 컨트렉트의 로컬 샌드박스 도구이며, 트러플 박스로 이용 가능합니다.
 * [Aragon CLI](https://hack.aragon.org/docs/cli-usage.html) - 아라곤(Aragon) CLI는 아라곤 앱 개발과 생성하는데 이용됩니다.
-* [ColonyJS](https://github.com/JoinColony/colonyJS) - JavaScript client that provides an API for interacting with the Colony Network smart contracts.
+* [ColonyJS](https://github.com/JoinColony/colonyJS) - 콜로니 네트워크(Colony Network) 스마트 컨트렉트와 상호작용하는 API를 자바스크립트 클라이언트로 제공합니다.
 <a name="이더리움ABI도구"></a>
 #### 이더리움 ABI(Application Binary Interface) 도구
 * [ABI 디코더(decoder)](https://github.com/ConsenSys/abi-decoder) - 이더리움 거래(transactions)의 데이터 매개변수 디코딩과 이벤트를 위한 라이브러리
 * [ABI-gen](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/abi-gen) - 컨트렉트 ABI의 타입스크립트 컨트렉트 래퍼(wrappers)를 생성합니다.
 * [이더리움 ABI UI](https://github.com/hiddentao/ethereum-abi-ui) - 이더리움 컨트렉트 ABI의 필드 정의와 관련 발리데이터(validators) UI를 자동 생성 합니다.
 * [headlong](https://github.com/esaulpaugh/headlong/) - 프로그램의 동작이 잘 정의된(type-safe) 컨트렉트 ABI와 자바 언어로 된 RLP(Recursive Length Prefix) 라이브러리 입니다.
-* [Truffle Pig](https://www.npmjs.com/package/trufflepig) - a development tool that provides a simple HTTP API to find and read from Truffle-generated contract files, for use during local development. Serves fresh contract ABIs over http.
+* [Truffle Pig](https://www.npmjs.com/package/trufflepig) - 로컬로 개발할때 사용하도록, 간단한 HTTP API를 찾거나 트러플에서 생성된 컨트렉트 파일을 읽는 개발 툴 입니다. http를 통해 최신 컨트렉트 ABI를 제공합니다.
 <a name="패턴&모범사례"></a>
 #### 패턴 & 모범 사례(Best Practices)
 <a name="스마트컨트렉트개발을위한패턴"></a>
@@ -229,14 +229,14 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [솔힌트(Solhint)](https://github.com/protofire/solhint) - 보안을 제공하는 솔리디티 린터, 스타일 가이드와 스마트 컨트렉트 인증을 위한 모범 사례 규칙이 있습니다.
 * [솔리움(Solium)](https://github.com/duaraghav8/Solium) - 솔리디티 보안 이슈 & 식별과 스타일 수정을 린터(Linter)로 합니다.
 * [디코드(Decode)](https://github.com/dteiml/decode) - 읽을 수 있고 쉽게 이해할 수 있도록 로컬 testrpc 노드에서 제출된 거래를 분석하는 npm 패키지 입니다.
-* [truffle-assertions](https://github.com/rkalis/truffle-assertions) - An npm package with additional assertions and utilities used in testing Solidity smart contracts with truffle. Most importantly, it adds the ability to assert whether specific events have (not) been emitted.
+* [트러플어설션(truffle-assertions)](https://github.com/rkalis/truffle-assertions) - 트러플의 솔리디티 스마트컨트렉트 테스팅에 사용되는 유틸리티와 추가적인 어설션(assertions) npm 패키지 입니다. 가장 중요한 부분은 특정 이벤트가 발생했는지(안했는지)를 확인하는 기능이 추가 되었습니다.
 <a name="보안도구"></a>
 ### 보안 도구
-* [Mythril Platform](https://mythril.ai) - Security verification platform and tools ecosystem for Ethereum developers
-* [Mythril OSS](https://github.com/ConsenSys/mythril) - Open-source EVM bytecode security analysis tool
+* [마이스릴 플랫폼(Mythril Platform)](https://mythril.ai) - 보안 인증 플랫폼과 이더리움 개발자를 위한 환경 도구들 입니다.
+* [Mythril OSS](https://github.com/ConsenSys/mythril) - 오픈소스 이더리움 가상머신 바이트코드 보안 분석 도구 입니다.
 * [오옌테(Oyente)](https://github.com/melonproject/oyente) - 정적 스마트 컨트렉트 보안 분석 대안 입니다.
 * [시큐리파이(Securify)](https://securify.ch) - 이더리움 스마트 컨트렉트를 위한 보안 스캐너 입니다.
-* [SmartCheck](https://tool.smartdec.net/) - Static smart contract security analyzer
+* [스마트체크(SmartCheck)](https://tool.smartdec.net/) - 고정(Static) 스마트 컨트렉트 보안 분석기 입니다.
 * [포로시티(Porosity)](https://github.com/comaeio/porosity) - 블록체인을 기반으로 한 이더리움 스마트 컨트렉트를 위한 디컴파일러(Decompiler)와 보안 분석 도구 입니다.
 * [이더스프레이(Ethersplay)](https://github.com/trailofbits/ethersplay) - EVM 역어셈블러(disassembler) 입니다.
 * [Evmdis](https://github.com/Arachnid/evmdis) - EVM 역어셈블러 대안 입니다.
@@ -245,7 +245,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [만티코어(Manticore)](https://github.com/trailofbits/manticore) - 스마트 컨트렉트와 바이너리(Binaries)의 심볼릭 실행 도구 입니다.
 * [솔리디티 보안 블로그(Solidity security blog)](https://github.com/sigp/solidity-security-blog) - 알려진 공격 백터(vectors)와 일반적인 안티패턴(anti-patterns) 종합 리스트 입니다.
 * [어썸 버기 ERC20 토큰(Awesome Buggy ERC20 Tokens)](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - 토큰에 영향을 주는 ERC20 스마트 컨트렉트의 취약성 모음 입니다.
-* [Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) - Free smart contract security audits from Callisto Network
+* [Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) - Callisto 네트워크의 무료 스마트 컨트렉브 보안 감사(audits) 입니다.
 <a name="모니터링"></a>
 ### 모니터링
 * [노이펀드(Neufund) - Smart Contract Watch](https://github.com/Neufund/smart-contract-watch) - 스마트 컨트렉트와 거래의 수를 모니터하는 도구 입니다.
@@ -269,8 +269,8 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [타입체인(TypeChain)](https://github.com/Neufund/TypeChain) - 이더리움 스마트 컨트렉트를 위한 타입스크립트 바인딩(bindings) 입니다.
 * [EthSum](https://ethsum.netlify.com) - 간단하게 이더리움 주소를 검사합(Checksum)하는 도구 입니다.
 * [PHP를 기반 블록체인 인덱서(PHP based Blockchain indexer)](https://github.com/digitaldonkey/ethereum-php-eventlistener) - PHP에서 이벤트 리스닝 또는 블록 인덱싱 해 줍니다.
-* [Purser](https://github.com/JoinColony/purser) - JavaScript universal wallet tool for Ethereum-based wallets. Supports software, hardware, and Metamask -- brings all wallets into a consistent and predictable interface for dApp development.
-* [Node-Metamask](https://github.com/JoinColony/node-metamask) - Connect to MetaMask from node.js
+* [Purser](https://github.com/JoinColony/purser) - 이더리움 기반 지갑을 위한 자바스크립트 통합 지갑 도구입니다. 소프트웨어, 하드웨어, 메타마스크를 지원합니다. 탈중앙화 어플리케이션 개발을 위해 모든 지갑을 일관되고 예측 가능한 인터페이스로 가져옵니다.
+* [Node-Metamask](https://github.com/JoinColony/node-metamask) - node.js로 부터 메타마스크를 연결 합니다.
 <a name="스마트컨트렉트표준&라이브러리"></a>
 ### 스마트 컨트렉트 표준 & 라이브러리
 <a name="ERCs-이더리움주석요청저장소"></a>
@@ -278,7 +278,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * 토큰들
   * [ERC-20](https://eips.ethereum.org/EIPS/eip-20) - 대체 가능 자산(fungible assets)의 토큰 컨트렉트 입니다.
   * [ERC-721](https://github.com/ethereum/eips/issues/721) - 대체 불가 자산(non-fungible assets) 토큰 기준 입니다.
-  * [ERC-918](https://eips.ethereum.org/EIPS/eip-918) - Mineable Token Standard
+  * [ERC-918](https://eips.ethereum.org/EIPS/eip-918) - 채굴 가능한(Mineable) 토큰 기준 입니다.
 * [ERC-165](https://eips.ethereum.org/EIPS/eip-165) - 스마트 컨트렉트 도구 인터페이스 확인(detect)과 발행(publish)를 표준 방법으로 생성 합니다.
 * [ERC-725](https://eips.ethereum.org/EIPS/eip-725) - 키 관리와 실행, 블록체인 아이덴티 구축을 위한 프록시 컨트렉트 입니다.
 * [ERC-173](https://eips.ethereum.org/EIPS/eip-173) - 컨트렉트의 소유권(ownership)을 위한 표준 인터페이스 입니다.
