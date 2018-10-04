@@ -17,7 +17,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [노시스 멀티시그 지갑(Gnosis multisig wallet)](https://github.com/gnosis/MultiSigWallet) - 검증 된(Audited) 멀티 시그 지갑 입니다.  
 * [미스트(Mist)](https://github.com/ethereum/mist) - 이더리움 네트워크의 탈중앙화 어플리케이션에서 사용가능하고 인터넷 사용(Browse)할 수 있습니다.
 * [엑소더스(Exodus)](https://www.exodus.io) - 쉐이프시프트(Shapeshift)와 통합된 데스크탑 지갑 입니다.
-* [Nifty Wallet](https://github.com/poanetwork/metamask-extension) - Ethereum Browser Extension focused on usability of real world applications
+* [나이프티 월렛(Nifty Wallet)](https://github.com/poanetwork/metamask-extension) - 실제(real world) 어플리케이션의 유용성을 목적으로 한 이더리움 브라우저 확장프로그램 입니다.
 
 #### 웹 지갑
 * [마이이더월렛(MyEtherWallet)](https://github.com/MyEtherWallet) - 블록체인을 쉽고 안전하게 이용하기 위한 오픈소스 [도구](https://www.myetherwallet.com/) 입니다.
@@ -141,7 +141,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [Gnosis Dutch Exchange](https://github.com/gnosis/dx-contracts)
 
 ### Secure Decentralized Data Protocols
-* [Linnia](https://linnia.com) - Securely store and share data for your users in minutes with our components and SDK
+* [Linnia](https://linnia.com) - 안전한 저장소이며 컴포넌트와 SDK를 이용 사용자 데이터를 몇 분안에 공유합니다.
 
 ### 장려책(Incentivisation) / 가치화(Monetisation) 도구
 * [깃코인(Gitcoin)](https://gitcoin.co) - 오픈소스 작업을 찾거나 오픈소스 펀딩을 위한 바운티(bounty) 네트워크 입니다.
