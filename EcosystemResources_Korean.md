@@ -125,7 +125,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 
 ### 탈중앙화 거래소
 * [에어스왑(Airswap)](https://www.airswap.io/) - 탈중앙화 토큰 거래소 입니다.
-* [0x](https://github.com/0xProject) - 탈중앙화 거래소 프로토콜 입니다.
+* [0x](https://0xProject.com/) - 탈중앙화 거래소 프로토콜 입니다.
 * [레이더 릴레이(Radar relay)](https://app.radarrelay.com/)
 * [ERC Dex](https://ercdex.com/)
 * [DDEX](https://ddex.io)
@@ -141,7 +141,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [Gnosis Dutch Exchange](https://github.com/gnosis/dx-contracts)
 
 ### Secure Decentralized Data Protocols
- * [Linnia](https://linnia.com) - Securely store and share data for your users in minutes with our components and SDK
+* [Linnia](https://linnia.com) - Securely store and share data for your users in minutes with our components and SDK
 
 ### 장려책(Incentivisation) / 가치화(Monetisation) 도구
 * [깃코인(Gitcoin)](https://gitcoin.co) - 오픈소스 작업을 찾거나 오픈소스 펀딩을 위한 바운티(bounty) 네트워크 입니다.
