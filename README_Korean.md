@@ -19,6 +19,41 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 
 ^위 내용이 타당하죠? 당신의 생각을 말해주세요 - https://github.com/ConsenSysLabs/ethereum-developer-tools-list/pull/70
 
+## Table of Contents
+ - [New developers start here](#new-developers-start-here)
+ - [Developer Tools](#developer-tools)
+    - [Smart Contract Languages](#smart-contract-languages)
+    - [Frameworks](#frameworks)
+    - [IDEs](#ides)
+    - [Test blockchain networks](#test-blockchain-networks)
+    - [Test Ether faucets](#test-ether-faucets)
+ - [Communicating with Ethereum](#communicating-with-ethereum)
+    - [Frontend Ethereum APIs](#frontend-ethereum-apis)
+    - [Backend Ethereum APIs](#backend-ethereum-apis)
+    - [Bootstrap/out of box tools](#bootstrapout-of-box-tools)
+    - [Ethereum ABI (Application Binary Interface) tools](#ethereum-abi-application-binary-interface-tools)
+ - [Patterns & Best Practices](#patterns--best-practices)
+    - [Patterns for Smart Contract Development](#patterns-for-smart-contract-development)
+    - [Upgradebility](#upgradebility)
+ - [Infrastructure](#infrastructure)
+    - [Ethereum Clients](#ethereum-clients)
+    - [Storage](#storage)
+    - [Messaging](#messaging)
+ - [Testing Tools](#testing-tools)
+ - [Security Tools](#security-tools)
+ - [Monitoring](#monitoring)
+ - [Other Miscellaneous Tools](#other-miscellaneous-tools)
+ - [Smart Contract Standards & Libraries](#smart-contract-standards--libraries)
+    - [ERCs - The Ethereum Request for Comment repository](#ercs---the-ethereum-request-for-comment-repository)
+    - [Popular Smart Contract Libraries](#popular-smart-contract-libraries)
+ - [Developer Guides for 2nd Layer Infrastructure](#developer-guides-for-2nd-layer-infrastructure)
+    -[Scalability](#scalability)
+    -[Payment/State Channels](#paymentstate-channels)
+    -[Plasma](#plasma)
+    -[Side-Chains](#side-chains)
+ -[Privacy](#privacy)
+    -[zkSNARKs](#zksnarks)
+
 ## 신입 개발자는 여기서부터 시작
 * [솔리디티(Solidity)](http://solidity.readthedocs.io/en/latest/) - 가장 유명한 스마트 컨트렉트 언어입니다.
 * [트러플(Truffle)](http://truffleframework.com) - 가장 유명한 스마트 컨트렉트 개발, 테스팅, 배포(deployment) 프레임워크 입니다. npm에서 cli를 설치하고 당신의 첫번째 스마트 컨트렉트를 작성하세요.
