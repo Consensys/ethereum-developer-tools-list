@@ -7,7 +7,7 @@ Ethereum開発で利用可能なツール、コンポーネント、パターン
 
 このリソースは開発用ツールにフォーカスしていますが、
 
-* [Ethereum Ecosystem Resources](EcosystemResources.md) は有用なDApps、学習リソース、ウォレット、サービスをまとめています。
+* [Ethereum Ecosystem Resources](EcosystemResources_Japanese.md) は有用なDApps、学習リソース、ウォレット、サービスをまとめています。
 
 ## Contributions 大歓迎!
 

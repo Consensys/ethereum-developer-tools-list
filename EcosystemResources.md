@@ -28,7 +28,6 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [SpankCard](https://github.com/SpankChain/SpankCard) - An in-browser Ethereum wallet with support for payment channels
 * [Mnemonic generator](https://iancoleman.io/bip39/) - generate word mnemonic and associated public/private key pairs. Select "Ethereum" as coin to generate Ethereum addresses. Useful for truffle-hd-wallet.
 
-
 #### Mobile Wallets
 * [Toshi](https://github.com/toshiapp) - Mobile Dapp explorer and [wallet](https://itunes.apple.com/us/app/toshi-ethereum-wallet/id1278383455?mt=8)
 * [Cypher](https://www.cipherbrowser.com/) - Mobile Dapp explorer
@@ -38,7 +37,6 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Jaxx](https://jaxx.io) - Both a mobile and a desktop wallet. Has integrated Shapeshift support
 * [WallETH](https://walleth.org) - Native Android Ethereum Wallet
 + [eth-wallet-light](https://github.com/NoahHydro/eth-wallet-light) - Lightweight JS Wallet optimized for mobile
-
 
 #### Hardware Wallets
 * [Trezor](https://trezor.io) - The original hardware wallet
@@ -94,7 +92,6 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Attacks on Smart Contracts](https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/)
 * [Zastrin](https://www.zastrin.com) - Paid courses on Solidity/Dapp Development
 
-
 #### Security best practices
 * [Smart contract best practices](https://github.com/ConsenSys/smart-contract-best-practices) - by ConsenSys
 * [Safety wiki](https://github.com/ethereum/wiki/wiki/Safety) - Ethereum Foundation wiki on safety
@@ -127,7 +124,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 
 ### Decentralized Exchanges
 * [Airswap](https://www.airswap.io/) - decentralized token exchange
-* 0x protocol based decentralized exchanges
+* [0x](https://0xproject.com/) protocol based decentralized exchanges
 * [Radar relay](https://app.radarrelay.com/)
 * [ERC Dex](https://ercdex.com/)
 * [DDEX](https://ddex.io)
@@ -142,13 +139,12 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Kyber](https://www.kyber.network)
 * [Gnosis Dutch Exchange](https://github.com/gnosis/dx-contracts)
 
- ### Secure Decentralized Data Protocols
- * [Linnia](https://linnia.com) - Securely store and share data for your users in minutes with our components and SDK
+### Secure Decentralized Data Protocols
+* [Linnia](https://linnia.com) - Securely store and share data for your users in minutes with our components and SDK
 
- ### Incentivisation / Monetisation Tools
+### Incentivisation / Monetisation Tools
 * [Gitcoin](https://gitcoin.co) - Bounty network for funding Open Source or finding Open Source work
 * [CodeFund](https://codefund.io) - Ethical Advertising Platform for Open Source
-
 
 ### Awesome lists
 * [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics) - A curated list of cryptoeconomic research and learning materials
