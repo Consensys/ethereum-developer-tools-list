@@ -17,6 +17,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [노시스 멀티시그 지갑(Gnosis multisig wallet)](https://github.com/gnosis/MultiSigWallet) - 검증 된(Audited) 멀티 시그 지갑 입니다.  
 * [미스트(Mist)](https://github.com/ethereum/mist) - 이더리움 네트워크의 탈중앙화 어플리케이션에서 사용가능하고 인터넷 사용(Browse)할 수 있습니다.
 * [엑소더스(Exodus)](https://www.exodus.io) - 쉐이프시프트(Shapeshift)와 통합된 데스크탑 지갑 입니다.
+* [나이프티 월렛(Nifty Wallet)](https://github.com/poanetwork/metamask-extension) - 실제(real world) 어플리케이션의 유용성을 목적으로 한 이더리움 브라우저 확장프로그램 입니다.
 
 #### 웹 지갑
 * [마이이더월렛(MyEtherWallet)](https://github.com/MyEtherWallet) - 블록체인을 쉽고 안전하게 이용하기 위한 오픈소스 [도구](https://www.myetherwallet.com/) 입니다.
@@ -44,9 +45,11 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 
 ### 블록 익스플로러(explorers)
 * [이더스캔(Etherscan)](https://etherscan.io/) - 이더리움 거래와 컨트렉트 코드를 보는 가장 인기있는 중앙집중 방식 입니다.
-* [이더체인 라이트(Etherchain Light)](https://github.com/gobitfly/etherchain-light)- 당신의 프라이빗 이더리움 체인을 위한 가벼운 블록체인 익스플로러 입니다.
 * [POA Explorer](https://github.com/poanetwork/poa-explorer) - 오픈소스 이더리움 블록 익스플로러로 [이더프리즈(Ethprize)](ethprize.io)의 지원(funded)을 받아 [POA](https://poa.net)가 개발했습니다.
-* [퀵블록스(QuickBlocks)](https://github.com/Great-Hill-Corporation/quickBlocks) - 퀵블록스는 소프트웨어 라이브러리, 어플리케이션, 도구와 이더리움 블록체인 데이터를 찾아볼 수 있는 예제로 구성되어 있습니다.
+* [퀵블록스(QuickBlocks)](https://github.com/Great-Hill-Corporation/quickBlocks) - 퀵블록스는 소프트웨어 라이브러리, 어플리케이션, 도구와 이더리움 블록체인 데이터를 찾아볼 수 있는 예제로 구성되어 있습니다. (a) 더 빠르고, (b) 컨텐츠 정보를 많이 제공하면서, (c) 전체가 탈중앙화 방식으로, (d) 완전히 자동방식이며, (e) 자유롭게 유지보수 합니다.
+* [이더체인 라이트(Etherchain Light)](https://github.com/gobitfly/etherchain-light)- 당신의 프라이빗 이더리움 체인을 위한 가벼운 블록체인 익스플로러 입니다.
+* [Alethio EthStats 2.0](https://media.consensys.net/alethio-lighting-up-the-blockchain-with-real-time-stats-a80bb30576db) 곧 공개 됩니다.
+* [수퍼맥스(Supermax)](https://www.supermax.cool/)- 이더리움 안에서 당신의 스마트 컨트렉트의 이벤트 로그와 활동을 바로(live) 데이터 피드(data feed) 합니다.
 
 ### 가스 가격 계산기와 도구
 * [이더가스스테이션(EthGasStation)](https://ethgasstation.info/) - 실시간 거래가격 추산을 위한 웹사이트 입니다.
@@ -84,7 +87,6 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [델리게이트 콜(Delegate call)](https://delegatecall.com/) - 질문 답변 사이트 입니다.
 * [스택익스체인지(Stackexchange)](https://ethereum.stackexchange.com) - 질문 답변 사이트 입니다.
 * [r/EthDev](https://www.reddit.com/r/ethdev/) - 서브레딧(Subreddit) 입니다.
-* [이더넛(Ethernaut)](https://github.com/OpenZeppelin/ethernaut) - 웹3/솔리디티 기반 워게임(wargame) 입니다.
 * [Reducing Gas Fees](https://medium.com/@STKtoken/research-of-the-week-reducing-gas-fees-9061d19cc171) - 실행시 사용하는 가스를 줄이기 위한 요령과 팁 입니다.
 * [디앱 유니버시티(Dapp University)](http://www.dappuniversity.com) - 무료 동영상 학습 입니다.
 * [스마트 컨트렉트에 대한 공격](https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/)
@@ -95,12 +97,13 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [Safety wiki](https://github.com/ethereum/wiki/wiki/Safety) - 안전에 관한 이더리움 재단 위키 입니다.
 
 #### 솔리디티 게임!
-* [오픈제플린 이더넛(OpenZeppelin Ethernaut)](https://ethernaut.zeppelin.solutions)
+* [오픈제플린 이더넛(OpenZeppelin Ethernaut)](https://ethernaut.zeppelin.solutions) - 웹3/솔리디티 기반 워게임(wargame) 입니다.
 * [크립토좀비(Cryptozombies)](https://cryptozombies.io/) - 세계 최고의 언데드(undead) 튜토리얼 입니다.
 * [Capture the Ether](https://capturetheether.com/)
 
 #### 스케일링
 * [종합적인 미디움(Medium) 기사 ](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4) - 이더리움 스케일의 다양한 해결책들 입니다.
+* [Using Multitoken Payment Channels to sign off-chain transactions](https://github.com/STKtoken/Multi-Token-smart-contracts)
 
 ### 레퍼런스
 * [위키(Wiki)](https://github.com/ethereum/wiki/wiki) - 이더리움과 관련된 모든 것이 있습니다.
@@ -120,17 +123,9 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [EIPs](http://eips.ethereum.org/) - 이더리움 개선 제안(Ethereum Improvement Proposal) 저장소 입니다.
 * [아라곤 리서치 포럼(Aragon Research Forum)](https://research.aragon.org/) - 거버넌스와 경제, 토큰 엔지니어링을 포함한 아라곤 연구 성과에 관련있는 긴-형식(Long-form) 토론 입니다.
 
-### 블록 익스플로러
-* [이더스캔(Etherscan)](https://etherscan.io/) - 이더리움 거래와 컨트렉트 코드를 보는 가장 인기있는 중앙집중 방식 입니다.
-* [POA Explorer](https://github.com/poanetwork/poa-explorer) - 오픈소스 이더리움 블록 익스플로러로 [이더프리즈(Ethprize)](ethprize.io)의 지원(funded)을 받아 [POA](https://poa.net)가 개발했습니다.
-* [퀵블록스(QuickBlocks)](https://github.com/Great-Hill-Corporation/quickBlocks) - 퀵블록스는 소프트웨어 라이브러리, 어플리케이션, 도구와 이더리움 블록체인 데이터를 찾아볼 수 있는 예제로 구성되어 있습니다. (a) 더 빠르고, (b) 컨텐츠 정보를 많이 제공하면서, (c) 전체가 탈중앙화 방식으로, (d) 완전히 자동방식이며, (e) 자유롭게 유지보수 합니다.
-* [이더체인 라이트(Etherchain Light)](https://github.com/gobitfly/etherchain-light)- 당신의 프라이빗 이더리움 체인을 위한 가벼운 블록체인 익스플로러 입니다.
-* [Alethio EthStats 2.0](https://media.consensys.net/alethio-lighting-up-the-blockchain-with-real-time-stats-a80bb30576db) 곧 공개 됩니다.
-* [수퍼맥스(Supermax)](https://www.supermax.cool/)- 이더리움 안에서 당신의 스마트 컨트렉트의 이벤트 로그와 활동을 바로(live) 데이터 피드(data feed) 합니다.
-
 ### 탈중앙화 거래소
 * [에어스왑(Airswap)](https://www.airswap.io/) - 탈중앙화 토큰 거래소 입니다.
-* [0x](https://github.com/0xProject) - 탈중앙화 거래소 프로토콜 입니다.
+* [0x](https://0xProject.com/) - 탈중앙화 거래소 프로토콜 입니다.
 * [레이더 릴레이(Radar relay)](https://app.radarrelay.com/)
 * [ERC Dex](https://ercdex.com/)
 * [DDEX](https://ddex.io)
@@ -144,6 +139,9 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [뱅코르(Bancor)](https://www.bancor.network/)
 * [카이버(Kyber)](https://www.kyber.network)
 * [Gnosis Dutch Exchange](https://github.com/gnosis/dx-contracts)
+
+### Secure Decentralized Data Protocols
+* [Linnia](https://linnia.com) - 안전한 저장소이며 컴포넌트와 SDK를 이용 사용자 데이터를 몇 분안에 공유합니다.
 
 ### 장려책(Incentivisation) / 가치화(Monetisation) 도구
 * [깃코인(Gitcoin)](https://gitcoin.co) - 오픈소스 작업을 찾거나 오픈소스 펀딩을 위한 바운티(bounty) 네트워크 입니다.
