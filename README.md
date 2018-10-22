@@ -160,10 +160,10 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
         * [ERC20-Token-Vault](https://steemit.com/ethereum/@nexusdev/dapp-a-day-18-erc20-token-vault)
         * [Authentication (RBAC)](https://steemit.com/ethereum/@nikolai/dapp-a-day-4-access-control-via-auth)
         * [...several more...](https://github.com/dapphub/dappsys)
-    * provides building blocks for the [MakerDAO](https://github.com/makerdao/maker-otc) or [The TAO](https://ryepdx.github.io/the-tao/)
+    * provides building blocks for the [MakerDAO](https://github.com/makerdao/maker-otc) or [The TAO](https://github.com/ryepdx/the-tao)
     * should be consulted before creating own, untested, solutions
     * usage is described in [Dapp-a-day 1-10](https://steemit.com/@nikolai) and [Dapp-a-day 11-25](https://steemit.com/@nexusdev)
-* [OpenZeppelin: An open framework of reusable and secure smart contracts in the Solidity language.](http://zeppelin-solidity.readthedocs.io/en/latest/)
+* [OpenZeppelin: An open framework of reusable and secure smart contracts in the Solidity language.](https://github.com/OpenZeppelin/openzeppelin-solidity)
     * Likely the most widely-used libraries and smart contracts
     * Similar to Dappsys, more integrated into Truffle framework
     * [Blog about Best Practices with Security Audits](https://medium.com/zeppelin-blog)
@@ -197,7 +197,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Seth](https://github.com/dapphub/dapptools/tree/master/src/seth) - Seth is an Ethereum client tool—like a "MetaMask for the command line"
 * [Mustekala](https://github.com/MetaMask/mustekala) - Ethereum Light Client project of Metamask.
 * [Exthereum](https://github.com/exthereum/blockchain) - Elixir client
-* [EWF Parity](https://github.com/energywebfoundation/energyweb-client) - Energy Web Foundation client for the Tobalaba test network
+* [EWF Parity](https://github.com/energywebfoundation/energyweb-ui) - Energy Web Foundation client for the Tobalaba test network
 * [Quorum](https://github.com/jpmorganchase/quorum) - A permissioned implementation of Ethereum supporting data privacy by [JP Morgan](https://www.jpmorgan.com/quorum)
 
 #### Storage
@@ -210,7 +210,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 
 #### Messaging
 * [Whisper](https://github.com/ethereum/wiki/wiki/Whisper) - Communication protocol for DApps to communicate with each other, a native base layer service of the Ethereum web3 stack
-* [DEVp2p Wire Protocol](https://github.com/ethereum/wiki/wiki/%C3%90%CE%9EVp2p-Wire-Protocol) - Peer-to-peer communications between nodes running Ethereum/Whisper
+* [DEVp2p Wire Protocol](https://github.com/ethereum/devp2p/blob/master/devp2p.md) - Peer-to-peer communications between nodes running Ethereum/Whisper
 * [Pydevp2p](https://github.com/ethereum/pydevp2p) - Python implementation of the RLPx network layer
 
 ### Testing Tools
@@ -300,7 +300,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Learn Plasma](https://github.com/ethsociety/learn-plasma) - Website as Node application that was started at the 2018 IC3-Ethereum Crypto Boot Camp at Cornell University, covering all Plasma variants (MVP/Cash/Debit)
 * [Plasma MVP](https://github.com/omisego/plasma-mvp) - OmiseGO's research implementation of Minimal Viable Plasma
 * [Plasma MVP Golang](https://github.com/kyokan/plasma) - Golang implementation and extension of the Minimum Viable Plasma specification
-* [Plasma Cash](https://github.com/mkchungs/plasma-cash) - Simple Plasma Cash implementation
+* [Plasma Cash](https://github.com/omisego/plasma-cash) - Simple Plasma Cash implementation
 
 #### Side-Chains
 * [POA Network](https://poa.net/)
