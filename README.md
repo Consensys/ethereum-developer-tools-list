@@ -227,6 +227,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Solium](https://github.com/duaraghav8/Solium) - Linter to identify and fix style & security issues in Solidity
 * [Decode](https://github.com/dteiml/decode) - npm package which parses tx's submitted to a local testrpc node to make them more readable and easier to understand
 * [truffle-assertions](https://github.com/rkalis/truffle-assertions) - An npm package with additional assertions and utilities used in testing Solidity smart contracts with truffle. Most importantly, it adds the ability to assert whether specific events have (not) been emitted.
+* [Psol](https://github.com/Lamarkaz/psol) - Solidity lexical preprocessor with mustache.js-style syntax, macros, conditional compilation and automatic remote dependency inclusion.
 
 ### Security Tools
 * [Mythril Platform](https://mythril.ai) - Security verification platform and tools ecosystem for Ethereum developers
