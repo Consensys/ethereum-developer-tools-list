@@ -199,6 +199,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Exthereum](https://github.com/exthereum/blockchain) - Elixir client
 * [EWF Parity](https://github.com/energywebfoundation/energyweb-client) - Energy Web Foundation client for the Tobalaba test network
 * [Quorum](https://github.com/jpmorganchase/quorum) - A permissioned implementation of Ethereum supporting data privacy by [JP Morgan](https://www.jpmorgan.com/quorum)
+* [Mana](https://github.com/poanetwork/mana) - Ethereum full node implementation written in Elixir.
 
 #### Storage
 * [IPFS](https://ipfs.io/) - Decentralised storage and file referencing
