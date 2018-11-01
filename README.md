@@ -110,7 +110,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
     * [Ethers.js](https://github.com/ethers-io/ethers.js/)- Javascript Web3 alternative, useful utilities and wallet features
     * [Web3Wrapper](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/web3-wrapper)- Typescript Web3 alternative
     * [Ethereumjs](https://github.com/ethereumjs/) - A collection of utility functions for Ethereum like [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util) and [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx)
-    * [web3x](https://github.com/xf00f/web3x) - A TypeScript port of web3.js with a high degree of API alignment. Benefits include smaller code bundles and a cleaner interface with up-to-date typings.
+    * [web3x](https://github.com/xf00f/web3x) - A TypeScript port of web3.js. Benefits includes tiny builds and full type safety, including when interacting with contracts. 
 * [Drizzle](https://github.com/truffle-box/drizzle-box) -  Redux library to connect a frontend to a blockchain
 * [Subproviders](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/subproviders) - Several useful subproviders to use in conjunction with [Web3-provider-engine](https://github.com/MetaMask/provider-engine/) (including a LedgerSubprovider for adding Ledger hardware wallet support to your dApp)
 * [web3-webpacked](https://github.com/NoahHydro/web3-webpacked) - JS framework to manage web3 injection
