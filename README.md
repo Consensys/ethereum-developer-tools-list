@@ -186,6 +186,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 
 ### Infrastructure
 #### Ethereum Clients
+* [Pantheon](https://github.com/PegaSysEng/pantheon#pantheon-ethereum-client) - Java client by PegaSys
 * [Geth](https://github.com/ethereum/go-ethereum/wiki/geth) - Go client
 * [Parity](https://www.parity.io/) - Rust client
 * [Cpp-ethereum](https://github.com/ethereum/cpp-ethereum) - C++ client
