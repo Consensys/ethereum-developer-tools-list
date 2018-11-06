@@ -183,6 +183,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
     * [Library driven development](https://blog.aragon.org/library-driven-development-in-solidity-2bebcaf88736)
     * [Advanced Solidity code deployment techniques](https://blog.aragon.org/advanced-solidity-code-deployment-techniques-dc032665f434/)
 * [OpenZeppelin on Proxy Libraries](https://medium.com/zeppelin-blog/proxy-libraries-in-solidity-79fbe4b970fd)
+* [ERC1538: Transparent Contract Standard](https://github.com/ethereum/EIPs/issues/1538)
 
 ### Infrastructure
 #### Ethereum Clients
