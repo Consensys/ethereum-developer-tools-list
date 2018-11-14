@@ -235,7 +235,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 <a name="보안도구"></a>
 ### 보안 도구
 * [마이스릴 플랫폼(Mythril Platform)](https://mythril.ai) - 보안 인증 플랫폼과 이더리움 개발자를 위한 환경 도구들 입니다.
-* [Mythril OSS](https://github.com/ConsenSys/mythril) - 오픈소스 이더리움 가상머신 바이트코드 보안 분석 도구 입니다.
+* [마이스릴 클래식(Mythril Classic)](https://github.com/ConsenSys/mythril-classic) - 오픈소스 이더리움 가상머신 바이트코드 보안 분석 도구 입니다.
 * [오옌테(Oyente)](https://github.com/melonproject/oyente) - 정적 스마트 컨트렉트 보안 분석 대안 입니다.
 * [시큐리파이(Securify)](https://securify.ch) - 이더리움 스마트 컨트렉트를 위한 보안 스캐너 입니다.
 * [스마트체크(SmartCheck)](https://tool.smartdec.net/) - 고정(Static) 스마트 컨트렉트 보안 분석기 입니다.
