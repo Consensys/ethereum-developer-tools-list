@@ -233,6 +233,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [솔리움(Solium)](https://github.com/duaraghav8/Solium) - 솔리디티 보안 이슈 & 식별과 스타일 수정을 린터(Linter)로 합니다.
 * [디코드(Decode)](https://github.com/dteiml/decode) - 읽을 수 있고 쉽게 이해할 수 있도록 로컬 testrpc 노드에서 제출된 거래를 분석하는 npm 패키지 입니다.
 * [트러플어설션(truffle-assertions)](https://github.com/rkalis/truffle-assertions) - 트러플의 솔리디티 스마트컨트렉트 테스팅에 사용되는 유틸리티와 추가적인 어설션(assertions) npm 패키지 입니다. 가장 중요한 부분은 특정 이벤트가 발생했는지(안했는지)를 확인하는 기능이 추가 되었습니다.
+* [Psol](https://github.com/Lamarkaz/psol) - Solidity lexical preprocessor with mustache.js-style syntax, macros, conditional compilation and automatic remote dependency inclusion.
 <a name="보안도구"></a>
 ### 보안 도구
 * [마이스릴 플랫폼(Mythril Platform)](https://mythril.ai) - 보안 인증 플랫폼과 이더리움 개발자를 위한 환경 도구들 입니다.
