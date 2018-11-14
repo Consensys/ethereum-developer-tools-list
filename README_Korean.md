@@ -205,6 +205,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [EWF 패리티](https://github.com/energywebfoundation/energyweb-client) - Tobalaba 테스트 네트워크를 위한 에너지 웹 재단 클라이언트 입니다.
 * [큐럼(Quorum)](https://github.com/jpmorganchase/quorum) -
 [제이피모건(JP Morgan)](https://www.jpmorgan.com/quorum)에 의해 데이터 프라이버시를 지원하는 이더리움의 승인받은 구현(permissioned implementation) 입니다.
+* [Mana](https://github.com/poanetwork/mana) - Ethereum full node implementation written in Elixir.
 <a name="저장소"></a>
 #### 저장소
 * [IPFS](https://ipfs.io/) - 탈중앙화 된 저장소와 파일 레퍼런스(referencing) 입니다.
