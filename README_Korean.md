@@ -164,10 +164,10 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
         * [ERC20-Token-Vault](https://steemit.com/ethereum/@nexusdev/dapp-a-day-18-erc20-token-vault)
         * [RBAC 증명](https://steemit.com/ethereum/@nikolai/dapp-a-day-4-access-control-via-auth)
         * [...몇가지 더...](https://github.com/dapphub/dappsys)
-    * [메이커다오(MakerDAO)](https://github.com/makerdao/maker-otc) 와 [더타오(The TAO)](https://ryepdx.github.io/the-tao/) 를 위한 개발 블록들도 제공합니다.
+    * [메이커다오(MakerDAO)](https://github.com/makerdao/maker-otc) 와 [더타오(The TAO)](https://github.com/ryepdx/the-tao) 를 위한 개발 블록들도 제공합니다.
     * own을 만들거나, 검증되지 않거나, 솔루션 전에 상의해야 합니다.
     * 사용 설명은 [Dapp-a-day 1-10](https://steemit.com/@nikolai) 과 [Dapp-a-day 11-25](https://steemit.com/@nexusdev) 입니다.
-* [오픈제플린(OpenZeppelin): 솔리디티 언어의 재사용과 안전한 스마트 컨트렉트의 오픈 프레임워크](http://zeppelin-solidity.readthedocs.io/en/latest/)
+* [오픈제플린(OpenZeppelin): 솔리디티 언어의 재사용과 안전한 스마트 컨트렉트의 오픈 프레임워크](https://github.com/OpenZeppelin/openzeppelin-solidity)
     * 가장 널리 사용되는 라이브러리와 스마트 컨트렉트들 입니다.
     * 댑시스와 유사하고, 트러플 프레임워크에 더 통합됩니다.
     * [보안 검증(Audits)과 습관들에 대한 블로그](https://medium.com/zeppelin-blog)
@@ -202,7 +202,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [세스(Seth)](https://github.com/dapphub/dapptools/tree/master/src/seth) - 세스는 "커멘드 라인(command line)을 위한 메타마스크" 형태의 이더리움 클라이언트 도구 입니다.
 * [머스테카라(Mustekala)](https://github.com/MetaMask/mustekala) - 메타마스크의 이더리움 라이트 클라이언트 프로젝트 입니다.
 * [Exthereum](https://github.com/exthereum/blockchain) - 엘릭서(Elixir) 클라이언트 입니다.
-* [EWF 패리티](https://github.com/energywebfoundation/energyweb-client) - Tobalaba 테스트 네트워크를 위한 에너지 웹 재단 클라이언트 입니다.
+* [EWF 패리티](https://github.com/energywebfoundation/energyweb-ui) - Tobalaba 테스트 네트워크를 위한 에너지 웹 재단 클라이언트 입니다.
 * [큐럼(Quorum)](https://github.com/jpmorganchase/quorum) -
 [제이피모건(JP Morgan)](https://www.jpmorgan.com/quorum)에 의해 데이터 프라이버시를 지원하는 이더리움의 승인받은 구현(permissioned implementation) 입니다.
 * [Mana](https://github.com/poanetwork/mana) - Ethereum full node implementation written in Elixir.
@@ -217,7 +217,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 <a name="메세징"></a>
 #### 메세징
 * [위스퍼(Whisper)](https://github.com/ethereum/wiki/wiki/Whisper) - 각각의 탈중앙화 어플리케이션들 통신을 위한 의사소통 프로토콜, 이더리움 웹3 스택의 네이티브 기초 계층 서비스 입니다.
-* [데브p2p 와이어 프로토콜(DEVp2p Wire Protocol)](https://github.com/ethereum/wiki/wiki/%C3%90%CE%9EVp2p-Wire-Protocol) - 작동 중인 이더리움/위스퍼 노드간 피어-투-피어(Peer-to-peer) 통신 입니다.
+* [데브p2p 와이어 프로토콜(DEVp2p Wire Protocol)](https://github.com/ethereum/devp2p/blob/master/devp2p.md) - 작동 중인 이더리움/위스퍼 노드간 피어-투-피어(Peer-to-peer) 통신 입니다.
 * [파이데브p2p(Pydevp2p)](https://github.com/ethereum/pydevp2p) - RLPx 네트워크 계층의 파이썬 구현 입니다.
 <a name="테스팅도구"></a>
 ### 테스팅 도구
@@ -307,7 +307,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [Learn Plasma](https://github.com/ethsociety/learn-plasma) - 코넬 대학교(Cornell University)에서 시작한 2018 IC3-Ethereum Crypto Boot Camp의 노드 어플리케이션 웹사이트로, 다양한(MVP/Cash/Debit) 플라즈마를 모두 포함합니다.
 * [플라즈마 MVP](https://github.com/omisego/plasma-mvp) - 오미세고(OmiseGO)의 최소 실행 가능한 플라즈마의 연구 구현물 입니다.
 * [플라즈마 MVP 고랭(Golang)](https://github.com/kyokan/plasma) - 최소 실행 가능한 플라즈마 규격 확장과 고랭 구현물 입니다.
-* [플라즈마 캐시(Cash)](https://github.com/mkchungs/plasma-cash) - 간단한 플라즈마 캐시 구현물 입니다.
+* [플라즈마 캐시(Cash)](https://github.com/omisego/plasma-cash) - 간단한 플라즈마 캐시 구현물 입니다.
 <a name="사이드체인"></a>
 #### 사이드체인
 * [POA Network](https://poa.net/)
