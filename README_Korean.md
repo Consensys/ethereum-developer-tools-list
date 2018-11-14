@@ -68,8 +68,9 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 #### 스마트 컨트렉트 언어
 * [솔리디티(Solidity)](http://solidity.readthedocs.io/en/latest/)- 이더리움 스마트 컨트렉트 언어 입니다.
 * [밤부(Bamboo)](https://github.com/pirapira/bamboo) - 모핑 스마트 컨트렉트 언어 입니다.
-* [바이퍼(Vyper)](https://github.com/ethereum/vyper) - 새롭게 시도되는 프로그래밍 언어 입니다.
+* [바이퍼(Vyper)](https://github.com/ethereum/vyper) - 새롭게 시도되는 파이썬 프로그래밍 언어 입니다.
 * [LLL](https://media.consensys.net/an-introduction-to-lll-for-ethereum-smart-contract-development-e26e38ea6c23) - Low-level Lisp-like Language, 저수준 프로그래밍 언어 입니다.
+* [Flint](https://docs.flintlang.org/) - New language under development with security features including asset types, state transition, and safe integers
 <a name="프레임워크"></a>
 #### 프레임워크
 * [트러플(Truffle)](http://truffleframework.com) - 가장 유명한 스마트 컨트렉트 개발, 테스팅, 배포 프레임워크 입니다. 트러플 세트(suite)는 트러플과 [가나쉬(Ganache)](https://github.com/trufflesuite/ganache), [드리즐(Drizzle)](https://github.com/truffle-box/drizzle-box)이 포함되어 있습니다. [트러플에 대한 보충설명](https://media.consensys.net/truffle-deep-dive-what-you-need-to-know-when-developing-on-ethereum-e548d4df6e9)
@@ -77,6 +78,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [Dapp](https://dapp.tools/dapp/) - DApple의 뒤를 잇는 탈중앙화 어플리케이션 개발 프레임 워크 입니다.
 * [팝풀러스(Populus)](https://github.com/ethereum/populus) - 가장 귀여운 동물 사진들과 함께하는 이더리움 개발 프레임워크 입니다.
 * [이더라임(Etherlime)](https://github.com/LimeChain/etherlime) - ethers.js를 기반으로 한 탈중앙화 어플리케이션 개발 프레임워크 입니다.
+* [Parasol](https://github.com/Lamarkaz/parasol) - Agile smart contract development environment with testing, INFURA deployment, automatic contract documentation and more. It features a a flexible and unopinionated design with unlimited customizability
 <a name="통합개발환경"></a>
 #### 통합 개발 환경
 * [리믹스(Remix)](https://remix.ethereum.org/) - 블록체인 가상머신에서 테스트와 정적 분석(static analysis)이 포함된 웹 통합 개발 환경 입니다.
