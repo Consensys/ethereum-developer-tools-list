@@ -320,3 +320,4 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [ui.aragon.org](https://ui.aragon.org) - A React library including Dapp components
 * [components.bounties.network](https://components.bounties.network) - A React library including Dapp components
 * [lorikeet.design](https://lorikeet.design) - A React library including Dapp components
+* [ui.decentraland.org](https://github.com/decentraland/ui) - A React library including Dapp components
