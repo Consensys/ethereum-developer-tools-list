@@ -322,3 +322,4 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [lorikeet.design](https://lorikeet.design) - A React library including Dapp components
 * [ui.decentraland.org](https://github.com/decentraland/ui) - A React library including Dapp components
 * [dapparatus](https://github.com/austintgriffith/dapparatus) - Reusable React Dapp components
+* [Metamask ui](https://github.com/MetaMask/metamask-extension/tree/develop/ui/app/components) - Metamask React Components
