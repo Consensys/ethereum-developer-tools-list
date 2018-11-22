@@ -321,3 +321,4 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [components.bounties.network](https://components.bounties.network) - A React library including Dapp components
 * [lorikeet.design](https://lorikeet.design) - A React library including Dapp components
 * [ui.decentraland.org](https://github.com/decentraland/ui) - A React library including Dapp components
+* [dapparatus](https://github.com/austintgriffith/dapparatus) - Reusable React Dapp components
