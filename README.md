@@ -312,7 +312,8 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
   * [POA Bridge Contracts](https://github.com/poanetwork/poa-bridge-contracts)
  * [Loom Network](https://github.com/loomnetwork)
 
-#### Privacy
+#### Privacy / Confidentiality
 
 ##### zkSNARKs
 * [ZoKrates](https://github.com/JacobEberhardt/ZoKrates) - A toolbox for zkSNARKS on Ethereum
+* [The AZTEC Protocol](https://github.com/AztecProtocol/AZTEC) - Confidential transactions on the Ethereum network, implementation is live on the Ethereum main-net
