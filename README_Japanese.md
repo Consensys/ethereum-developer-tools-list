@@ -61,6 +61,7 @@ Ethereum開発で利用可能なツール、コンポーネント、パターン
 * [Private networks deployment scripts](https://github.com/ConsenSys/private-networks-deployment-scripts) - プライベートPoAチェーン構築のためのクリエイティブなスクリプト。  
 * [Local Ethereum Network](https://github.com/ConsenSys/local_ethereum_network) - プライベートPoWチェーン構築のためのクリエイティブなスクリプト。  
 * [Ethereum on Azure](https://docs.microsoft.com/en-us/azure/blockchain-workbench/ethereum-poa-deployment) - コンソーシアムEthereumネットワークの構築とガバナンス。
+* [getho](https://getho.io) - PoAプライベートプロックチェーンとスマートコントラクトのテスティングツールを持つDApp開発プラットフォーム
 
 #### テスト用のEther faucets
 * [Rinkeby faucet](https://faucet.rinkeby.io/)
