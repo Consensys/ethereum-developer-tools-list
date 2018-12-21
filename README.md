@@ -56,9 +56,9 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 
 ## New developers start here
 * [Solidity](http://solidity.readthedocs.io/en/latest/) - The most popular smart contract language.
-* [Truffle](http://truffleframework.com) - Most popular smart contract development, testing, and deployment framework. Install the cli via npm and start here to write your first smart contracts.
+* [Truffle](https://truffleframework.com) - Most popular smart contract development, testing, and deployment framework. Install the cli via npm and start here to write your first smart contracts.
 * [Metamask](https://metamask.io/) - Chrome extension wallet to interact with Dapps.
-* [Truffle boxes](http://truffleframework.com/boxes/) - Packaged components for the Ethereum ecosystem
+* [Truffle boxes](https://truffleframework.com/boxes/) - Packaged components for the Ethereum ecosystem
 
 ## Developer Tools
 ### Developing Smart Contracts
@@ -70,7 +70,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Flint](https://docs.flintlang.org/) - New language under development with security features including asset types, state transition, and safe integers
 
 #### Frameworks
-* [Truffle](http://truffleframework.com) - Most popular smart contract development, testing, and deployment framework. The Truffle suite includes Truffle, [Ganache](https://github.com/trufflesuite/ganache), and [Drizzle](https://github.com/truffle-box/drizzle-box). [Deep dive on Truffle here](https://media.consensys.net/truffle-deep-dive-what-you-need-to-know-when-developing-on-ethereum-e548d4df6e9)
+* [Truffle](https://truffleframework.com) - Most popular smart contract development, testing, and deployment framework. The Truffle suite includes Truffle, [Ganache](https://github.com/trufflesuite/ganache), and [Drizzle](https://github.com/truffle-box/drizzle-box). [Deep dive on Truffle here](https://media.consensys.net/truffle-deep-dive-what-you-need-to-know-when-developing-on-ethereum-e548d4df6e9)
 * [Embark](https://github.com/embark-framework/embark) - Framework for DApp development
 * [Dapp](https://dapp.tools/dapp/) - Framework for DApp development, successor to DApple
 * [Populus](https://github.com/ethereum/populus) - The Ethereum development framework with the most cute animal pictures
@@ -134,7 +134,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [EthContract](https://github.com/AgileAlpha/eth_contract) - A set of helper methods to help query ETH smart contracts in Elixir
 
 #### Bootstrap/out of box tools
-* [Truffle boxes](http://truffleframework.com/boxes/) - Packaged components for the Ethereum ecosystem
+* [Truffle boxes](https://truffleframework.com/boxes/) - Packaged components for the Ethereum ecosystem
 * [Local Raiden](https://github.com/ConsenSys/Local-Raiden) - Run a local Raiden network in docker containers for demo and testing purposes
 * [Private networks deployment scripts](https://github.com/ConsenSys/private-networks-deployment-scripts) - Out-of-the-box deployment scripts for private PoA networks
 * [Parity Demo-PoA Tutorial](https://wiki.parity.io/Demo-PoA-tutorial.html) - Step-by-Step tutorial for building a PoA test chain with 2 nodes with Parity authority round consensus
@@ -252,7 +252,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Supermax](https://www.supermax.cool/) - A live data feed of the activities and event logs of your smart contracts on Ethereum
 
 ### Other Miscellaneous Tools
-* [Truffle boxes](http://truffleframework.com/boxes/) - Packaged components for building DApps fast.
+* [Truffle boxes](https://truffleframework.com/boxes/) - Packaged components for building DApps fast.
    * [Cheshire](https://github.com/endless-nameless-inc/cheshire) - A local sandbox implementation of the CryptoKitties API and smart contracts, available as a Truffle Box
 * [Solc](https://solidity.readthedocs.io/en/latest/using-the-compiler.html?highlight=bin) - Solidity compiler
 * [Sol-compiler](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/sol-compiler) - Project-level Solidity compiler
