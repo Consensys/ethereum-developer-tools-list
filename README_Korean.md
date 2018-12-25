@@ -68,8 +68,9 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 #### 스마트 컨트렉트 언어
 * [솔리디티(Solidity)](http://solidity.readthedocs.io/en/latest/)- 이더리움 스마트 컨트렉트 언어 입니다.
 * [밤부(Bamboo)](https://github.com/pirapira/bamboo) - 모핑 스마트 컨트렉트 언어 입니다.
-* [바이퍼(Vyper)](https://github.com/ethereum/vyper) - 새롭게 시도되는 프로그래밍 언어 입니다.
+* [바이퍼(Vyper)](https://github.com/ethereum/vyper) - 새롭게 시도되는 파이썬 프로그래밍 언어 입니다.
 * [LLL](https://media.consensys.net/an-introduction-to-lll-for-ethereum-smart-contract-development-e26e38ea6c23) - Low-level Lisp-like Language, 저수준 프로그래밍 언어 입니다.
+* [Flint](https://docs.flintlang.org/) - 자산 유형(asset types)과 상태 변환(state transition), 안전한 정수(safe integers)를 포함하고 보안 기능을 고려해 개발 중인 새로운 언어 입니다.
 <a name="프레임워크"></a>
 #### 프레임워크
 * [트러플(Truffle)](http://truffleframework.com) - 가장 유명한 스마트 컨트렉트 개발, 테스팅, 배포 프레임워크 입니다. 트러플 세트(suite)는 트러플과 [가나쉬(Ganache)](https://github.com/trufflesuite/ganache), [드리즐(Drizzle)](https://github.com/truffle-box/drizzle-box)이 포함되어 있습니다. [트러플에 대한 보충설명](https://media.consensys.net/truffle-deep-dive-what-you-need-to-know-when-developing-on-ethereum-e548d4df6e9)
@@ -77,6 +78,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [Dapp](https://dapp.tools/dapp/) - DApple의 뒤를 잇는 탈중앙화 어플리케이션 개발 프레임 워크 입니다.
 * [팝풀러스(Populus)](https://github.com/ethereum/populus) - 가장 귀여운 동물 사진들과 함께하는 이더리움 개발 프레임워크 입니다.
 * [이더라임(Etherlime)](https://github.com/LimeChain/etherlime) - ethers.js를 기반으로 한 탈중앙화 어플리케이션 개발 프레임워크 입니다.
+* [Parasol](https://github.com/Lamarkaz/parasol) - 테스팅과 인퓨라(INFURA) 배포, 자동 컨트렉트 문서 등 애자일(Agile)방식의 스마트 컨트렉트 개발 환경 입니다. 자유로운 사용자 정의(unlimited customizability)와 남을 생각하는(unopinionated) 디자인, 융통성(flexible) 있는 기능이 있습니다.
 <a name="통합개발환경"></a>
 #### 통합 개발 환경
 * [리믹스(Remix)](https://remix.ethereum.org/) - 블록체인 가상머신에서 테스트와 정적 분석(static analysis)이 포함된 웹 통합 개발 환경 입니다.
@@ -85,7 +87,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [프라그마(Pragma)](https://www.withpragma.com/) - 솔리디티를 위한 아주 간단한 웹 통합 개발 환경으로, 스마트 컨트렉트를 자동 생성 인터페이스 입니다. [autocomplete-solidity](https://atom.io/packages/autocomplete-solidity)과  [language-solidity](https://atom.io/packages/language-solidity) 패키지가 있습니다.
 * [빔 솔리디티(Vim solidity)](https://github.com/tomlion/vim-solidity) - 솔리디티를 위한 빔 문법 파일 입니다.
 * [비주얼 스튜디오 코드(Visual Studio Code)](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) - 비주얼 스튜디오 코드에서 솔리디티 지원 확장 프로그램 입니다.
-* [인텔리j 솔리디티 플러그인(Intellij Solidity Plugin)](https://github.com/intellij-solidity/intellij-solidity/wiki) - Open-source plug-in for [젯브레인 인텔리j 아이디어 통합개발환경(JetBrains IntelliJ Idea IDE)](https://www.jetbrains.com/idea/) (무료/상업용)으로 문법 강조, 형식, 코드 완성 등의 오픈소스 플러그인 입니다.
+* [인텔리j 솔리디티 플러그인(Intellij Solidity Plugin)](https://github.com/intellij-solidity/intellij-solidity/wiki) - [젯브레인 인텔리j 아이디어 통합개발환경(JetBrains IntelliJ Idea IDE)](https://www.jetbrains.com/idea/) (무료/상업용)으로 문법 강조, 형식, 코드 완성 등의 오픈소스 플러그인 입니다.
 * [야킨두 솔리디티 도구(YAKINDU Solidity Tools)](https://github.com/Yakindu/solidity-ide) - 이클립스(Eclipse)를 기반으로 한 통합 개발 환경입니다. 문맥 완성이 민감하고 도움말, 코드 탐색, 문법 색구분, 컴파일러 빌딩, 빠른 수정, 템플릿이 특징입니다.
 * [Eth Fiddle](https://ethfiddle.com/) - [룸 네트워크(The Loom Network)](https://loomx.io/)에서 개발한 통합개발환경(IDE)에서 스마트 컨트렉트를 작성, 컴파일과 디버깅을 할 수 있습니다. 공유하기 쉽고 코드 정보(snippets)를 확인할 수 있습니다.
 <a name="블록체인테스트네트워크"></a>
@@ -162,10 +164,10 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
         * [ERC20-Token-Vault](https://steemit.com/ethereum/@nexusdev/dapp-a-day-18-erc20-token-vault)
         * [RBAC 증명](https://steemit.com/ethereum/@nikolai/dapp-a-day-4-access-control-via-auth)
         * [...몇가지 더...](https://github.com/dapphub/dappsys)
-    * [메이커다오(MakerDAO)](https://github.com/makerdao/maker-otc) 와 [더타오(The TAO)](https://ryepdx.github.io/the-tao/) 를 위한 개발 블록들도 제공합니다.
+    * [메이커다오(MakerDAO)](https://github.com/makerdao/maker-otc) 와 [더타오(The TAO)](https://github.com/ryepdx/the-tao) 를 위한 개발 블록들도 제공합니다.
     * own을 만들거나, 검증되지 않거나, 솔루션 전에 상의해야 합니다.
     * 사용 설명은 [Dapp-a-day 1-10](https://steemit.com/@nikolai) 과 [Dapp-a-day 11-25](https://steemit.com/@nexusdev) 입니다.
-* [오픈제플린(OpenZeppelin): 솔리디티 언어의 재사용과 안전한 스마트 컨트렉트의 오픈 프레임워크](http://zeppelin-solidity.readthedocs.io/en/latest/)
+* [오픈제플린(OpenZeppelin): 솔리디티 언어의 재사용과 안전한 스마트 컨트렉트의 오픈 프레임워크](https://github.com/OpenZeppelin/openzeppelin-solidity)
     * 가장 널리 사용되는 라이브러리와 스마트 컨트렉트들 입니다.
     * 댑시스와 유사하고, 트러플 프레임워크에 더 통합됩니다.
     * [보안 검증(Audits)과 습관들에 대한 블로그](https://medium.com/zeppelin-blog)
@@ -200,9 +202,10 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [세스(Seth)](https://github.com/dapphub/dapptools/tree/master/src/seth) - 세스는 "커멘드 라인(command line)을 위한 메타마스크" 형태의 이더리움 클라이언트 도구 입니다.
 * [머스테카라(Mustekala)](https://github.com/MetaMask/mustekala) - 메타마스크의 이더리움 라이트 클라이언트 프로젝트 입니다.
 * [Exthereum](https://github.com/exthereum/blockchain) - 엘릭서(Elixir) 클라이언트 입니다.
-* [EWF 패리티](https://github.com/energywebfoundation/energyweb-client) - Tobalaba 테스트 네트워크를 위한 에너지 웹 재단 클라이언트 입니다.
+* [EWF 패리티](https://github.com/energywebfoundation/energyweb-ui) - Tobalaba 테스트 네트워크를 위한 에너지 웹 재단 클라이언트 입니다.
 * [큐럼(Quorum)](https://github.com/jpmorganchase/quorum) -
 [제이피모건(JP Morgan)](https://www.jpmorgan.com/quorum)에 의해 데이터 프라이버시를 지원하는 이더리움의 승인받은 구현(permissioned implementation) 입니다.
+* [Mana](https://github.com/poanetwork/mana) - 엘릭서(Elixir)로 쓰여진 이더리움 전체노드(full node) 구현체 입니다.
 <a name="저장소"></a>
 #### 저장소
 * [IPFS](https://ipfs.io/) - 탈중앙화 된 저장소와 파일 레퍼런스(referencing) 입니다.
@@ -214,7 +217,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 <a name="메세징"></a>
 #### 메세징
 * [위스퍼(Whisper)](https://github.com/ethereum/wiki/wiki/Whisper) - 각각의 탈중앙화 어플리케이션들 통신을 위한 의사소통 프로토콜, 이더리움 웹3 스택의 네이티브 기초 계층 서비스 입니다.
-* [데브p2p 와이어 프로토콜(DEVp2p Wire Protocol)](https://github.com/ethereum/wiki/wiki/%C3%90%CE%9EVp2p-Wire-Protocol) - 작동 중인 이더리움/위스퍼 노드간 피어-투-피어(Peer-to-peer) 통신 입니다.
+* [데브p2p 와이어 프로토콜(DEVp2p Wire Protocol)](https://github.com/ethereum/devp2p/blob/master/devp2p.md) - 작동 중인 이더리움/위스퍼 노드간 피어-투-피어(Peer-to-peer) 통신 입니다.
 * [파이데브p2p(Pydevp2p)](https://github.com/ethereum/pydevp2p) - RLPx 네트워크 계층의 파이썬 구현 입니다.
 <a name="테스팅도구"></a>
 ### 테스팅 도구
@@ -230,10 +233,12 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [솔리움(Solium)](https://github.com/duaraghav8/Solium) - 솔리디티 보안 이슈 & 식별과 스타일 수정을 린터(Linter)로 합니다.
 * [디코드(Decode)](https://github.com/dteiml/decode) - 읽을 수 있고 쉽게 이해할 수 있도록 로컬 testrpc 노드에서 제출된 거래를 분석하는 npm 패키지 입니다.
 * [트러플어설션(truffle-assertions)](https://github.com/rkalis/truffle-assertions) - 트러플의 솔리디티 스마트컨트렉트 테스팅에 사용되는 유틸리티와 추가적인 어설션(assertions) npm 패키지 입니다. 가장 중요한 부분은 특정 이벤트가 발생했는지(안했는지)를 확인하는 기능이 추가 되었습니다.
+* [Psol](https://github.com/Lamarkaz/psol) - 매크로와 조건부 컴파일(conditional compilation), 자동 원격 종속성 포함, mustache.js형식 문법을 이용한 솔리디티 어휘 처리기 입니다.
+* [Decode and Publish](https://flightwallet.org/decode-eth-tx/) – 가공되지 않은 이더리움 트랜젝션을 복호(decode)하고 퍼블리시 합니다. https://live.blockcypher.com/btc-testnet/decodetx/ 와 유사합니다.
 <a name="보안도구"></a>
 ### 보안 도구
 * [마이스릴 플랫폼(Mythril Platform)](https://mythril.ai) - 보안 인증 플랫폼과 이더리움 개발자를 위한 환경 도구들 입니다.
-* [Mythril OSS](https://github.com/ConsenSys/mythril) - 오픈소스 이더리움 가상머신 바이트코드 보안 분석 도구 입니다.
+* [마이스릴 클래식(Mythril Classic)](https://github.com/ConsenSys/mythril-classic) - 오픈소스 이더리움 가상머신 바이트코드 보안 분석 도구 입니다.
 * [오옌테(Oyente)](https://github.com/melonproject/oyente) - 정적 스마트 컨트렉트 보안 분석 대안 입니다.
 * [시큐리파이(Securify)](https://securify.ch) - 이더리움 스마트 컨트렉트를 위한 보안 스캐너 입니다.
 * [스마트체크(SmartCheck)](https://tool.smartdec.net/) - 고정(Static) 스마트 컨트렉트 보안 분석기 입니다.
@@ -304,7 +309,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [Learn Plasma](https://github.com/ethsociety/learn-plasma) - 코넬 대학교(Cornell University)에서 시작한 2018 IC3-Ethereum Crypto Boot Camp의 노드 어플리케이션 웹사이트로, 다양한(MVP/Cash/Debit) 플라즈마를 모두 포함합니다.
 * [플라즈마 MVP](https://github.com/omisego/plasma-mvp) - 오미세고(OmiseGO)의 최소 실행 가능한 플라즈마의 연구 구현물 입니다.
 * [플라즈마 MVP 고랭(Golang)](https://github.com/kyokan/plasma) - 최소 실행 가능한 플라즈마 규격 확장과 고랭 구현물 입니다.
-* [플라즈마 캐시(Cash)](https://github.com/mkchungs/plasma-cash) - 간단한 플라즈마 캐시 구현물 입니다.
+* [플라즈마 캐시(Cash)](https://github.com/omisego/plasma-cash) - 간단한 플라즈마 캐시 구현물 입니다.
 <a name="사이드체인"></a>
 #### 사이드체인
 * [POA Network](https://poa.net/)
