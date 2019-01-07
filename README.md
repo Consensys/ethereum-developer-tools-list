@@ -59,7 +59,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Truffle](https://truffleframework.com) - Most popular smart contract development, testing, and deployment framework. Install the cli via npm and start here to write your first smart contracts.
 * [Metamask](https://metamask.io/) - Chrome extension wallet to interact with Dapps.
 * [Truffle boxes](https://truffleframework.com/boxes/) - Packaged components for the Ethereum ecosystem
-* [EthHub.io] (https://docs.ethhub.io/) - Documentation on Ethereum essentials. 
+* [EthHub.io] (https://docs.ethhub.io/) - Comprehensive crowdsourced overview of Ethereum- its history, governance, future plans and development resources. 
 
 ## Developer Tools
 ### Developing Smart Contracts
