@@ -45,7 +45,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 
 ### 블록 익스플로러(explorers)
 * [이더스캔(Etherscan)](https://etherscan.io/) - 이더리움 거래와 컨트렉트 코드를 보는 가장 인기있는 중앙집중 방식 입니다.
-* [POA Explorer](https://github.com/poanetwork/poa-explorer) - 오픈소스 이더리움 블록 익스플로러로 [이더프리즈(Ethprize)](ethprize.io)의 지원(funded)을 받아 [POA](https://poa.net)가 개발했습니다.
+* [블록스카우트(BlockScout)](https://github.com/poanetwork/blockscout) - 오픈소스 이더리움 블록 익스플로러로 [이더프리즈(Ethprize)](ethprize.io)의 지원(funded)을 받아 [POA](https://poa.net)가 개발했습니다.
 * [퀵블록스(QuickBlocks)](https://github.com/Great-Hill-Corporation/quickBlocks) - 퀵블록스는 소프트웨어 라이브러리, 어플리케이션, 도구와 이더리움 블록체인 데이터를 찾아볼 수 있는 예제로 구성되어 있습니다. (a) 더 빠르고, (b) 컨텐츠 정보를 많이 제공하면서, (c) 전체가 탈중앙화 방식으로, (d) 완전히 자동방식이며, (e) 자유롭게 유지보수 합니다.
 * [이더체인 라이트(Etherchain Light)](https://github.com/gobitfly/etherchain-light)- 당신의 프라이빗 이더리움 체인을 위한 가벼운 블록체인 익스플로러 입니다.
 * [Alethio EthStats 2.0](https://media.consensys.net/alethio-lighting-up-the-blockchain-with-real-time-stats-a80bb30576db) 곧 공개 됩니다.
