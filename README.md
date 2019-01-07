@@ -46,13 +46,13 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
    - [ERCs - The Ethereum Request for Comment repository](#ercs---the-ethereum-request-for-comment-repository)
    - [Popular Smart Contract Libraries](#popular-smart-contract-libraries)
 - [Developer Guides for 2nd Layer Infrastructure](#developer-guides-for-2nd-layer-infrastructure)
-   -[Scalability](#scalability)
-   -[Payment/State Channels](#paymentstate-channels)
-   -[Plasma](#plasma)
-   -[Side-Chains](#side-chains)
--[Privacy](#privacy)
-   -[zkSNARKs](#zksnarks)
-
+   - [Scalability](#scalability)
+   - [Payment/State Channels](#paymentstate-channels)
+   - [Plasma](#plasma)
+   - [Side-Chains](#side-chains)
+- [Privacy](#privacy)
+   - [zkSNARKs](#zksnarks)
+- [UI](#ui)
 
 ## New developers start here
 * [Solidity](http://solidity.readthedocs.io/en/latest/) - The most popular smart contract language.
@@ -337,3 +337,12 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 ##### zkSNARKs
 * [ZoKrates](https://github.com/JacobEberhardt/ZoKrates) - A toolbox for zkSNARKS on Ethereum
 * [The AZTEC Protocol](https://github.com/AztecProtocol/AZTEC) - Confidential transactions on the Ethereum network, implementation is live on the Ethereum main-net
+
+#### Prebuilt UI Components
+* [ui.aragon.org](https://ui.aragon.org) - A React library including Dapp components
+* [components.bounties.network](https://components.bounties.network) - A React library including Dapp components
+* [lorikeet.design](https://lorikeet.design) - A React library including Dapp components
+* [ui.decentraland.org](https://github.com/decentraland/ui) - A React library including Dapp components
+* [dapparatus](https://github.com/austintgriffith/dapparatus) - Reusable React Dapp components
+* [Metamask ui](https://github.com/MetaMask/metamask-extension/tree/develop/ui/app/components) - Metamask React Components
+
