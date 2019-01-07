@@ -109,7 +109,6 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Ropsten faucet](http://faucet.ropsten.be:3001/)
 * [Universal faucet](https://faucets.blockxlabs.com/)
 
-
 ### Communicating with Ethereum
 #### Frontend Ethereum APIs
 * [Web3.js](https://github.com/ethereum/web3.js/) - Javascript Web3
