@@ -92,6 +92,9 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 ### Test blockchain networks
 * [Ganache](https://github.com/trufflesuite/ganache) - App for test Ethereum blockchain with visual UI and logs
 * [Kaleido](https://kaleido.io/) - Use Kaleido for spinning up a consortium blockchain network. Great for PoCs and testing
+* [Pantheon Private Network](https://docs.pantheon.pegasys.tech/en/latest/Getting-Started/Private-Network-Quickstart/) - Run a private network of Pantheon nodes in a Docker container
+** [Orion](https://github.com/PegaSysEng/orion) - Component for performing private transactions by PegaSys
+** [Artemis](https://github.com/PegaSysEng/artemis) - Java implementation of the Ethereum 2.0 Beacon Chain by PegaSys
 * [Cliquebait](https://github.com/f-o-a-m/cliquebait) - Simplifies integration and accepting testing of smart contract applications with docker instances that closely resembles a real blockchain network
 * [Local Raiden](https://github.com/ConsenSys/Local-Raiden) - Run a local Raiden network in docker containers for demo and testing purposes
 * [Private networks deployment scripts](https://github.com/ConsenSys/private-networks-deployment-scripts) - Out-of-the-box deployment scripts for private PoA networks
@@ -137,6 +140,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 
 #### Bootstrap/out of box tools
 * [Truffle boxes](https://truffleframework.com/boxes/) - Packaged components for the Ethereum ecosystem
+* [Pantheon Private Network](https://docs.pantheon.pegasys.tech/en/latest/Getting-Started/Private-Network-Quickstart/) - Run a private network of Pantheon nodes in a Docker container
 * [Local Raiden](https://github.com/ConsenSys/Local-Raiden) - Run a local Raiden network in docker containers for demo and testing purposes
 * [Private networks deployment scripts](https://github.com/ConsenSys/private-networks-deployment-scripts) - Out-of-the-box deployment scripts for private PoA networks
 * [Parity Demo-PoA Tutorial](https://wiki.parity.io/Demo-PoA-tutorial.html) - Step-by-Step tutorial for building a PoA test chain with 2 nodes with Parity authority round consensus
@@ -191,7 +195,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 
 ### Infrastructure
 #### Ethereum Clients
-* [Pantheon](https://github.com/PegaSysEng/pantheon#pantheon-ethereum-client) - Java client by PegaSys
+* [Pantheon](https://docs.pantheon.pegasys.tech/en/latest/) - Java client by PegaSys
 * [Geth](https://github.com/ethereum/go-ethereum/wiki/geth) - Go client
 * [Parity](https://www.parity.io/) - Rust client
 * [Aleth](https://github.com/ethereum/aleth) - C++ client
