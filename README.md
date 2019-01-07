@@ -316,7 +316,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 ##### zkSNARKs
 * [ZoKrates](https://github.com/JacobEberhardt/ZoKrates) - A toolbox for zkSNARKS on Ethereum
 
-#### UI
+#### Prebuilt UI Components
 * [ui.aragon.org](https://ui.aragon.org) - A React library including Dapp components
 * [components.bounties.network](https://components.bounties.network) - A React library including Dapp components
 * [lorikeet.design](https://lorikeet.design) - A React library including Dapp components
