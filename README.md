@@ -107,6 +107,8 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Rinkeby faucet](https://faucet.rinkeby.io/)
 * [Kovan faucet](https://github.com/kovan-testnet/faucet)
 * [Ropsten faucet](http://faucet.ropsten.be:3001/)
+* [Universal faucet](https://faucets.blockxlabs.com/)
+
 
 ### Communicating with Ethereum
 #### Frontend Ethereum APIs
