@@ -53,13 +53,15 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
     - [사이드체인](#사이드체인)
  - [프라이버시](#프라이버시)
     - [zkSNARKs](#zksnarks)
+ - [UI](#ui)
 
 <a name="신입개발자는여기서부터시작"></a>
 ## 신입 개발자는 여기서부터 시작
 * [솔리디티(Solidity)](http://solidity.readthedocs.io/en/latest/) - 가장 유명한 스마트 컨트렉트 언어입니다.
-* [트러플(Truffle)](http://truffleframework.com) - 가장 유명한 스마트 컨트렉트 개발, 테스팅, 배포(deployment) 프레임워크 입니다. npm에서 cli를 설치하고 당신의 첫번째 스마트 컨트렉트를 작성하세요.
+* [트러플(Truffle)](https://truffleframework.com) - 가장 유명한 스마트 컨트렉트 개발, 테스팅, 배포(deployment) 프레임워크 입니다. npm에서 cli를 설치하고 당신의 첫번째 스마트 컨트렉트를 작성하세요.
 * [메타마스크(Metamask)](https://metamask.io/) - 크롬 확장 지갑으로 탈중앙화 어플리케이션과 작동합니다.
-* [트러플 박스(Truffle boxes)](http://truffleframework.com/boxes/) - 이더리움 생태계를 위한 패키지 컴포넌트 입니다.
+* [트러플 박스(Truffle boxes)](https://truffleframework.com/boxes/) - 이더리움 생태계를 위한 패키지 컴포넌트 입니다.
+* [EthHub.io](https://docs.ethhub.io/) - Comprehensive crowdsourced overview of Ethereum- its history, governance, future plans and development resources.
 <a name="개발도구"></a>
 ## 개발 도구
 
@@ -73,7 +75,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [Flint](https://docs.flintlang.org/) - 자산 유형(asset types)과 상태 변환(state transition), 안전한 정수(safe integers)를 포함하고 보안 기능을 고려해 개발 중인 새로운 언어 입니다.
 <a name="프레임워크"></a>
 #### 프레임워크
-* [트러플(Truffle)](http://truffleframework.com) - 가장 유명한 스마트 컨트렉트 개발, 테스팅, 배포 프레임워크 입니다. 트러플 세트(suite)는 트러플과 [가나쉬(Ganache)](https://github.com/trufflesuite/ganache), [드리즐(Drizzle)](https://github.com/truffle-box/drizzle-box)이 포함되어 있습니다. [트러플에 대한 보충설명](https://media.consensys.net/truffle-deep-dive-what-you-need-to-know-when-developing-on-ethereum-e548d4df6e9)
+* [트러플(Truffle)](https://truffleframework.com) - 가장 유명한 스마트 컨트렉트 개발, 테스팅, 배포 프레임워크 입니다. 트러플 세트(suite)는 트러플과 [가나쉬(Ganache)](https://github.com/trufflesuite/ganache), [드리즐(Drizzle)](https://github.com/truffle-box/drizzle-box)이 포함되어 있습니다. [트러플에 대한 보충설명](https://media.consensys.net/truffle-deep-dive-what-you-need-to-know-when-developing-on-ethereum-e548d4df6e9)
 * [엠바크(Embark)](https://github.com/embark-framework/embark) - 탈중앙화 어플리케이션 개발을 위한 프레임워크 입니다.
 * [Dapp](https://dapp.tools/dapp/) - DApple의 뒤를 잇는 탈중앙화 어플리케이션 개발 프레임 워크 입니다.
 * [팝풀러스(Populus)](https://github.com/ethereum/populus) - 가장 귀여운 동물 사진들과 함께하는 이더리움 개발 프레임워크 입니다.
@@ -94,16 +96,22 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 ### 블록체인 테스트 네트워크
 * [가나쉬(Ganache)](https://github.com/trufflesuite/ganache) - 시각적인 UI와 로그들을 보여주는 테스트 이더리움 블록체인 어플리케이션 입니다.
 * [칼레이도(Kaleido)](https://kaleido.io/) - 컨소시엄(consortium) 블록체인 네트워크를 돌릴때 사용하세요. 개념증명들(PoCs)과 테스팅에 좋습니다.
+* [Pantheon Private Network](https://docs.pantheon.pegasys.tech/en/latest/Getting-Started/Private-Network-Quickstart/) - Run a private network of Pantheon nodes in a Docker container
+** [Orion](https://github.com/PegaSysEng/orion) - Component for performing private transactions by PegaSys
+** [Artemis](https://github.com/PegaSysEng/artemis) - Java implementation of the Ethereum 2.0 Beacon Chain by PegaSys
 * [클리끄베이트(Cliquebait)](https://github.com/f-o-a-m/cliquebait) - 실제 블록체인 네트워크와 유사한 도커(docker) 인스턴스를 사용해 스마트 컨트렉트 어플리케이션을 통합(integration)하고 테스팅을 합니다.
 * [로컬 라이덴(Local Raiden)](https://github.com/ConsenSys/Local-Raiden) - 데모(demo)와 테스트 목적으로 도커 컨테이너에서 로컬 라이덴 네트워크를 실행하세요.
 * [개인 네트워크 배포 스크립트(Private networks deployment scripts)](https://github.com/ConsenSys/private-networks-deployment-scripts) - 개인 권위증명(PoA) 네트워크를 위한 배포 스크립트를 실행(Out-of-the-box) 합니다.
 * [로컬 이더리움 네트워크(Local Ethereum Network)](https://github.com/ConsenSys/local_ethereum_network) - 개인 작업증명(PoW) 네트워크를 위한 배포 스크립트로 실행 합니다.
 * [Ethereum on Azure](https://docs.microsoft.com/en-us/azure/blockchain-workbench/ethereum-poa-deployment) - 이더리움 PoA 네트워크 컨소시엄의 거버넌스와 배포 네트워크 입니다.
+* [getho](https://getho.io) - DApp development platform including PoA private blockchain and Smart Contract testing tool.
+* [Ethereum on Google Cloud](https://console.cloud.google.com/marketplace/details/click-to-deploy-images/ethereum?filter=category:developer-tools) - Build Ethereum network based on Proof of Work
 <a name="테스트이더파우셋"></a>
 #### 테스트 이더 파우셋(faucets)
 * [링크비 파우셋(Rinkeby faucet)](https://faucet.rinkeby.io/)
 * [코반 파우셋(Kovan faucet)](https://github.com/kovan-testnet/faucet)
 * [롭스텐 파우셋(Ropsten faucet)](http://faucet.ropsten.be:3001/)
+* [Universal faucet](https://faucets.blockxlabs.com/)
 <a name="이더리움과정보전달"></a>
 ### 이더리움과 정보 전달
 <a name="이더리움프론트엔드API"></a>
@@ -113,10 +121,11 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
     * [Ethers.js](https://github.com/ethers-io/ethers.js/)- 자바스크립트 웹3 대안이고, 유용한 유틸리티들과 지갑 기능이 있습니다.
     * [웹3래퍼(Web3Wrapper)](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/web3-wrapper)- 타입스크립트 웹3 대안입니다.
     * [이더리움js(Ethereumjs)](https://github.com/ethereumjs/) - 이더리움이 좋아하는  [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util) 와 [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx) 를 위한 유틸리티 함수 모음 입니다.
-
+    * [web3x](https://github.com/xf00f/web3x) - A TypeScript port of web3.js. Benefits includes tiny builds and full type safety, including when interacting with contracts.
 * [드리즐(Drizzle)](https://github.com/truffle-box/drizzle-box) -  리덕스(Redux) 라이브러리 블록체인 프론트엔드와 연결합니다.
+* [Tasit SDK](https://github.com/tasitlabs/tasitsdk) - A JavaScript SDK for making native mobile Ethereum dapps using React Native
 * [Subproviders](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/subproviders) - [웹3 프로바이더 엔진(Web3-provider-engine)](https://github.com/MetaMask/provider-engine/) 과 함께 사용되는 여러가지 유용한 subproviders 입니다. (당신의 탈중앙화 어플리케이션을 지원하는 렛저(Ledger) 하드웨어 월렛을 위한 LedgerSubprovider를 포함합니다.)
-* [web3-webpacked](https://github.com/NoahHydro/web3-webpacked) - JS 프레임워크를 관리하기 위한 웹3 인젝션 입니다.
+* [web3-react](https://github.com/NoahZinsmeister/web3-react) - 싱글페이지(single-page) 이더리움 dApps를 빌딩하기 위한 리액트 프레임워크 입니다.
 * [볼텍스(Vortex)](https://github.com/Horyus/vortex) - Dapp-ready 리덕스 Store 입니다. 웹소켓(WebSockets) 덕분에 효율적(Smart)이고 민첩(Dynamic)하게 백그라운드 데이터를 새로고침 합니다. [트러플](https://github.com/Horyus/vortex-demo) 과 [엠바크](https://github.com/Horyus/vortex-demo-embark)와 작동합니다.
 * Strictly Typed - 자바스크립트 대안 입니다.
      * [elm-ethereum](https://github.com/cmditch/elm-ethereum)
@@ -137,7 +146,8 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [EthContract](https://github.com/AgileAlpha/eth_contract) - 엘릭서(Elixir) 언어로 된 이더리움 스마트 컨트렉트 쿼리를 도와주는 헬퍼 메소드(helper methods) 세트 입니다.
 <a name="부트스트랩실행도구"></a>
 #### 부트스트랩(Bootstrap) / 실행(out of box) 도구
-* [트러플 박스(Truffle boxes)](http://truffleframework.com/boxes/) - 이더리움 생태계를 위한 패키지 컴포넌트 입니다.
+* [트러플 박스(Truffle boxes)](https://truffleframework.com/boxes/) - 이더리움 생태계를 위한 패키지 컴포넌트 입니다.
+* [Pantheon Private Network](https://docs.pantheon.pegasys.tech/en/latest/Getting-Started/Private-Network-Quickstart/) - Run a private network of Pantheon nodes in a Docker container
 * [로컬 라이덴(Local Raiden)](https://github.com/ConsenSys/Local-Raiden) - 데모(demo)와 테스트 목적으로 도커 컨테이너에서 로컬 라이덴 네트워크를 실행 합니다.
 * [개인 네트워크 배포 스크립트(Private networks deployment scripts)](https://github.com/ConsenSys/private-networks-deployment-scripts) - 개인 권위증명(PoA) 네트워크를 위한 배포 스크립트를 실행(Out-of-the-box) 합니다.
 * [패리티 데모-권위증명 튜토리얼(Parity Demo-PoA Tutorial)](https://wiki.parity.io/Demo-PoA-tutorial.html) - 2개의 노드로 패리티 합의 인증 라운드와 PoA 테스트 체인을 만들기 위한 단계별 튜토리얼입니다.
@@ -146,12 +156,14 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [쳬셔(Cheshire)](https://github.com/endless-nameless-inc/cheshire) - 크립토키티(CryptoKitties) API와 스마트 컨트렉트의 로컬 샌드박스 도구이며, 트러플 박스로 이용 가능합니다.
 * [Aragon CLI](https://hack.aragon.org/docs/cli-usage.html) - 아라곤(Aragon) CLI는 아라곤 앱 개발과 생성하는데 이용됩니다.
 * [ColonyJS](https://github.com/JoinColony/colonyJS) - 콜로니 네트워크(Colony Network) 스마트 컨트렉트와 상호작용하는 API를 자바스크립트 클라이언트로 제공합니다.
+* [ArcJS](https://github.com/daostack/arc.js) - Library that facilitates javascript application access to the DAOstack Arc ethereum smart contracts.
 <a name="이더리움ABI도구"></a>
 #### 이더리움 ABI(Application Binary Interface) 도구
 * [ABI 디코더(decoder)](https://github.com/ConsenSys/abi-decoder) - 이더리움 거래(transactions)의 데이터 매개변수 디코딩과 이벤트를 위한 라이브러리
 * [ABI-gen](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/abi-gen) - 컨트렉트 ABI의 타입스크립트 컨트렉트 래퍼(wrappers)를 생성합니다.
 * [이더리움 ABI UI](https://github.com/hiddentao/ethereum-abi-ui) - 이더리움 컨트렉트 ABI의 필드 정의와 관련 발리데이터(validators) UI를 자동 생성 합니다.
 * [headlong](https://github.com/esaulpaugh/headlong/) - 프로그램의 동작이 잘 정의된(type-safe) 컨트렉트 ABI와 자바 언어로 된 RLP(Recursive Length Prefix) 라이브러리 입니다.
+* [One Click dApp](https://oneclickdapp.com) -  Instantly create a dApp at a unique URL using the ABI.
 * [Truffle Pig](https://www.npmjs.com/package/trufflepig) - 로컬로 개발할때 사용하도록, 간단한 HTTP API를 찾거나 트러플에서 생성된 컨트렉트 파일을 읽는 개발 툴 입니다. http를 통해 최신 컨트렉트 ABI를 제공합니다.
 <a name="패턴&모범사례"></a>
 #### 패턴 & 모범 사례(Best Practices)
@@ -191,9 +203,10 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 ### 기반시설
 <a name="이더리움 클라이언트"></a>
 #### 이더리움 클라이언트
+* [Pantheon](https://docs.pantheon.pegasys.tech/en/latest/) - Java client by PegaSys
 * [게스(Geth)](https://github.com/ethereum/go-ethereum/wiki/geth) - 고(Go) 클라이언트 입니다.
 * [패리티(Parity)](https://www.parity.io/) - 러스트(Rust) 클라이언트 입니다.
-* [Cpp-ethereum](https://github.com/ethereum/cpp-ethereum) - C++ 클라이언트 입니다.
+* [Aleth](https://github.com/ethereum/aleth) - C++ 클라이언트 입니다.
 * [Pyethapp](https://github.com/ethereum/pyethapp) - [pyethereum](https://github.com/ethereum/pyethereum) 을 이용하는 파이썬 클라이언트 입니다.
 * [트리니티(Trinity)](https://github.com/ethereum/trinity) - [py-evm](https://github.com/ethereum/py-evm) 을 이용하는 파이썬 클라이언트 입니다.
 * [이더리움js(Ethereumjs)](https://github.com/ethereumjs/ethereumjs-client) - [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-vm) 을 이용하는 JS 클라이언트 입니다.
@@ -224,16 +237,19 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [솔리디티 코드 커버리지(Solidity code coverage)](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/sol-cov) - 솔리디티 코드 커버리지 도구 입니다.
 * [솔리디티 커버리지(Solidity coverage)](https://github.com/sc-forks/solidity-coverage) - 솔리디티 스마트 컨트렉트를 위한 코드 커버리지 대안 입니다.
 * [솔리디티 함수 프로파일러(Solidity function profiler)](https://github.com/EricR/sol-function-profiler) - 솔리디티 컨트렉트 함수 프로파일러 입니다.
+* [Sol-profiler](https://github.com/Aniket-Engg/sol-profiler) - Alternative and updated Solidity smart contract  profiler
 * [에스프레소(Espresso)](https://github.com/hillstreetlabs/espresso) - 빠르고, 병렬(parallelised) 방식이며, 핫 리로딩(hot-reloading)이 있는 솔리디티 테스트 프레임워크 입니다.
 * [Eth tester](https://github.com/ethereum/eth-tester) - 테스팅 이더리움 어플리케이션들을 위한 도구 세트(Tool suite) 입니다.
 * [클리끄베이트(Cliquebait)](https://github.com/f-o-a-m/cliquebait) - 실제 블록체인 네트워크와 유사한 도커(docker) 인스턴스를 사용해 스마트 컨트렉트 어플리케이션을 통합(integration)하고 테스팅을 합니다.
 * [Hevm](https://github.com/dapphub/dapptools/tree/master/src/hevm) - hevm 프로젝트는 단위 테스팅과 스마트 컨트렉트 디버깅을 위해 특별히 만들어진 이더리움 가상 머신(EVM) 구현체 입니다.
 * [이더리움 그래프 디버거(Ethereum graph debugger)](https://github.com/fergarrui/ethereum-graph-debugger) - 솔리디티 그래픽적인 디버거 입니다.
+* [Tenderly CLI](https://github.com/Tenderly/tenderly-cli) - Speed up your development with human readable stack traces
 * [솔힌트(Solhint)](https://github.com/protofire/solhint) - 보안을 제공하는 솔리디티 린터, 스타일 가이드와 스마트 컨트렉트 인증을 위한 모범 사례 규칙이 있습니다.
 * [솔리움(Solium)](https://github.com/duaraghav8/Solium) - 솔리디티 보안 이슈 & 식별과 스타일 수정을 린터(Linter)로 합니다.
 * [디코드(Decode)](https://github.com/dteiml/decode) - 읽을 수 있고 쉽게 이해할 수 있도록 로컬 testrpc 노드에서 제출된 거래를 분석하는 npm 패키지 입니다.
 * [트러플어설션(truffle-assertions)](https://github.com/rkalis/truffle-assertions) - 트러플의 솔리디티 스마트컨트렉트 테스팅에 사용되는 유틸리티와 추가적인 어설션(assertions) npm 패키지 입니다. 가장 중요한 부분은 특정 이벤트가 발생했는지(안했는지)를 확인하는 기능이 추가 되었습니다.
 * [Psol](https://github.com/Lamarkaz/psol) - 매크로와 조건부 컴파일(conditional compilation), 자동 원격 종속성 포함, mustache.js형식 문법을 이용한 솔리디티 어휘 처리기 입니다.
+* [solpp](https://github.com/merklejerk/solpp) - Solidity preprocessor and flattener with a comprehensive directive and expression language, high precision math, and many useful helper functions.
 * [Decode and Publish](https://flightwallet.org/decode-eth-tx/) – 가공되지 않은 이더리움 트랜젝션을 복호(decode)하고 퍼블리시 합니다. https://live.blockcypher.com/btc-testnet/decodetx/ 와 유사합니다.
 <a name="보안도구"></a>
 ### 보안 도구
@@ -248,6 +264,8 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [하이드라(Hydra)](https://github.com/IC3Hydra/Hydra) - 암호화폐경제학(cryptoeconomic) 컨트렉트 보안, 탈중앙화 보안 바운티를 위한 프레임워크 입니다.
 * [솔그래프(Solgraph)](https://github.com/raineorshine/solgraph) - 스마트 컨트렉트 보안분석을 위해 시각적인 솔리디티 제어 흐름을 보여줍니다.
 * [만티코어(Manticore)](https://github.com/trailofbits/manticore) - 스마트 컨트렉트와 바이너리(Binaries)의 심볼릭 실행 도구 입니다.
+* [Slither](https://github.com/trailofbits/slither) - A Solidity static analysis framework 
+* [Adelaide](https://github.com/sec-bit/adelaide) - The SECBIT static analysis extension to Solidity compiler
 * [솔리디티 보안 블로그(Solidity security blog)](https://github.com/sigp/solidity-security-blog) - 알려진 공격 백터(vectors)와 일반적인 안티패턴(anti-patterns) 종합 리스트 입니다.
 * [어썸 버기 ERC20 토큰(Awesome Buggy ERC20 Tokens)](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - 토큰에 영향을 주는 ERC20 스마트 컨트렉트의 취약성 모음 입니다.
 * [Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) - Callisto 네트워크의 무료 스마트 컨트렉브 보안 감사(audits) 입니다.
@@ -255,14 +273,16 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 ### 모니터링
 * [노이펀드(Neufund) - Smart Contract Watch](https://github.com/Neufund/smart-contract-watch) - 스마트 컨트렉트와 거래의 수를 모니터하는 도구 입니다.
 * [수퍼맥스(Supermax)](https://www.supermax.cool/) - 이더리움 안에서 당신의 스마트 컨트렉트의 이벤트 로그와 활동을 바로(live) 데이터 피드(data feed) 합니다.
+* [Chainlyt](https://www.chainlyt.io/main/dashboard/contract) - Explore smart contracts with decoded transaction data, see how the contract is used and search transactions with specific function calls
 <a name="그밖에다양한도구"></a>
 ### 그 밖에 다양한 도구
-* [트러플 박스(Truffle boxes)](http://truffleframework.com/boxes/) - 탈중앙화 어플리케이션을 빠르게 만들기 위한 패키지 컴포넌트 입니다.
+* [트러플 박스(Truffle boxes)](https://truffleframework.com/boxes/) - 탈중앙화 어플리케이션을 빠르게 만들기 위한 패키지 컴포넌트 입니다.
    * [쳬셔(Cheshire)](https://github.com/endless-nameless-inc/cheshire) - 크립토키티(CryptoKitties) API와 스마트 컨트렉트의 로컬 샌드박스 도구이며, 트러플 박스로 이용 가능합니다.
 * [Solc](https://solidity.readthedocs.io/en/latest/using-the-compiler.html?highlight=bin) - 솔리디티 컴파일러 입니다.
 * [솔컴파일러(Sol-compiler)](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/sol-compiler) - 프로젝트 단계의 솔리디티 컴파일러 입니다.
 * [Solidity cli](https://github.com/pubkey/solidity-cli) - 솔리디티 코드를 빠르고 쉽고, 더 믿을 수 있게 컴파일 합니다.
 * [Solidity flattener](https://github.com/poanetwork/solidity-flattener) - 솔리디티 프로젝트와 단층 파일(flat file) 유틸리티를 합쳐줍니다. 이더스캔(Etherscan)에서 컨트렉트 인증하거나 임포트(imported) 된 컨트렉트 시각화에 유용합니다.
+* [Sol-merger](https://github.com/RyuuGan/sol-merger) - Alternative, merges all imports into single file for solidity contracts
 * [RLP](https://github.com/ethereumjs/rlp) - 자바스크립트의 RLP(Recursive Length Prefix) 인코딩 입니다.
 * [eth-cli](https://github.com/protofire/eth-cli) - 이더리움 학습과 개발을 도와주는 CLI 도구 모음집 입니다.
 * [이더리얼(Ethereal)](https://github.com/wealdtech/ethereal) - 이더리얼은 이더리움에서 일반 작업 관리를 위한 커멘드 라인 도구 입니다.
@@ -276,6 +296,8 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [PHP를 기반 블록체인 인덱서(PHP based Blockchain indexer)](https://github.com/digitaldonkey/ethereum-php-eventlistener) - PHP에서 이벤트 리스닝 또는 블록 인덱싱 해 줍니다.
 * [Purser](https://github.com/JoinColony/purser) - 이더리움 기반 지갑을 위한 자바스크립트 통합 지갑 도구입니다. 소프트웨어, 하드웨어, 메타마스크를 지원합니다. 탈중앙화 어플리케이션 개발을 위해 모든 지갑을 일관되고 예측 가능한 인터페이스로 가져옵니다.
 * [Node-Metamask](https://github.com/JoinColony/node-metamask) - node.js로 부터 메타마스크를 연결 합니다.
+* [Solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) - Documentation generator for Solidity projects
+* [Ethereum ETL](https://github.com/blockchain-etl/ethereum-etl) - Export Ethereum blockchain data to CSV or JSON files
 <a name="스마트컨트렉트표준&라이브러리"></a>
 ### 스마트 컨트렉트 표준 & 라이브러리
 <a name="ERCs-이더리움주석요청저장소"></a>
@@ -289,11 +311,12 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [ERC-173](https://eips.ethereum.org/EIPS/eip-173) - 컨트렉트의 소유권(ownership)을 위한 표준 인터페이스 입니다.
 <a name="인기있는스마트컨트렉트라이브러리"></a>
 #### 인기있는 스마트 컨트렉트 라이브러리
-* [제플린(Zeppelin)](https://github.com/OpenZeppelin/openzeppelin-solidity) - 스마트 컨트렉트 향상을 위한 제플린OS [라이브러리](https://github.com/zeppelinos/zos-lib) 와 [세이프매스(SafeMath)](https://openzeppelin.org/api/docs/math_SafeMath.html)와 같이 테스트 된 재사용가능 스마트 컨트렉트들이 포함되어 있습니다.
+* [제플린(Zeppelin)](https://github.com/OpenZeppelin/openzeppelin-solidity) - 스마트 컨트렉트 향상을 위한 제플린OS [라이브러리](https://github.com/zeppelinos/zos) 와 [세이프매스(SafeMath)](https://openzeppelin.org/api/docs/math_SafeMath.html)와 같이 테스트 된 재사용가능 스마트 컨트렉트들이 포함되어 있습니다.
 * [크립토핀 솔리디티(cryptofin-solidity)](https://github.com/cryptofinlabs/cryptofin-solidity) - 이더리움에서 가스 효율이 좋은 스마트 컨트렉트와 보안 구축을 위한 솔리디티 라이브러리 모음 입니다.
 * [모듈러 라이브러리(Modular Libraries)](https://github.com/Modular-Network/ethereum-libraries) - 이더리움 가상 머신을 활용하는 블록체인 사용을 위한 개발 패키지 그룹 입니다.
 * [데이트타임 라이브러리(DateTime Library)](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary) - 가스 효율이 좋은 솔리디티 일시(date and time) 라이브러리 입니다.
 * [아라곤(Aragon)](https://github.com/aragon/aragon) - DAO 프로토콜 입니다. upgradeability와 거버넌스에 집중한 [아라곤OS 스마트 컨트렉트 프레임워크](https://github.com/aragon/aragonOS)도 포함 되었습니다.
+* [ARC](https://github.com/daostack/arc) - an operating system for DAOs and the base layer of the DAO stack.
 * [0x](https://github.com/0xProject) - DEX 프로토콜 입니다.
 * [프루프 토큰 라이브러리(Token Libraries with Proofs)](https://github.com/sec-bit/tokenlibs-with-proofs) - 주어진 사양(specifications)과 고차원 속성(high-level properties)에 관해 토큰 컨트렉트의 정확성(correctness) 증명을 포함합니다.
 <a name="2번째계층구조를위한개발자가이드"></a>
@@ -318,7 +341,16 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
   * [POA Bridge Contracts](https://github.com/poanetwork/poa-bridge-contracts)
 * [룸 네트워크(Loom Network)](https://github.com/loomnetwork)
 <a name="프라이버시"></a>
-#### 프라이버시
-<a name="#zksnarks"></a>
+#### 프라이버시 / Confidentiality
+<a name="zksnarks"></a>
 ##### zkSNARKs
 * [ZoKrates](https://github.com/JacobEberhardt/ZoKrates) - 이더리움에서 zkSNARKS을 위한 툴박스 입니다.
+* [The AZTEC Protocol](https://github.com/AztecProtocol/AZTEC) - Confidential transactions on the Ethereum network, implementation is live on the Ethereum main-net
+<a name="ui"></a>
+#### Prebuilt UI Components
+* [ui.aragon.org](https://ui.aragon.org) - A React library including Dapp components
+* [components.bounties.network](https://components.bounties.network) - A React library including Dapp components
+* [lorikeet.design](https://lorikeet.design) - A React library including Dapp components
+* [ui.decentraland.org](https://github.com/decentraland/ui) - A React library including Dapp components
+* [dapparatus](https://github.com/austintgriffith/dapparatus) - Reusable React Dapp components
+* [Metamask ui](https://github.com/MetaMask/metamask-extension/tree/develop/ui/app/components) - Metamask React Components
