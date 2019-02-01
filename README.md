@@ -292,6 +292,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Node-Metamask](https://github.com/JoinColony/node-metamask) - Connect to MetaMask from node.js
 * [Solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) - Documentation generator for Solidity projects
 * [Ethereum ETL](https://github.com/blockchain-etl/ethereum-etl) - Export Ethereum blockchain data to CSV or JSON files
+* [prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity) - Prettier plugin for formatting Solidity code
 
 ### Smart Contract Standards & Libraries
 #### [ERCs](https://eips.ethereum.org/erc) - The Ethereum Request for Comment repository
