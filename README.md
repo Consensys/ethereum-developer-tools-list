@@ -73,6 +73,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 #### Frameworks
 * [Truffle](https://truffleframework.com) - Most popular smart contract development, testing, and deployment framework. The Truffle suite includes Truffle, [Ganache](https://github.com/trufflesuite/ganache), and [Drizzle](https://github.com/truffle-box/drizzle-box). [Deep dive on Truffle here](https://media.consensys.net/truffle-deep-dive-what-you-need-to-know-when-developing-on-ethereum-e548d4df6e9)
 * [Embark](https://github.com/embark-framework/embark) - Framework for DApp development
+* [Waffle](https://getwaffle.io/) - Framework for advanced smart contract development and testing, small, flexible, fast (based on ethers.js)
 * [Dapp](https://dapp.tools/dapp/) - Framework for DApp development, successor to DApple
 * [Populus](https://github.com/ethereum/populus) - The Ethereum development framework with the most cute animal pictures
 * [Etherlime](https://github.com/LimeChain/etherlime) - ethers.js based framework for Dapp deployment
