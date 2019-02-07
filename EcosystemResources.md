@@ -56,7 +56,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [CryptoProf](https://github.com/doc-ai/cryptoprof) - Gas profiler for smart contracts
 
 ### Services
-* [Oracalize](http://www.oraclize.it/) - Oracle service for your smart contracts
+* [Oraclize](http://www.oraclize.it/) - Oracle service for your smart contracts
 * [Infura](https://infura.io/) - API gateway so you don't have to host your own ETH node
 * [Quiknode](https://quiknode.io/) - Service to spin up personal Parity/Geth nodes
 * [Regis](https://regis.nu/) - Registry Framework for Digital Assets
