@@ -50,9 +50,9 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
    - [Payment/State Channels](#paymentstate-channels)
    - [Plasma](#plasma)
    - [Side-Chains](#side-chains)
-- [Privacy](#privacy)
+- [Privacy / Confidentiality](#privacy--confidentiality)
    - [zkSNARKs](#zksnarks)
-- [UI](#ui)
+- [Prebuilt UI Components](#prebuilt-ui-components)
 
 ## New developers start here
 * [Solidity](https://solidity.readthedocs.io/en/latest/) - The most popular smart contract language.
