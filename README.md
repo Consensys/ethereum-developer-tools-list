@@ -11,7 +11,7 @@ This resource is meant to be focused on developer tools, but the repo also inclu
 
 Feel free to submit a pull request, with anything from small fixes to tools you'd like to add (or remove!). If adding a new tool, **please add a brief description** that you think new developers would understand.
 
-Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/corbpage) of Meridio for the idea, [@pakaplace](https://twitter.com/Parker_Place) for expanding and curating, and @jpantunes for restructuring the list in a more logical way.
+Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/corbpage) and  [@pakaplace](https://twitter.com/Parker_Place) of [Meridio](https://meridio.co) for curating, and @jpantunes for restructuring the list in a more logical way.
 * Projects that do not have a working product will not be added.
 * Projects that are deprecated or no longer maintained will be removed.
 * Projects that are paid/restricted services without open source code or developer reviews will be further vetted.
