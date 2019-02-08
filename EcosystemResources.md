@@ -74,7 +74,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [iExec SDK](https://github.com/iExecBlockchainComputing/iexec-sdk) - Gives smart contract the ability to execute functions or applications off-chain. Support any legacy applications provided as a Docker image.
 * [Solidstamp](https://www.solidstamp.com) - on-chain registry of smart contract audits.
 * [Incentivai](https://incentivai.co) - Testing of smart contract economies via simulation with ML agents
-* [Arkane - A wallet provider for Dapps](https://arkane.network/pages/build-on-arkane.html) - Offers an API gateway and provides walelts and wallet management to dapps and their users.
+* [Arkane - A wallet provider for Dapps](https://arkane.network/pages/build-on-arkane.html) - Offers an API gateway and provides wallets and wallet management to dapps and their users.
 
 ### Knowledge/Education
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
