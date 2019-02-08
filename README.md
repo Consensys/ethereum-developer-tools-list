@@ -121,7 +121,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
     * [flex-contract](https://github.com/merklejerk/flex-contract) and [flex-ether](https://github.com/merklejerk/flex-ether) Modern, zero-configuration, high-level libraries for interacting with smart contracts and making transactions.
     * [ez-ens](https://github.com/merklejerk/ez-ens) Simple, zero-configuration Ethereum Name Service address resolver.
     * [web3x](https://github.com/xf00f/web3x) - A TypeScript port of web3.js. Benefits includes tiny builds and full type safety, including when interacting with contracts. 
-    * [Arkane Web3 Subprovider](https://docs.arkane.network) - A web3 subprovider granting access to Arkane Networks users and an Ethereum API Gateway. 
+    * [Arkane Web3 Subprovider](https://docs.arkane.network) - A web3 subprovider for Arkane Network, a wallet provider and Ethereum API Gateway. 
 * [Drizzle](https://github.com/truffle-box/drizzle-box) - Redux library to connect a frontend to a blockchain
 * [Tasit SDK](https://github.com/tasitlabs/tasitsdk) - A JavaScript SDK for making native mobile Ethereum dapps using React Native
 * [Subproviders](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/subproviders) - Several useful subproviders to use in conjunction with [Web3-provider-engine](https://github.com/MetaMask/provider-engine/) (including a LedgerSubprovider for adding Ledger hardware wallet support to your dApp)
