@@ -19,9 +19,11 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Exodus](https://www.exodus.io) - Desktop wallet with Shapeshift integration
 * [Nifty Wallet](https://github.com/poanetwork/metamask-extension) - Ethereum Browser Extension focused on usability of real world applications
 
+
 #### Web Wallets
 * [MyEtherWallet](https://github.com/MyEtherWallet) - Open-source [tools](https://www.myetherwallet.com/) for interacting with the blockchains easily & securely
 * [MyCrypto](https://github.com/MyCryptoHQ) - Open-source, client-side [tool](https://mycrypto.com/account) for generating ether wallets, handling ERC-20 tokens, and interacting with the blockchain more easily
+* [Arkane](https://arkane.network) - Web-based wallet focused on user-friendly UX and dapp integration. (Mobile friendly)
 * [Portis](https://portis.io/) - Web-based wallet for easy user on-boarding to your DApp
 * [Eth lightwallet](https://github.com/ConsenSys/eth-lightwallet) - Lightweight JS Wallet for Node and the browser
 * [SpankCard](https://github.com/SpankChain/SpankCard) - An in-browser Ethereum wallet with support for payment channels
@@ -72,6 +74,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [iExec SDK](https://github.com/iExecBlockchainComputing/iexec-sdk) - Gives smart contract the ability to execute functions or applications off-chain. Support any legacy applications provided as a Docker image.
 * [Solidstamp](https://www.solidstamp.com) - on-chain registry of smart contract audits.
 * [Incentivai](https://incentivai.co) - Testing of smart contract economies via simulation with ML agents
+* [Arkane Wallet provider for Dapps](https://arkane.network/pages/build-on-arkane.html) - Offers an API gateway and provides walelts and wallet management to dapps and their users.
 
 ### Knowledge/Education
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
@@ -142,6 +145,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 ### Incentivisation / Monetisation Tools
 * [Gitcoin](https://gitcoin.co) - Bounty network for funding Open Source or finding Open Source work
 * [CodeFund](https://codefund.io) - Ethical Advertising Platform for Open Source
+
 
 ### Awesome lists
 * [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics) - A curated list of cryptoeconomic research and learning materials
