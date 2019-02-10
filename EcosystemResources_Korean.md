@@ -139,7 +139,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [Gnosis Dutch Exchange](https://github.com/gnosis/dx-contracts)
 
 ### Secure Decentralized Data Protocols
-* [Stow](https://stow-protocol.com/) - 안전한 저장소이며 컴포넌트와 SDK를 이용 사용자 데이터를 몇 분안에 공유합니다. Formerly Linnia.
+* [Stow](https://stow-protocol.com/) - 안전한 저장소이며 컴포넌트와 SDK를 이용 사용자 데이터를 몇 분안에 공유합니다. 예전의  Linnia 입니다.
 
 ### 장려책(Incentivisation) / 가치화(Monetisation) 도구
 * [깃코인(Gitcoin)](https://gitcoin.co) - 오픈소스 작업을 찾거나 오픈소스 펀딩을 위한 바운티(bounty) 네트워크 입니다.
