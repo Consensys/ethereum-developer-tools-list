@@ -11,7 +11,7 @@ This resource is meant to be focused on developer tools, but the repo also inclu
 
 Feel free to submit a pull request, with anything from small fixes to tools you'd like to add (or remove!). If adding a new tool, **please add a brief description** that you think new developers would understand.
 
-Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/corbpage) of Meridio for the idea, [@pakaplace](https://twitter.com/Parker_Place) for expanding and curating, and @jpantunes for restructuring the list in a more logical way.
+Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/corbpage) and  [@pakaplace](https://twitter.com/Parker_Place) of [Meridio](https://meridio.co) for curating, and @jpantunes for restructuring the list in a more logical way.
 * Projects that do not have a working product will not be added.
 * Projects that are deprecated or no longer maintained will be removed.
 * Projects that are paid/restricted services without open source code or developer reviews will be further vetted.
@@ -50,12 +50,12 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
    - [Payment/State Channels](#paymentstate-channels)
    - [Plasma](#plasma)
    - [Side-Chains](#side-chains)
-- [Privacy](#privacy)
+- [Privacy / Confidentiality](#privacy--confidentiality)
    - [zkSNARKs](#zksnarks)
-- [UI](#ui)
+- [Prebuilt UI Components](#prebuilt-ui-components)
 
 ## New developers start here
-* [Solidity](http://solidity.readthedocs.io/en/latest/) - The most popular smart contract language.
+* [Solidity](https://solidity.readthedocs.io/en/latest/) - The most popular smart contract language.
 * [Truffle](https://truffleframework.com) - Most popular smart contract development, testing, and deployment framework. Install the cli via npm and start here to write your first smart contracts.
 * [Metamask](https://metamask.io/) - Chrome extension wallet to interact with Dapps.
 * [Truffle boxes](https://truffleframework.com/boxes/) - Packaged components for the Ethereum ecosystem
@@ -64,7 +64,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 ## Developer Tools
 ### Developing Smart Contracts
 #### Smart Contract Languages
-* [Solidity](http://solidity.readthedocs.io/en/latest/)- Ethereum smart contracting language
+* [Solidity](https://solidity.readthedocs.io/en/latest/) - Ethereum smart contracting language
 * [Bamboo](https://github.com/pirapira/bamboo) - A morphing smart contract language
 * [Vyper](https://github.com/ethereum/vyper) - New experimental pythonic programming language
 * [LLL](https://media.consensys.net/an-introduction-to-lll-for-ethereum-smart-contract-development-e26e38ea6c23) - Low-level Lisp-like Language
@@ -73,17 +73,18 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 #### Frameworks
 * [Truffle](https://truffleframework.com) - Most popular smart contract development, testing, and deployment framework. The Truffle suite includes Truffle, [Ganache](https://github.com/trufflesuite/ganache), and [Drizzle](https://github.com/truffle-box/drizzle-box). [Deep dive on Truffle here](https://media.consensys.net/truffle-deep-dive-what-you-need-to-know-when-developing-on-ethereum-e548d4df6e9)
 * [Embark](https://github.com/embark-framework/embark) - Framework for DApp development
+* [Waffle](https://getwaffle.io/) - Framework for advanced smart contract development and testing, small, flexible, fast (based on ethers.js)
 * [Dapp](https://dapp.tools/dapp/) - Framework for DApp development, successor to DApple
 * [Populus](https://github.com/ethereum/populus) - The Ethereum development framework with the most cute animal pictures
 * [Etherlime](https://github.com/LimeChain/etherlime) - ethers.js based framework for Dapp deployment
 * [Parasol](https://github.com/Lamarkaz/parasol) - Agile smart contract development environment with testing, INFURA deployment, automatic contract documentation and more. It features a a flexible and unopinionated design with unlimited customizability
+* [0xcert](https://github.com/0xcert/framework/) - JavaScript framework for building decentralized applications 
 
 #### IDEs
 * [Remix](https://remix.ethereum.org/) - Web IDE with built in static analysis, test blockchain VM.
 * [Superblocks Lab](https://superblocks.com/lab/) - Web IDE. Built in browser blochain VM, Metamask integration (one click deployments to Testnet/Mainnet), transaction logger and live code your WebApp among many other features.
-* [Atom](https://atom.io/) - Atom editor with [Atom Solidity Linter](https://atom.io/packages/atom-solidity-linter), [Etheratom](https://atom.io/packages/etheratom)
+* [Atom](https://atom.io/) - Atom editor with [Atom Solidity Linter](https://atom.io/packages/atom-solidity-linter), [Etheratom](https://atom.io/packages/etheratom), [autocomplete-solidity](https://atom.io/packages/autocomplete-solidity), and [language-solidity](https://atom.io/packages/language-solidity) packages
 * [Pragma](https://www.withpragma.com/) - Very simple web IDE for solidity, and auto-generated interfaces for smart contracts.
-[autocomplete-solidity](https://atom.io/packages/autocomplete-solidity), and [language-solidity](https://atom.io/packages/language-solidity) packages
 * [Vim solidity](https://github.com/tomlion/vim-solidity) - Vim syntax file for solidity
 * [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) - Visual Studio Code extension that adds support for Solidity
 * [Intellij Solidity Plugin](https://github.com/intellij-solidity/intellij-solidity/wiki) - Open-source plug-in for [JetBrains IntelliJ Idea IDE](https://www.jetbrains.com/idea/) (free/commercial) with syntax highlighting, formatting, code completion etc.
@@ -114,11 +115,13 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 #### Frontend Ethereum APIs
 * [Web3.js](https://github.com/ethereum/web3.js/) - Javascript Web3
     * [Eth.js](https://github.com/ethjs) - Javascript Web3 alternative
-    * [Ethers.js](https://github.com/ethers-io/ethers.js/)- Javascript Web3 alternative, useful utilities and wallet features
-    * [Web3Wrapper](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/web3-wrapper)- Typescript Web3 alternative
+    * [Ethers.js](https://github.com/ethers-io/ethers.js/) - Javascript Web3 alternative, useful utilities and wallet features
+    * [Web3Wrapper](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/web3-wrapper) - Typescript Web3 alternative
     * [Ethereumjs](https://github.com/ethereumjs/) - A collection of utility functions for Ethereum like [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util) and [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx)
+    * [flex-contract](https://github.com/merklejerk/flex-contract) and [flex-ether](https://github.com/merklejerk/flex-ether) Modern, zero-configuration, high-level libraries for interacting with smart contracts and making transactions.
+    * [ez-ens](https://github.com/merklejerk/ez-ens) Simple, zero-configuration Ethereum Name Service address resolver.
     * [web3x](https://github.com/xf00f/web3x) - A TypeScript port of web3.js. Benefits includes tiny builds and full type safety, including when interacting with contracts. 
-* [Drizzle](https://github.com/truffle-box/drizzle-box) -  Redux library to connect a frontend to a blockchain
+* [Drizzle](https://github.com/truffle-box/drizzle-box) - Redux library to connect a frontend to a blockchain
 * [Tasit SDK](https://github.com/tasitlabs/tasitsdk) - A JavaScript SDK for making native mobile Ethereum dapps using React Native
 * [Subproviders](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/subproviders) - Several useful subproviders to use in conjunction with [Web3-provider-engine](https://github.com/MetaMask/provider-engine/) (including a LedgerSubprovider for adding Ledger hardware wallet support to your dApp)
 * [web3-react](https://github.com/NoahZinsmeister/web3-react) - React framework for building single-page Ethereum dApps
@@ -128,17 +131,17 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
     * [purescript-web3](https://github.com/f-o-a-m/purescript-web3)
 
 #### Backend Ethereum APIs
-* [Web3.py](https://github.com/ethereum/web3.py)- Python Web3
+* [Web3.py](https://github.com/ethereum/web3.py) - Python Web3
 * [Web3.php](https://github.com/sc0Vu/web3.php) - PHP Web3
 * [Ethereum-php](https://github.com/digitaldonkey/ethereum-php) - PHP Web3
 * [Web3j](https://github.com/web3j/web3j) - Java Web3
 * [Nethereum](https://nethereum.com/) - .Net Web3
 * [Ethereum.rb](https://github.com/EthWorks/ethereum.rb) - Ruby Web3
-* [Web3.hs](http://hackage.haskell.org/package/web3) - Haskell Web3
+* [Web3.hs](https://hackage.haskell.org/package/web3) - Haskell Web3
 * [KEthereum](https://github.com/walleth/kethereum) - Kotlin Web3
 * [Pyethereum](https://github.com/ethereum/pyethereum) - The Python core library of the Ethereum project
 * [Eventeum](https://github.com/ConsenSys/eventeum) - A bridge between Ethereum smart contract events and backend microservices, written in Java by Kauri
-* [Ethereumex](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain
+* [Ethereumex](https://github.com/mana-ethereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain
 * [EthContract](https://github.com/AgileAlpha/eth_contract) - A set of helper methods to help query ETH smart contracts in Elixir
 
 #### Bootstrap/out of box tools
@@ -178,7 +181,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [OpenZeppelin: An open framework of reusable and secure smart contracts in the Solidity language.](https://github.com/OpenZeppelin/openzeppelin-solidity)
     * Likely the most widely-used libraries and smart contracts
     * Similar to Dappsys, more integrated into Truffle framework
-    * [Blog about Best Practices with Security Audits](https://medium.com/zeppelin-blog)
+    * [Blog about Best Practices with Security Audits](https://blog.zeppelin.solutions/)
 * [Advanced Workshop with Assembly](https://github.com/androlo/solidity-workshop)
 * [Simpler Ethereum Multisig](https://medium.com/@ChrisLundkvist/exploring-simpler-ethereum-multisig-contracts-b71020c19037) - especially section _Benefits_
 * [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
@@ -188,13 +191,13 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
     * Forwarders: aragonOS apps can send their intent to perform an action to other apps, so that intent is forwarded if a set of requirements are met
 
 ##### Upgradebility
-* [Blog von Elena Dimitrova, Dev at colony.io](https://blog.colony.io/@elena_di)
+* [Blog von Elena Dimitrova, Dev at colony.io](https://blog.colony.io/author/elena/)
     * https://blog.colony.io/writing-more-robust-smart-contracts-99ad0a11e948
     * https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88
-* [Techblog von Aragon](https://blog.aragon.org/tag/development/)
+* [Researchblog von Aragon](https://blog.aragon.org/tag/research/)
     * [Library driven development](https://blog.aragon.org/library-driven-development-in-solidity-2bebcaf88736)
     * [Advanced Solidity code deployment techniques](https://blog.aragon.org/advanced-solidity-code-deployment-techniques-dc032665f434/)
-* [OpenZeppelin on Proxy Libraries](https://medium.com/zeppelin-blog/proxy-libraries-in-solidity-79fbe4b970fd)
+* [OpenZeppelin on Proxy Libraries](https://blog.zeppelin.solutions/proxy-libraries-in-solidity-79fbe4b970fd)
 
 ### Infrastructure
 #### Ethereum Clients
@@ -208,19 +211,19 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Ethereumj](https://github.com/ethereum/ethereumj) - Java client by the Ethereum Foundation
 * [Harmony](https://github.com/ether-camp/ethereum-harmony) - Java client by EtherCamp
 * [Seth](https://github.com/dapphub/dapptools/tree/master/src/seth) - Seth is an Ethereum client tool—like a "MetaMask for the command line"
-* [Mustekala](https://github.com/MetaMask/mustekala) - Ethereum Light Client project of Metamask.
+* [Mustekala](https://github.com/musteka-la/mustekala) - Ethereum Light Client project of Metamask.
 * [Exthereum](https://github.com/exthereum/blockchain) - Elixir client
 * [EWF Parity](https://github.com/energywebfoundation/energyweb-ui) - Energy Web Foundation client for the Tobalaba test network
 * [Quorum](https://github.com/jpmorganchase/quorum) - A permissioned implementation of Ethereum supporting data privacy by [JP Morgan](https://www.jpmorgan.com/quorum)
-* [Mana](https://github.com/poanetwork/mana) - Ethereum full node implementation written in Elixir.
+* [Mana](https://github.com/mana-ethereum/mana) - Ethereum full node implementation written in Elixir.
 
 #### Storage
 * [IPFS](https://ipfs.io/) - Decentralised storage and file referencing
    * [IPFS-Store](https://github.com/ConsenSys/IPFS-Store) - IPFS Storage service with added search capability
    * [OrbitDB](https://github.com/orbitdb/orbit-db) - Decentralised database on top of IPFS
-   * [JS IPFS API](https://github.com/ipfs/js-ipfs-api) - A client library for the IPFS HTTP API, implemented in JavaScript.
+   * [JS IPFS API](https://github.com/ipfs/js-ipfs-http-client) - A client library for the IPFS HTTP API, implemented in JavaScript.
    * [TEMPORAL](https://github.com/RTradeLtd/Temporal) - Easy to use API into IPFS and other distributed/decentralised storage protocols
-* [Swarm](http://swarm-gateways.net/) - Distributed storage platform and content distribution service, a native base layer service of the Ethereum web3 stack
+* [Swarm](https://swarm-gateways.net/) - Distributed storage platform and content distribution service, a native base layer service of the Ethereum web3 stack
 
 #### Messaging
 * [Whisper](https://github.com/ethereum/wiki/wiki/Whisper) - Communication protocol for DApps to communicate with each other, a native base layer service of the Ethereum web3 stack
@@ -239,18 +242,20 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Ethereum graph debugger](https://github.com/fergarrui/ethereum-graph-debugger) - Solidity graphical debugger
 * [Tenderly CLI](https://github.com/Tenderly/tenderly-cli) - Speed up your development with human readable stack traces
 * [Solhint](https://github.com/protofire/solhint) - Solidity linter that provides security, style guide and best practice rules for smart contract validation
-* [Solium](https://github.com/duaraghav8/Solium) - Linter to identify and fix style & security issues in Solidity
+* [Ethlint](https://github.com/duaraghav8/Ethlint) - Linter to identify and fix style & security issues in Solidity, formerly Solium
 * [Decode](https://github.com/dteiml/decode) - npm package which parses tx's submitted to a local testrpc node to make them more readable and easier to understand
 * [truffle-assertions](https://github.com/rkalis/truffle-assertions) - An npm package with additional assertions and utilities used in testing Solidity smart contracts with truffle. Most importantly, it adds the ability to assert whether specific events have (not) been emitted.
 * [Psol](https://github.com/Lamarkaz/psol) - Solidity lexical preprocessor with mustache.js-style syntax, macros, conditional compilation and automatic remote dependency inclusion.
 * [solpp](https://github.com/merklejerk/solpp) - Solidity preprocessor and flattener with a comprehensive directive and expression language, high precision math, and many useful helper functions.
 * [Decode and Publish](https://flightwallet.org/decode-eth-tx/) – Decode and publish raw ethereum tx. Similar to https://live.blockcypher.com/btc-testnet/decodetx/
+* [Doppelgänger](https://getdoppelganger.io/) - a library for mocking smart contract dependencies during unit testing.
+* [rocketh](https://github.com/wighawag/rocketh) - A simple lib to test ethereum smart contract that allow to use whatever web3 lib and test runner you choose.
 
 ### Security Tools
-* [Mythril Platform](https://mythril.ai) - Security verification platform and tools ecosystem for Ethereum developers
+* [MythX](https://mythx.io/) - Security verification platform and tools ecosystem for Ethereum developers
 * [Mythril Classic](https://github.com/ConsenSys/mythril-classic) - Open-source EVM bytecode security analysis tool
 * [Oyente](https://github.com/melonproject/oyente) - Alternative static smart contract security analysis
-* [Securify](https://securify.ch) - Security scanner for Ethereum smart contracts
+* [Securify](https://securify.chainsecurity.com/) - Security scanner for Ethereum smart contracts
 * [SmartCheck](https://tool.smartdec.net/) - Static smart contract security analyzer
 * [Porosity](https://github.com/comaeio/porosity) - Decompiler and Security Analysis tool for Blockchain-based Ethereum Smart-Contracts
 * [Ethersplay](https://github.com/trailofbits/ethersplay) - EVM disassembler
@@ -266,7 +271,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 
 ### Monitoring
 * [Neufund - Smart Contract Watch](https://github.com/Neufund/smart-contract-watch) - A tool to monitor a number of smart contracts and transactions
-* [Supermax](https://www.supermax.cool/) - A live data feed of the activities and event logs of your smart contracts on Ethereum
+* [Scout](https://scout.cool/) - A live data feed of the activities and event logs of your smart contracts on Ethereum
 * [Chainlyt](https://www.chainlyt.io/main/dashboard/contract) - Explore smart contracts with decoded transaction data, see how the contract is used and search transactions with specific function calls
 
 ### Other Miscellaneous Tools
@@ -285,13 +290,15 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [py-eth](http://py-eth.com) - Collection of Python tools for the Ethereum ecosystem
 * [truffle-flattener](https://github.com/alcuadrado/truffle-flattener) - Concats solidity files developed under Truffle with all of their dependencies
 * [Decode](https://github.com/dteiml/decode) - npm package which parses tx's submitted to a local testrpc node to make them more readable and easier to understand
-* [TypeChain](https://github.com/Neufund/TypeChain) - Typescript bindings for Ethereum smartcontracts
+* [TypeChain](https://github.com/ethereum-ts/TypeChain) - Typescript bindings for Ethereum smartcontracts
 * [EthSum](https://ethsum.netlify.com) - A Simple Ethereum Address Checksum Tool
 * [PHP based Blockchain indexer](https://github.com/digitaldonkey/ethereum-php-eventlistener) - allows indexing blocks or listening to Events in PHP
 * [Purser](https://github.com/JoinColony/purser) - JavaScript universal wallet tool for Ethereum-based wallets. Supports software, hardware, and Metamask -- brings all wallets into a consistent and predictable interface for dApp development.
 * [Node-Metamask](https://github.com/JoinColony/node-metamask) - Connect to MetaMask from node.js
 * [Solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) - Documentation generator for Solidity projects
 * [Ethereum ETL](https://github.com/blockchain-etl/ethereum-etl) - Export Ethereum blockchain data to CSV or JSON files
+* [prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity) - Prettier plugin for formatting Solidity code
+* [EthToolbox](https://eth-toolbox.com) - A web app with off-chain tools for Ethereum developers. EC recovery, address formatter, unit converter, hash functions, keys generator, etc.
 
 ### Smart Contract Standards & Libraries
 #### [ERCs](https://eips.ethereum.org/erc) - The Ethereum Request for Comment repository
@@ -320,7 +327,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 
 #### Payment/State Channels
 * [Ethereum Payment Channel](https://medium.com/@matthewdif/ethereum-payment-channel-in-50-lines-of-code-a94fad2704bc) - Ethereum Payment Channel in 50 lines of code
-* [µRaiden Documentation](http://microraiden.readthedocs.io) - Guides and Samples for µRaiden Sender/Receiver Use Cases
+* [µRaiden Documentation](https://microraiden.readthedocs.io) - Guides and Samples for µRaiden Sender/Receiver Use Cases
 
 #### Plasma
 * [Learn Plasma](https://github.com/ethsociety/learn-plasma) - Website as Node application that was started at the 2018 IC3-Ethereum Crypto Boot Camp at Cornell University, covering all Plasma variants (MVP/Cash/Debit)
@@ -330,7 +337,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 
 #### Side-Chains
 * [POA Network](https://poa.net/)
-  * [POA Bridge](http://bridge.poa.net/)
+  * [POA Bridge](https://bridge.poa.net/)
   * [POA Bridge UI](https://github.com/poanetwork/bridge-ui)
   * [POA Bridge Contracts](https://github.com/poanetwork/poa-bridge-contracts)
  * [Loom Network](https://github.com/loomnetwork)
@@ -338,7 +345,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 #### Privacy / Confidentiality
 
 ##### zkSNARKs
-* [ZoKrates](https://github.com/JacobEberhardt/ZoKrates) - A toolbox for zkSNARKS on Ethereum
+* [ZoKrates](https://github.com/Zokrates/ZoKrates) - A toolbox for zkSNARKS on Ethereum
 * [The AZTEC Protocol](https://github.com/AztecProtocol/AZTEC) - Confidential transactions on the Ethereum network, implementation is live on the Ethereum main-net
 
 #### Prebuilt UI Components
