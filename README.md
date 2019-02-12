@@ -366,3 +366,4 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Metamask ui](https://github.com/MetaMask/metamask-extension/tree/develop/ui/app/components) - Metamask React Components
 * [DappHybrid](https://github.com/Nethereum/Nethereum.DappHybrid) -  A cross-platform hybrid hosting mechanism for web based decentralised applications
 * [Nethereum.UI.Desktop](https://github.com/Nethereum/Nethereum.UI.Desktop) - Cross-platform desktop wallet sample
+* [Rimble Design System](https://rimble.consensys.design/) - Adaptable components and design standards for decentralized applications.
