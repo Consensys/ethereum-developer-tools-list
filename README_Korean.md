@@ -354,13 +354,13 @@
   * [POA Bridge Contracts](https://github.com/poanetwork/poa-bridge-contracts)
 * [룸 네트워크(Loom Network)](https://github.com/loomnetwork)
 <a name="프라이버시"></a>
-#### 프라이버시 / Confidentiality
+#### 프라이버시 / 비밀보
 <a name="zksnarks"></a>
 ##### zkSNARKs
 * [ZoKrates](https://github.com/Zokrates/ZoKrates) - 이더리움에서 zkSNARKS을 위한 툴박스 입니다.
 * [The AZTEC Protocol](https://github.com/AztecProtocol/AZTEC) - 이더리움 네트워크 안에서 비밀 거래와 이더리움 메인넷에서 구현을 실시간으로 합니다.
 <a name="ui"></a>
-#### Prebuilt UI Components
+#### UI 컴포넌트 사전빌드
 * [ui.aragon.org](https://ui.aragon.org) - Dapp 컴포넌트를 포함하는 리액트(React) 라이브러리 입니다.
 * [components.bounties.network](https://components.bounties.network) - Dapp 컴포넌트를 포함하는 리액트(React) 라이브러리 입니다.
 * [lorikeet.design](https://lorikeet.design) - Dapp 컴포넌트를 포함하는 리액트(React) 라이브러리 입니다.
