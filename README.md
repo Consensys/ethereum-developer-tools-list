@@ -357,6 +357,14 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [ZoKrates](https://github.com/Zokrates/ZoKrates) - A toolbox for zkSNARKS on Ethereum
 * [The AZTEC Protocol](https://github.com/AztecProtocol/AZTEC) - Confidential transactions on the Ethereum network, implementation is live on the Ethereum main-net
 
+##### Proxy Re-encryption (PRE)
+* [NuCypher Network](https://github.com/nucypher/nucypher) - A proxy re-encryption network to empower data privacy in decentralized systems
+* [pyUmbral](https://github.com/nucypher/pyumbral) - Threshold proxy re-encryption cryptographic library
+
+##### Fully Homomorphic Encryption (FHE)
+* [NuFHE](https://github.com/nucypher/nufhe) - GPU accelerated FHE library
+
+
 #### Prebuilt UI Components
 * [ui.aragon.org](https://ui.aragon.org) - A React library including Dapp components
 * [components.bounties.network](https://components.bounties.network) - A React library including Dapp components
