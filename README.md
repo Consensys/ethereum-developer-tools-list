@@ -158,7 +158,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Local Ethereum Network](https://github.com/ConsenSys/local_ethereum_network) - Out-of-the-box deployment scripts for private PoW networks
 * [Kaleido](https://kaleido.io/) - Use Kaleido for spinning up a consortium blockchain network. Great for PoCs and testing
 * [Cheshire](https://github.com/endless-nameless-inc/cheshire) - A local sandbox implementation of the CryptoKitties API and smart contracts, available as a Truffle Box
-* [Aragon CLI](https://hack.aragon.org/docs/cli-usage.html) - The Aragon CLI is used to create and develop Aragon apps
+* [aragonCLI](https://hack.aragon.org/docs/cli-usage.html) - aragonCLI is used to create and develop Aragon apps and organizations.
 * [ColonyJS](https://github.com/JoinColony/colonyJS) - JavaScript client that provides an API for interacting with the Colony Network smart contracts.
 * [ArcJS](https://github.com/daostack/arc.js) - Library that facilitates javascript application access to the DAOstack Arc ethereum smart contracts.
 
@@ -199,7 +199,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Blog von Elena Dimitrova, Dev at colony.io](https://blog.colony.io/author/elena/)
     * https://blog.colony.io/writing-more-robust-smart-contracts-99ad0a11e948
     * https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88
-* [Researchblog von Aragon](https://blog.aragon.org/tag/research/)
+* [Aragon research blog](https://blog.aragon.org/tag/research/)
     * [Library driven development](https://blog.aragon.org/library-driven-development-in-solidity-2bebcaf88736)
     * [Advanced Solidity code deployment techniques](https://blog.aragon.org/advanced-solidity-code-deployment-techniques-dc032665f434/)
 * [OpenZeppelin on Proxy Libraries](https://blog.zeppelin.solutions/proxy-libraries-in-solidity-79fbe4b970fd)
@@ -281,6 +281,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Chainlyt](https://www.chainlyt.io/main/dashboard/contract) - Explore smart contracts with decoded transaction data, see how the contract is used and search transactions with specific function calls
 
 ### Other Miscellaneous Tools
+* [aragonPM](https://hack.aragon.org/docs/apm.html) - a decentralized package manager powered by aragonOS and Ethereum. aragonPM enables decentralized governance over package upgrades, removing centralized points of failure.
 * [Truffle boxes](https://truffleframework.com/boxes/) - Packaged components for building DApps fast.
    * [Cheshire](https://github.com/endless-nameless-inc/cheshire) - A local sandbox implementation of the CryptoKitties API and smart contracts, available as a Truffle Box
 * [Solc](https://solidity.readthedocs.io/en/latest/using-the-compiler.html?highlight=bin) - Solidity compiler
@@ -358,7 +359,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [The AZTEC Protocol](https://github.com/AztecProtocol/AZTEC) - Confidential transactions on the Ethereum network, implementation is live on the Ethereum main-net
 
 #### Prebuilt UI Components
-* [ui.aragon.org](https://ui.aragon.org) - A React library including Dapp components
+* [aragonUI](https://ui.aragon.org) - A React library including Dapp components
 * [components.bounties.network](https://components.bounties.network) - A React library including Dapp components
 * [lorikeet.design](https://lorikeet.design) - A React library including Dapp components
 * [ui.decentraland.org](https://github.com/decentraland/ui) - A React library including Dapp components
