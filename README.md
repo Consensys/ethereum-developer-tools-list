@@ -67,7 +67,6 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Solidity](https://solidity.readthedocs.io/en/latest/) - Ethereum smart contracting language
 * [Bamboo](https://github.com/pirapira/bamboo) - A morphing smart contract language
 * [Vyper](https://github.com/ethereum/vyper) - New experimental pythonic programming language
-* [LLL](https://media.consensys.net/an-introduction-to-lll-for-ethereum-smart-contract-development-e26e38ea6c23) - Low-level Lisp-like Language
 * [Flint](https://docs.flintlang.org/) - New language under development with security features including asset types, state transition, and safe integers
 
 #### Frameworks
