@@ -90,6 +90,9 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [YAKINDU Solidity Tools](https://github.com/Yakindu/solidity-ide) - Eclipse based IDE. Features context sensitive code completion and help, code navigation, syntax coloring, build in compiler, quick fixes and templates.
 * [Eth Fiddle](https://ethfiddle.com/) - IDE developed by [The Loom Network](https://loomx.io/) that allows you to write, compile and debug your smart contract. Easy to share and find code snippets.
 
+### Other tools
+* [Buidler](https://github.com/nomiclabs/buidler) - Extensible developer tool that helps smart contract developers increase productivity by reliably bringing together the tools they want.
+
 ### Test blockchain networks
 * [Ganache](https://github.com/trufflesuite/ganache) - App for test Ethereum blockchain with visual UI and logs
 * [Kaleido](https://kaleido.io/) - Use Kaleido for spinning up a consortium blockchain network. Great for PoCs and testing
