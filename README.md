@@ -327,6 +327,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [ARC](https://github.com/daostack/arc) - an operating system for DAOs and the base layer of the DAO stack.
 * [0x](https://github.com/0xProject) - DEX protocol
 * [Token Libraries with Proofs](https://github.com/sec-bit/tokenlibs-with-proofs) - Contains correctness proofs of token contracts wrt. given specifications and high-level properties
+* [Oraclize API](https://github.com/oraclize/ethereum-api) - Provides contracts for using the Oraclize service, allowing for off-chain actions, data-fetching, and computation
 
 
 ### Developer Guides for 2nd Layer Infrastructure
