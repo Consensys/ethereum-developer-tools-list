@@ -155,6 +155,4 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 
 ### Decentralized Finance (DeFi)
 * [ETHLend](https://ethlend.io) - Decentralised peer to peer lending marketplace that allows people all over the world to get a loan or become a lender. 
-
-### Finance
 * [Aave Pay](https://pay.aave.com) - Aave Pay allow users to pay in FIAT currencies to bank accounts using their cryptocurrencies.
