@@ -67,7 +67,6 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Solidity](https://solidity.readthedocs.io/en/latest/) - Ethereum smart contracting language
 * [Bamboo](https://github.com/pirapira/bamboo) - A morphing smart contract language
 * [Vyper](https://github.com/ethereum/vyper) - New experimental pythonic programming language
-* [LLL](https://media.consensys.net/an-introduction-to-lll-for-ethereum-smart-contract-development-e26e38ea6c23) - Low-level Lisp-like Language
 * [Flint](https://docs.flintlang.org/) - New language under development with security features including asset types, state transition, and safe integers
 
 #### Frameworks
@@ -90,6 +89,9 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Intellij Solidity Plugin](https://github.com/intellij-solidity/intellij-solidity/wiki) - Open-source plug-in for [JetBrains IntelliJ Idea IDE](https://www.jetbrains.com/idea/) (free/commercial) with syntax highlighting, formatting, code completion etc.
 * [YAKINDU Solidity Tools](https://github.com/Yakindu/solidity-ide) - Eclipse based IDE. Features context sensitive code completion and help, code navigation, syntax coloring, build in compiler, quick fixes and templates.
 * [Eth Fiddle](https://ethfiddle.com/) - IDE developed by [The Loom Network](https://loomx.io/) that allows you to write, compile and debug your smart contract. Easy to share and find code snippets.
+
+### Other tools
+* [Buidler](https://github.com/nomiclabs/buidler) - Extensible developer tool that helps smart contract developers increase productivity by reliably bringing together the tools they want.
 
 ### Test blockchain networks
 * [Ganache](https://github.com/trufflesuite/ganache) - App for test Ethereum blockchain with visual UI and logs
@@ -328,6 +330,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [ARC](https://github.com/daostack/arc) - an operating system for DAOs and the base layer of the DAO stack.
 * [0x](https://github.com/0xProject) - DEX protocol
 * [Token Libraries with Proofs](https://github.com/sec-bit/tokenlibs-with-proofs) - Contains correctness proofs of token contracts wrt. given specifications and high-level properties
+* [Oraclize API](https://github.com/oraclize/ethereum-api) - Provides contracts for using the Oraclize service, allowing for off-chain actions, data-fetching, and computation
 
 
 ### Developer Guides for 2nd Layer Infrastructure
@@ -367,3 +370,4 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [DappHybrid](https://github.com/Nethereum/Nethereum.DappHybrid) -  A cross-platform hybrid hosting mechanism for web based decentralised applications
 * [Nethereum.UI.Desktop](https://github.com/Nethereum/Nethereum.UI.Desktop) - Cross-platform desktop wallet sample
 * [eth-button](https://eth-button.github.io/eth-button/) - Minimalist donation button
+* [Rimble Design System](https://rimble.consensys.design/) - Adaptable components and design standards for decentralized applications.
