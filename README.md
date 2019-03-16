@@ -11,7 +11,7 @@ This resource is meant to be focused on developer tools, but the repo also inclu
 
 Feel free to submit a pull request, with anything from small fixes to tools you'd like to add (or remove!). If adding a new tool, **please add a brief description** that you think new developers would understand.
 
-Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/corbpage) of Meridio for the idea, [@pakaplace](https://twitter.com/Parker_Place) for expanding and curating, and @jpantunes for restructuring the list in a more logical way.
+Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/corbpage) and  [@pakaplace](https://twitter.com/Parker_Place) of [Meridio](https://meridio.co) for curating, and @jpantunes for restructuring the list in a more logical way.
 * Projects that do not have a working product will not be added.
 * Projects that are deprecated or no longer maintained will be removed.
 * Projects that are paid/restricted services without open source code or developer reviews will be further vetted.
@@ -67,7 +67,6 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Solidity](https://solidity.readthedocs.io/en/latest/) - Ethereum smart contracting language
 * [Bamboo](https://github.com/pirapira/bamboo) - A morphing smart contract language
 * [Vyper](https://github.com/ethereum/vyper) - New experimental pythonic programming language
-* [LLL](https://media.consensys.net/an-introduction-to-lll-for-ethereum-smart-contract-development-e26e38ea6c23) - Low-level Lisp-like Language
 * [Flint](https://docs.flintlang.org/) - New language under development with security features including asset types, state transition, and safe integers
 
 #### Frameworks
@@ -110,6 +109,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Kovan faucet](https://github.com/kovan-testnet/faucet)
 * [Ropsten faucet](http://faucet.ropsten.be:3001/)
 * [Universal faucet](https://faucets.blockxlabs.com/)
+* [Nethereum.Faucet](https://github.com/Nethereum/Nethereum.Faucet) - A C#/.NET faucet
 
 ### Communicating with Ethereum
 #### Frontend Ethereum APIs
@@ -121,7 +121,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
     * [flex-contract](https://github.com/merklejerk/flex-contract) and [flex-ether](https://github.com/merklejerk/flex-ether) Modern, zero-configuration, high-level libraries for interacting with smart contracts and making transactions.
     * [ez-ens](https://github.com/merklejerk/ez-ens) Simple, zero-configuration Ethereum Name Service address resolver.
     * [web3x](https://github.com/xf00f/web3x) - A TypeScript port of web3.js. Benefits includes tiny builds and full type safety, including when interacting with contracts. 
-    * [Arkane Web3 Subprovider](https://docs.arkane.network) - A web3 subprovider for Arkane Network, a wallet provider and Ethereum API Gateway. 
+* [Nethereum](https://github.com/Nethereum/) - Cross-platform Ethereum development framework 
 * [Drizzle](https://github.com/truffle-box/drizzle-box) - Redux library to connect a frontend to a blockchain
 * [Tasit SDK](https://github.com/tasitlabs/tasitsdk) - A JavaScript SDK for making native mobile Ethereum dapps using React Native
 * [Subproviders](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/subproviders) - Several useful subproviders to use in conjunction with [Web3-provider-engine](https://github.com/MetaMask/provider-engine/) (including a LedgerSubprovider for adding Ledger hardware wallet support to your dApp)
@@ -148,6 +148,9 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 #### Bootstrap/out of box tools
 * [Truffle boxes](https://truffleframework.com/boxes/) - Packaged components for the Ethereum ecosystem
 * [Pantheon Private Network](https://docs.pantheon.pegasys.tech/en/latest/Getting-Started/Private-Network-Quickstart/) - Run a private network of Pantheon nodes in a Docker container
+* [Testchains](https://github.com/Nethereum/TestChains) - Pre-configured .NET devchains for fast response (PoA) 
+** [Blazor/Blockchain Explorer](https://github.com/Nethereum/NethereumBlazor) - Wasm blockchain explorer (functional sample)
+
 * [Local Raiden](https://github.com/ConsenSys/Local-Raiden) - Run a local Raiden network in docker containers for demo and testing purposes
 * [Private networks deployment scripts](https://github.com/ConsenSys/private-networks-deployment-scripts) - Out-of-the-box deployment scripts for private PoA networks
 * [Parity Demo-PoA Tutorial](https://wiki.parity.io/Demo-PoA-tutorial.html) - Step-by-Step tutorial for building a PoA test chain with 2 nodes with Parity authority round consensus
@@ -211,6 +214,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Trinity](https://github.com/ethereum/trinity) - Python client using [py-evm](https://github.com/ethereum/py-evm)
 * [Ethereumjs](https://github.com/ethereumjs/ethereumjs-client) - JS client using [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-vm)
 * [Ethereumj](https://github.com/ethereum/ethereumj) - Java client by the Ethereum Foundation
+
 * [Harmony](https://github.com/ether-camp/ethereum-harmony) - Java client by EtherCamp
 * [Seth](https://github.com/dapphub/dapptools/tree/master/src/seth) - Seth is an Ethereum client tool—like a "MetaMask for the command line"
 * [Mustekala](https://github.com/musteka-la/mustekala) - Ethereum Light Client project of Metamask.
@@ -301,6 +305,9 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Ethereum ETL](https://github.com/blockchain-etl/ethereum-etl) - Export Ethereum blockchain data to CSV or JSON files
 * [prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity) - Prettier plugin for formatting Solidity code
 * [EthToolbox](https://eth-toolbox.com) - A web app with off-chain tools for Ethereum developers. EC recovery, address formatter, unit converter, hash functions, keys generator, etc.
+* [Unity3dSimpleSample](https://github.com/Nethereum/Unity3dSimpleSample) - Ethereum and Unity integration demo
+* [Flappy](https://github.com/Nethereum/Nethereum.Flappy) - Ethereum and Unity integration demo/sample
+* [Wonka](https://github.com/Nethereum/Wonka) - Nethereum business rules engine demo/sample
 
 ### Smart Contract Standards & Libraries
 #### [ERCs](https://eips.ethereum.org/erc) - The Ethereum Request for Comment repository
@@ -321,6 +328,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [ARC](https://github.com/daostack/arc) - an operating system for DAOs and the base layer of the DAO stack.
 * [0x](https://github.com/0xProject) - DEX protocol
 * [Token Libraries with Proofs](https://github.com/sec-bit/tokenlibs-with-proofs) - Contains correctness proofs of token contracts wrt. given specifications and high-level properties
+* [Oraclize API](https://github.com/oraclize/ethereum-api) - Provides contracts for using the Oraclize service, allowing for off-chain actions, data-fetching, and computation
 
 
 ### Developer Guides for 2nd Layer Infrastructure
@@ -357,4 +365,6 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [ui.decentraland.org](https://github.com/decentraland/ui) - A React library including Dapp components
 * [dapparatus](https://github.com/austintgriffith/dapparatus) - Reusable React Dapp components
 * [Metamask ui](https://github.com/MetaMask/metamask-extension/tree/develop/ui/app/components) - Metamask React Components
-
+* [DappHybrid](https://github.com/Nethereum/Nethereum.DappHybrid) -  A cross-platform hybrid hosting mechanism for web based decentralised applications
+* [Nethereum.UI.Desktop](https://github.com/Nethereum/Nethereum.UI.Desktop) - Cross-platform desktop wallet sample
+* [Rimble Design System](https://rimble.consensys.design/) - Adaptable components and design standards for decentralized applications.
