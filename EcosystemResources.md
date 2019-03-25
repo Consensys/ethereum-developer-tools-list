@@ -59,7 +59,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Oraclize](http://docs.oraclize.it/#ethereum) - Oracle service backed by authenticity proofs, for your smart contracts
 * [Infura](https://infura.io/) - API gateway so you don't have to host your own ETH node
 * [Quiknode](https://quiknode.io/) - Service to spin up personal Parity/Geth nodes
-* [Nodesmith](https://nodesmith.io/) - Free API access to full Ethereum mainnet and testnets nodes, can be used just like a local node
+* [Nodesmith](https://nodesmith.io/) - Free API access to full Ethereum mainnet and testnet nodes, can be used just like a local node
 * [Regis](https://regis.nu/) - Registry Framework for Digital Assets
 * [Viant](https://viant.io/) - Just consider using Viant as your backend if the use case is business process oriented
 * [uPort](https://www.uport.me/) - Total identity solution
