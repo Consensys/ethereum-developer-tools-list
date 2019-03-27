@@ -166,6 +166,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [aragonCLI](https://hack.aragon.org/docs/cli-usage.html) - aragonCLI is used to create and develop Aragon apps and organizations.
 * [ColonyJS](https://github.com/JoinColony/colonyJS) - JavaScript client that provides an API for interacting with the Colony Network smart contracts.
 * [ArcJS](https://github.com/daostack/arc.js) - Library that facilitates javascript application access to the DAOstack Arc ethereum smart contracts.
+* [Arkane Connect](https://docs.arkane.network/pages/connect-js.html) - JavaScript client that provides an API for interacting with Arkane Network, a wallet provider for building user-friendly dapps.
 * [Blocknative](https://blocknative.com) - Assist.js is an embeddable widget that improves Dapp usability. The tool programmatically identifies and outlines clear actions for end-users to follow when interacting with MetaMask to overcome — and even prevent — common pitfalls and obstacles. 
 
 #### Ethereum ABI (Application Binary Interface) tools
