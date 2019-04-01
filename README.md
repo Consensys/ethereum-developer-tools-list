@@ -79,6 +79,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Etherlime](https://github.com/LimeChain/etherlime) - ethers.js based framework for Dapp deployment
 * [Parasol](https://github.com/Lamarkaz/parasol) - Agile smart contract development environment with testing, INFURA deployment, automatic contract documentation and more. It features a a flexible and unopinionated design with unlimited customizability
 * [0xcert](https://github.com/0xcert/framework/) - JavaScript framework for building decentralized applications 
+* [ZeppelinOS](https://zeppelinos.org/) - ZeppelinOS is a development platform designed specifically for smart contract projects and allows developers to create Upgradable smart contracts and create and link to EVM packages as a form of on-chain library code.
 
 #### IDEs
 * [Remix](https://remix.ethereum.org/) - Web IDE with built in static analysis, test blockchain VM.
