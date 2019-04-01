@@ -59,6 +59,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Truffle](https://truffleframework.com) - Most popular smart contract development, testing, and deployment framework. Install the cli via npm and start here to write your first smart contracts.
 * [Metamask](https://metamask.io/) - Chrome extension wallet to interact with Dapps.
 * [Truffle boxes](https://truffleframework.com/boxes/) - Packaged components for the Ethereum ecosystem
+* [ZepKit](https://zepkit.zeppelinos.org/) - An all-in-one starter box for developers to jumpstart their smart contract backed applications. Includes Truffle, ZeppelinOS, the OpenZeppelin-eth EVM package of audited smart contract, a react-app and rimble for easy styling. 
 * [EthHub.io](https://docs.ethhub.io/) - Comprehensive crowdsourced overview of Ethereum- its history, governance, future plans and development resources. 
 * [Fortmatic](https://fortmatic.com/) - A simple to use SDK to build web3 dApps without extensions or downloads.
 
