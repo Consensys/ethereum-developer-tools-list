@@ -15,9 +15,8 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 ### Wallets
 * [Metamask](https://metamask.io/) - Chrome extension Ether wallet with ERC tokens support
 * [Gnosis multisig wallet](https://github.com/gnosis/MultiSigWallet) - Audited multi-sig wallet
-* [Mist](https://github.com/ethereum/mist) - Browse and use Dapps on the Ethereum network
 * [Exodus](https://www.exodus.io) - Desktop wallet with Shapeshift integration
-* [Nifty Wallet](https://github.com/poanetwork/metamask-extension) - Ethereum Browser Extension focused on usability of real world applications
+* [Nifty Wallet](https://github.com/poanetwork/nifty-wallet) - Ethereum Browser Extension focused on usability of real world applications
 
 
 #### Web Wallets
@@ -32,17 +31,17 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 #### Mobile Wallets
 * [Coinbase Wallet](https://github.com/CoinbaseWallet) - Mobile Dapp explorer and [wallet](https://itunes.apple.com/us/app/coinbase-wallet/id1278383455)
 * [Cipher](https://www.cipherbrowser.com/) - Mobile Dapp explorer
-* [Trust](https://github.com/TrustWallet/trust-wallet-ios) - Mobile [wallet](https://trustwalletapp.com/) for ERC tokens
+* [Trust](https://github.com/TrustWallet/trust-wallet-ios) - Mobile [wallet](https://trustwallet.com/) for ERC tokens
 * [Status](https://github.com/status-im/status-react) - A free open-source, mobile OS for Ethereum
 * [imToken](https://token.im/) - Feature-rich digital asset mobile wallet enabling multi-chain asset management, DApp browsing and secure, private exchange of value
 * [Jaxx](https://jaxx.io) - Both a mobile and a desktop wallet. Has integrated Shapeshift support
 * [WallETH](https://walleth.org) - Native Android Ethereum Wallet
-+ [eth-wallet-light](https://github.com/NoahHydro/eth-wallet-light) - Lightweight JS Wallet optimized for mobile
+* [eth-wallet-light](https://github.com/NoahZinsmeister/eth-wallet-light) - Lightweight JS Wallet optimized for mobile
 
 #### Hardware Wallets
 * [Trezor](https://trezor.io) - The original hardware wallet
 * [Ledger](https://www.ledger.com/) - Support for multiple cryptocurrencies and tokens
-* [KeepKey](https://www.keepkey.com) - The simple hardware wallet
+* [KeepKey](https://shapeshift.io/keepkey/) - The simple hardware wallet
 
 ### Block explorers
 * [Etherscan](https://etherscan.io/) - most popular centralized way to view Eth transactions and contract code
@@ -58,7 +57,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [CryptoProf](https://github.com/doc-ai/cryptoprof) - Gas profiler for smart contracts
 
 ### Services
-* [Oraclize](http://docs.oraclize.it/#ethereum) - Oracle service backed by authenticity proofs, for your smart contracts
+* [Oraclize](https://docs.oraclize.it/#ethereum) - Oracle service backed by authenticity proofs, for your smart contracts
 * [Infura](https://infura.io/) - API gateway so you don't have to host your own ETH node
 * [Quiknode](https://quiknode.io/) - Service to spin up personal Parity/Geth nodes
 * [Regis](https://regis.nu/) - Registry Framework for Digital Assets
@@ -72,7 +71,6 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [SmartCheck](https://tool.smartdec.net/) - Static analysis of Solidity source code for security vulnerabilities and best practices
 * [MD4 Online Hash Function](https://emn178.github.io/online-tools/md4.html) - Tool to hash input with a variety of hashing algorithm options
 * [iExec SDK](https://github.com/iExecBlockchainComputing/iexec-sdk) - Gives smart contract the ability to execute functions or applications off-chain. Support any legacy applications provided as a Docker image.
-* [Solidstamp](https://www.solidstamp.com) - on-chain registry of smart contract audits.
 * [Incentivai](https://incentivai.co) - Testing of smart contract economies via simulation with ML agents
 * [Arkane - A wallet provider for Dapps](https://arkane.network/pages/build-on-arkane.html) - Offers an API gateway and provides wallets and wallet management to dapps and their users.
 * [Aave SDK](https://github.com/aave/aave-js) - JavaScript library to connect with the APIs of the Aave ecosystem as the decentralized lending marketplace [ETHLend](https://ethlend.io).
@@ -85,11 +83,11 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [B9Lab](https://academy.b9lab.com/) - Paid courses
 * [Blockgeeks](https://courses.blockgeeks.com/) - Paid courses on solidity/dapp development
 * [Chainshot building blocks](https://www.chainshot.com/) - Free Project-Based Courses and Challenges
-* [Kauri](https://beta.kauri.io/) - Openly accessible community knowledge base and tutorials
+* [Kauri](https://kauri.io/) - Openly accessible community knowledge base and tutorials
 * [Delegate call](https://delegatecall.com/) - Q&A site
 * [Stackexchange](https://ethereum.stackexchange.com) - Q&A site
 * [r/EthDev](https://www.reddit.com/r/ethdev/) - Subreddit
-* [Reducing Gas Fees](https://medium.com/@STKtoken/research-of-the-week-reducing-gas-fees-9061d19cc171) - Tips and tricks to reducing gas spent on execution
+* [Reducing Gas Fees](https://medium.com/stk-token/research-of-the-week-reducing-gas-fees-9061d19cc171) - Tips and tricks to reducing gas spent on execution
 * [Dapp University](http://www.dappuniversity.com) - Free Video Tutorials
 * [Attacks on Smart Contracts](https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/)
 * [Zastrin](https://www.zastrin.com) - Paid courses on Solidity/Dapp Development
@@ -113,7 +111,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Beige Paper](https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf) - Rewrite of the yellow paper in non-yellow-paper syntax
 * [EthOn](https://github.com/ConsenSys/EthOn) - An ontology is a formalisation of concepts and relations within a domain. EthOn is written in RDF and OWL
 * [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - by Andreas M. Antonopoulos, Gavin Wood, and many others
-* [EVM opcodes](https://github.com/trailofbits/evm-opcodes) - Ethereum opcodes and instruction reference
+* [EVM opcodes](https://github.com/crytic/evm-opcodes) - Ethereum opcodes and instruction reference
 * [EVM illustrated](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf) - This is an illustrated document about the Ethereum Virtual Machine
 * [4bytes](https://github.com/ethereum-lists/4bytes) - List of 4byte identifiers to common smart contract functions [function signatures](https://www.4byte.directory/)
 * [Solidity cheat sheet](https://topmonks.github.io/solidity_quick_ref/) - Quick overview of Solidity syntax
@@ -121,7 +119,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 ### Governance
 * [Ethresear.ch](https://ethresear.ch/) - Semi-public forum for participating in Ethereum's research efforts, including but not limited to: Casper, Sharding, EVM improvements, Crytpeconomics, Plasma and State-channels
 * [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/) - This discussion board facilitates meaningful communications among individuals throughout the Ethereum community
-* [EIPs](http://eips.ethereum.org/) - The Ethereum Improvement Proposal repository
+* [EIPs](https://eips.ethereum.org/) - The Ethereum Improvement Proposal repository
 * [Aragon Research Forum](https://forum.aragon.org/) - Long-form discussions related to Aragon's research efforts including governance, economics, and token engineering
 
 ### Decentralized Exchanges
@@ -141,12 +139,11 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Gnosis Dutch Exchange](https://github.com/gnosis/dx-contracts)
 
 ### Secure Decentralized Data Protocols
-* [Stow](https://stow-protocol.com/) - Securely store and share data for your users in minutes with our components and SDK.  Formerly Linnia.
+* [Stow](https://stow-protocol.com/) - Securely store and share data for your users in minutes with our components and SDK. Formerly Linnia.
 
 ### Incentivisation / Monetisation Tools
 * [Gitcoin](https://gitcoin.co) - Bounty network for funding Open Source or finding Open Source work
 * [CodeFund](https://codefund.io) - Ethical Advertising Platform for Open Source
-
 
 ### Awesome lists
 * [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics) - A curated list of cryptoeconomic research and learning materials
