@@ -62,6 +62,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [ZepKit](https://zepkit.zeppelinos.org/) - An all-in-one starter box for developers to jumpstart their smart contract backed applications. Includes Truffle, ZeppelinOS, the OpenZeppelin-eth EVM package of audited smart contract, a react-app and rimble for easy styling. 
 * [EthHub.io](https://docs.ethhub.io/) - Comprehensive crowdsourced overview of Ethereum- its history, governance, future plans and development resources. 
 * [Fortmatic](https://fortmatic.com/) - A simple to use SDK to build web3 dApps without extensions or downloads.
+* [Portis](https://portis.io/) - A non-custodial wallet with an SDK that enables easy interaction with DApps without installing anything.
 
 ## Developer Tools
 ### Developing Smart Contracts
