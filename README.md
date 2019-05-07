@@ -33,7 +33,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
    - [Ethereum ABI (Application Binary Interface) tools](#ethereum-abi-application-binary-interface-tools)
 - [Patterns & Best Practices](#patterns--best-practices)
    - [Patterns for Smart Contract Development](#patterns-for-smart-contract-development)
-   - [Upgradebility](#upgradebility)
+   - [Upgradeability](#upgradeability)
 - [Infrastructure](#infrastructure)
    - [Ethereum Clients](#ethereum-clients)
    - [Storage](#storage)
@@ -78,13 +78,13 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Dapp](https://dapp.tools/dapp/) - Framework for DApp development, successor to DApple
 * [Populus](https://github.com/ethereum/populus) - The Ethereum development framework with the most cute animal pictures
 * [Etherlime](https://github.com/LimeChain/etherlime) - ethers.js based framework for Dapp deployment
-* [Parasol](https://github.com/Lamarkaz/parasol) - Agile smart contract development environment with testing, INFURA deployment, automatic contract documentation and more. It features a a flexible and unopinionated design with unlimited customizability
+* [Parasol](https://github.com/Lamarkaz/parasol) - Agile smart contract development environment with testing, INFURA deployment, automatic contract documentation and more. It features a flexible and unopinionated design with unlimited customizability
 * [0xcert](https://github.com/0xcert/framework/) - JavaScript framework for building decentralized applications 
 * [ZeppelinOS](https://zeppelinos.org/) - ZeppelinOS is a development platform designed specifically for smart contract projects and allows developers to create Upgradable smart contracts and create and link to EVM packages as a form of on-chain library code.
 
 #### IDEs
 * [Remix](https://remix.ethereum.org/) - Web IDE with built in static analysis, test blockchain VM.
-* [Superblocks Lab](https://superblocks.com/lab/) - Web IDE. Built in browser blochain VM, Metamask integration (one click deployments to Testnet/Mainnet), transaction logger and live code your WebApp among many other features.
+* [Superblocks Lab](https://superblocks.com/lab/) - Web IDE. Built in browser blockchain VM, Metamask integration (one click deployments to Testnet/Mainnet), transaction logger and live code your WebApp among many other features.
 * [Atom](https://atom.io/) - Atom editor with [Atom Solidity Linter](https://atom.io/packages/atom-solidity-linter), [Etheratom](https://atom.io/packages/etheratom), [autocomplete-solidity](https://atom.io/packages/autocomplete-solidity), and [language-solidity](https://atom.io/packages/language-solidity) packages
 * [Pragma](https://www.withpragma.com/) - Very simple web IDE for solidity, and auto-generated interfaces for smart contracts.
 * [Vim solidity](https://github.com/tomlion/vim-solidity) - Vim syntax file for solidity
@@ -200,11 +200,11 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Simpler Ethereum Multisig](https://medium.com/@ChrisLundkvist/exploring-simpler-ethereum-multisig-contracts-b71020c19037) - especially section _Benefits_
 * [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
 * [aragonOS: A smart contract framework for building DAOs, Dapps and protocols](https://hack.aragon.org/docs/aragonos-intro.html)
-    * Upgreadability: Smart contracts can be upgraded to a newer version
+    * Upgradeability: Smart contracts can be upgraded to a newer version
     * Permission control: By using the `auth` and `authP` modifiers, you can protect functionality so only other apps or entities can access it
     * Forwarders: aragonOS apps can send their intent to perform an action to other apps, so that intent is forwarded if a set of requirements are met
 
-##### Upgradebility
+##### Upgradeability
 * [Blog von Elena Dimitrova, Dev at colony.io](https://blog.colony.io/author/elena/)
     * https://blog.colony.io/writing-more-robust-smart-contracts-99ad0a11e948
     * https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88
