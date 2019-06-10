@@ -18,7 +18,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Mist](https://github.com/ethereum/mist) - Browse and use Dapps on the Ethereum network
 * [Exodus](https://www.exodus.io) - Desktop wallet with Shapeshift integration
 * [Nifty Wallet](https://github.com/poanetwork/metamask-extension) - Ethereum Browser Extension focused on usability of real world applications
-
+* [Fetch](https://hellofetch.co/download) - Desktop, web and browser extension wallet making managing, trading and usage of tokens simple
 
 #### Web Wallets
 * [MyEtherWallet](https://github.com/MyEtherWallet) - Open-source [tools](https://www.myetherwallet.com/) for interacting with the blockchains easily & securely
