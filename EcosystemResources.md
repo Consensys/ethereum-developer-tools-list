@@ -76,6 +76,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Incentivai](https://incentivai.co) - Testing of smart contract economies via simulation with ML agents
 * [Arkane - A wallet provider for Dapps](https://arkane.network/pages/build-on-arkane.html) - Offers an API gateway and provides wallets and wallet management to dapps and their users.
 * [Aave SDK](https://github.com/aave/aave-js) - JavaScript library to connect with the APIs of the Aave ecosystem as the decentralized lending marketplace [ETHLend](https://ethlend.io).
+* [Rockside Cloud](https://rockside.io) - Ethereum network access provider and consortium blockchain builder
 
 ### Knowledge/Education
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
