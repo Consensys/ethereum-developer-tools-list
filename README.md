@@ -141,6 +141,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
     * [elm-ethereum](https://github.com/cmditch/elm-ethereum)
     * [purescript-web3](https://github.com/f-o-a-m/purescript-web3)
 * [ChainAbstractionLayer](https://github.com/liquality/chainabstractionlayer) - Communicate with different blockchains (including Ethereum) using a single interface.
+* [Delphereum](https://github.com/svanas/delphereum) - a Delphi interface to the Ethereum blockchain that allows for development of native dApps for Windows, macOS, iOS, and Android.
 
 #### Backend Ethereum APIs
 * [Web3.py](https://github.com/ethereum/web3.py) - Python Web3
