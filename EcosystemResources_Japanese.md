@@ -58,7 +58,7 @@ Ethereumエコシステムを学習・理解するためのDApps、サービス�
 * [CryptoProf](https://github.com/doc-ai/cryptoprof) - スマートコントラクトのgasプロファイラ 
 
 ### サービス
-* [Oracalize](http://www.oraclize.it/) - スマートコントラクトのためのOracleサービス 
+* [Provable](http://provable.xyz/) - スマートコントラクトのためのOracleサービス
 * [Infura](https://infura.io/) - EthereumのAPIゲートウェイ。自分のEthereumホストを立ち上げなくて済む
 * [Quiknode](https://quiknode.io/) - Parity/Gethのノードをスピンアップするサービス
 * [Regis](https://regis.nu/) - デジタル資産の登録サービス 

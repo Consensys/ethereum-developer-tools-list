@@ -56,7 +56,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [크립토프로프(CryptoProf)](https://github.com/doc-ai/cryptoprof) - 스마트 컨트렉트를 위한 가스 프로파일러(profiler) 입니다.
 
 ### 서비스
-* [오라칼리즈(Oracalize)](http://www.oraclize.it/) - 당신의 스마트 컨트렉트를 위한 오라클(Oracle) 서비스 입니다.
+* [프로보빌(Provable)](http://provable.xyz/) - 당신의 스마트 컨트렉트를 위한 오라클(Oracle) 서비스 입니다.
 * [인퓨라(Infura)](https://infura.io/) - ETH 노드를 소유할 필요없는 API 게이트웨이 입니다.
 * [퀵노드(Quiknode)](https://quiknode.io/) - 개인 패리티(Parity)/게스(Geth) 노드를 돌려주는 서비스 입니다.
 * [레지스(Regis)](https://regis.nu/) - 디지털 자산을 위한 레지스트리(Registry) 프레임워크 입니다.
