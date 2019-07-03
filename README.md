@@ -112,6 +112,8 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Ethereum on Azure](https://docs.microsoft.com/en-us/azure/blockchain-workbench/ethereum-poa-deployment) - Deployment and governance of consortium Ethereum PoA networks
 * [getho](https://getho.io) - DApp development platform including PoA private blockchain and Smart Contract testing tool. 
 * [Ethereum on Google Cloud](https://console.cloud.google.com/marketplace/details/click-to-deploy-images/ethereum?filter=category:developer-tools) - Build Ethereum network based on Proof of Work
+* [Infura](https://infura.io/) - Ethereum API access to Ethereum networks (Mainnet, Ropsten, Rinkeby, Goerli, Kovan)
+
 
 #### Test Ether faucets
 * [Rinkeby faucet](https://faucet.rinkeby.io/)
@@ -225,6 +227,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Aleth](https://github.com/ethereum/aleth) - C++ client
 * [Nethermind] (https://github.com/NethermindEth/nethermind) - .NET Core client
 * [Pyethapp](https://github.com/ethereum/pyethapp) - Python client using [pyethereum](https://github.com/ethereum/pyethereum)
+* [Infura](https://infura.io/) - A managed service providing Ethereum client standards-compliant APIs
 * [Trinity](https://github.com/ethereum/trinity) - Python client using [py-evm](https://github.com/ethereum/py-evm)
 * [Ethereumjs](https://github.com/ethereumjs/ethereumjs-client) - JS client using [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-vm)
 * [Ethereumj](https://github.com/ethereum/ethereumj) - Java client by the Ethereum Foundation
@@ -244,6 +247,8 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
    * [JS IPFS API](https://github.com/ipfs/js-ipfs-http-client) - A client library for the IPFS HTTP API, implemented in JavaScript.
    * [TEMPORAL](https://github.com/RTradeLtd/Temporal) - Easy to use API into IPFS and other distributed/decentralised storage protocols
 * [Swarm](https://swarm-gateways.net/) - Distributed storage platform and content distribution service, a native base layer service of the Ethereum web3 stack
+* [Infura](https://infura.io/) - A managed IPFS API Gateway and pinning service
+
 
 #### Messaging
 * [Whisper](https://github.com/ethereum/wiki/wiki/Whisper) - Communication protocol for DApps to communicate with each other, a native base layer service of the Ethereum web3 stack
