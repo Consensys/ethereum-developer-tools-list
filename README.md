@@ -61,6 +61,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Truffle boxes](https://truffleframework.com/boxes/) - Packaged components for the Ethereum ecosystem
 * [ZepKit](https://zepkit.zeppelinos.org/) - An all-in-one starter box for developers to jumpstart their smart contract backed applications. Includes Truffle, ZeppelinOS, the OpenZeppelin-eth EVM package of audited smart contract, a react-app and rimble for easy styling. 
 * [EthHub.io](https://docs.ethhub.io/) - Comprehensive crowdsourced overview of Ethereum- its history, governance, future plans and development resources. 
+* [Cobra](https://github.com/cobraframework/cobra) - A fast, flexible and simple development environment framework for Ethereum smart contract, testing and deployment on Ethereum virtual machine(EVM).
 * [Fortmatic](https://fortmatic.com/) - A simple to use SDK to build web3 dApps without extensions or downloads.
 * [Portis](https://portis.io/) - A non-custodial wallet with an SDK that enables easy interaction with DApps without installing anything.
 
@@ -83,6 +84,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [0xcert](https://github.com/0xcert/framework/) - JavaScript framework for building decentralized applications 
 * [ZeppelinOS](https://zeppelinos.org/) - ZeppelinOS is a development platform designed specifically for smart contract projects and allows developers to create Upgradable smart contracts and create and link to EVM packages as a form of on-chain library code.
 * [sbt-ethereum](https://www.sbt-ethereum.io/) - A tab-completey, text-based console for smart-contract interaction and development, including wallet and ABI management, ENS support, and advanced Scala integration.
+* [Cobra](https://github.com/cobraframework/cobra) - A fast, flexible and simple development environment framework for Ethereum smart contract, testing and deployment on Ethereum virtual machine(EVM).
 
 #### IDEs
 * [Remix](https://remix.ethereum.org/) - Web IDE with built in static analysis, test blockchain VM.
@@ -270,6 +272,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Decode and Publish](https://flightwallet.org/decode-eth-tx/) – Decode and publish raw ethereum tx. Similar to https://live.blockcypher.com/btc-testnet/decodetx/
 * [Doppelgänger](https://getdoppelganger.io/) - a library for mocking smart contract dependencies during unit testing.
 * [rocketh](https://github.com/wighawag/rocketh) - A simple lib to test ethereum smart contract that allow to use whatever web3 lib and test runner you choose.
+* [pytest-cobra](https://github.com/cobraframework/pytest-cobra) - PyTest plugin for testing smart contracts for Ethereum blockchain. 
 
 ### Security Tools
 * [MythX](https://mythx.io/) - Security verification platform and tools ecosystem for Ethereum developers
