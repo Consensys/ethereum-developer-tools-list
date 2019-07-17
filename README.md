@@ -156,6 +156,8 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Eventeum](https://github.com/ConsenSys/eventeum) - A bridge between Ethereum smart contract events and backend microservices, written in Java by Kauri
 * [Ethereumex](https://github.com/mana-ethereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain
 * [EthContract](https://github.com/AgileAlpha/eth_contract) - A set of helper methods to help query ETH smart contracts in Elixir
+* [Ethereum Contract Service](https://github.com/mesg-foundation/service-ethereum-contract) - A MESG Service to interact with any Ethereum contract based on its address and ABI.
+* [Ethereum Service](https://github.com/mesg-foundation/service-ethereum) - A MESG Service to interact with events from Ethereum and interact with it.
 
 #### Bootstrap/out of box tools
 * [Truffle boxes](https://truffleframework.com/boxes/) - Packaged components for the Ethereum ecosystem
@@ -182,6 +184,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [headlong](https://github.com/esaulpaugh/headlong/) - type-safe Contract ABI and Recursive Length Prefix library in Java
 * [One Click dApp](https://oneclickdapp.com) -  Instantly create a dApp at a unique URL using the ABI. 
 * [Truffle Pig](https://www.npmjs.com/package/trufflepig) - a development tool that provides a simple HTTP API to find and read from Truffle-generated contract files, for use during local development. Serves fresh contract ABIs over http.
+* [Ethereum Contract Service](https://github.com/mesg-foundation/service-ethereum-contract) - A MESG Service to interact with any Ethereum contract based on its address and ABI.
 
 #### Patterns & Best Practices
 
@@ -364,6 +367,8 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Plasma MVP](https://github.com/omisego/plasma-mvp) - OmiseGO's research implementation of Minimal Viable Plasma
 * [Plasma MVP Golang](https://github.com/kyokan/plasma) - Golang implementation and extension of the Minimum Viable Plasma specification
 * [Plasma Cash](https://github.com/omisego/plasma-cash) - Simple Plasma Cash implementation
+* [Plasma Exit](https://github.com/mesg-foundation/application-plasma-exit) - Automatically watch and challenge or exit from Omisego Plasma Network when needed.
+* [Plasma OmiseGo Watcher](https://github.com/mesg-foundation/service-plasma-omisego-watcher) - Interact with Plasma OmiseGo network and notifies for any byzantine events.
 
 #### Side-Chains
 * [POA Network](https://poa.net/)
