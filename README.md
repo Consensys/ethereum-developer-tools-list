@@ -77,12 +77,12 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Embark](https://github.com/embark-framework/embark) - Framework for DApp development
 * [Waffle](https://getwaffle.io/) - Framework for advanced smart contract development and testing, small, flexible, fast (based on ethers.js)
 * [Dapp](https://dapp.tools/dapp/) - Framework for DApp development, successor to DApple
-* [Populus](https://github.com/ethereum/populus) - The Ethereum development framework with the most cute animal pictures
 * [Etherlime](https://github.com/LimeChain/etherlime) - ethers.js based framework for Dapp deployment
 * [Parasol](https://github.com/Lamarkaz/parasol) - Agile smart contract development environment with testing, INFURA deployment, automatic contract documentation and more. It features a flexible and unopinionated design with unlimited customizability
 * [0xcert](https://github.com/0xcert/framework/) - JavaScript framework for building decentralized applications 
 * [ZeppelinOS](https://zeppelinos.org/) - ZeppelinOS is a development platform designed specifically for smart contract projects and allows developers to create Upgradable smart contracts and create and link to EVM packages as a form of on-chain library code.
 * [sbt-ethereum](https://www.sbt-ethereum.io/) - A tab-completey, text-based console for smart-contract interaction and development, including wallet and ABI management, ENS support, and advanced Scala integration.
+* [Brownie](https://github.com/iamdefinitelyahuman/brownie) - Brownie is a Python framework for deploying, testing and interacting with Ethereum smart contracts.
 
 #### IDEs
 * [Remix](https://remix.ethereum.org/) - Web IDE with built in static analysis, test blockchain VM.
