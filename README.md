@@ -117,6 +117,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Rinkeby faucet](https://faucet.rinkeby.io/)
 * [Kovan faucet](https://github.com/kovan-testnet/faucet)
 * [Ropsten faucet](http://faucet.ropsten.be:3001/)
+* [Goerli faucet](https://goerli-faucet.slock.it/)
 * [Universal faucet](https://faucets.blockxlabs.com/)
 * [Nethereum.Faucet](https://github.com/Nethereum/Nethereum.Faucet) - A C#/.NET faucet
 
