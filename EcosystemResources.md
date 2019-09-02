@@ -18,7 +18,6 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Exodus](https://www.exodus.io) - Desktop wallet with Shapeshift integration
 * [Nifty Wallet](https://github.com/poanetwork/nifty-wallet) - Ethereum Browser Extension focused on usability of real world applications
 
-
 #### Web Wallets
 * [MyEtherWallet](https://github.com/MyEtherWallet) - Open-source [tools](https://www.myetherwallet.com/) for interacting with the blockchains easily & securely
 * [MyCrypto](https://github.com/MyCryptoHQ) - Open-source, client-side [tool](https://mycrypto.com/account) for generating ether wallets, handling ERC-20 tokens, and interacting with the blockchain more easily
@@ -60,6 +59,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Oraclize](https://docs.oraclize.it/#ethereum) - Oracle service backed by authenticity proofs, for your smart contracts
 * [Infura](https://infura.io/) - API gateway so you don't have to host your own ETH node
 * [Quiknode](https://quiknode.io/) - Service to spin up personal Parity/Geth nodes
+* [Nodesmith](https://nodesmith.io/) - Free API access to full Ethereum mainnet and testnet nodes, can be used just like a local node
 * [Regis](https://regis.nu/) - Registry Framework for Digital Assets
 * [Viant](https://viant.io/) - Just consider using Viant as your backend if the use case is business process oriented
 * [uPort](https://www.uport.me/) - Total identity solution
@@ -74,6 +74,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Incentivai](https://incentivai.co) - Testing of smart contract economies via simulation with ML agents
 * [Arkane - A wallet provider for Dapps](https://arkane.network/pages/build-on-arkane.html) - Offers an API gateway and provides wallets and wallet management to dapps and their users.
 * [Aave SDK](https://github.com/aave/aave-js) - JavaScript library to connect with the APIs of the Aave ecosystem as the decentralized lending marketplace [ETHLend](https://ethlend.io).
+* [Rockside Cloud](https://rockside.io) - Ethereum network access provider and consortium blockchain builder
 
 ### Knowledge/Education
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
@@ -150,7 +151,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Awesome Solidity](https://github.com/bkrem/awesome-solidity) - A curated list of awesome Solidity resources, libraries, tools and more
 * [Awesome EVM](https://github.com/pirapira/awesome-ethereum-virtual-machine) - Ethereum Virtual Machine Awesome List
 * [Awesome State-Channels](https://github.com/machinomy/awesome-state-channels) - Curated list of resources regarding state channels on Ethereum.
-* [Awesome Decentralized-Finance](https://github.com/ong/awesome-decentralized-finance) - A curated list of awesome decentralized finance projects, software, and resources
+* [Defiprime.com](https://defiprime.com/) - A curated list of awesome decentralized finance projects, software, events, and resources
 * [DEX protocols](https://github.com/evbots/dex-protocols) - A list of protocols for decentralised exchange
 * [Ethereum Token Standards](https://github.com/PhABC/ethereum-token-standards-list) - An exhaustive list of Ethereum Token Standards
 

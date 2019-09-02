@@ -33,7 +33,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
    - [Ethereum ABI (Application Binary Interface) tools](#ethereum-abi-application-binary-interface-tools)
 - [Patterns & Best Practices](#patterns--best-practices)
    - [Patterns for Smart Contract Development](#patterns-for-smart-contract-development)
-   - [Upgradebility](#upgradebility)
+   - [Upgradeability](#upgradeability)
 - [Infrastructure](#infrastructure)
    - [Ethereum Clients](#ethereum-clients)
    - [Storage](#storage)
@@ -59,8 +59,10 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Truffle](https://truffleframework.com) - Most popular smart contract development, testing, and deployment framework. Install the cli via npm and start here to write your first smart contracts.
 * [Metamask](https://metamask.io/) - Chrome extension wallet to interact with Dapps.
 * [Truffle boxes](https://truffleframework.com/boxes/) - Packaged components for the Ethereum ecosystem
+* [ZepKit](https://zepkit.zeppelinos.org/) - An all-in-one starter box for developers to jumpstart their smart contract backed applications. Includes Truffle, ZeppelinOS, the OpenZeppelin-eth EVM package of audited smart contract, a react-app and rimble for easy styling. 
 * [EthHub.io](https://docs.ethhub.io/) - Comprehensive crowdsourced overview of Ethereum- its history, governance, future plans and development resources. 
 * [Fortmatic](https://fortmatic.com/) - A simple to use SDK to build web3 dApps without extensions or downloads.
+* [Portis](https://portis.io/) - A non-custodial wallet with an SDK that enables easy interaction with DApps without installing anything.
 
 ## Developer Tools
 ### Developing Smart Contracts
@@ -77,12 +79,14 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Dapp](https://dapp.tools/dapp/) - Framework for DApp development, successor to DApple
 * [Populus](https://github.com/ethereum/populus) - The Ethereum development framework with the most cute animal pictures
 * [Etherlime](https://github.com/LimeChain/etherlime) - ethers.js based framework for Dapp deployment
-* [Parasol](https://github.com/Lamarkaz/parasol) - Agile smart contract development environment with testing, INFURA deployment, automatic contract documentation and more. It features a a flexible and unopinionated design with unlimited customizability
+* [Parasol](https://github.com/Lamarkaz/parasol) - Agile smart contract development environment with testing, INFURA deployment, automatic contract documentation and more. It features a flexible and unopinionated design with unlimited customizability
 * [0xcert](https://github.com/0xcert/framework/) - JavaScript framework for building decentralized applications 
+* [ZeppelinOS](https://zeppelinos.org/) - ZeppelinOS is a development platform designed specifically for smart contract projects and allows developers to create Upgradable smart contracts and create and link to EVM packages as a form of on-chain library code.
+* [sbt-ethereum](https://www.sbt-ethereum.io/) - A tab-completey, text-based console for smart-contract interaction and development, including wallet and ABI management, ENS support, and advanced Scala integration.
 
 #### IDEs
 * [Remix](https://remix.ethereum.org/) - Web IDE with built in static analysis, test blockchain VM.
-* [Superblocks Lab](https://superblocks.com/lab/) - Web IDE. Built in browser blochain VM, Metamask integration (one click deployments to Testnet/Mainnet), transaction logger and live code your WebApp among many other features.
+* [Superblocks Lab](https://superblocks.com/lab/) - Web IDE. Built in browser blockchain VM, Metamask integration (one click deployments to Testnet/Mainnet), transaction logger and live code your WebApp among many other features.
 * [Atom](https://atom.io/) - Atom editor with [Atom Solidity Linter](https://atom.io/packages/atom-solidity-linter), [Etheratom](https://atom.io/packages/etheratom), [autocomplete-solidity](https://atom.io/packages/autocomplete-solidity), and [language-solidity](https://atom.io/packages/language-solidity) packages
 * [Pragma](https://www.withpragma.com/) - Very simple web IDE for solidity, and auto-generated interfaces for smart contracts.
 * [Vim solidity](https://github.com/tomlion/vim-solidity) - Vim syntax file for solidity
@@ -121,6 +125,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Web3.js](https://github.com/ethereum/web3.js/) - Javascript Web3
     * [Eth.js](https://github.com/ethjs) - Javascript Web3 alternative
     * [Ethers.js](https://github.com/ethers-io/ethers.js/) - Javascript Web3 alternative, useful utilities and wallet features
+    * [light.js](https://github.com/paritytech/js-libs/tree/master/packages/light.js) A high-level reactive JS library optimized for light clients.
     * [Web3Wrapper](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/web3-wrapper) - Typescript Web3 alternative
     * [Ethereumjs](https://github.com/ethereumjs/) - A collection of utility functions for Ethereum like [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util) and [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx)
     * [flex-contract](https://github.com/merklejerk/flex-contract) and [flex-ether](https://github.com/merklejerk/flex-ether) Modern, zero-configuration, high-level libraries for interacting with smart contracts and making transactions.
@@ -136,6 +141,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
     * [elm-ethereum](https://github.com/cmditch/elm-ethereum)
     * [purescript-web3](https://github.com/f-o-a-m/purescript-web3)
 * [ChainAbstractionLayer](https://github.com/liquality/chainabstractionlayer) - Communicate with different blockchains (including Ethereum) using a single interface.
+* [Delphereum](https://github.com/svanas/delphereum) - a Delphi interface to the Ethereum blockchain that allows for development of native dApps for Windows, macOS, iOS, and Android.
 
 #### Backend Ethereum APIs
 * [Web3.py](https://github.com/ethereum/web3.py) - Python Web3
@@ -198,11 +204,11 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Simpler Ethereum Multisig](https://medium.com/@ChrisLundkvist/exploring-simpler-ethereum-multisig-contracts-b71020c19037) - especially section _Benefits_
 * [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
 * [aragonOS: A smart contract framework for building DAOs, Dapps and protocols](https://hack.aragon.org/docs/aragonos-intro.html)
-    * Upgreadability: Smart contracts can be upgraded to a newer version
+    * Upgradeability: Smart contracts can be upgraded to a newer version
     * Permission control: By using the `auth` and `authP` modifiers, you can protect functionality so only other apps or entities can access it
     * Forwarders: aragonOS apps can send their intent to perform an action to other apps, so that intent is forwarded if a set of requirements are met
 
-##### Upgradebility
+##### Upgradeability
 * [Blog von Elena Dimitrova, Dev at colony.io](https://blog.colony.io/author/elena/)
     * https://blog.colony.io/writing-more-robust-smart-contracts-99ad0a11e948
     * https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88
@@ -217,6 +223,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Geth](https://github.com/ethereum/go-ethereum/wiki/geth) - Go client
 * [Parity](https://www.parity.io/) - Rust client
 * [Aleth](https://github.com/ethereum/aleth) - C++ client
+* [Nethermind] (https://github.com/NethermindEth/nethermind) - .NET Core client
 * [Pyethapp](https://github.com/ethereum/pyethapp) - Python client using [pyethereum](https://github.com/ethereum/pyethereum)
 * [Trinity](https://github.com/ethereum/trinity) - Python client using [py-evm](https://github.com/ethereum/py-evm)
 * [Ethereumjs](https://github.com/ethereumjs/ethereumjs-client) - JS client using [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-vm)
@@ -244,7 +251,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Pydevp2p](https://github.com/ethereum/pydevp2p) - Python implementation of the RLPx network layer
 
 ### Testing Tools
-* [Solidity code coverage](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/sol-cov) - Solidity code coverage tool
+* [Solidity code coverage](https://github.com/0xProject/0x-monorepo/tree/development/packages/sol-coverage) - Solidity code coverage tool
 * [Solidity coverage](https://github.com/sc-forks/solidity-coverage) - Alternative code coverage for Solidity smart-contracts
 * [Solidity function profiler](https://github.com/EricR/sol-function-profiler) - Solidity contract function profiler
 * [Sol-profiler](https://github.com/Aniket-Engg/sol-profiler) - Alternative and updated Solidity smart contract  profiler
@@ -326,6 +333,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * Tokens
   * [ERC-20](https://eips.ethereum.org/EIPS/eip-20) - Original token contract for fungible assets
   * [ERC-721](https://github.com/ethereum/eips/issues/721) - Token standard for non-fungible assets
+  * [ERC-777](https://eips.ethereum.org/EIPS/eip-777) - An improved token standard for fungible assets
   * [ERC-918](https://eips.ethereum.org/EIPS/eip-918) - Mineable Token Standard
 * [ERC-165](https://eips.ethereum.org/EIPS/eip-165) -  Creates a standard method to publish and detect what interfaces a smart contract implements.
 * [ERC-725](https://eips.ethereum.org/EIPS/eip-725) -  Proxy contract for key management and execution, to establish a Blockchain identity.
