@@ -225,7 +225,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Geth](https://github.com/ethereum/go-ethereum/wiki/geth) - Go client
 * [Parity](https://www.parity.io/) - Rust client
 * [Aleth](https://github.com/ethereum/aleth) - C++ client
-* [Nethermind] (https://github.com/NethermindEth/nethermind) - .NET Core client
+* [Nethermind](https://github.com/NethermindEth/nethermind) - .NET Core client
 * [Pyethapp](https://github.com/ethereum/pyethapp) - Python client using [pyethereum](https://github.com/ethereum/pyethereum)
 * [Infura](https://infura.io/) - A managed service providing Ethereum client standards-compliant APIs
 * [Trinity](https://github.com/ethereum/trinity) - Python client using [py-evm](https://github.com/ethereum/py-evm)
