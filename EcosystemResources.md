@@ -56,7 +56,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [CryptoProf](https://github.com/doc-ai/cryptoprof) - Gas profiler for smart contracts
 
 ### Services
-* [Oraclize](https://docs.oraclize.it/#ethereum) - Oracle service backed by authenticity proofs, for your smart contracts
+* [Provable](http://docs.provable.xyz/#ethereum) - Blockchain oracle service backed by authenticity proofs, for your smart contracts
 * [Infura](https://infura.io/) - API gateway so you don't have to host your own ETH node
 * [Quiknode](https://quiknode.io/) - Service to spin up personal Parity/Geth nodes
 * [Nodesmith](https://nodesmith.io/) - Free API access to full Ethereum mainnet and testnet nodes, can be used just like a local node
