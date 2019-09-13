@@ -36,6 +36,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Jaxx](https://jaxx.io) - Both a mobile and a desktop wallet. Has integrated Shapeshift support
 * [WallETH](https://walleth.org) - Native Android Ethereum Wallet
 * [eth-wallet-light](https://github.com/NoahZinsmeister/eth-wallet-light) - Lightweight JS Wallet optimized for mobile
+* [WiniWallet](https://winiwallet.io) - Wallet for DAI stablecoin with multiple DeFi investment
 
 #### Hardware Wallets
 * [Trezor](https://trezor.io) - The original hardware wallet
