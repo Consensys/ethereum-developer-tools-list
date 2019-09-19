@@ -116,7 +116,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [getho](https://getho.io) - DApp development platform including PoA private blockchain and Smart Contract testing tool. 
 * [Ethereum on Google Cloud](https://console.cloud.google.com/marketplace/details/click-to-deploy-images/ethereum?filter=category:developer-tools) - Build Ethereum network based on Proof of Work
 * [Infura](https://infura.io/) - Ethereum API access to Ethereum networks (Mainnet, Ropsten, Rinkeby, Goerli, Kovan)
-
+* [Chainstack](https://chainstack.com/) - Shared and dedicated Ethereum nodes as a service (Mainnet, Ropsten)
 
 #### Test Ether faucets
 * [Rinkeby faucet](https://faucet.rinkeby.io/)
