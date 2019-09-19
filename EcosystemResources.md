@@ -93,6 +93,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Dapp University](http://www.dappuniversity.com) - Free Video Tutorials
 * [Attacks on Smart Contracts](https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/)
 * [Zastrin](https://www.zastrin.com) - Paid courses on Solidity/Dapp Development
+* [Chainstack Docs](https://docs.chainstack.com/tutorials/) - Step-by-step DApp building tutorials
 
 #### Security best practices
 * [Smart contract best practices](https://github.com/ConsenSys/smart-contract-best-practices) - by ConsenSys
