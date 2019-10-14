@@ -342,6 +342,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Flappy](https://github.com/Nethereum/Nethereum.Flappy) - Ethereum and Unity integration demo/sample
 * [Wonka](https://github.com/Nethereum/Wonka) - Nethereum business rules engine demo/sample
 * [Resolver-Engine](https://github.com/Crypto-Punkers/resolver-engine) - A set of tools to standarize Solidity import and artifact resolution in frameworks.
+* [eth-reveal](https://github.com/justinjmoses/eth-reveal) A node and browser tool to inspect transactions - decoding where possible the method, event logs and any revert reasons using ABIs found online. 
 
 ### Smart Contract Standards & Libraries
 #### [ERCs](https://eips.ethereum.org/erc) - The Ethereum Request for Comment repository
