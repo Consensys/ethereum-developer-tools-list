@@ -36,6 +36,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Jaxx](https://jaxx.io) - Both a mobile and a desktop wallet. Has integrated Shapeshift support
 * [WallETH](https://walleth.org) - Native Android Ethereum Wallet
 * [eth-wallet-light](https://github.com/NoahZinsmeister/eth-wallet-light) - Lightweight JS Wallet optimized for mobile
+* [Metamask](https://play.google.com/apps/testing/io.metamask) - Mobile Ether wallet with ERC tokens support **beta**
 
 #### Hardware Wallets
 * [Trezor](https://trezor.io) - The original hardware wallet
@@ -80,7 +81,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
 * [Solidity idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies) - Solidity gotchas, pitfalls, limitations, and idiosyncrasies
 * [Ethereum development with Go](https://github.com/miguelmota/ethereum-development-with-go-book) - A little [book](https://goethereumbook.org) on Ethereum Development with Golang
-* [Consensys Academy](https://consensys.net/academy/resources/) - Courses
+* [Consensys Academy](https://consensys.net/academy/) - Courses
 * [B9Lab](https://academy.b9lab.com/) - Paid courses
 * [Blockgeeks](https://courses.blockgeeks.com/) - Paid courses on solidity/dapp development
 * [Chainshot building blocks](https://www.chainshot.com/) - Free Project-Based Courses and Challenges
