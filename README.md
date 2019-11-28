@@ -104,7 +104,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [ethnode](https://github.com/vrde/ethnode) - Run an Ethereum node (Geth or Parity) for development, as easy as `npm i -g ethnode && ethnode`.
 * [Ganache](https://github.com/trufflesuite/ganache) - App for test Ethereum blockchain with visual UI and logs
 * [Kaleido](https://kaleido.io/) - Use Kaleido for spinning up a consortium blockchain network. Great for PoCs and testing
-* [Pantheon Private Network](https://docs.pantheon.pegasys.tech/en/latest/Getting-Started/Private-Network-Quickstart/) - Run a private network of Pantheon nodes in a Docker container
+* [Besu Private Network](https://besu.hyperledger.org/en/stable/Tutorials/Quickstarts/Azure-Private-Network-Quickstart/) - Run a private network of Besu nodes in a Docker container
 ** [Orion](https://github.com/PegaSysEng/orion) - Component for performing private transactions by PegaSys
 ** [Artemis](https://github.com/PegaSysEng/artemis) - Java implementation of the Ethereum 2.0 Beacon Chain by PegaSys
 * [Cliquebait](https://github.com/f-o-a-m/cliquebait) - Simplifies integration and accepting testing of smart contract applications with docker instances that closely resembles a real blockchain network
@@ -165,7 +165,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 
 #### Bootstrap/out of box tools
 * [Truffle boxes](https://truffleframework.com/boxes/) - Packaged components for the Ethereum ecosystem
-* [Pantheon Private Network](https://docs.pantheon.pegasys.tech/en/latest/Getting-Started/Private-Network-Quickstart/) - Run a private network of Pantheon nodes in a Docker container
+* [Besu Private Network](https://besu.hyperledger.org/en/stable/Tutorials/Quickstarts/Azure-Private-Network-Quickstart/) - Run a private network of Besu nodes in a Docker container
 * [Testchains](https://github.com/Nethereum/TestChains) - Pre-configured .NET devchains for fast response (PoA) 
 ** [Blazor/Blockchain Explorer](https://github.com/Nethereum/NethereumBlazor) - Wasm blockchain explorer (functional sample)
 
@@ -226,7 +226,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 
 ### Infrastructure
 #### Ethereum Clients
-* [Pantheon](https://docs.pantheon.pegasys.tech/en/latest/) - Java client by PegaSys
+* [Besu](https://besu.hyperledger.org/en/latest/) - an open-source Ethereum client developed under the Apache 2.0 license and written in Java. The project is hosted by Hyperledger.
 * [Geth](https://github.com/ethereum/go-ethereum/wiki/geth) - Go client
 * [Parity](https://www.parity.io/) - Rust client
 * [Aleth](https://github.com/ethereum/aleth) - C++ client
