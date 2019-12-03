@@ -316,6 +316,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Piet](https://piet.slock.it) - A visual Solidity architecture analyzer
 
 ### Monitoring
+* [Alethio](https://aleth.io/) - An advanced Ethereum analytics platform that provides live monitoring, insights and anomaly detection, token metrics, smart contract audits, graph visualization and blockchain search. Real-time market information and trading activities across Ethereum's decentralized exchanges can also be explored.
 * [amberdata.io](https://amberdata.io) - Provides live monitoring, insights and anomaly detection, token metrics, smart contract audits, graph visualization and blockchain search.
 * [Neufund - Smart Contract Watch](https://github.com/Neufund/smart-contract-watch) - A tool to monitor a number of smart contracts and transactions
 * [Scout](https://scout.cool/) - A live data feed of the activities and event logs of your smart contracts on Ethereum
