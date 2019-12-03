@@ -62,6 +62,7 @@
 * [메타마스크(Metamask)](https://metamask.io/) - 크롬 확장 지갑으로 탈중앙화 어플리케이션과 작동합니다.
 * [트러플 박스(Truffle boxes)](https://truffleframework.com/boxes/) - 이더리움 생태계를 위한 패키지 컴포넌트 입니다.
 * [EthHub.io](https://docs.ethhub.io/) - 이더리움의 개요 (역사, 거버넌스, 향후 계획, 개발 리소스)가 있는 종합적인 크라우드 소스(crowdsourced)입니다.
+* [dfuse](https://dfuse.io) - 매끄러운 블록 체인 API로 세계적 수준의 애플리케이션을 구축하십시오.
 <a name="개발도구"></a>
 ## 개발 도구
 
@@ -128,6 +129,7 @@
     * [ez-ens](https://github.com/merklejerk/ez-ens) 간단하며, 제로 구성(zero-configuration) 이더리움 이름 서비스(Ethereum Name Service) 주소 해결책 입니다.
     * [web3x](https://github.com/xf00f/web3x) - web3.js의 타입스크립트 포트 입니다. 컨트렉트 상호작용이 포함되어 모든 타입의 보안(safety)과 작은 빌드의 이점이 있습니다.
 * [드리즐(Drizzle)](https://github.com/truffle-box/drizzle-box) - 리덕스(Redux) 라이브러리 블록체인 프론트엔드와 연결합니다.
+* [dfuse](https://github.com/dfuse-io/client-js) - [dfuse Ethereum API](https://dfuse.io)를 사용하는 TypeScript 라이브러리
 * [Tasit SDK](https://github.com/tasitlabs/tasitsdk) - 리엑트 네이티브(React Native)를 사용하여 모바일 이더리움 dapps를 만들기 위한 자바스크립트 SDK 입니다.
 * [Subproviders](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/subproviders) - [웹3 프로바이더 엔진(Web3-provider-engine)](https://github.com/MetaMask/provider-engine/) 과 함께 사용되는 여러가지 유용한 subproviders 입니다. (당신의 탈중앙화 어플리케이션을 지원하는 렛저(Ledger) 하드웨어 월렛을 위한 LedgerSubprovider를 포함합니다.)
 * [web3-react](https://github.com/NoahZinsmeister/web3-react) - 싱글페이지(single-page) 이더리움 dApps를 빌딩하기 위한 리액트 프레임워크 입니다.

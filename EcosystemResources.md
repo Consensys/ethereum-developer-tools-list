@@ -52,6 +52,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Etherchain lite](https://github.com/gobitfly/etherchain-light) - Lightweight blockchain explorer for your private Ethereum chain
 * [EthStats](https://ethstats.io/) - The Ethereum Blockchain Analytics Platform
 * [Scout](https://scout.cool/) - A live data feed of the activities and event logs of your smart contracts on Ethereum
+* [ethq](https://ethq.app) - The [dfuse](https://dfuse.io) powered, most detailed, block explorer built for developers
 
 ### Gas price calculators and tools
 * [EthGasStation](https://ethgasstation.info/) - Website for estimating tx prices vs times
@@ -63,6 +64,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Infura](https://infura.io/) - API gateway so you don't have to host your own ETH node
 * [Quiknode](https://quiknode.io/) - Service to spin up personal Parity/Geth nodes
 * [Nodesmith](https://nodesmith.io/) - Free API access to full Ethereum mainnet and testnet nodes, can be used just like a local node
+* [dfuse](https://dfuse.io) - Slick blockchain APIs to build world-class applications.
 * [Regis](https://regis.nu/) - Registry Framework for Digital Assets
 * [Viant](https://viant.io/) - Just consider using Viant as your backend if the use case is business process oriented
 * [uPort](https://www.uport.me/) - Total identity solution
