@@ -49,6 +49,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [이더체인 라이트(Etherchain Light)](https://github.com/gobitfly/etherchain-light)- 당신의 프라이빗 이더리움 체인을 위한 가벼운 블록체인 익스플로러 입니다.
 * [EthStats](https://ethstats.io/) - 이더리움 블록체인 분석 플랫폼 입니다.
 * [Scout](https://www.scout.cool/) - 이더리움 안에서 당신의 스마트 컨트렉트의 이벤트 로그와 활동을 바로(live) 데이터 피드(data feed) 합니다.
+* [ethq](https://ethq.app) - 개발자를 위해 구축 된 [dfuse](https://dfuse.io) 기반의 가장 세부적인 블록 탐색기
 
 ### 가스 가격 계산기와 도구
 * [이더가스스테이션(EthGasStation)](https://ethgasstation.info/) - 실시간 거래가격 추산을 위한 웹사이트 입니다.
@@ -59,6 +60,7 @@ Meridio를 설립한 [@corbpage](https://twitter.com/corbpage), 확장과 큐레
 * [프로보빌(Provable)](http://provable.xyz/) - 당신의 스마트 컨트렉트를 위한 오라클(Oracle) 서비스 입니다.
 * [인퓨라(Infura)](https://infura.io/) - ETH 노드를 소유할 필요없는 API 게이트웨이 입니다.
 * [퀵노드(Quiknode)](https://quiknode.io/) - 개인 패리티(Parity)/게스(Geth) 노드를 돌려주는 서비스 입니다.
+* [dfuse](https://dfuse.io) - 세계적 수준의 애플리케이션을 구축하기위한 매끄러운 블록 체인 API.
 * [레지스(Regis)](https://regis.nu/) - 디지털 자산을 위한 레지스트리(Registry) 프레임워크 입니다.
 * [바이안트(Viant)](https://viant.io/) - 유스케이스가 비즈니스 프로세스 지향적인 경우에 백엔드를 바이안트로 사용하세요.
 * [유포트(uPort)](https://www.uport.me/) - 통합 아이덴티티(identity) 솔루션 입니다.

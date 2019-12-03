@@ -37,6 +37,8 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [WallETH](https://walleth.org) - Native Android Ethereum Wallet
 * [eth-wallet-light](https://github.com/NoahZinsmeister/eth-wallet-light) - Lightweight JS Wallet optimized for mobile
 * [Metamask](https://play.google.com/apps/testing/io.metamask) - Mobile Ether wallet with ERC tokens support **beta**
+* [WiniWallet](https://winiwallet.io) - Wallet for DAI stablecoin with multiple DeFi investment
+
 
 #### Hardware Wallets
 * [Trezor](https://trezor.io) - The original hardware wallet
@@ -50,6 +52,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Etherchain lite](https://github.com/gobitfly/etherchain-light) - Lightweight blockchain explorer for your private Ethereum chain
 * [EthStats](https://ethstats.io/) - The Ethereum Blockchain Analytics Platform
 * [Scout](https://scout.cool/) - A live data feed of the activities and event logs of your smart contracts on Ethereum
+* [ethq](https://ethq.app) - The [dfuse](https://dfuse.io) powered, most detailed, block explorer built for developers
 
 ### Gas price calculators and tools
 * [EthGasStation](https://ethgasstation.info/) - Website for estimating tx prices vs times
@@ -61,6 +64,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Infura](https://infura.io/) - API gateway so you don't have to host your own ETH node
 * [Quiknode](https://quiknode.io/) - Service to spin up personal Parity/Geth nodes
 * [Nodesmith](https://nodesmith.io/) - Free API access to full Ethereum mainnet and testnet nodes, can be used just like a local node
+* [dfuse](https://dfuse.io) - Slick blockchain APIs to build world-class applications.
 * [Regis](https://regis.nu/) - Registry Framework for Digital Assets
 * [Viant](https://viant.io/) - Just consider using Viant as your backend if the use case is business process oriented
 * [uPort](https://www.uport.me/) - Total identity solution
@@ -76,6 +80,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Arkane - A wallet provider for Dapps](https://arkane.network/pages/build-on-arkane.html) - Offers an API gateway and provides wallets and wallet management to dapps and their users.
 * [Aave SDK](https://github.com/aave/aave-js) - JavaScript library to connect with the APIs of the Aave ecosystem as the decentralized lending marketplace [ETHLend](https://ethlend.io).
 * [Rockside Cloud](https://rockside.io) - Ethereum network access provider and consortium blockchain builder
+* [Chainstack](https://chainstack.com/) - Shared and dedicated Ethereum nodes as a service
 
 ### Knowledge/Education
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
@@ -93,6 +98,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Dapp University](http://www.dappuniversity.com) - Free Video Tutorials
 * [Attacks on Smart Contracts](https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/)
 * [Zastrin](https://www.zastrin.com) - Paid courses on Solidity/Dapp Development
+* [Chainstack Docs](https://docs.chainstack.com/tutorials/) - Step-by-step DApp building tutorials
 
 #### Security best practices
 * [Smart contract best practices](https://github.com/ConsenSys/smart-contract-best-practices) - by ConsenSys
