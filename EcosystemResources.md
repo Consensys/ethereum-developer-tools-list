@@ -37,6 +37,8 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [WallETH](https://walleth.org) - Native Android Ethereum Wallet
 * [eth-wallet-light](https://github.com/NoahZinsmeister/eth-wallet-light) - Lightweight JS Wallet optimized for mobile
 * [Metamask](https://play.google.com/apps/testing/io.metamask) - Mobile Ether wallet with ERC tokens support **beta**
+* [WiniWallet](https://winiwallet.io) - Wallet for DAI stablecoin with multiple DeFi investment
+
 
 #### Hardware Wallets
 * [Trezor](https://trezor.io) - The original hardware wallet
