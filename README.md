@@ -19,40 +19,45 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 ^Is the above fair? Share your input here - https://github.com/ConsenSysLabs/ethereum-developer-tools-list/pull/70
 
 ## Table of Contents
-- [New developers start here](#new-developers-start-here)
-- [Developer Tools](#developer-tools)
-   - [Smart Contract Languages](#smart-contract-languages)
-   - [Frameworks](#frameworks)
-   - [IDEs](#ides)
-   - [Test blockchain networks](#test-blockchain-networks)
-   - [Test Ether faucets](#test-ether-faucets)
-- [Communicating with Ethereum](#communicating-with-ethereum)
-   - [Frontend Ethereum APIs](#frontend-ethereum-apis)
-   - [Backend Ethereum APIs](#backend-ethereum-apis)
-   - [Bootstrap/out of box tools](#bootstrapout-of-box-tools)
-   - [Ethereum ABI (Application Binary Interface) tools](#ethereum-abi-application-binary-interface-tools)
-- [Patterns & Best Practices](#patterns--best-practices)
-   - [Patterns for Smart Contract Development](#patterns-for-smart-contract-development)
-   - [Upgradeability](#upgradeability)
-- [Infrastructure](#infrastructure)
-   - [Ethereum Clients](#ethereum-clients)
-   - [Storage](#storage)
-   - [Messaging](#messaging)
-- [Testing Tools](#testing-tools)
-- [Security Tools](#security-tools)
-- [Monitoring](#monitoring)
-- [Other Miscellaneous Tools](#other-miscellaneous-tools)
-- [Smart Contract Standards & Libraries](#smart-contract-standards--libraries)
-   - [ERCs - The Ethereum Request for Comment repository](#ercs---the-ethereum-request-for-comment-repository)
-   - [Popular Smart Contract Libraries](#popular-smart-contract-libraries)
-- [Developer Guides for 2nd Layer Infrastructure](#developer-guides-for-2nd-layer-infrastructure)
-   - [Scalability](#scalability)
-   - [Payment/State Channels](#paymentstate-channels)
-   - [Plasma](#plasma)
-   - [Side-Chains](#side-chains)
-- [Privacy / Confidentiality](#privacy--confidentiality)
-   - [zkSNARKs](#zksnarks)
-- [Prebuilt UI Components](#prebuilt-ui-components)
+- [Ethereum Developer Tools List](#ethereum-developer-tools-list)
+  - [Contributions are welcome!](#contributions-are-welcome)
+  - [Table of Contents](#table-of-contents)
+  - [New developers start here](#new-developers-start-here)
+  - [Developer Tools](#developer-tools)
+    - [Developing Smart Contracts](#developing-smart-contracts)
+      - [Smart Contract Languages](#smart-contract-languages)
+      - [Frameworks](#frameworks)
+      - [IDEs](#ides)
+    - [Other tools](#other-tools)
+    - [Test blockchain networks](#test-blockchain-networks)
+      - [Test Ether faucets](#test-ether-faucets)
+    - [Communicating with Ethereum](#communicating-with-ethereum)
+      - [Frontend Ethereum APIs](#frontend-ethereum-apis)
+      - [Backend Ethereum APIs](#backend-ethereum-apis)
+      - [Bootstrap/out of box tools](#bootstrapout-of-box-tools)
+      - [Ethereum ABI (Application Binary Interface) tools](#ethereum-abi-application-binary-interface-tools)
+      - [Patterns & Best Practices](#patterns--best-practices)
+        - [Patterns for Smart Contract Development](#patterns-for-smart-contract-development)
+        - [Upgradeability](#upgradeability)
+    - [Infrastructure](#infrastructure)
+      - [Ethereum Clients](#ethereum-clients)
+      - [Storage](#storage)
+      - [Messaging](#messaging)
+    - [Testing Tools](#testing-tools)
+    - [Security Tools](#security-tools)
+    - [Monitoring](#monitoring)
+    - [Other Miscellaneous Tools](#other-miscellaneous-tools)
+    - [Smart Contract Standards & Libraries](#smart-contract-standards--libraries)
+      - [ERCs - The Ethereum Request for Comment repository](#ercs---the-ethereum-request-for-comment-repository)
+      - [Popular Smart Contract Libraries](#popular-smart-contract-libraries)
+    - [Developer Guides for 2nd Layer Infrastructure](#developer-guides-for-2nd-layer-infrastructure)
+      - [Scalability](#scalability)
+      - [Payment/State Channels](#paymentstate-channels)
+      - [Plasma](#plasma)
+      - [Side-Chains](#side-chains)
+      - [Privacy / Confidentiality](#privacy--confidentiality)
+        - [zkSNARKs](#zksnarks)
+      - [Prebuilt UI Components](#prebuilt-ui-components)
 
 ## New developers start here
 * [Solidity](https://solidity.readthedocs.io/en/latest/) - The most popular smart contract language.
@@ -100,6 +105,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 ### Other tools
 * [Atra Blockchain Services](https://console.atra.io) - Atra provides web services to help you build, deploy, and maintain decentralized applications on the Ethereum blockchain.
 * [Buidler](https://github.com/nomiclabs/buidler) - Extensible developer tool that helps smart contract developers increase productivity by reliably bringing together the tools they want.
+* [Azure Blockchain Dev Kit for Ethereum for VSCode](https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain) - VSCode extension that allows for creating smart contracts and deploying them inside of Visual Studio Code
 
 ### Test blockchain networks
 * [ethnode](https://github.com/vrde/ethnode) - Run an Ethereum node (Geth or Parity) for development, as easy as `npm i -g ethnode && ethnode`.
@@ -115,6 +121,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Ethereum on Azure](https://docs.microsoft.com/en-us/azure/blockchain-workbench/ethereum-poa-deployment) - Deployment and governance of consortium Ethereum PoA networks
 * [Ethereum on Google Cloud](https://console.cloud.google.com/marketplace/details/click-to-deploy-images/ethereum?filter=category:developer-tools) - Build Ethereum network based on Proof of Work
 * [Infura](https://infura.io/) - Ethereum API access to Ethereum networks (Mainnet, Ropsten, Rinkeby, Goerli, Kovan)
+* [CloudFlare Distributed Web Gateway](https://www.cloudflare.com/distributed-web-gateway/) - Provides access to the Ethereum network through the Cloudflare instead of running your own node
 * [Chainstack](https://chainstack.com/) - Shared and dedicated Ethereum nodes as a service (Mainnet, Ropsten)
 
 #### Test Ether faucets
@@ -164,6 +171,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [EthContract](https://github.com/AgileAlpha/eth_contract) - A set of helper methods to help query ETH smart contracts in Elixir
 * [Ethereum Contract Service](https://github.com/mesg-foundation/service-ethereum-contract) - A MESG Service to interact with any Ethereum contract based on its address and ABI.
 * [Ethereum Service](https://github.com/mesg-foundation/service-ethereum) - A MESG Service to interact with events from Ethereum and interact with it.
+* [Marmo](https://marmo.io/) - Python, JS, and Java SDK for simplifying interactions with Ethereum.  Uses relayers to offload transaction costs to relayers.
 
 #### Bootstrap/out of box tools
 * [Truffle boxes](https://truffleframework.com/boxes/) - Packaged components for the Ethereum ecosystem
@@ -313,6 +321,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Tenderly](https://tenderly.dev/) - A platform that gives users reliable smart contract monitoring and alerting in the form of a web dashboard without requiring users to host or maintain infrastructure
 * [Chainlyt](https://www.chainlyt.io/main/dashboard/contract) - Explore smart contracts with decoded transaction data, see how the contract is used and search transactions with specific function calls
 * [BlockScout](https://github.com/poanetwork/blockscout) - A tool for inspecting and analyzing EVM based blockchains. The only full featured blockchain explorer for Ethereum networks.
+* [Terminal](https://terminal.co/) - A control panel for monitoring dapps.  Terminal can be used to monitor your users, dapp, blockchain infrastructure, transactions and more.  
 
 ### Other Miscellaneous Tools
 * [aragonPM](https://hack.aragon.org/docs/apm-intro.html) - a decentralized package manager powered by aragonOS and Ethereum. aragonPM enables decentralized governance over package upgrades, removing centralized points of failure.
