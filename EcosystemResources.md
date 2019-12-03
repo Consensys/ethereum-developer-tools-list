@@ -78,6 +78,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Arkane - A wallet provider for Dapps](https://arkane.network/pages/build-on-arkane.html) - Offers an API gateway and provides wallets and wallet management to dapps and their users.
 * [Aave SDK](https://github.com/aave/aave-js) - JavaScript library to connect with the APIs of the Aave ecosystem as the decentralized lending marketplace [ETHLend](https://ethlend.io).
 * [Rockside Cloud](https://rockside.io) - Ethereum network access provider and consortium blockchain builder
+* [Chainstack](https://chainstack.com/) - Shared and dedicated Ethereum nodes as a service
 
 ### Knowledge/Education
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
@@ -95,6 +96,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Dapp University](http://www.dappuniversity.com) - Free Video Tutorials
 * [Attacks on Smart Contracts](https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/)
 * [Zastrin](https://www.zastrin.com) - Paid courses on Solidity/Dapp Development
+* [Chainstack Docs](https://docs.chainstack.com/tutorials/) - Step-by-step DApp building tutorials
 
 #### Security best practices
 * [Smart contract best practices](https://github.com/ConsenSys/smart-contract-best-practices) - by ConsenSys

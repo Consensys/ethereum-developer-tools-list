@@ -114,7 +114,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Ethereum on Azure](https://docs.microsoft.com/en-us/azure/blockchain-workbench/ethereum-poa-deployment) - Deployment and governance of consortium Ethereum PoA networks
 * [Ethereum on Google Cloud](https://console.cloud.google.com/marketplace/details/click-to-deploy-images/ethereum?filter=category:developer-tools) - Build Ethereum network based on Proof of Work
 * [Infura](https://infura.io/) - Ethereum API access to Ethereum networks (Mainnet, Ropsten, Rinkeby, Goerli, Kovan)
-
+* [Chainstack](https://chainstack.com/) - Shared and dedicated Ethereum nodes as a service (Mainnet, Ropsten)
 
 #### Test Ether faucets
 * [Rinkeby faucet](https://faucet.rinkeby.io/)
@@ -236,7 +236,6 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Trinity](https://github.com/ethereum/trinity) - Python client using [py-evm](https://github.com/ethereum/py-evm)
 * [Ethereumjs](https://github.com/ethereumjs/ethereumjs-client) - JS client using [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-vm)
 * [Ethereumj](https://github.com/ethereum/ethereumj) - Java client by the Ethereum Foundation
-
 * [Harmony](https://github.com/ether-camp/ethereum-harmony) - Java client by EtherCamp
 * [Seth](https://github.com/dapphub/dapptools/tree/master/src/seth) - Seth is an Ethereum client tool—like a "MetaMask for the command line"
 * [Mustekala](https://github.com/musteka-la/mustekala) - Ethereum Light Client project of Metamask.
@@ -244,6 +243,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [EWF Parity](https://github.com/energywebfoundation/energyweb-ui) - Energy Web Foundation client for the Tobalaba test network
 * [Quorum](https://github.com/jpmorganchase/quorum) - A permissioned implementation of Ethereum supporting data privacy by [JP Morgan](https://www.jpmorgan.com/quorum)
 * [Mana](https://github.com/mana-ethereum/mana) - Ethereum full node implementation written in Elixir.
+* [Chainstack](https://chainstack.com/) - A managed service providing shared and dedicated Geth nodes
 
 #### Storage
 * [IPFS](https://ipfs.io/) - Decentralised storage and file referencing
