@@ -90,7 +90,6 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Remix](https://remix.ethereum.org/) - Web IDE with built in static analysis, test blockchain VM.
 * [Superblocks Lab](https://superblocks.com/lab/) - Web IDE. Built in browser blockchain VM, Metamask integration (one click deployments to Testnet/Mainnet), transaction logger and live code your WebApp among many other features.
 * [Atom](https://atom.io/) - Atom editor with [Atom Solidity Linter](https://atom.io/packages/atom-solidity-linter), [Etheratom](https://atom.io/packages/etheratom), [autocomplete-solidity](https://atom.io/packages/autocomplete-solidity), and [language-solidity](https://atom.io/packages/language-solidity) packages
-* [Pragma](https://www.withpragma.com/) - Very simple web IDE for solidity, and auto-generated interfaces for smart contracts.
 * [Vim solidity](https://github.com/tomlion/vim-solidity) - Vim syntax file for solidity
 * [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) - Visual Studio Code extension that adds support for Solidity
 * [Intellij Solidity Plugin](https://github.com/intellij-solidity/intellij-solidity/wiki) - Open-source plug-in for [JetBrains IntelliJ Idea IDE](https://www.jetbrains.com/idea/) (free/commercial) with syntax highlighting, formatting, code completion etc.
@@ -113,7 +112,6 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Private networks deployment scripts](https://github.com/ConsenSys/private-networks-deployment-scripts) - Out-of-the-box deployment scripts for private PoA networks
 * [Local Ethereum Network](https://github.com/ConsenSys/local_ethereum_network) - Out-of-the-box deployment scripts for private PoW networks
 * [Ethereum on Azure](https://docs.microsoft.com/en-us/azure/blockchain-workbench/ethereum-poa-deployment) - Deployment and governance of consortium Ethereum PoA networks
-* [getho](https://getho.io) - DApp development platform including PoA private blockchain and Smart Contract testing tool. 
 * [Ethereum on Google Cloud](https://console.cloud.google.com/marketplace/details/click-to-deploy-images/ethereum?filter=category:developer-tools) - Build Ethereum network based on Proof of Work
 * [Infura](https://infura.io/) - Ethereum API access to Ethereum networks (Mainnet, Ropsten, Rinkeby, Goerli, Kovan)
 
@@ -121,7 +119,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 #### Test Ether faucets
 * [Rinkeby faucet](https://faucet.rinkeby.io/)
 * [Kovan faucet](https://github.com/kovan-testnet/faucet)
-* [Ropsten faucet](http://faucet.ropsten.be:3001/)
+* [Ropsten faucet](https://faucet.metamask.io/)
 * [Goerli faucet](https://goerli-faucet.slock.it/)
 * [Universal faucet](https://faucets.blockxlabs.com/)
 * [Nethereum.Faucet](https://github.com/Nethereum/Nethereum.Faucet) - A C#/.NET faucet
@@ -132,7 +130,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
     * [Eth.js](https://github.com/ethjs) - Javascript Web3 alternative
     * [Ethers.js](https://github.com/ethers-io/ethers.js/) - Javascript Web3 alternative, useful utilities and wallet features
     * [light.js](https://github.com/paritytech/js-libs/tree/master/packages/light.js) A high-level reactive JS library optimized for light clients.
-    * [Web3Wrapper](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/web3-wrapper) - Typescript Web3 alternative
+    * [Web3Wrapper](https://www.npmjs.com/package/@0xproject/web3-wrapper) - Typescript Web3 alternative
     * [Ethereumjs](https://github.com/ethereumjs/) - A collection of utility functions for Ethereum like [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util) and [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx)
     * [flex-contract](https://github.com/merklejerk/flex-contract) and [flex-ether](https://github.com/merklejerk/flex-ether) Modern, zero-configuration, high-level libraries for interacting with smart contracts and making transactions.
     * [ez-ens](https://github.com/merklejerk/ez-ens) Simple, zero-configuration Ethereum Name Service address resolver.
@@ -140,9 +138,9 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Nethereum](https://github.com/Nethereum/) - Cross-platform Ethereum development framework 
 * [Drizzle](https://github.com/truffle-box/drizzle-box) - Redux library to connect a frontend to a blockchain
 * [Tasit SDK](https://github.com/tasitlabs/tasitsdk) - A JavaScript SDK for making native mobile Ethereum dapps using React Native
-* [Subproviders](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/subproviders) - Several useful subproviders to use in conjunction with [Web3-provider-engine](https://github.com/MetaMask/provider-engine/) (including a LedgerSubprovider for adding Ledger hardware wallet support to your dApp)
+* [Subproviders](https://0x.org/docs/tools/subproviders) - Several useful subproviders to use in conjunction with [Web3-provider-engine](https://github.com/MetaMask/provider-engine/) (including a LedgerSubprovider for adding Ledger hardware wallet support to your dApp)
 * [web3-react](https://github.com/NoahZinsmeister/web3-react) - React framework for building single-page Ethereum dApps
-* [Vortex](https://github.com/Horyus/vortex) - A Dapp-ready Redux Store. Smart and Dynamic background data refresh thanks to WebSockets. Works with [Truffle](https://github.com/Horyus/vortex-demo) and [Embark](https://github.com/Horyus/vortex-demo-embark).
+* [ethvtx](https://github.com/ticket721/ethvtx) - ethereum-ready & framework-agnostic redux store configuration. [docs](https://ticket721.github.io/ethvtx/)
 * Strictly Typed - Javascript alternatives
     * [elm-ethereum](https://github.com/cmditch/elm-ethereum)
     * [purescript-web3](https://github.com/f-o-a-m/purescript-web3)
@@ -177,7 +175,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Local Ethereum Network](https://github.com/ConsenSys/local_ethereum_network) - Out-of-the-box deployment scripts for private PoW networks
 * [Kaleido](https://kaleido.io/) - Use Kaleido for spinning up a consortium blockchain network. Great for PoCs and testing
 * [Cheshire](https://github.com/endless-nameless-inc/cheshire) - A local sandbox implementation of the CryptoKitties API and smart contracts, available as a Truffle Box
-* [aragonCLI](https://hack.aragon.org/docs/cli-usage.html) - aragonCLI is used to create and develop Aragon apps and organizations.
+* [aragonCLI](https://github.com/aragon/aragon-cli) - aragonCLI is used to create and develop Aragon apps and organizations.
 * [ColonyJS](https://github.com/JoinColony/colonyJS) - JavaScript client that provides an API for interacting with the Colony Network smart contracts.
 * [ArcJS](https://github.com/daostack/arc.js) - Library that facilitates javascript application access to the DAOstack Arc ethereum smart contracts.
 * [Arkane Connect](https://docs.arkane.network/pages/connect-js.html) - JavaScript client that provides an API for interacting with Arkane Network, a wallet provider for building user-friendly dapps.
@@ -185,7 +183,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 
 #### Ethereum ABI (Application Binary Interface) tools
 * [ABI decoder](https://github.com/ConsenSys/abi-decoder) - library for decoding data params and events from Ethereum transactions
-* [ABI-gen](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/abi-gen) - Generate Typescript contract wrappers from contract ABI's.
+* [ABI-gen](https://www.npmjs.com/package/@0x/abi-gen) - Generate Typescript contract wrappers from contract ABI's.
 * [Ethereum ABI UI](https://github.com/hiddentao/ethereum-abi-ui) - Auto-generate UI form field definitions and associated validators from an Ethereum contract ABI
 * [headlong](https://github.com/esaulpaugh/headlong/) - type-safe Contract ABI and Recursive Length Prefix library in Java
 * [One Click dApp](https://oneclickdapp.com) -  Instantly create a dApp at a unique URL using the ABI. 
@@ -259,7 +257,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 
 #### Messaging
 * [Whisper](https://github.com/ethereum/wiki/wiki/Whisper) - Communication protocol for DApps to communicate with each other, a native base layer service of the Ethereum web3 stack
-* [DEVp2p Wire Protocol](https://github.com/ethereum/devp2p/blob/master/devp2p.md) - Peer-to-peer communications between nodes running Ethereum/Whisper
+* [DEVp2p Wire Protocol](https://github.com/ethereum/devp2p/blob/master/rlpx.md) - Peer-to-peer communications between nodes running Ethereum/Whisper
 * [Pydevp2p](https://github.com/ethereum/pydevp2p) - Python implementation of the RLPx network layer
 
 ### Testing Tools
@@ -303,6 +301,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Solidity security blog](https://github.com/sigp/solidity-security-blog) - Comprehensive list of known attack vectors and common anti-patterns
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
 * [Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) - Free smart contract security audits from Callisto Network
+* [Piet](https://piet.slock.it) - A visual Solidity architecture analyzer
 
 ### Monitoring
 * [amberdata.io](https://amberdata.io) - Provides live monitoring, insights and anomaly detection, token metrics, smart contract audits, graph visualization and blockchain search.
@@ -313,11 +312,11 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [BlockScout](https://github.com/poanetwork/blockscout) - A tool for inspecting and analyzing EVM based blockchains. The only full featured blockchain explorer for Ethereum networks.
 
 ### Other Miscellaneous Tools
-* [aragonPM](https://hack.aragon.org/docs/apm.html) - a decentralized package manager powered by aragonOS and Ethereum. aragonPM enables decentralized governance over package upgrades, removing centralized points of failure.
+* [aragonPM](https://hack.aragon.org/docs/apm-intro.html) - a decentralized package manager powered by aragonOS and Ethereum. aragonPM enables decentralized governance over package upgrades, removing centralized points of failure.
 * [Truffle boxes](https://truffleframework.com/boxes/) - Packaged components for building DApps fast.
    * [Cheshire](https://github.com/endless-nameless-inc/cheshire) - A local sandbox implementation of the CryptoKitties API and smart contracts, available as a Truffle Box
 * [Solc](https://solidity.readthedocs.io/en/latest/using-the-compiler.html?highlight=bin) - Solidity compiler
-* [Sol-compiler](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/sol-compiler) - Project-level Solidity compiler
+* [Sol-compiler](https://sol-compiler.com/) - Project-level Solidity compiler
 * [Solidity cli](https://github.com/pubkey/solidity-cli) - Compile solidity-code faster, easier and more reliable
 * [Solidity flattener](https://github.com/poanetwork/solidity-flattener) - Combine solidity project to flat file utility. Useful for visualizing imported contracts or for verifying your contract on Etherscan
 * [Sol-merger](https://github.com/RyuuGan/sol-merger) - Alternative, merges all imports into single file for solidity contracts
@@ -404,7 +403,6 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 #### Prebuilt UI Components
 * [aragonUI](https://ui.aragon.org) - A React library including Dapp components
 * [components.bounties.network](https://components.bounties.network) - A React library including Dapp components
-* [lorikeet.design](https://lorikeet.design) - A React library including Dapp components
 * [ui.decentraland.org](https://github.com/decentraland/ui) - A React library including Dapp components
 * [dapparatus](https://github.com/austintgriffith/dapparatus) - Reusable React Dapp components
 * [Metamask ui](https://github.com/MetaMask/metamask-extension/tree/develop/ui/app/components) - Metamask React Components
