@@ -265,7 +265,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
    * [TEMPORAL](https://github.com/RTradeLtd/Temporal) - Easy to use API into IPFS and other distributed/decentralised storage protocols
 * [Swarm](https://swarm-gateways.net/) - Distributed storage platform and content distribution service, a native base layer service of the Ethereum web3 stack
 * [Infura](https://infura.io/) - A managed IPFS API Gateway and pinning service
-* [3Box Storgae](https://docs.3box.io/api/storage) - An api for user controlled, distrubuted storage. Built on top of IPFS and Orbitdb.
+* [3Box Storage](https://docs.3box.io/api/storage) - An api for user controlled, distrubuted storage. Built on top of IPFS and Orbitdb.
 
 
 #### Messaging
