@@ -28,16 +28,16 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Mnemonic generator](https://iancoleman.io/bip39/) - generate word mnemonic and associated public/private key pairs. Select "Ethereum" as coin to generate Ethereum addresses. Useful for truffle-hd-wallet.
 
 #### Mobile Wallets
-* [Coinbase Wallet](https://github.com/CoinbaseWallet) - Mobile Dapp explorer and [wallet](https://itunes.apple.com/us/app/coinbase-wallet/id1278383455)
+* [Coinbase Wallet](https://github.com/CoinbaseWallet) - Mobile Dapp explorer and [wallet](https://apps.apple.com/us/app/coinbase-wallet/id1278383455)
 * [Cipher](https://www.cipherbrowser.com/) - Mobile Dapp explorer
-* [Trust](https://github.com/TrustWallet/trust-wallet-ios) - Mobile [wallet](https://trustwallet.com/) for ERC tokens
+* [Trust](https://github.com/trustwallet) - Mobile [wallet](https://trustwallet.com/) for ERC tokens
 * [Status](https://github.com/status-im/status-react) - A free open-source, mobile OS for Ethereum
 * [imToken](https://token.im/) - Feature-rich digital asset mobile wallet enabling multi-chain asset management, DApp browsing and secure, private exchange of value
 * [Jaxx](https://jaxx.io) - Both a mobile and a desktop wallet. Has integrated Shapeshift support
 * [WallETH](https://walleth.org) - Native Android Ethereum Wallet
 * [eth-wallet-light](https://github.com/NoahZinsmeister/eth-wallet-light) - Lightweight JS Wallet optimized for mobile
 * [Metamask](https://play.google.com/apps/testing/io.metamask) - Mobile Ether wallet with ERC tokens support **beta**
-* [WiniWallet](https://winiwallet.io) - Wallet for DAI stablecoin with multiple DeFi investment
+* [WiniWallet](https://www.winiwallet.io/) - Wallet for DAI stablecoin with multiple DeFi investment
 
 
 #### Hardware Wallets
@@ -47,8 +47,8 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 
 ### Block explorers
 * [Etherscan](https://etherscan.io/) - most popular centralized way to view Eth transactions and contract code
-* [BlockScout](https://github.com/poanetwork/blockscout) - Open Source Ethereum Block explorer, funded by [Ethprize](http://ethprize.io) and developed by [POA](https://poa.net)
-* [QuickBlocks](https://github.com/Great-Hill-Corporation/quickBlocks) - QuickBlocks is a collection of software libraries, applications, tools, and examples that allow you to retrieve Ethereum blockchain data (a) more quickly, (b) with higher information content, (c) in an fully decentralized way, (d) in a fully automated way, and (e) in a highly maintenance free way.)
+* [BlockScout](https://github.com/poanetwork/blockscout) - Open Source Ethereum Block explorer, funded by [Ethprize](http://ethprize.io) and developed by [POA](https://poa.network/)
+* [TrueBlocks](https://github.com/Great-Hill-Corporation/trueblocks-core) - TrueBlocks is a collection of software libraries, applications, tools, and examples that allow you to retrieve Ethereum blockchain data (a) more quickly, (b) with higher information content, \(c\) in an fully decentralized way, (d) in a fully automated way, and (e) in a highly maintenance free way.)
 * [Etherchain lite](https://github.com/gobitfly/etherchain-light) - Lightweight blockchain explorer for your private Ethereum chain
 * [EthStats](https://ethstats.io/) - The Ethereum Blockchain Analytics Platform
 * [Scout](https://scout.cool/) - A live data feed of the activities and event logs of your smart contracts on Ethereum
@@ -57,16 +57,15 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 ### Gas price calculators and tools
 * [EthGasStation](https://ethgasstation.info/) - Website for estimating tx prices vs times
 * [Petrometer](https://github.com/makerdao/petrometer) - Summarises daily and total gas consumption of all transactions sent from a specified Ethereum address
-* [CryptoProf](https://github.com/doc-ai/cryptoprof) - Gas profiler for smart contracts
 
 ### Services
 * [Provable](http://docs.provable.xyz/#ethereum) - Blockchain oracle service backed by authenticity proofs, for your smart contracts
 * [Infura](https://infura.io/) - API gateway so you don't have to host your own ETH node
 * [Quiknode](https://quiknode.io/) - Service to spin up personal Parity/Geth nodes
 * [Nodesmith](https://nodesmith.io/) - Free API access to full Ethereum mainnet and testnet nodes, can be used just like a local node
-* [dfuse](https://dfuse.io) - Slick blockchain APIs to build world-class applications.
+* [dfuse](https://dfuse.io) - Slick blockchain APIs to build world-class applications
 * [Regis](https://regis.nu/) - Registry Framework for Digital Assets
-* [Viant](https://viant.io/) - Just consider using Viant as your backend if the use case is business process oriented
+* [Treum](https://treum.io/) - Just consider using Treum as your backend if the use case is business process oriented, formerly Viant
 * [uPort](https://www.uport.me/) - Total identity solution
 * [Ether Address Lookup](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn?hl=en-GB) - Chrome extension for phishing protection and Eth address highlighting
 * [Netstats](https://github.com/cubedro/eth-netstats) - Ethereum Network [Stats](https://ethstats.net/)
@@ -91,7 +90,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Blockgeeks](https://courses.blockgeeks.com/) - Paid courses on solidity/dapp development
 * [Chainshot building blocks](https://www.chainshot.com/) - Free Project-Based Courses and Challenges
 * [Kauri](https://kauri.io/) - Openly accessible community knowledge base and tutorials
-* [Delegate call](https://delegatecall.com/) - Q&A site
+* [Delegate call](https://cleverflare.com/) - Courses
 * [Stackexchange](https://ethereum.stackexchange.com) - Q&A site
 * [r/EthDev](https://www.reddit.com/r/ethdev/) - Subreddit
 * [Reducing Gas Fees](https://medium.com/stk-token/research-of-the-week-reducing-gas-fees-9061d19cc171) - Tips and tricks to reducing gas spent on execution
@@ -105,7 +104,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Safety wiki](https://github.com/ethereum/wiki/wiki/Safety) - Ethereum Foundation wiki on safety
 
 #### Solidity Games!
-* [OpenZeppelin Ethernaut](https://ethernaut.zeppelin.solutions) - Web3/Solidity based wargame
+* [OpenZeppelin Ethernaut](https://ethernaut.openzeppelin.com/) - Web3/Solidity based wargame
 * [Cryptozombies](https://cryptozombies.io/) - The best undead tutorial in the world
 * [Capture the Ether](https://capturetheether.com/)
 
@@ -125,7 +124,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Solidity cheat sheet](https://topmonks.github.io/solidity_quick_ref/) - Quick overview of Solidity syntax
 
 ### Governance
-* [Ethresear.ch](https://ethresear.ch/) - Semi-public forum for participating in Ethereum's research efforts, including but not limited to: Casper, Sharding, EVM improvements, Crytpeconomics, Plasma and State-channels
+* [Ethresear.ch](https://ethresear.ch/) - Semi-public forum for participating in Ethereum's research efforts, including but not limited to: Casper, Sharding, EVM improvements, Cryptoeconomics, Plasma and State-channels
 * [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/) - This discussion board facilitates meaningful communications among individuals throughout the Ethereum community
 * [EIPs](https://eips.ethereum.org/) - The Ethereum Improvement Proposal repository
 * [Aragon Research Forum](https://forum.aragon.org/) - Long-form discussions related to Aragon's research efforts including governance, economics, and token engineering
@@ -136,18 +135,18 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Radar relay](https://app.radarrelay.com/)
 * [ERC Dex](https://ercdex.com/)
 * [DDEX](https://ddex.io)
-* [Ethfinex](https://www.ethfinex.com)
+* [Deversifi](https://www.deversifi.com/)
 * [LedgerDex](https://www.ledgerdex.com)
 * [Bamboo Relay](https://www.bamboorelay.com)
 * [Instex](https://app.instex.io)
-* [Starbit](https://www.starbitex.com)
+* [Starbit](https://exchange.star-bit.io/)
 * [Opensea.io](https://Opensea.io) - decentralized exchange of cryptocollectibles
 * [Bancor](https://www.bancor.network/)
 * [Kyber](https://www.kyber.network)
 * [Gnosis Dutch Exchange](https://github.com/gnosis/dx-contracts)
 
 ### Secure Decentralized Data Protocols
-* [Stow](https://stow-protocol.com/) - Securely store and share data for your users in minutes with our components and SDK. Formerly Linnia.
+* [Stow](https://github.com/stow-protocol) - Securely store and share data for your users in minutes with our components and SDK. Formerly Linnia.
 
 ### Incentivisation / Monetisation Tools
 * [Gitcoin](https://gitcoin.co) - Bounty network for funding Open Source or finding Open Source work
