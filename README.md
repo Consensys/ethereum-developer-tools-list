@@ -294,6 +294,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Doppelgänger](https://getdoppelganger.io/) - a library for mocking smart contract dependencies during unit testing.
 * [rocketh](https://github.com/wighawag/rocketh) - A simple lib to test ethereum smart contract that allow to use whatever web3 lib and test runner you choose.
 * [pytest-cobra](https://github.com/cobraframework/pytest-cobra) - PyTest plugin for testing smart contracts for Ethereum blockchain.
+* [ABDK Toolkit](https://toolkit.abdk.consulting/ethereum) - Encode/decode raw transaction (signed or unsigned), calculate contract address before deployment (CREATE2 supported), encode/decode RLP, and other useful tools for Ethereum developers
 
 ### Security Tools
 * [MythX](https://mythx.io/) - Security verification platform and tools ecosystem for Ethereum developers
