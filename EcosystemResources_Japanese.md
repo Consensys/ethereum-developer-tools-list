@@ -66,7 +66,7 @@ Ethereumエコシステムを学習・理解するためのDApps、サービス�
 * [Regis](https://regis.nu/) - デジタル資産の登録サービス 
 * [Viant](https://viant.io/) - ビジネスプロセスの用途ならViantをバックエンドに利用することを検討してください 
 * [uPort](https://www.uport.me/) - 総合IDソリューション 
-* [Ether Address Lookup](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn?hl=en-GB) - フィッシング詐欺帽子とETHアドレスのハイライト機能を持つChrome拡張 
+* [Ether Address Lookup](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn?hl=en-GB) - フィッシング詐欺防止とETHアドレスのハイライト機能を持つChrome拡張 
 * [Netstats](https://github.com/cubedro/eth-netstats) - Ethereumネットワークの[ステータス](https://ethstats.net/)
 * [ENS](https://github.com/ensdomains) - ENSはシンプルで人間が読める[名前](https://ens.domains/)を使って、ブロックチェーン内外のリソースに対応させるセキュアで非中央集権な方法を提供
 * [Name Bazaar](https://namebazaar.io/) - ENSで登録されたドメイン名のマーケットプレイス 
