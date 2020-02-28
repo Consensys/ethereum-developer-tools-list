@@ -122,6 +122,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [EVM illustrated](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf) - This is an illustrated document about the Ethereum Virtual Machine
 * [4bytes](https://github.com/ethereum-lists/4bytes) - List of 4byte identifiers to common smart contract functions [function signatures](https://www.4byte.directory/)
 * [Solidity cheat sheet](https://topmonks.github.io/solidity_quick_ref/) - Quick overview of Solidity syntax
+* [Solidity & Vyper cheat sheet](http://reference.auditless.com/cheatsheet/) - Side-by-side cheat sheet for Solidity and Vyper
 
 ### Governance
 * [Ethresear.ch](https://ethresear.ch/) - Semi-public forum for participating in Ethereum's research efforts, including but not limited to: Casper, Sharding, EVM improvements, Cryptoeconomics, Plasma and State-channels
