@@ -77,9 +77,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 ### Developing Smart Contracts
 #### Smart Contract Languages
 * [Solidity](https://solidity.readthedocs.io/en/latest/) - Ethereum smart contracting language
-* [Bamboo](https://github.com/CornellBlockchain/bamboo) - A morphing smart contract language
 * [Vyper](https://vyper.readthedocs.io/en/latest/) - New experimental pythonic programming language
-* [Flint](https://docs.flintlang.org/) - New language under development with security features including asset types, state transition, and safe integers
 
 #### Frameworks
 * [Truffle](https://trufflesuite.com/) - Most popular smart contract development, testing, and deployment framework. The Truffle suite includes Truffle, [Ganache](https://github.com/trufflesuite/ganache), and [Drizzle](https://github.com/truffle-box/drizzle-box). [Deep dive on Truffle here](https://media.consensys.net/truffle-deep-dive-what-you-need-to-know-when-developing-on-ethereum-e548d4df6e9)
