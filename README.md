@@ -72,6 +72,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Kauri.io](https://kauri.io/) - A community based knowledge platform for web3 and emerging technologies. Share curated content and collaborate on up-to-date and high-quality technical articles and series. Checkout the [Getting Started community](https://kauri.io/community/5d9b16fc890d310001b66e1b) to learn the basics.
 * [dfuse](https://dfuse.io) - Slick blockchain APIs to build world-class applications.
 * [Biconomy](https://biconomy.io) - Do gasless transactions in your dapp by enabling meta-transactions using simple to use SDK.
+* [Buidler's tutorial for beginners](https://buidler.dev/tutorial/) - A beginners guide to Ethereum contracts and dApp development
 
 ## Developer Tools
 ### Developing Smart Contracts
@@ -91,6 +92,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [sbt-ethereum](https://sbt-ethereum.io/) - A tab-completey, text-based console for smart-contract interaction and development, including wallet and ABI management, ENS support, and advanced Scala integration.
 * [Brownie](https://github.com/iamdefinitelyahuman/brownie) - Brownie is a Python framework for deploying, testing and interacting with Ethereum smart contracts.
 * [Cobra](https://github.com/cobraframework/cobra) - A fast, flexible and simple development environment framework for Ethereum smart contract, testing and deployment on Ethereum virtual machine(EVM).
+* [Buidler](https://buidler.dev/) - Extensible developer tool that helps smart contract developers increase productivity by reliably bringing together the tools they want.
 
 #### IDEs
 * [Remix](https://remix.ethereum.org/) - Web IDE with built in static analysis, test blockchain VM.
@@ -105,7 +107,6 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 
 ### Other tools
 * [Atra Blockchain Services](https://console.atra.io) - Atra provides web services to help you build, deploy, and maintain decentralized applications on the Ethereum blockchain.
-* [Buidler](https://buidler.dev/) - Extensible developer tool that helps smart contract developers increase productivity by reliably bringing together the tools they want.
 * [Azure Blockchain Dev Kit for Ethereum for VSCode](https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain) - VSCode extension that allows for creating smart contracts and deploying them inside of Visual Studio Code
 
 ### Test blockchain networks
@@ -124,6 +125,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Infura](https://infura.io/) - Ethereum API access to Ethereum networks (Mainnet, Ropsten, Rinkeby, Goerli, Kovan)
 * [CloudFlare Distributed Web Gateway](https://cloudflare.com/distributed-web-gateway/) - Provides access to the Ethereum network through the Cloudflare instead of running your own node
 * [Chainstack](https://chainstack.com/) - Shared and dedicated Ethereum nodes as a service (Mainnet, Ropsten)
+* [Buidler EVM](https://buidler.dev/buidler-evm/) - A local Ethereum network that allows you to print logging messages and contract variables calling `console.log()` from your Solidity code
 
 #### Test Ether faucets
 * [Rinkeby faucet](https://faucet.rinkeby.io/)
