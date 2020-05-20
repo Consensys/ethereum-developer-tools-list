@@ -80,6 +80,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Aave SDK](https://github.com/aave/aave-js) - JavaScript library to connect with the APIs of the Aave ecosystem as the decentralized lending marketplace [ETHLend](https://ethlend.io).
 * [Rockside Cloud](https://rockside.io) - Ethereum network access provider and consortium blockchain builder
 * [Chainstack](https://chainstack.com/) - Shared and dedicated Ethereum nodes as a service
+* [BUIDLHub](https://buidlhub.com) - Create automated workflows between traditional web services & ethereum. Supports bots, webhooks, custom dapp integrations, etc.
 
 ### Knowledge/Education
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
