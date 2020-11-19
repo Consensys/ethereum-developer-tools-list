@@ -379,6 +379,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [0x](https://github.com/0xProject) - DEX protocol
 * [Token Libraries with Proofs](https://github.com/sec-bit/tokenlibs-with-proofs) - Contains correctness proofs of token contracts wrt. given specifications and high-level properties
 * [Provable API](https://github.com/provable-things/ethereum-api) - Provides contracts for using the Provable service, allowing for off-chain actions, data-fetching, and computation
+* [ABDK Libraries for Solidity](https://github.com/abdk-consulting/abdk-libraries-solidity) - Fixed-point (64.64 bit) and IEEE-754 compliant quad precision (128 bit) floating-point math libraries for Solidity
 
 
 ### Developer Guides for 2nd Layer Infrastructure
