@@ -58,7 +58,6 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
       - [Privacy / Confidentiality](#privacy--confidentiality)
         - [zkSNARKs](#zksnarks)
       - [Prebuilt UI Components](#prebuilt-ui-components)
-  - [Dapps (Ethereum Apps)](#dapps-ethereum-apps)
 
 ## New developers start here
 * [Solidity](https://solidity.readthedocs.io/en/latest/) - The most popular smart contract language.
@@ -434,7 +433,3 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [eth-button](https://eth-button.github.io/eth-button/) - Minimalist donation button
 * [Rimble Design System](https://rimble.consensys.design/) - Adaptable components and design standards for decentralized applications.
 * [3Box Plugins](https://docs.3box.io/build/plugins) - Drop in react components for social functionality. Including comments, profiles and messaging.
-
-## Dapps (Ethereum Apps)
-
-* [rTrees](https://rtrees.dappy.dev) - A no-loss donation app for growing real trees using DeFi interest.
