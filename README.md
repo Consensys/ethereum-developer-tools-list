@@ -226,6 +226,11 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
     * Upgradeability: Smart contracts can be upgraded to a newer version
     * Permission control: By using the `auth` and `authP` modifiers, you can protect functionality so only other apps or entities can access it
     * Forwarders: aragonOS apps can send their intent to perform an action to other apps, so that intent is forwarded if a set of requirements are met
+* [Diamond Standard](https://github.com/ethereum/EIPs/issues/2535)
+    * Organize contracts so they share the same contract storage and Ethereum address.
+    * Solves the 24KB max contract size limit.
+    * Upgrade diamonds by adding/replacing/removing any number of functions in a single transaction.
+    * Upgrades are transparent by recording them with a standard event.
 
 ##### Upgradeability
 * [Blog von Elena Dimitrova, Dev at colony.io](https://blog.colony.io/author/elena/)
