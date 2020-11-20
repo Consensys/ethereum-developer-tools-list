@@ -89,7 +89,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Consensys Academy](https://consensys.net/academy/) - Courses
 * [B9Lab](https://academy.b9lab.com/) - Paid courses
 * [Blockgeeks](https://courses.blockgeeks.com/) - Paid courses on solidity/dapp development
-* [Chainshot building blocks](https://www.chainshot.com/) - Free Project-Based Courses and Challenges
+* [Chainshot building blocks](https://www.chainshot.com/) - Paid Courses
 * [Kauri](https://kauri.io/) - Openly accessible community knowledge base and tutorials
 * [Delegate call](https://cleverflare.com/) - Courses
 * [Stackexchange](https://ethereum.stackexchange.com) - Q&A site
