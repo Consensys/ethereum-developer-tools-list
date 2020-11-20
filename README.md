@@ -156,6 +156,9 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
     * [purescript-web3](https://github.com/f-o-a-m/purescript-web3)
 * [ChainAbstractionLayer](https://github.com/liquality/chainabstractionlayer) - Communicate with different blockchains (including Ethereum) using a single interface.
 * [Delphereum](https://github.com/svanas/delphereum) - a Delphi interface to the Ethereum blockchain that allows for development of native dApps for Windows, macOS, iOS, and Android.
+* [Torus](https://tor.us/) - Open-sourced SDK to build dapps with a seamless onboarding UX
+* [Fortmatic](https://fortmatic.com/) - A simple to use SDK to build web3 dApps without extensions or downloads.
+* [Portis](https://portis.io/) - A non-custodial wallet with an SDK that enables easy interaction with DApps without installing anything.
 
 #### Backend Ethereum APIs
 * [Web3.py](https://github.com/ethereum/web3.py) - Python Web3
