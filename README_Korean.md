@@ -131,6 +131,8 @@
 * [드리즐(Drizzle)](https://github.com/truffle-box/drizzle-box) - 리덕스(Redux) 라이브러리 블록체인 프론트엔드와 연결합니다.
 * [dfuse](https://github.com/dfuse-io/client-js) - [dfuse Ethereum API](https://dfuse.io)를 사용하는 TypeScript 라이브러리
 * [Tasit SDK](https://github.com/tasitlabs/tasitsdk) - 리엑트 네이티브(React Native)를 사용하여 모바일 이더리움 dapps를 만들기 위한 자바스크립트 SDK 입니다.
+* [useMetamask](https://github.com/mdtanrikulu/use-metamask) - 이더리움 분산 응용 프로그램(Ethereum ĐApp) 프로젝트에서 메타마스크(Metamask) 를 관리하는 사용자 정의 React Hook
+* [WalletConnect](https://walletconnect.org/) - 월렛과 분산 애플리케이션 (DApp)을 연결하기위한 개방형 프로토콜
 * [Subproviders](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/subproviders) - [웹3 프로바이더 엔진(Web3-provider-engine)](https://github.com/MetaMask/provider-engine/) 과 함께 사용되는 여러가지 유용한 subproviders 입니다. (당신의 탈중앙화 어플리케이션을 지원하는 렛저(Ledger) 하드웨어 월렛을 위한 LedgerSubprovider를 포함합니다.)
 * [web3-react](https://github.com/NoahZinsmeister/web3-react) - 싱글페이지(single-page) 이더리움 dApps를 빌딩하기 위한 리액트 프레임워크 입니다.
 * [볼텍스(Vortex)](https://github.com/Horyus/vortex) - Dapp-ready 리덕스 Store 입니다. 웹소켓(WebSockets) 덕분에 효율적(Smart)이고 민첩(Dynamic)하게 백그라운드 데이터를 새로고침 합니다. [트러플](https://github.com/Horyus/vortex-demo) 과 [엠바크](https://github.com/Horyus/vortex-demo-embark)와 작동합니다.
@@ -154,7 +156,6 @@
 <a name="부트스트랩실행도구"></a>
 #### 부트스트랩(Bootstrap) / 실행(out of box) 도구
 * [트러플 박스(Truffle boxes)](https://truffleframework.com/boxes/) - 이더리움 생태계를 위한 패키지 컴포넌트 입니다.
-* [useMetamask](https://github.com/mdtanrikulu/use-metamask) - 이더리움 분산 응용 프로그램(Ethereum ĐApp) 프로젝트에서 메타마스크(Metamask) 를 관리하는 사용자 정의 React Hook
 * [Pantheon Private Network](https://docs.pantheon.pegasys.tech/en/latest/Getting-Started/Private-Network-Quickstart/) - 도커(Docker) 컨테이너 안에서 판테온(Pantheon) 노드의 프라이빗 네트워크를 사용할 수 있습니다.
 * [Testchains](https://github.com/Nethereum/TestChains) - 빠른 반응을 위한 닷넷 데브체인(devchains) 사전구성(Pre-configured) 입니다(PoA). ** [Blazor/Blockchain Explorer](https://github.com/Nethereum/NethereumBlazor) - 와즘(Wasm) 블록체인 익스플로러 입니다. (샘플 기능)
 * [로컬 라이덴(Local Raiden)](https://github.com/ConsenSys/Local-Raiden) - 데모(demo)와 테스트 목적으로 도커 컨테이너에서 로컬 라이덴 네트워크를 실행 합니다.

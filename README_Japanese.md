@@ -79,6 +79,8 @@ Ethereum開発で利用可能なツール、コンポーネント、パターン
 
 * [Drizzle](https://github.com/truffle-box/drizzle-box) -  フロントエンドからブロックチェーンに繋ぐためのReduxライブラリ
 * [dfuse](https://github.com/dfuse-io/client-js) - [dfuse Ethereum API](https://dfuse.io)を使用するTypeScriptライブラリ
+* [useMetamask](https://github.com/mdtanrikulu/use-metamask) - イーサリアム自律分散型アプリケーション（EthereumĐApp）プロジェクトでメタマスク（Metamask）を管理するカスタムReact Hook。
+* [WalletConnect](https://walletconnect.org/) - ウォレットを分散型アプリケーション（DApp）に接続するためのオープンプロトコル。
 * [Subproviders](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/subproviders) - [Web3-provider-engine](https://github.com/MetaMask/provider-engine/) と接続するためのいくつかの便利なsubproviders(ハードウェアウォレットLedgerサポートをdAppに追加するためのLedgerSubproviderを含む)
 * [web3-webpacked](https://github.com/NoahHydro/web3-webpacked) - Web3を利用するためのJSフレームワーク。
 * [Vortex](https://github.com/Horyus/vortex) - DApp対応したReduxストア。WebSocketでスマートでダイナミックなバックグラウンドデータの更新が可能。 [Truffle](https://github.com/Horyus/vortex-demo)と[Embark](https://github.com/Horyus/vortex-demo-embark)で利用可能。
@@ -102,7 +104,6 @@ Ethereum開発で利用可能なツール、コンポーネント、パターン
 
 #### ブートストラップ
 * [Truffle boxes](http://truffleframework.com/boxes/) - Ethereumエコシステムのためのパッケージされたコンポーネント。
-* [useMetamask](https://github.com/mdtanrikulu/use-metamask) - イーサリアム自律分散型アプリケーション（EthereumĐApp）プロジェクトでメタマスク（Metamask）を管理するカスタムReact Hook。
 * [Local Raiden](https://github.com/ConsenSys/Local-Raiden) - デモやテストのためにDockerコンテナ上でRaidenを可動させる環境。
 * [Private networks deployment scripts](https://github.com/ConsenSys/private-networks-deployment-scripts) - プライベートPoAチェーン構築のためのクリエイティブなスクリプト。
 * [Parity Demo-PoA Tutorial](https://wiki.parity.io/Demo-PoA-tutorial.html) - 2ノードによるParity PoAテストネットを構築するためのチュートリアル。 

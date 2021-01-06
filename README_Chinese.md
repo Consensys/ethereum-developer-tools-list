@@ -153,6 +153,8 @@ https://github.com/ConsenSys/ethereum-developer-tools-list/pull/70
 * [dfuse](https://github.com/dfuse-io/client-js) - 使用TypeScript实现的[dfuse Ethereum API](https://dfuse.io) 以太坊API库 
 * [Drizzle](https://github.com/truffle-box/drizzle-box) - Redux库将前端连接到区块链
 * [Tasit SDK](https://github.com/tasitlabs/tasitsdk) -一个React Native库，使用在移动端与以太坊进行交互。
+* [useMetamask](https://github.com/mdtanrikulu/use-metamask) - 一个自定义的React Hook来管理以太坊ĐApp项目中的Metamask
+* [WalletConnect](https://walletconnect.org/) - 用于将电子钱包连接到分散应用程序（DApp）的开放协议
 * [Subproviders](https://0x.org/docs/tools/subproviders) - 与[Web3-provider-engine](https://github.com/MetaMask/web3-provider-engine)  结合使用的几个有用的子提供商（包括用于向您的dApp添加Ledger硬件钱包）
 * [ethvtx](https://github.com/ticket721/ethvtx) - 支持以太坊＆框架无关的Redux存储配置。[文档](https://ticket721.github.io/ethvtx/)
 * 严格类型-Javascript 替代者
@@ -183,7 +185,6 @@ https://github.com/ConsenSys/ethereum-developer-tools-list/pull/70
 
 #### 开箱即用工具
 * [Truffle boxes](https://trufflesuite.com/boxes) - 以太坊生态系统的打包组件
-* [useMetamask](https://github.com/mdtanrikulu/use-metamask) - 一个自定义的React Hook来管理以太坊ĐApp项目中的Metamask
 * [Besu Private Network](https://besu.hyperledger.org/en/stable/Tutorials/Quickstarts/Azure-Private-Network-Quickstart/) - 在Docker容器中运行Besu节点的专用网络
 * [Testchains](https://github.com/Nethereum/TestChains) - 用于快速响应（PoA）的预配置由.NET开发
 * [Blazor/Blockchain Explorer](https://github.com/Nethereum/NethereumBlazor) - Wasm区块链浏览器（功能示例）
