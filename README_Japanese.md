@@ -102,6 +102,7 @@ Ethereum開発で利用可能なツール、コンポーネント、パターン
 
 #### ブートストラップ
 * [Truffle boxes](http://truffleframework.com/boxes/) - Ethereumエコシステムのためのパッケージされたコンポーネント。
+* [useMetamask](https://github.com/mdtanrikulu/use-metamask) - イーサリアム自律分散型アプリケーション（EthereumĐApp）プロジェクトでメタマスク（Metamask）を管理するカスタムReact Hook。
 * [Local Raiden](https://github.com/ConsenSys/Local-Raiden) - デモやテストのためにDockerコンテナ上でRaidenを可動させる環境。
 * [Private networks deployment scripts](https://github.com/ConsenSys/private-networks-deployment-scripts) - プライベートPoAチェーン構築のためのクリエイティブなスクリプト。
 * [Parity Demo-PoA Tutorial](https://wiki.parity.io/Demo-PoA-tutorial.html) - 2ノードによるParity PoAテストネットを構築するためのチュートリアル。 

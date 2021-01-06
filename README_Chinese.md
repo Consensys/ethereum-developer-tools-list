@@ -183,6 +183,7 @@ https://github.com/ConsenSys/ethereum-developer-tools-list/pull/70
 
 #### 开箱即用工具
 * [Truffle boxes](https://trufflesuite.com/boxes) - 以太坊生态系统的打包组件
+* [useMetamask](https://github.com/mdtanrikulu/use-metamask) - 一个自定义的React Hook来管理以太坊DApp项目中的Metamask
 * [Besu Private Network](https://besu.hyperledger.org/en/stable/Tutorials/Quickstarts/Azure-Private-Network-Quickstart/) - 在Docker容器中运行Besu节点的专用网络
 * [Testchains](https://github.com/Nethereum/TestChains) - 用于快速响应（PoA）的预配置由.NET开发
 * [Blazor/Blockchain Explorer](https://github.com/Nethereum/NethereumBlazor) - Wasm区块链浏览器（功能示例）
