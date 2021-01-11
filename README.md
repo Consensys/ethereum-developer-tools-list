@@ -29,12 +29,12 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
       - [Frameworks](#frameworks)
       - [IDEs](#ides)
     - [Other tools](#other-tools)
-    - [Test blockchain networks](#test-blockchain-networks)
-      - [Test Ether faucets](#test-ether-faucets)
+    - [Test Blockchain Networks](#test-blockchain-networks)
+      - [Test Ether Faucets](#test-ether-faucets)
     - [Communicating with Ethereum](#communicating-with-ethereum)
       - [Frontend Ethereum APIs](#frontend-ethereum-apis)
       - [Backend Ethereum APIs](#backend-ethereum-apis)
-      - [Bootstrap/out of box tools](#bootstrapout-of-box-tools)
+      - [Bootstrap/Out-of-Box tools](#bootstrapout-of-box-tools)
       - [Ethereum ABI (Application Binary Interface) tools](#ethereum-abi-application-binary-interface-tools)
       - [Patterns & Best Practices](#patterns--best-practices)
         - [Patterns for Smart Contract Development](#patterns-for-smart-contract-development)
@@ -56,7 +56,9 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
       - [Plasma](#plasma)
       - [Side-Chains](#side-chains)
       - [Privacy / Confidentiality](#privacy--confidentiality)
-        - [zkSNARKs](#zksnarks)
+        - [ZK-SNARKs](#zk-snarks)
+      - [Scalability + Privacy](#scalability--privacy)
+      - [ZK-STARKs](#zk-starks)
       - [Prebuilt UI Components](#prebuilt-ui-components)
 
 ## New developers start here
@@ -68,7 +70,8 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [OpenZeppelin Starter Kits](https://openzeppelin.com/starter-kits/) - An all-in-one starter box for developers to jumpstart their smart contract backed applications. Includes Truffle, OpenZeppelin SDK, the OpenZeppelin/contracts-ethereum-package EVM package of audited smart contract, a react-app and rimble for easy styling.
 * [EthHub.io](https://docs.ethhub.io/) - Comprehensive crowdsourced overview of Ethereum- its history, governance, future plans and development resources.
 * [EthereumDev.io](https://ethereumdev.io) - The definitive guide for getting started with Ethereum smart contract programming.
-* [Cobra](https://github.com/cobraframework/cobra) - A fast, flexible and simple development environment framework for Ethereum smart contract, testing and deployment on Ethereum virtual machine(EVM).
+* [Brownie](https://github.com/iamdefinitelyahuman/brownie) - Brownie is a Python framework for deploying, testing and interacting with Ethereum smart contracts.
+* [Ethereum Stack Exchange](https://ethereum.stackexchange.com/) - Post and search questions to help your development life cycle. 
 * [Kauri.io](https://kauri.io/) - A community based knowledge platform for web3 and emerging technologies. Share curated content and collaborate on up-to-date and high-quality technical articles and series. Checkout the [Getting Started community](https://kauri.io/community/5d9b16fc890d310001b66e1b) to learn the basics.
 * [dfuse](https://dfuse.io) - Slick blockchain APIs to build world-class applications.
 * [Biconomy](https://biconomy.io) - Do gasless transactions in your dapp by enabling meta-transactions using simple to use SDK.
@@ -82,6 +85,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 #### Frameworks
 * [Truffle](https://trufflesuite.com/) - Most popular smart contract development, testing, and deployment framework. The Truffle suite includes Truffle, [Ganache](https://github.com/trufflesuite/ganache), and [Drizzle](https://github.com/truffle-box/drizzle-box). [Deep dive on Truffle here](https://media.consensys.net/truffle-deep-dive-what-you-need-to-know-when-developing-on-ethereum-e548d4df6e9)
 * [Hardhat](https://hardhat.org/) - Flexible, extensible and fast Ethereum development environment.
+* [Brownie](https://github.com/iamdefinitelyahuman/brownie) - Brownie is a Python framework for deploying, testing and interacting with Ethereum smart contracts.
 * [Embark](https://github.com/embark-framework/embark) - Framework for DApp development
 * [Waffle](https://getwaffle.io/) - Framework for advanced smart contract development and testing, small, flexible, fast (based on ethers.js)
 * [Dapp](https://dapp.tools/dapp/) - Framework for DApp development, successor to DApple
@@ -90,8 +94,8 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [0xcert](https://github.com/0xcert/framework/) - JavaScript framework for building decentralized applications
 * [OpenZeppelin SDK](https://openzeppelin.com/sdk/) - OpenZeppelin SDK: A suite of tools to help you develop, compile, upgrade, deploy and interact with smart contracts.
 * [sbt-ethereum](https://sbt-ethereum.io/) - A tab-completey, text-based console for smart-contract interaction and development, including wallet and ABI management, ENS support, and advanced Scala integration.
-* [Brownie](https://github.com/iamdefinitelyahuman/brownie) - Brownie is a Python framework for deploying, testing and interacting with Ethereum smart contracts.
 * [Cobra](https://github.com/cobraframework/cobra) - A fast, flexible and simple development environment framework for Ethereum smart contract, testing and deployment on Ethereum virtual machine(EVM).
+* [Epirus](https://docs.epirus.io/sdk/) - Java framework for building smart contracts. 
 
 #### IDEs
 * [Remix](https://remix.ethereum.org/) - Web IDE with built in static analysis, test blockchain VM.
@@ -162,6 +166,8 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Torus](https://tor.us/) - Open-sourced SDK to build dapps with a seamless onboarding UX
 * [Fortmatic](https://fortmatic.com/) - A simple to use SDK to build web3 dApps without extensions or downloads.
 * [Portis](https://portis.io/) - A non-custodial wallet with an SDK that enables easy interaction with DApps without installing anything.
+* [create-eth-app](https://github.com/paulrberg/create-eth-app) - Create Ethereum-powered front-end apps with one command.
+* [Scaffold-ETH](https://github.com/austintgriffith/scaffold-eth) - Beginner friendly forkable github for getting started building smart contracts. 
 
 #### Backend Ethereum APIs
 * [Web3.py](https://github.com/ethereum/web3.py) - Python Web3
