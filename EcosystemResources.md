@@ -168,3 +168,6 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [ETHLend](https://ethlend.io) - Decentralised peer to peer lending marketplace that allows people all over the world to get a loan or become a lender.
 * [Aave Pay](https://pay.aave.com) - Aave Pay allow users to pay in FIAT currencies to bank accounts using their cryptocurrencies.
 * [rTrees](https://rtrees.dappy.dev) - A no-loss donation app for growing real trees using DeFi interest.
+
+### Decentralized Cloud (Database, File Storage and Computing)
+* [Aleph.im](https://aleph.im) - an offchain incentivized peer-to-peer cloud project (database, file storage, computing and DID) compatible with Ethereum and IPFS.
