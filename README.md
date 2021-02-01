@@ -156,6 +156,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Drizzle](https://github.com/truffle-box/drizzle-box) - Redux library to connect a frontend to a blockchain
 * [Tasit SDK](https://github.com/tasitlabs/tasitsdk) - A JavaScript SDK for making native mobile Ethereum dapps using React Native
 * [useMetamask](https://github.com/mdtanrikulu/use-metamask) - a custom React Hook to manage Metamask in Ethereum ĐApp projects
+* [Web3Plug](https://gist.github.com/admazzola/eebaf1a760950d3e3b656cda5c23296d) - A helper library for connecting Metamask to your JS frontend
 * [WalletConnect](https://walletconnect.org/) - Open protocol for connecting Wallets to Dapps
 * [Subproviders](https://0x.org/docs/tools/subproviders) - Several useful subproviders to use in conjunction with [Web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) (including a LedgerSubprovider for adding Ledger hardware wallet support to your dApp)
 * [ethvtx](https://github.com/ticket721/ethvtx) - ethereum-ready & framework-agnostic redux store configuration. [docs](https://ticket721.github.io/ethvtx/)
