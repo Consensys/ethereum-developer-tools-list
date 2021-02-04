@@ -138,6 +138,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Goerli faucet](https://goerli-faucet.slock.it/)
 * [Universal faucet](https://faucets.blockxlabs.com/)
 * [Nethereum.Faucet](https://github.com/Nethereum/Nethereum.Faucet) - A C#/.NET faucet
+* [Ropsten faucet](https://faucet.rpanic.com)
 
 ### Communicating with Ethereum
 #### Frontend Ethereum APIs
