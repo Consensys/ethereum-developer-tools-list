@@ -134,7 +134,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 #### Test Ether Faucets
 * [Rinkeby faucet](https://faucet.rinkeby.io/)
 * [Kovan faucet](https://github.com/kovan-testnet/faucet)
-* [Ropsten faucet (Metamask)](https://faucet.metamask.io/)
+* [Ropsten faucet (MetaMask)](https://faucet.metamask.io/)
 * [Ropsten faucet (rpanic)](https://faucet.rpanic.com)
 * [Goerli faucet](https://goerli-faucet.slock.it/)
 * [Universal faucet](https://faucets.blockxlabs.com/)
