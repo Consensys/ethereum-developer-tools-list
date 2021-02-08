@@ -29,12 +29,12 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
       - [Frameworks](#frameworks)
       - [IDEs](#ides)
     - [Other tools](#other-tools)
-    - [Test blockchain networks](#test-blockchain-networks)
-      - [Test Ether faucets](#test-ether-faucets)
+    - [Test Blockchain Networks](#test-blockchain-networks)
+      - [Test Ether Faucets](#test-ether-faucets)
     - [Communicating with Ethereum](#communicating-with-ethereum)
       - [Frontend Ethereum APIs](#frontend-ethereum-apis)
       - [Backend Ethereum APIs](#backend-ethereum-apis)
-      - [Bootstrap/out of box tools](#bootstrapout-of-box-tools)
+      - [Bootstrap/Out-of-Box tools](#bootstrapout-of-box-tools)
       - [Ethereum ABI (Application Binary Interface) tools](#ethereum-abi-application-binary-interface-tools)
       - [Patterns & Best Practices](#patterns--best-practices)
         - [Patterns for Smart Contract Development](#patterns-for-smart-contract-development)
@@ -56,23 +56,27 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
       - [Plasma](#plasma)
       - [Side-Chains](#side-chains)
       - [Privacy / Confidentiality](#privacy--confidentiality)
-        - [zkSNARKs](#zksnarks)
+        - [ZK-SNARKs](#zk-snarks)
+      - [Scalability + Privacy](#scalability--privacy)
+      - [ZK-STARKs](#zk-starks)
       - [Prebuilt UI Components](#prebuilt-ui-components)
 
 ## New developers start here
 * [Solidity](https://solidity.readthedocs.io/en/latest/) - The most popular smart contract language.
-* [Truffle](https://trufflesuite.com/) - Most popular smart contract development, testing, and deployment framework. Install the cli via npm and start here to write your first smart contracts.
 * [Metamask](https://metamask.io/) - Chrome extension wallet to interact with Dapps.
+* [Truffle](https://trufflesuite.com/) - Most popular smart contract development, testing, and deployment framework. Install the cli via npm and start here to write your first smart contracts.
 * [Truffle boxes](https://trufflesuite.com/boxes) - Packaged components for the Ethereum ecosystem.
+* [Hardhat](https://hardhat.org/) - Flexible, extensible and fast Ethereum development environment.
+* [Cryptotux](https://cryptotux.org/) - A Linux image ready to be imported in VirtualBox that includes the development tools mentionned above
 * [OpenZeppelin Starter Kits](https://openzeppelin.com/starter-kits/) - An all-in-one starter box for developers to jumpstart their smart contract backed applications. Includes Truffle, OpenZeppelin SDK, the OpenZeppelin/contracts-ethereum-package EVM package of audited smart contract, a react-app and rimble for easy styling.
 * [EthHub.io](https://docs.ethhub.io/) - Comprehensive crowdsourced overview of Ethereum- its history, governance, future plans and development resources.
-* [Cobra](https://github.com/cobraframework/cobra) - A fast, flexible and simple development environment framework for Ethereum smart contract, testing and deployment on Ethereum virtual machine(EVM).
-* [Fortmatic](https://fortmatic.com/) - A simple to use SDK to build web3 dApps without extensions or downloads.
-* [Portis](https://portis.io/) - A non-custodial wallet with an SDK that enables easy interaction with DApps without installing anything.
+* [EthereumDev.io](https://ethereumdev.io) - The definitive guide for getting started with Ethereum smart contract programming.
+* [Brownie](https://github.com/iamdefinitelyahuman/brownie) - Brownie is a Python framework for deploying, testing and interacting with Ethereum smart contracts.
+* [Ethereum Stack Exchange](https://ethereum.stackexchange.com/) - Post and search questions to help your development life cycle. 
 * [Kauri.io](https://kauri.io/) - A community based knowledge platform for web3 and emerging technologies. Share curated content and collaborate on up-to-date and high-quality technical articles and series. Checkout the [Getting Started community](https://kauri.io/community/5d9b16fc890d310001b66e1b) to learn the basics.
 * [dfuse](https://dfuse.io) - Slick blockchain APIs to build world-class applications.
 * [Biconomy](https://biconomy.io) - Do gasless transactions in your dapp by enabling meta-transactions using simple to use SDK.
-* [Cryptotux](https://cryptotux.org/) - Linux images ready to be imported in VirtualBox with key development tools included
+* [Blocknative](https://blocknative.com) — Blockchain events before they happen. Blocknative's portfolio of developers tools make it easy to build with mempool data.
 
 ## Developer Tools
 ### Developing Smart Contracts
@@ -82,6 +86,8 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 
 #### Frameworks
 * [Truffle](https://trufflesuite.com/) - Most popular smart contract development, testing, and deployment framework. The Truffle suite includes Truffle, [Ganache](https://github.com/trufflesuite/ganache), and [Drizzle](https://github.com/truffle-box/drizzle-box). [Deep dive on Truffle here](https://media.consensys.net/truffle-deep-dive-what-you-need-to-know-when-developing-on-ethereum-e548d4df6e9)
+* [Hardhat](https://hardhat.org/) - Flexible, extensible and fast Ethereum development environment.
+* [Brownie](https://github.com/iamdefinitelyahuman/brownie) - Brownie is a Python framework for deploying, testing and interacting with Ethereum smart contracts.
 * [Embark](https://github.com/embark-framework/embark) - Framework for DApp development
 * [Waffle](https://getwaffle.io/) - Framework for advanced smart contract development and testing, small, flexible, fast (based on ethers.js)
 * [Dapp](https://dapp.tools/dapp/) - Framework for DApp development, successor to DApple
@@ -90,8 +96,8 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [0xcert](https://github.com/0xcert/framework/) - JavaScript framework for building decentralized applications
 * [OpenZeppelin SDK](https://openzeppelin.com/sdk/) - OpenZeppelin SDK: A suite of tools to help you develop, compile, upgrade, deploy and interact with smart contracts.
 * [sbt-ethereum](https://sbt-ethereum.io/) - A tab-completey, text-based console for smart-contract interaction and development, including wallet and ABI management, ENS support, and advanced Scala integration.
-* [Brownie](https://github.com/iamdefinitelyahuman/brownie) - Brownie is a Python framework for deploying, testing and interacting with Ethereum smart contracts.
 * [Cobra](https://github.com/cobraframework/cobra) - A fast, flexible and simple development environment framework for Ethereum smart contract, testing and deployment on Ethereum virtual machine(EVM).
+* [Epirus](https://docs.epirus.io/sdk/) - Java framework for building smart contracts. 
 
 #### IDEs
 * [Remix](https://remix.ethereum.org/) - Web IDE with built in static analysis, test blockchain VM.
@@ -106,10 +112,9 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 
 ### Other tools
 * [Atra Blockchain Services](https://console.atra.io) - Atra provides web services to help you build, deploy, and maintain decentralized applications on the Ethereum blockchain.
-* [Buidler](https://buidler.dev/) - Extensible developer tool that helps smart contract developers increase productivity by reliably bringing together the tools they want.
 * [Azure Blockchain Dev Kit for Ethereum for VSCode](https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain) - VSCode extension that allows for creating smart contracts and deploying them inside of Visual Studio Code
 
-### Test blockchain networks
+### Test Blockchain Networks
 * [ethnode](https://github.com/vrde/ethnode) - Run an Ethereum node (Geth or Parity) for development, as easy as `npm i -g ethnode && ethnode`.
 * [Ganache](https://github.com/trufflesuite/ganache) - App for test Ethereum blockchain with visual UI and logs
 * [Kaleido](https://kaleido.io/) - Use Kaleido for spinning up a consortium blockchain network. Great for PoCs and testing
@@ -125,11 +130,13 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Infura](https://infura.io/) - Ethereum API access to Ethereum networks (Mainnet, Ropsten, Rinkeby, Goerli, Kovan)
 * [CloudFlare Distributed Web Gateway](https://cloudflare.com/distributed-web-gateway/) - Provides access to the Ethereum network through the Cloudflare instead of running your own node
 * [Chainstack](https://chainstack.com/) - Shared and dedicated Ethereum nodes as a service (Mainnet, Ropsten)
+* [Alchemy](https://alchemyapi.io/) - Blockchain Developer Platform, Ethereum API, and Node Service (Mainnet, Ropsten, Rinkeby, Goerli, Kovan)
 
-#### Test Ether faucets
+#### Test Ether Faucets
 * [Rinkeby faucet](https://faucet.rinkeby.io/)
 * [Kovan faucet](https://github.com/kovan-testnet/faucet)
-* [Ropsten faucet](https://faucet.metamask.io/)
+* [Ropsten faucet (MetaMask)](https://faucet.metamask.io/)
+* [Ropsten faucet (rpanic)](https://faucet.rpanic.com)
 * [Goerli faucet](https://goerli-faucet.slock.it/)
 * [Universal faucet](https://faucets.blockxlabs.com/)
 * [Nethereum.Faucet](https://github.com/Nethereum/Nethereum.Faucet) - A C#/.NET faucet
@@ -137,26 +144,34 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 ### Communicating with Ethereum
 #### Frontend Ethereum APIs
 * [Web3.js](https://github.com/ethereum/web3.js/) - Javascript Web3
-    * [Eth.js](https://github.com/ethjs) - Javascript Web3 alternative
-    * [Ethers.js](https://github.com/ethers-io/ethers.js/) - Javascript Web3 alternative, useful utilities and wallet features
-    * [light.js](https://github.com/paritytech/js-libs/tree/master/packages/light.js) A high-level reactive JS library optimized for light clients.
-    * [Web3Wrapper](https://github.com/0xProject/0x-monorepo/tree/development/packages/web3-wrapper) - Typescript Web3 alternative
-    * [Ethereumjs](https://github.com/ethereumjs/) - A collection of utility functions for Ethereum like [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util) and [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx)
-    * [flex-contract](https://github.com/merklejerk/flex-contract) and [flex-ether](https://github.com/merklejerk/flex-ether) - Modern, zero-configuration, high-level libraries for interacting with smart contracts and making transactions.
-    * [ez-ens](https://github.com/merklejerk/ez-ens) - Simple, zero-configuration Ethereum Name Service address resolver.
-    * [web3x](https://github.com/xf00f/web3x) - A TypeScript port of web3.js. Benefits includes tiny builds and full type safety, including when interacting with contracts.
+* [Eth.js](https://github.com/ethjs) - Javascript Web3 alternative
+* [Ethers.js](https://github.com/ethers-io/ethers.js/) - Javascript Web3 alternative, useful utilities and wallet features
+* [light.js](https://github.com/paritytech/js-libs/tree/master/packages/light.js) A high-level reactive JS library optimized for light clients.
+* [Web3Wrapper](https://github.com/0xProject/0x-monorepo/tree/development/packages/web3-wrapper) - Typescript Web3 alternative
+* [Ethereumjs](https://github.com/ethereumjs/) - A collection of utility functions for Ethereum like [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util) and [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx)
+* [Alchemy-web3.js](https://github.com/alchemyplatform/alchemy-web3) - Javascript Web3 wrapper with automatic retries, access to [Alchemy's enhanced APIs](https://docs.alchemyapi.io/documentation/alchemy-web3/enhanced-web3-api), and robust websocket connections. 
+* [flex-contract](https://github.com/merklejerk/flex-contract) and [flex-ether](https://github.com/merklejerk/flex-ether) - Modern, zero-configuration, high-level libraries for interacting with smart contracts and making transactions.
+* [ez-ens](https://github.com/merklejerk/ez-ens) - Simple, zero-configuration Ethereum Name Service address resolver.
+* [web3x](https://github.com/xf00f/web3x) - A TypeScript port of web3.js. Benefits includes tiny builds and full type safety, including when interacting with contracts.
 * [Nethereum](https://github.com/Nethereum/) - Cross-platform Ethereum development framework
 * [dfuse](https://github.com/dfuse-io/client-js) - A TypeScript library to use [dfuse Ethereum API](https://dfuse.io)
 * [Drizzle](https://github.com/truffle-box/drizzle-box) - Redux library to connect a frontend to a blockchain
 * [Tasit SDK](https://github.com/tasitlabs/tasitsdk) - A JavaScript SDK for making native mobile Ethereum dapps using React Native
+* [useMetamask](https://github.com/mdtanrikulu/use-metamask) - a custom React Hook to manage Metamask in Ethereum ĐApp projects
+* [WalletConnect](https://walletconnect.org/) - Open protocol for connecting Wallets to Dapps
 * [Subproviders](https://0x.org/docs/tools/subproviders) - Several useful subproviders to use in conjunction with [Web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) (including a LedgerSubprovider for adding Ledger hardware wallet support to your dApp)
-* [web3-react](https://github.com/NoahZinsmeister/web3-react) - React framework for building single-page Ethereum dApps
 * [ethvtx](https://github.com/ticket721/ethvtx) - ethereum-ready & framework-agnostic redux store configuration. [docs](https://ticket721.github.io/ethvtx/)
 * Strictly Typed - Javascript alternatives
     * [elm-ethereum](https://github.com/cmditch/elm-ethereum)
     * [purescript-web3](https://github.com/f-o-a-m/purescript-web3)
 * [ChainAbstractionLayer](https://github.com/liquality/chainabstractionlayer) - Communicate with different blockchains (including Ethereum) using a single interface.
 * [Delphereum](https://github.com/svanas/delphereum) - a Delphi interface to the Ethereum blockchain that allows for development of native dApps for Windows, macOS, iOS, and Android.
+* [Torus](https://tor.us/) - Open-sourced SDK to build dapps with a seamless onboarding UX
+* [Fortmatic](https://fortmatic.com/) - A simple to use SDK to build web3 dApps without extensions or downloads.
+* [Portis](https://portis.io/) - A non-custodial wallet with an SDK that enables easy interaction with DApps without installing anything.
+* [create-eth-app](https://github.com/paulrberg/create-eth-app) - Create Ethereum-powered front-end apps with one command.
+* [Scaffold-ETH](https://github.com/austintgriffith/scaffold-eth) - Beginner friendly forkable github for getting started building smart contracts. 
+* [Notify.js](https://blocknative.com/notify) - Deliver real-time notifications to your users. With built-in support for Speed-Ups and Cancels, Blocknative Notify.js helps users transact with confidence. Notify.js is easy to integrate and quick to customize.
 
 #### Backend Ethereum APIs
 * [Web3.py](https://github.com/ethereum/web3.py) - Python Web3
@@ -174,13 +189,14 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Ethereum Contract Service](https://github.com/mesg-foundation/service-ethereum-contract) - A MESG Service to interact with any Ethereum contract based on its address and ABI.
 * [Ethereum Service](https://github.com/mesg-foundation/service-ethereum) - A MESG Service to interact with events from Ethereum and interact with it.
 * [Marmo](https://marmo.io/) - Python, JS, and Java SDK for simplifying interactions with Ethereum. Uses relayers to offload transaction costs to relayers.
+* [Ethereum Logging Framework](https://bitbucket.csiro.au/users/kli039/repos/ethereum-logging-framework/browse) - provides advanced logging capabilities for Ethereum applications and networks including a query language, query processor, and logging code generation
 
-#### Bootstrap/out of box tools
+#### Bootstrap/Out-of-Box tools
 * [Truffle boxes](https://trufflesuite.com/boxes) - Packaged components for the Ethereum ecosystem
+* [Create Eth App](https://github.com/paulrberg/create-eth-app) - Create Ethereum-powered frontend apps with one command
 * [Besu Private Network](https://besu.hyperledger.org/en/stable/Tutorials/Quickstarts/Azure-Private-Network-Quickstart/) - Run a private network of Besu nodes in a Docker container
 * [Testchains](https://github.com/Nethereum/TestChains) - Pre-configured .NET devchains for fast response (PoA) 
 ** [Blazor/Blockchain Explorer](https://github.com/Nethereum/NethereumBlazor) - Wasm blockchain explorer (functional sample)
-
 * [Local Raiden](https://github.com/ConsenSys/Local-Raiden) - Run a local Raiden network in docker containers for demo and testing purposes
 * [Private networks deployment scripts](https://github.com/ConsenSys/private-networks-deployment-scripts) - Out-of-the-box deployment scripts for private PoA networks
 * [Parity Demo-PoA Tutorial](https://wiki.parity.io/Demo-PoA-tutorial.html) - Step-by-Step tutorial for building a PoA test chain with 2 nodes with Parity authority round consensus
@@ -191,13 +207,15 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [ColonyJS](https://github.com/JoinColony/colonyJS) - JavaScript client that provides an API for interacting with the Colony Network smart contracts.
 * [ArcJS](https://github.com/daostack/arc.js) - Library that facilitates javascript application access to the DAOstack Arc ethereum smart contracts.
 * [Arkane Connect](https://docs.arkane.network/pages/connect-js.html) - JavaScript client that provides an API for interacting with Arkane Network, a wallet provider for building user-friendly dapps.
-* [Blocknative](https://blocknative.com) - Assist.js is an embeddable widget that improves Dapp usability. The tool programmatically identifies and outlines clear actions for end-users to follow when interacting with MetaMask to overcome — and even prevent — common pitfalls and obstacles.
+* [Onboard.js](https://blocknative.com/onboard) - Blocknative Onboard is the quick and easy way to add multi-wallet support to your project. With built-in modules for more than 20 unique hardware and software wallets, Onboard saves you time and headaches. 
+* [web3-react](https://github.com/NoahZinsmeister/web3-react) - React framework for building single-page Ethereum dApps
 
 #### Ethereum ABI (Application Binary Interface) tools
 * [ABI decoder](https://github.com/ConsenSys/abi-decoder) - library for decoding data params and events from Ethereum transactions
 * [ABI-gen](https://github.com/0xProject/0x-monorepo/tree/development/packages/abi-gen) - Generate Typescript contract wrappers from contract ABI's.
 * [Ethereum ABI UI](https://github.com/hiddentao/ethereum-abi-ui) - Auto-generate UI form field definitions and associated validators from an Ethereum contract ABI
 * [headlong](https://github.com/esaulpaugh/headlong/) - type-safe Contract ABI and Recursive Length Prefix library in Java
+* [EasyDapper](https://www.easydapper.com) - Generate dapps from Truffle artifacts, deploy contracts on public/private networks, offers live customizable public page to interact with contracts.
 * [One Click dApp](https://oneclickdapp.com) - Instantly create a dApp at a unique URL using the ABI.
 * [Truffle Pig](https://npmjs.com/package/trufflepig) - a development tool that provides a simple HTTP API to find and read from Truffle-generated contract files, for use during local development. Serves fresh contract ABIs over http.
 * [Ethereum Contract Service](https://github.com/mesg-foundation/service-ethereum-contract) - A MESG Service to interact with any Ethereum contract based on its address and ABI.
@@ -227,6 +245,12 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
     * Upgradeability: Smart contracts can be upgraded to a newer version
     * Permission control: By using the `auth` and `authP` modifiers, you can protect functionality so only other apps or entities can access it
     * Forwarders: aragonOS apps can send their intent to perform an action to other apps, so that intent is forwarded if a set of requirements are met
+* [EIP-2535 Diamond Standard](https://eips.ethereum.org/EIPS/eip-2535)
+    * Organize contracts so they share the same contract storage and Ethereum address.
+    * Solves the 24KB max contract size limit.
+    * Upgrade diamonds by adding/replacing/removing any number of functions in a single transaction.
+    * Upgrades are transparent by recording them with a standard event.
+    * Get information about a diamond with events and/or four standard functions.
 
 ##### Upgradeability
 * [Blog von Elena Dimitrova, Dev at colony.io](https://blog.colony.io/author/elena/)
@@ -263,9 +287,11 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
    * [OrbitDB](https://github.com/orbitdb/orbit-db) - Decentralised database on top of IPFS
    * [JS IPFS API](https://github.com/ipfs/js-ipfs-http-client) - A client library for the IPFS HTTP API, implemented in JavaScript
    * [TEMPORAL](https://github.com/RTradeLtd/Temporal) - Easy to use API into IPFS and other distributed/decentralised storage protocols
+   * [PINATA](https://pinata.cloud) - The Easiest Way to Use IPFS
 * [Swarm](https://swarm-gateways.net/) - Distributed storage platform and content distribution service, a native base layer service of the Ethereum web3 stack
 * [Infura](https://infura.io/) - A managed IPFS API Gateway and pinning service
 * [3Box Storage](https://docs.3box.io/api/storage) - An api for user controlled, distrubuted storage. Built on top of IPFS and Orbitdb.
+* [Aleph.im](https://aleph.im/) - an offchain incentivized peer-to-peer cloud project (database, file storage, computing and DID) compatible with Ethereum and IPFS.
 
 
 #### Messaging
@@ -326,6 +352,8 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [BlockScout](https://github.com/poanetwork/blockscout) - A tool for inspecting and analyzing EVM based blockchains. The only full featured blockchain explorer for Ethereum networks.
 * [Terminal](https://terminal.co/) - A control panel for monitoring dapps. Terminal can be used to monitor your users, dapp, blockchain infrastructure, transactions and more.
 * [Ethereum-watcher](https://github.com/HydroProtocol/ethereum-watcher) - An extensible framework written in Golang for listening to on-chain events and doing something in response.
+* [Alchemy Notify](https://docs.alchemyapi.io/guides/alchemy-notify) - Notifications for mined and dropped transactions, gas price changes, and address activity for desired addresses. 
+* [Blocknatve Mempool Explorer](https://www.blocknative.com/explorer) — Monitor any contract or wallet address and get streaming mempool events for every lifecycle stage — including drops, confirms, speedups, cancels, and more. Automatically decode confirmed internal transactions. And filter exactly how you want. Recieve events in our visual, no-code, interface or associate them with your API key to get events via a webhook. Mempool Explorer helps exchanges, protocols, wallets, and traders monitor and act on transactions in real-time.
 
 ### Other Miscellaneous Tools
 * [aragonPM](https://hack.aragon.org/docs/apm-intro.html) - a decentralized package manager powered by aragonOS and Ethereum. aragonPM enables decentralized governance over package upgrades, removing centralized points of failure.
@@ -358,6 +386,8 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Resolver-Engine](https://github.com/Crypto-Punkers/resolver-engine) - A set of tools to standarize Solidity import and artifact resolution in frameworks.
 * [eth-reveal](https://github.com/justinjmoses/eth-reveal) - A node and browser tool to inspect transactions - decoding where possible the method, event logs and any revert reasons using ABIs found online. 
 * [Ethereum-tx-sender](https://github.com/HydroProtocol/ethereum-tx-sender) - A useful library written in Golang to reliably send a transaction — abstracting away some of the tricky low level details such as gas optimization, nonce calculations, synchronization, and retries.
+* [truffle-plugin-verify](https://github.com/rkalis/truffle-plugin-verify) - Seamlessly verify contract source code on Etherscan from the Truffle command line.
+* [Blocknative Gas Platform](https://www.blocknative.com/gas) — Gas estimation for builders, by builders. Gas Platform harnesses Blocknative's real-time mempool data infrastructure to accurately and consistently estimate Ethereum transaction fees. This provides builders and traders with an up-to-the-moment gas fee API. 
 
 ### Smart Contract Standards & Libraries
 #### [ERCs](https://eips.ethereum.org/erc) - The Ethereum Request for Comment repository
@@ -380,11 +410,14 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [0x](https://github.com/0xProject) - DEX protocol
 * [Token Libraries with Proofs](https://github.com/sec-bit/tokenlibs-with-proofs) - Contains correctness proofs of token contracts wrt. given specifications and high-level properties
 * [Provable API](https://github.com/provable-things/ethereum-api) - Provides contracts for using the Provable service, allowing for off-chain actions, data-fetching, and computation
+* [ABDK Libraries for Solidity](https://github.com/abdk-consulting/abdk-libraries-solidity) - Fixed-point (64.64 bit) and IEEE-754 compliant quad precision (128 bit) floating-point math libraries for Solidity
 
 
 ### Developer Guides for 2nd Layer Infrastructure
 
 #### Scalability
+
+
 
 #### Payment/State Channels
 * [Ethereum Payment Channel](https://medium.com/@matthewdif/ethereum-payment-channel-in-50-lines-of-code-a94fad2704bc) - Ethereum Payment Channel in 50 lines of code
@@ -407,7 +440,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 
 #### Privacy / Confidentiality
 
-##### zkSNARKs
+##### ZK-SNARKs
 * [ZoKrates](https://github.com/Zokrates/ZoKrates) - A toolbox for zkSNARKS on Ethereum
 * [The AZTEC Protocol](https://github.com/AztecProtocol/AZTEC) - Confidential transactions on the Ethereum network, implementation is live on the Ethereum main-net
 * [Nightfall](https://github.com/EYBlockchain/nightfall) - Make any ERC-20 / ERC-721 token private - open source tools & microservices
@@ -417,6 +450,10 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * Fully Homomorphic Encryption (FHE)
 ** [NuFHE](https://github.com/nucypher/nufhe) - GPU accelerated FHE library
 
+#### Scalability + Privacy
+
+#### ZK-STARKs
+* [StarkWare](https://github.com/starkware-industries) and [StarkWare Resources](https://github.com/starkware-libs) - StarkEx scalability engine storing state transitions on-chain
 
 #### Prebuilt UI Components
 * [aragonUI](https://ui.aragon.org) - A React library including Dapp components

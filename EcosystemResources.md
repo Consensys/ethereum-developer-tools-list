@@ -22,6 +22,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [MyEtherWallet](https://github.com/MyEtherWallet) - Open-source [tools](https://www.myetherwallet.com/) for interacting with the blockchains easily & securely
 * [MyCrypto](https://github.com/MyCryptoHQ) - Open-source, client-side [tool](https://mycrypto.com/account) for generating ether wallets, handling ERC-20 tokens, and interacting with the blockchain more easily
 * [Arkane](https://arkane.network) - Web-based wallet focused on user-friendly UX and dapp integration. (Mobile friendly)
+* [Torus](https://tor.us) - Open-source client side wallet with a focus on UX that leverages on DKGs
 * [Portis](https://portis.io/) - Web-based wallet for easy user on-boarding to your DApp
 * [Eth lightwallet](https://github.com/ConsenSys/eth-lightwallet) - Lightweight JS Wallet for Node and the browser
 * [SpankCard](https://github.com/SpankChain/SpankCard) - An in-browser Ethereum wallet with support for payment channels
@@ -89,7 +90,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Consensys Academy](https://consensys.net/academy/) - Courses
 * [B9Lab](https://academy.b9lab.com/) - Paid courses
 * [Blockgeeks](https://courses.blockgeeks.com/) - Paid courses on solidity/dapp development
-* [Chainshot building blocks](https://www.chainshot.com/) - Free Project-Based Courses and Challenges
+* [Chainshot building blocks](https://www.chainshot.com/) - Paid Courses
 * [Kauri](https://kauri.io/) - Openly accessible community knowledge base and tutorials
 * [Delegate call](https://cleverflare.com/) - Courses
 * [Stackexchange](https://ethereum.stackexchange.com) - Q&A site
@@ -147,9 +148,6 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Kyber](https://www.kyber.network)
 * [Gnosis Dutch Exchange](https://github.com/gnosis/dx-contracts)
 
-### Secure Decentralized Data Protocols
-* [Stow](https://github.com/stow-protocol) - Securely store and share data for your users in minutes with our components and SDK. Formerly Linnia.
-
 ### Incentivisation / Monetisation Tools
 * [Gitcoin](https://gitcoin.co) - Bounty network for funding Open Source or finding Open Source work
 * [CodeFund](https://codefund.io) - Ethical Advertising Platform for Open Source
@@ -164,5 +162,11 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Ethereum Token Standards](https://github.com/PhABC/ethereum-token-standards-list) - An exhaustive list of Ethereum Token Standards
 
 ### Decentralized Finance (DeFi)
-* [ETHLend](https://ethlend.io) - Decentralised peer to peer lending marketplace that allows people all over the world to get a loan or become a lender. 
+* [ETHLend](https://ethlend.io) - Decentralised peer to peer lending marketplace that allows people all over the world to get a loan or become a lender.
 * [Aave Pay](https://pay.aave.com) - Aave Pay allow users to pay in FIAT currencies to bank accounts using their cryptocurrencies.
+* [rTrees](https://rtrees.dappy.dev) - A no-loss donation app for growing real trees using DeFi interest.
+
+### Decentralized Cloud (Database, File Storage and Computing)
+
+* [Aleph.im](https://Aleph.im) - an offchain incentivized peer-to-peer cloud project (database, file storage, computing and DID) compatible with Ethereum and IPFS.
+* [Stow](https://github.com/stow-protocol) - Securely store and share data for your users in minutes with our components and SDK. Formerly Linnia.
