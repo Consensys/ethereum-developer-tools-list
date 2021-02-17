@@ -62,7 +62,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
       - [Prebuilt UI Components](#prebuilt-ui-components)
 
 ## New developers start here
-* [Solidity](https://solidity.readthedocs.io/en/latest/) - The most popular smart contract language.
+* [Solidity](https://soliditylang.org/) - The most popular smart contract language.
 * [Metamask](https://metamask.io/) - Chrome extension wallet to interact with Dapps.
 * [Truffle](https://trufflesuite.com/) - Most popular smart contract development, testing, and deployment framework. Install the cli via npm and start here to write your first smart contracts.
 * [Truffle boxes](https://trufflesuite.com/boxes) - Packaged components for the Ethereum ecosystem.
@@ -81,7 +81,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 ## Developer Tools
 ### Developing Smart Contracts
 #### Smart Contract Languages
-* [Solidity](https://solidity.readthedocs.io/en/latest/) - Ethereum smart contracting language
+* [Solidity](https://docs.soliditylang.org/en/latest/) - Ethereum smart contracting language
 * [Vyper](https://vyper.readthedocs.io/en/latest/) - New experimental pythonic programming language
 
 #### Frameworks
@@ -359,7 +359,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [aragonPM](https://hack.aragon.org/docs/apm-intro.html) - a decentralized package manager powered by aragonOS and Ethereum. aragonPM enables decentralized governance over package upgrades, removing centralized points of failure.
 * [Truffle boxes](https://www.trufflesuite.com/boxes) - Packaged components for building DApps fast.
    * [Cheshire](https://github.com/endless-nameless-inc/cheshire) - A local sandbox implementation of the CryptoKitties API and smart contracts, available as a Truffle Box
-* [Solc](https://solidity.readthedocs.io/en/latest/using-the-compiler.html) - Solidity compiler
+* [Solc](https://docs.soliditylang.org/en/latest/using-the-compiler.html) - Solidity compiler
 * [Sol-compiler](https://sol-compiler.com/) - Project-level Solidity compiler
 * [Solidity cli](https://github.com/pubkey/solidity-cli) - Compile solidity-code faster, easier and more reliable
 * [Solidity flattener](https://github.com/poanetwork/solidity-flattener) - Combine solidity project to flat file utility. Useful for visualizing imported contracts or for verifying your contract on Etherscan
