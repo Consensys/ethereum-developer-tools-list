@@ -54,6 +54,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [EthStats](https://ethstats.io/) - The Ethereum Blockchain Analytics Platform
 * [Scout](https://scout.cool/) - A live data feed of the activities and event logs of your smart contracts on Ethereum
 * [ethq](https://ethq.app) - The [dfuse](https://dfuse.io) powered, most detailed, block explorer built for developers
+* [Ethernal](https://www.tryethernal.com) - Ethereum block explorer for private chains.
 
 ### Gas price calculators and tools
 * [EthGasStation](https://ethgasstation.info/) - Website for estimating tx prices vs times
