@@ -266,7 +266,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 #### Ethereum Clients
 * [Besu](https://besu.hyperledger.org/en/latest/) - an open-source Ethereum client developed under the Apache 2.0 license and written in Java. The project is hosted by Hyperledger.
 * [Geth](https://geth.ethereum.org/docs/) - Go client
-* [Parity](https://www.parity.io/ethereum/) - Rust client
+* [OpenEthereum](https://github.com/openethereum/openethereum) - Rust client, formerly called Parity
 * [Aleth](https://github.com/ethereum/aleth) - C++ client
 * [Nethermind](https://github.com/NethermindEth/nethermind) - .NET Core client
 * [Infura](https://infura.io/) - A managed service providing Ethereum client standards-compliant APIs
