@@ -145,6 +145,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Instex](https://app.instex.io)
 * [Starbit](https://exchange.star-bit.io/)
 * [Opensea.io](https://Opensea.io) - decentralized exchange of cryptocollectibles
+* [Rarible.com](https://rarible.com) - decentralized exchange of cryptocollectibles
 * [Bancor](https://www.bancor.network/)
 * [Kyber](https://www.kyber.network)
 * [Gnosis Dutch Exchange](https://github.com/gnosis/dx-contracts)
