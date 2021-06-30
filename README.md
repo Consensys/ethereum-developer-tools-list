@@ -279,7 +279,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Quorum](https://github.com/jpmorganchase/quorum) - A permissioned implementation of Ethereum supporting data privacy by [JP Morgan](https://jpmorgan.com/quorum)
 * [Mana](https://github.com/mana-ethereum/mana) - Ethereum full node implementation written in Elixir.
 * [Chainstack](https://chainstack.com/) - A managed service providing shared and dedicated Geth nodes
-* [QuikNode](https://quiknode.io/) - Blockchain developer cloud with API access and node-as-a-service.
+* [QuickNode](https://quicknode.com/) - Blockchain developer cloud with API access and node-as-a-service.
 
 
 #### Storage
