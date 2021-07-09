@@ -252,6 +252,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
     * Upgrade diamonds by adding/replacing/removing any number of functions in a single transaction.
     * Upgrades are transparent by recording them with a standard event.
     * Get information about a diamond with events and/or four standard functions.
+* [Clean Contracts - A guide to writing clean code](https://www.wslyvh.com/clean-contracts/)
 
 ##### Upgradeability
 * [Blog von Elena Dimitrova, Dev at colony.io](https://blog.colony.io/author/elena/)
@@ -390,6 +391,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Ethereum-tx-sender](https://github.com/HydroProtocol/ethereum-tx-sender) - A useful library written in Golang to reliably send a transaction — abstracting away some of the tricky low level details such as gas optimization, nonce calculations, synchronization, and retries.
 * [truffle-plugin-verify](https://github.com/rkalis/truffle-plugin-verify) - Seamlessly verify contract source code on Etherscan from the Truffle command line.
 * [Blocknative Gas Platform](https://www.blocknative.com/gas) — Gas estimation for builders, by builders. Gas Platform harnesses Blocknative's real-time mempool data infrastructure to accurately and consistently estimate Ethereum transaction fees. This provides builders and traders with an up-to-the-moment gas fee API. 
+* [ETH Gas.watch](https://ethgas.watch/) - A gas price watcher with email notifications on price change
 
 ### Smart Contract Standards & Libraries
 #### [ERCs](https://eips.ethereum.org/erc) - The Ethereum Request for Comment repository
