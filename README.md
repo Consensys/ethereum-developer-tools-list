@@ -63,7 +63,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 
 ## New developers start here
 * [Solidity](https://soliditylang.org/) - The most popular smart contract language.
-* [Metamask](https://metamask.io/) - Chrome extension wallet to interact with Dapps.
+* [Metamask](https://metamask.io/) - Browser extension wallet to interact with Dapps.
 * [Truffle](https://trufflesuite.com/) - Most popular smart contract development, testing, and deployment framework. Install the cli via npm and start here to write your first smart contracts.
 * [Truffle boxes](https://trufflesuite.com/boxes) - Packaged components for the Ethereum ecosystem.
 * [Hardhat](https://hardhat.org/) - Flexible, extensible and fast Ethereum development environment.
