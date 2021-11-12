@@ -1,0 +1,9 @@
+version: 1.3.2
+files:
+  - url: Remix-IDE-1.3.2.AppImage
+    sha512: 211r4McDGPflzRFrvFDE/Uay/Bi3w/5Zf8T0WeRRMFJ0RjRft6hrpMYT/6en13kfh/uOJRX8cDq07HZ9946EwA==
+    size: 89328625
+    blockMapSize: 93189
+path: Remix-IDE-1.3.2.AppImage
+sha512: 211r4McDGPflzRFrvFDE/Uay/Bi3w/5Zf8T0WeRRMFJ0RjRft6hrpMYT/6en13kfh/uOJRX8cDq07HZ9946EwA==
+releaseDate: '2021-09-01T13:05:46.800Z'
