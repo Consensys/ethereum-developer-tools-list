@@ -63,7 +63,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 
 ## New developers start here
 * [Solidity](https://soliditylang.org/) - The most popular smart contract language.
-* [Metamask](https://metamask.io/) - Chrome extension wallet to interact with Dapps.
+* [Metamask](https://metamask.io/) - Browser extension wallet to interact with Dapps.
 * [Truffle](https://trufflesuite.com/) - Most popular smart contract development, testing, and deployment framework. Install the cli via npm and start here to write your first smart contracts.
 * [Truffle boxes](https://trufflesuite.com/boxes) - Packaged components for the Ethereum ecosystem.
 * [Hardhat](https://hardhat.org/) - Flexible, extensible and fast Ethereum development environment.
@@ -76,6 +76,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [dfuse](https://dfuse.io) - Slick blockchain APIs to build world-class applications.
 * [Biconomy](https://biconomy.io) - Do gasless transactions in your dapp by enabling meta-transactions using simple to use SDK.
 * [Blocknative](https://blocknative.com) — Blockchain events before they happen. Blocknative's portfolio of developers tools make it easy to build with mempool data.
+* [useWeb3.xyz](https://useweb3.xyz/) — A curated overview of the best and latest resources on Ethereum, blockchain and Web3 development.
 
 ## Developer Tools
 ### Developing Smart Contracts
@@ -212,6 +213,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [web3-react](https://github.com/NoahZinsmeister/web3-react) - React framework for building single-page Ethereum dApps
 
 #### Ethereum ABI (Application Binary Interface) tools
+* [Online ABI encoder](https://github.com/HashEx/abiencoder) - Free ABI encoder online service that allows you to encode your Solidity contract’s functions and constructor arguments.
 * [ABI decoder](https://github.com/ConsenSys/abi-decoder) - library for decoding data params and events from Ethereum transactions
 * [ABI-gen](https://github.com/0xProject/0x-monorepo/tree/development/packages/abi-gen) - Generate Typescript contract wrappers from contract ABI's.
 * [Ethereum ABI UI](https://github.com/hiddentao/ethereum-abi-ui) - Auto-generate UI form field definitions and associated validators from an Ethereum contract ABI
@@ -221,6 +223,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Truffle Pig](https://npmjs.com/package/trufflepig) - a development tool that provides a simple HTTP API to find and read from Truffle-generated contract files, for use during local development. Serves fresh contract ABIs over http.
 * [Ethereum Contract Service](https://github.com/mesg-foundation/service-ethereum-contract) - A MESG Service to interact with any Ethereum contract based on its address and ABI.
 * [Nethereum-CodeGenerator](https://github.com/StefH/Nethereum-CodeGenerator) - A web based generator which creates a Nethereum based C# Interface and Service based on Solidity Smart Contracts.
+* [EVMConnector](https://evmconnector.dev) - Create shareable contract dashboards and interact with arbitrary EVM-based blockchain functions, with or without an ABI.
 
 #### Patterns & Best Practices
 
@@ -252,6 +255,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
     * Upgrade diamonds by adding/replacing/removing any number of functions in a single transaction.
     * Upgrades are transparent by recording them with a standard event.
     * Get information about a diamond with events and/or four standard functions.
+* [Clean Contracts - A guide to writing clean code](https://www.wslyvh.com/clean-contracts/)
 
 ##### Upgradeability
 * [Blog von Elena Dimitrova, Dev at colony.io](https://blog.colony.io/author/elena/)
@@ -390,6 +394,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Ethereum-tx-sender](https://github.com/HydroProtocol/ethereum-tx-sender) - A useful library written in Golang to reliably send a transaction — abstracting away some of the tricky low level details such as gas optimization, nonce calculations, synchronization, and retries.
 * [truffle-plugin-verify](https://github.com/rkalis/truffle-plugin-verify) - Seamlessly verify contract source code on Etherscan from the Truffle command line.
 * [Blocknative Gas Platform](https://www.blocknative.com/gas) — Gas estimation for builders, by builders. Gas Platform harnesses Blocknative's real-time mempool data infrastructure to accurately and consistently estimate Ethereum transaction fees. This provides builders and traders with an up-to-the-moment gas fee API. 
+* [ETH Gas.watch](https://ethgas.watch/) - A gas price watcher with email notifications on price change
 
 ### Smart Contract Standards & Libraries
 #### [ERCs](https://eips.ethereum.org/erc) - The Ethereum Request for Comment repository
