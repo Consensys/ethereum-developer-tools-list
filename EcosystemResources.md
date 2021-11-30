@@ -172,3 +172,8 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 
 * [Aleph.im](https://Aleph.im) - an offchain incentivized peer-to-peer cloud project (database, file storage, computing and DID) compatible with Ethereum and IPFS.
 * [Stow](https://github.com/stow-protocol) - Securely store and share data for your users in minutes with our components and SDK. Formerly Linnia.
+
+### Jobs
+- [Jobs at ConsenSys](https://consensys.net/careers/) - jobs at ConsenSys
+- [Jobs at Ethereum Foundation](https://ethereum.bamboohr.com/jobs/) - jobs at Ethereum Foundation
+- [Web3Jobs](https://web3.career) - list of jobs in Web3.
