@@ -176,4 +176,5 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 ### Jobs
 - [Jobs at ConsenSys](https://consensys.net/careers/) - jobs at ConsenSys
 - [Jobs at Ethereum Foundation](https://ethereum.bamboohr.com/jobs/) - jobs at Ethereum Foundation
+- [Solidity Jobs](https://cryptojobslist.com/solidity-jobs) - list of Solidity jobs on Crypto Jobs List
 - [Web3Jobs](https://web3.career) - list of jobs in Web3.
