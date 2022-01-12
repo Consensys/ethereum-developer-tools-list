@@ -443,7 +443,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
   * [POA Bridge UI](https://github.com/poanetwork/bridge-ui)
   * [POA Bridge Contracts](https://github.com/poanetwork/poa-bridge-contracts)
  * [Loom Network](https://github.com/loomnetwork)
-* [Matic Network](https://docs.matic.network/)
+* [Polygon Network](https://docs.matic.network/)
 
 #### Privacy / Confidentiality
 
