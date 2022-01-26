@@ -134,7 +134,6 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [ZMOK](https://zmok.io/) - JSON-RPC Ethereum API (Mainnet, Rinkeby, Front-running Mainnet)
 * [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
 
-
 #### Test Ether Faucets
 * [Rinkeby faucet](https://faucet.rinkeby.io/)
 * [Kovan faucet](https://github.com/kovan-testnet/faucet)
@@ -288,6 +287,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Chainstack](https://chainstack.com/) - A managed service providing shared and dedicated Geth nodes
 * [QuickNode](https://quicknode.com/) - Blockchain developer cloud with API access and node-as-a-service.
 * [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
+
 
 #### Storage
 * [IPFS](https://ipfs.io/) - Decentralised storage and file referencing
