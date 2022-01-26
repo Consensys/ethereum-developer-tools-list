@@ -196,7 +196,6 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Ethereum Logging Framework](https://bitbucket.csiro.au/users/kli039/repos/ethereum-logging-framework/browse) - provides advanced logging capabilities for Ethereum applications and networks including a query language, query processor, and logging code generation
 * [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
 
-
 #### Bootstrap/Out-of-Box tools
 * [Truffle boxes](https://trufflesuite.com/boxes) - Packaged components for the Ethereum ecosystem
 * [Create Eth App](https://github.com/paulrberg/create-eth-app) - Create Ethereum-powered frontend apps with one command
@@ -289,7 +288,6 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Chainstack](https://chainstack.com/) - A managed service providing shared and dedicated Geth nodes
 * [QuickNode](https://quicknode.com/) - Blockchain developer cloud with API access and node-as-a-service.
 * [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
-
 
 #### Storage
 * [IPFS](https://ipfs.io/) - Decentralised storage and file referencing
