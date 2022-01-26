@@ -132,6 +132,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Chainstack](https://chainstack.com/) - Shared and dedicated Ethereum nodes as a service (Mainnet, Ropsten)
 * [Alchemy](https://alchemyapi.io/) - Blockchain Developer Platform, Ethereum API, and Node Service (Mainnet, Ropsten, Rinkeby, Goerli, Kovan)
 * [ZMOK](https://zmok.io/) - JSON-RPC Ethereum API (Mainnet, Rinkeby, Front-running Mainnet)
+* [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
 
 #### Test Ether Faucets
 * [Rinkeby faucet](https://faucet.rinkeby.io/)
@@ -192,6 +193,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Ethereum Service](https://github.com/mesg-foundation/service-ethereum) - A MESG Service to interact with events from Ethereum and interact with it.
 * [Marmo](https://marmo.io/) - Python, JS, and Java SDK for simplifying interactions with Ethereum. Uses relayers to offload transaction costs to relayers.
 * [Ethereum Logging Framework](https://bitbucket.csiro.au/users/kli039/repos/ethereum-logging-framework/browse) - provides advanced logging capabilities for Ethereum applications and networks including a query language, query processor, and logging code generation
+* [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
 
 #### Bootstrap/Out-of-Box tools
 * [Truffle boxes](https://trufflesuite.com/boxes) - Packaged components for the Ethereum ecosystem
@@ -284,6 +286,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Mana](https://github.com/mana-ethereum/mana) - Ethereum full node implementation written in Elixir.
 * [Chainstack](https://chainstack.com/) - A managed service providing shared and dedicated Geth nodes
 * [QuickNode](https://quicknode.com/) - Blockchain developer cloud with API access and node-as-a-service.
+* [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
 
 
 #### Storage
