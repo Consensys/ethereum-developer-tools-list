@@ -135,6 +135,10 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
 
 #### Test Ether Faucets
+* Rinkeby faucets
+    * [Social verification] (https://faucet.rinkeby.io/)
+    * [0.1 Every 24 hours] (https://www.rinkebyfaucet.com/)
+    * [Other faucets also] (https://faucets.chain.link/rinkeby)
 * [Rinkeby faucet](https://faucet.rinkeby.io/)
 * [Kovan faucet](https://github.com/kovan-testnet/faucet)
 * [Ropsten faucet (MetaMask)](https://faucet.metamask.io/)
