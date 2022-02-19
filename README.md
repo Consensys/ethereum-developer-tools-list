@@ -148,6 +148,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Web3.js](https://github.com/ethereum/web3.js/) - Javascript Web3
 * [Eth.js](https://github.com/ethjs) - Javascript Web3 alternative
 * [Ethers.js](https://github.com/ethers-io/ethers.js/) - Javascript Web3 alternative, useful utilities and wallet features
+* [useDApp](usedapp.io) - React based framework for rapid DApp development on Ethereum
 * [light.js](https://github.com/paritytech/js-libs/tree/master/packages/light.js) A high-level reactive JS library optimized for light clients.
 * [Web3Wrapper](https://github.com/0xProject/0x-monorepo/tree/development/packages/web3-wrapper) - Typescript Web3 alternative
 * [Ethereumjs](https://github.com/ethereumjs/) - A collection of utility functions for Ethereum like [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util) and [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx)
