@@ -195,6 +195,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Marmo](https://marmo.io/) - Python, JS, and Java SDK for simplifying interactions with Ethereum. Uses relayers to offload transaction costs to relayers.
 * [Ethereum Logging Framework](https://bitbucket.csiro.au/users/kli039/repos/ethereum-logging-framework/browse) - provides advanced logging capabilities for Ethereum applications and networks including a query language, query processor, and logging code generation
 * [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
+* [w3](https://github.com/lmittmann/w3) - Fast and modular Golang JSON RPC client with first-class ABI support
 
 #### Bootstrap/Out-of-Box tools
 * [Truffle boxes](https://trufflesuite.com/boxes) - Packaged components for the Ethereum ecosystem
