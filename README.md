@@ -289,6 +289,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Chainstack](https://chainstack.com/) - A managed service providing shared and dedicated Geth nodes
 * [QuickNode](https://quicknode.com/) - Blockchain developer cloud with API access and node-as-a-service.
 * [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
+* [NOWNodes](https://nownodes.io) - Provide access to ETH node (and 48+ more) and Block Explorer. Get free API key to test blockchain-as-a-service solution
 
 
 #### Storage
