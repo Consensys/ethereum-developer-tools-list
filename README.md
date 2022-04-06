@@ -215,7 +215,6 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Arkane Connect](https://docs.arkane.network/pages/connect-js.html) - JavaScript client that provides an API for interacting with Arkane Network, a wallet provider for building user-friendly dapps.
 * [Onboard.js](https://blocknative.com/onboard) - Blocknative Onboard is the quick and easy way to add multi-wallet support to your project. With built-in modules for more than 20 unique hardware and software wallets, Onboard saves you time and headaches. 
 * [web3-react](https://github.com/NoahZinsmeister/web3-react) - React framework for building single-page Ethereum dApps
-* [contract-admin](https://github.com/upgreidas/contract-admin) - Minimalistic UI tool for interacting with your smart contracts
 
 #### Ethereum ABI (Application Binary Interface) tools
 * [Online ABI encoder](https://github.com/HashEx/abiencoder) - Free ABI encoder online service that allows you to encode your Solidity contract’s functions and constructor arguments.
@@ -229,6 +228,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Ethereum Contract Service](https://github.com/mesg-foundation/service-ethereum-contract) - A MESG Service to interact with any Ethereum contract based on its address and ABI.
 * [Nethereum-CodeGenerator](https://github.com/StefH/Nethereum-CodeGenerator) - A web based generator which creates a Nethereum based C# Interface and Service based on Solidity Smart Contracts.
 * [EVMConnector](https://evmconnector.dev) - Create shareable contract dashboards and interact with arbitrary EVM-based blockchain functions, with or without an ABI.
+* [contract-admin](https://github.com/upgreidas/contract-admin) - Minimalistic UI tool for interacting with your smart contracts
 
 #### Patterns & Best Practices
 
