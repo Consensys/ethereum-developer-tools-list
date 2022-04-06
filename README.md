@@ -228,6 +228,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Ethereum Contract Service](https://github.com/mesg-foundation/service-ethereum-contract) - A MESG Service to interact with any Ethereum contract based on its address and ABI.
 * [Nethereum-CodeGenerator](https://github.com/StefH/Nethereum-CodeGenerator) - A web based generator which creates a Nethereum based C# Interface and Service based on Solidity Smart Contracts.
 * [EVMConnector](https://evmconnector.dev) - Create shareable contract dashboards and interact with arbitrary EVM-based blockchain functions, with or without an ABI.
+* [contract-admin](https://github.com/upgreidas/contract-admin) - Minimalistic UI tool for interacting with your smart contracts
 
 #### Patterns & Best Practices
 
