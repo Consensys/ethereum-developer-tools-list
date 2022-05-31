@@ -201,6 +201,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Ethereum Logging Framework](https://bitbucket.csiro.au/users/kli039/repos/ethereum-logging-framework/browse) - provides advanced logging capabilities for Ethereum applications and networks including a query language, query processor, and logging code generation
 * [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
 * [w3](https://github.com/lmittmann/w3) - Fast and modular Golang JSON RPC client with first-class ABI support
+* [Transpose](https://transpose.io) - Powerful APIs for accessing human-readable Ethereum data at scale.
 
 
 #### Bootstrap/Out-of-Box tools
