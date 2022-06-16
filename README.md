@@ -180,6 +180,8 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [create-eth-app](https://github.com/paulrberg/create-eth-app) - Create Ethereum-powered front-end apps with one command.
 * [Scaffold-ETH](https://github.com/austintgriffith/scaffold-eth) - Beginner friendly forkable github for getting started building smart contracts. 
 * [Notify.js](https://blocknative.com/notify) - Deliver real-time notifications to your users. With built-in support for Speed-Ups and Cancels, Blocknative Notify.js helps users transact with confidence. Notify.js is easy to integrate and quick to customize.
+* [Picket](https://picketapi.com) - A simple API and SDK for wallet-based authentication and token-based authorization (a.k.a token-gating)
+
 
 #### Backend Ethereum APIs
 * [Web3.py](https://github.com/ethereum/web3.py) - Python Web3
