@@ -88,6 +88,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Chainstack](https://chainstack.com/) - Shared and dedicated Ethereum nodes as a service
 * [BUIDLHub](https://buidlhub.com) - Create automated workflows between traditional web services & ethereum. Supports bots, webhooks, custom dapp integrations, etc.
 * [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
+* [Picket](https://picketapi.com) - A simple API and SDK for wallet-based authentication and token-based authorization (a.k.a token-gating)
 
 ### Knowledge/Education
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
