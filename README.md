@@ -100,7 +100,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [OpenZeppelin Upgrades Plugins](https://docs.openzeppelin.com/upgrades-plugins/) - OpenZeppelin Upgrades Plugin: A comprehensive suite of contracts and tooling to deploy and manage upgradeable contracts on Ethereum.
 * [sbt-ethereum](https://sbt-ethereum.io/) - A tab-completey, text-based console for smart-contract interaction and development, including wallet and ABI management, ENS support, and advanced Scala integration.
 * [Cobra](https://github.com/cobraframework/cobra) - A fast, flexible and simple development environment framework for Ethereum smart contract, testing and deployment on Ethereum virtual machine(EVM).
-* [Epirus](https://docs.epirus.io/sdk/) - Java framework for building smart contracts. 
+* [Epirus](https://docs.epirus.io/) - Java framework for building smart contracts.
 * [Etherspot](https://etherspot.io/) - MultiChain Smart Wallet SDK, supports most of the EVM-compatible chains.
 
 #### IDEs
