@@ -135,6 +135,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Alchemy](https://alchemyapi.io/) - Blockchain Developer Platform, Ethereum API, and Node Service (Mainnet, Ropsten, Rinkeby, Goerli, Kovan)
 * [ZMOK](https://zmok.io/) - JSON-RPC Ethereum API (Mainnet, Rinkeby, Front-running Mainnet)
 * [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
+* [Hyperledger FireFly](https://github.com/hyperledger/firefly) - Opensource Supernode enabling a complete stack for enterprises with built-in integrations Ethereum (Quorum, Hyperledger Besu, Geth, public mainnet), Hyperledger Fabric and Corda
 
 #### Test Ether Faucets
 * [Rinkeby faucet](https://faucet.rinkeby.io/)
