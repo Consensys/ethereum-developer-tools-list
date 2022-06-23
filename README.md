@@ -97,7 +97,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Dapp](https://dapp.tools/dapp/) - Framework for DApp development, successor to DApple
 * [Parasol](https://github.com/Lamarkaz/parasol) - Agile smart contract development environment with testing, INFURA deployment, automatic contract documentation and more. It features a flexible and unopinionated design with unlimited customizability
 * [0xcert](https://github.com/0xcert/framework/) - JavaScript framework for building decentralized applications
-* [OpenZeppelin SDK](https://openzeppelin.com/sdk/) - OpenZeppelin SDK: A suite of tools to help you develop, compile, upgrade, deploy and interact with smart contracts.
+* [OpenZeppelin Upgrades Plugins](https://docs.openzeppelin.com/upgrades-plugins/) - OpenZeppelin Upgrades Plugin: A comprehensive suite of contracts and tooling to deploy and manage upgradeable contracts on Ethereum.
 * [sbt-ethereum](https://sbt-ethereum.io/) - A tab-completey, text-based console for smart-contract interaction and development, including wallet and ABI management, ENS support, and advanced Scala integration.
 * [Cobra](https://github.com/cobraframework/cobra) - A fast, flexible and simple development environment framework for Ethereum smart contract, testing and deployment on Ethereum virtual machine(EVM).
 * [Epirus](https://docs.epirus.io/sdk/) - Java framework for building smart contracts. 
