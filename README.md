@@ -85,7 +85,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 #### Smart Contract Languages
 * [Solidity](https://docs.soliditylang.org/en/latest/) - Ethereum smart contracting language
 * [Vyper](https://vyper.readthedocs.io/en/latest/) - New experimental pythonic programming language
-* [Yul](https://docs.soliditylang.org/en/v0.5.3/yul.html) - is an intermediate programming language that is compiled to bytecode for addressing the needs of different backends.
+* [Yul](https://docs.soliditylang.org/en/v0.8.15/yul.html) - is an intermediate programming language that is compiled to bytecode for addressing the needs of different backends.
 
 #### Frameworks
 * [Truffle](https://trufflesuite.com/) - Most popular smart contract development, testing, and deployment framework. The Truffle suite includes Truffle, [Ganache](https://github.com/trufflesuite/ganache), and [Drizzle](https://github.com/truffle-box/drizzle-box). [Deep dive on Truffle here](https://media.consensys.net/truffle-deep-dive-what-you-need-to-know-when-developing-on-ethereum-e548d4df6e9)
