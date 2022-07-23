@@ -303,6 +303,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
 * [NOWNodes](https://nownodes.io) - Provide access to ETH node (and 48+ more) and Block Explorer. Get free API key to test blockchain-as-a-service solution
 * [Spice](https://spice.xyz) - Data and AI managed service, with SQL, API, and Node-as-a-Service.
+* [InfStones](https://infstones.com/) - Blockchain node service provider, with support for over 60 blockchain protocols.
 
 
 #### Storage
@@ -381,6 +382,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Blocknatve Mempool Explorer](https://www.blocknative.com/explorer) — Monitor any contract or wallet address and get streaming mempool events for every lifecycle stage — including drops, confirms, speedups, cancels, and more. Automatically decode confirmed internal transactions. And filter exactly how you want. Recieve events in our visual, no-code, interface or associate them with your API key to get events via a webhook. Mempool Explorer helps exchanges, protocols, wallets, and traders monitor and act on transactions in real-time.
 * [Ethernal](https://www.tryethernal.com) - Ethereum block explorer for private chain. Browse transactions, decode function calls, event data or contract variables values on your locally running chain.
 * [Forta](https://forta.org/) - A decentralized monitoring network to detect threats and anomalies on DeFi, NFT, governance, bridges and other Web3 systems in real-time.
+* [InfStones BlockWatch](https://infstones.com/block_watch) - Set up alarms to monitor node status for resource utilization. Incorporate notifications for SMS, Slack, phone calls, and emails.
 
 ### Other Miscellaneous Tools
 * [aragonPM](https://hack.aragon.org/docs/apm-intro.html) - a decentralized package manager powered by aragonOS and Ethereum. aragonPM enables decentralized governance over package upgrades, removing centralized points of failure.
