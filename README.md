@@ -74,7 +74,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [EthereumDev.io](https://ethereumdev.io) - The definitive guide for getting started with Ethereum smart contract programming.
 * [Brownie](https://github.com/iamdefinitelyahuman/brownie) - Brownie is a Python framework for deploying, testing and interacting with Ethereum smart contracts.
 * [Ethereum Stack Exchange](https://ethereum.stackexchange.com/) - Post and search questions to help your development life cycle. 
-* [dfuse](https://dfuse.io) - Slick blockchain APIs to build world-class applications.
+* [StreamingFast](https://www.streamingfast.io) - Massively scalable multi-chain infrastructure.
 * [Biconomy](https://biconomy.io) - Do gasless transactions in your dapp by enabling meta-transactions using simple to use SDK.
 * [Blocknative](https://blocknative.com) — Blockchain events before they happen. Blocknative's portfolio of developers tools make it easy to build with mempool data.
 * [useWeb3.xyz](https://useweb3.xyz/) — A curated overview of the best and latest resources on Ethereum, blockchain and Web3 development.
@@ -85,7 +85,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 #### Smart Contract Languages
 * [Solidity](https://docs.soliditylang.org/en/latest/) - Ethereum smart contracting language
 * [Vyper](https://vyper.readthedocs.io/en/latest/) - New experimental pythonic programming language
-* [Yul](https://docs.soliditylang.org/en/v0.5.3/yul.html) - is an intermediate programming language that is compiled to bytecode for addressing the needs of different backends.
+* [Yul](https://docs.soliditylang.org/en/v0.8.15/yul.html) - is an intermediate programming language that is compiled to bytecode for addressing the needs of different backends.
 
 #### Frameworks
 * [Truffle](https://trufflesuite.com/) - Most popular smart contract development, testing, and deployment framework. The Truffle suite includes Truffle, [Ganache](https://github.com/trufflesuite/ganache), and [Drizzle](https://github.com/truffle-box/drizzle-box). [Deep dive on Truffle here](https://media.consensys.net/truffle-deep-dive-what-you-need-to-know-when-developing-on-ethereum-e548d4df6e9)
@@ -95,19 +95,16 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Embark](https://github.com/embark-framework/embark) - Framework for DApp development
 * [Waffle](https://getwaffle.io/) - Framework for advanced smart contract development and testing, small, flexible, fast (based on ethers.js)
 * [Dapp](https://dapp.tools/dapp/) - Framework for DApp development, successor to DApple
-* [Etherlime](https://github.com/LimeChain/etherlime) - ethers.js based framework for Dapp deployment
 * [Parasol](https://github.com/Lamarkaz/parasol) - Agile smart contract development environment with testing, INFURA deployment, automatic contract documentation and more. It features a flexible and unopinionated design with unlimited customizability
 * [0xcert](https://github.com/0xcert/framework/) - JavaScript framework for building decentralized applications
-* [OpenZeppelin SDK](https://openzeppelin.com/sdk/) - OpenZeppelin SDK: A suite of tools to help you develop, compile, upgrade, deploy and interact with smart contracts.
+* [OpenZeppelin Upgrades Plugins](https://docs.openzeppelin.com/upgrades-plugins/) - OpenZeppelin Upgrades Plugin: A comprehensive suite of contracts and tooling to deploy and manage upgradeable contracts on Ethereum.
 * [sbt-ethereum](https://sbt-ethereum.io/) - A tab-completey, text-based console for smart-contract interaction and development, including wallet and ABI management, ENS support, and advanced Scala integration.
 * [Cobra](https://github.com/cobraframework/cobra) - A fast, flexible and simple development environment framework for Ethereum smart contract, testing and deployment on Ethereum virtual machine(EVM).
-* [Epirus](https://docs.epirus.io/sdk/) - Java framework for building smart contracts. 
+* [Epirus](https://docs.epirus.io/) - Java framework for building smart contracts.
 * [Etherspot](https://etherspot.io/) - MultiChain Smart Wallet SDK, supports most of the EVM-compatible chains.
 
 #### IDEs
 * [Remix](https://remix.ethereum.org/) - Web IDE with built in static analysis, test blockchain VM.
-* [Ethereum Studio](https://studio.ethereum.org/) - Web IDE. Built in browser blockchain VM, Metamask integration (one click deployments to Testnet/Mainnet), transaction logger and live code your WebApp among many other features.
-* [Atom](https://atom.io/) - Atom editor with [Atom Solidity Linter](https://atom.io/packages/atom-solidity-linter), [Etheratom](https://atom.io/packages/etheratom), [autocomplete-solidity](https://atom.io/packages/autocomplete-solidity), and [language-solidity](https://atom.io/packages/language-solidity) packages
 * [Vim solidity](https://github.com/tomlion/vim-solidity) - Vim syntax file for solidity
 * [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) - Visual Studio Code extension that adds support for Solidity
 * [Ethcode](https://marketplace.visualstudio.com/items?itemName=ethential.ethcode) - Visual Studio Code extension to compile, execute & debug Solidity & Vyper programs
@@ -125,8 +122,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Ganache](https://github.com/trufflesuite/ganache) - App for test Ethereum blockchain with visual UI and logs
 * [Kaleido](https://kaleido.io/) - Use Kaleido for spinning up a consortium blockchain network. Great for PoCs and testing
 * [Besu Private Network](https://besu.hyperledger.org/en/stable/Tutorials/Quickstarts/Azure-Private-Network-Quickstart/) - Run a private network of Besu nodes in a Docker container
-** [Orion](https://github.com/PegaSysEng/orion) - Component for performing private transactions by PegaSys
-** [Artemis](https://github.com/PegaSysEng/artemis) - Java implementation of the Ethereum 2.0 Beacon Chain by PegaSys
+* [Teku](https://github.com/ConsenSys/teku) - Java implementation of the Ethereum 2.0 Beacon Chain by ConsenSys
 * [Cliquebait](https://github.com/f-o-a-m/cliquebait) - Simplifies integration and accepting testing of smart contract applications with docker instances that closely resembles a real blockchain network
 * [Local Raiden](https://github.com/ConsenSys/Local-Raiden) - Run a local Raiden network in docker containers for demo and testing purposes
 * [Private networks deployment scripts](https://github.com/ConsenSys/private-networks-deployment-scripts) - Out-of-the-box deployment scripts for private PoA networks
@@ -139,6 +135,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Alchemy](https://alchemyapi.io/) - Blockchain Developer Platform, Ethereum API, and Node Service (Mainnet, Ropsten, Rinkeby, Goerli, Kovan)
 * [ZMOK](https://zmok.io/) - JSON-RPC Ethereum API (Mainnet, Rinkeby, Front-running Mainnet)
 * [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
+* [Hyperledger FireFly](https://github.com/hyperledger/firefly) - Opensource Supernode enabling a complete stack for enterprises with built-in integrations Ethereum (Quorum, Hyperledger Besu, Geth, public mainnet), Hyperledger Fabric and Corda
 
 #### Test Ether Faucets
 * [Rinkeby faucet](https://faucet.rinkeby.io/)
@@ -389,11 +386,10 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Truffle boxes](https://www.trufflesuite.com/boxes) - Packaged components for building DApps fast.
    * [Cheshire](https://github.com/endless-nameless-inc/cheshire) - A local sandbox implementation of the CryptoKitties API and smart contracts, available as a Truffle Box
 * [Solc](https://docs.soliditylang.org/en/latest/using-the-compiler.html) - Solidity compiler
-* [Sol-compiler](https://sol-compiler.com/) - Project-level Solidity compiler
 * [Solidity cli](https://github.com/pubkey/solidity-cli) - Compile solidity-code faster, easier and more reliable
 * [Solidity flattener](https://github.com/poanetwork/solidity-flattener) - Combine solidity project to flat file utility. Useful for visualizing imported contracts or for verifying your contract on Etherscan
 * [Sol-merger](https://github.com/RyuuGan/sol-merger) - Alternative, merges all imports into single file for solidity contracts
-* [RLP](https://github.com/ethereumjs/rlp) - Recursive Length Prefix Encoding in JavaScript
+* [RLP](https://github.com/ethereumjs/ethereumjs-monorepo/tree/master/packages/rlp) - Recursive Length Prefix Encoding for Node.js and the browser
 * [eth-cli](https://github.com/protofire/eth-cli) - A collection of CLI tools to help with ethereum learning and development
 * [Ethereal](https://github.com/wealdtech/ethereal) - Ethereal is a command line tool for managing common tasks in Ethereum
 * [Eth crypto](https://github.com/pubkey/eth-crypto) - Cryptographic javascript-functions for Ethereum and tutorials to use them with web3js and solidity
