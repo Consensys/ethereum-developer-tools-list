@@ -383,6 +383,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Ethernal](https://www.tryethernal.com) - Ethereum block explorer for private chain. Browse transactions, decode function calls, event data or contract variables values on your locally running chain.
 * [Forta](https://forta.org/) - A decentralized monitoring network to detect threats and anomalies on DeFi, NFT, governance, bridges and other Web3 systems in real-time.
 * [InfStones BlockWatch](https://infstones.com/block_watch) - Set up alarms to monitor node status for resource utilization. Incorporate notifications for SMS, Slack, phone calls, and emails.
+* [Blocktorch](https://app.blocktorch.xyz) - An obvservability platform for the decentralized stack. Get the big picture of all your smart contracts at a glance. Browse through logs across chains and across contracts fast. Set Service Level Objectives to see and get notified about anomalies. 
 
 ### Other Miscellaneous Tools
 * [aragonPM](https://hack.aragon.org/docs/apm-intro.html) - a decentralized package manager powered by aragonOS and Ethereum. aragonPM enables decentralized governance over package upgrades, removing centralized points of failure.
