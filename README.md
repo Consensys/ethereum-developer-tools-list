@@ -240,6 +240,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Nethereum-CodeGenerator](https://github.com/StefH/Nethereum-CodeGenerator) - A web based generator which creates a Nethereum based C# Interface and Service based on Solidity Smart Contracts.
 * [EVMConnector](https://evmconnector.dev) - Create shareable contract dashboards and interact with arbitrary EVM-based blockchain functions, with or without an ABI.
 * [contract-admin](https://github.com/upgreidas/contract-admin) - Minimalistic UI tool for interacting with your smart contracts
+* [Smart Contract GUI](https://smartcontractgui.xyz) - Instant access to read from and write to any smart contract directly (on any EVM chain) by simply uploading the ABI. A simple and powerful UX enables rapid execution of smart contract calls locally, on testnets and mainnets. It also comes packed with a host of useful tools for integration testing. 
 
 #### Patterns & Best Practices
 
@@ -324,6 +325,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [DEVp2p Wire Protocol](https://github.com/ethereum/devp2p/blob/master/rlpx.md) - Peer-to-peer communications between nodes running Ethereum/Whisper
 * [Pydevp2p](https://github.com/ethereum/pydevp2p) - Python implementation of the RLPx network layer
 * [3Box Threads](https://docs.3box.io/api/messaging) - API to allow developers to implement IPFS persisted, or in memory peer to peer messaging.
+* [EPNS SNS Notifications](https://docs.epns.io/developers/developer-zone/receiving-notifications/sns-notifications) - SNS module for Push Delivery Nodes allows any developer to receive notifications, chats, or any other form of web3 communication directly to the platform they are building with the help of webhooks.
 
 ### Testing Tools
 * [Truffle Teams](https://trufflesuite.com/teams) - Zero-Config continuous integration for truffle projects
@@ -383,7 +385,8 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Ethernal](https://www.tryethernal.com) - Ethereum block explorer for private chain. Browse transactions, decode function calls, event data or contract variables values on your locally running chain.
 * [Forta](https://forta.org/) - A decentralized monitoring network to detect threats and anomalies on DeFi, NFT, governance, bridges and other Web3 systems in real-time.
 * [InfStones BlockWatch](https://infstones.com/block_watch) - Set up alarms to monitor node status for resource utilization. Incorporate notifications for SMS, Slack, phone calls, and emails.
-* [Blocktorch](https://app.blocktorch.xyz) - An obvservability platform for the decentralized stack. Get the big picture of all your smart contracts at a glance. Browse through logs across chains and across contracts fast. Set Service Level Objectives to see and get notified about anomalies. 
+* [Blocktorch](https://blocktorch.xyz) - An obvservability platform for the decentralized stack. Get the big picture of all your smart contracts at a glance. Browse through logs across chains and across contracts fast. Set Service Level Objectives to see and get notified about anomalies. 
+* [Ethereum-datafarm](https://github.com/Nerolation/ethereum-datafarm) - Easy-to-use console app for parsing historical event data without requiring an archive node. Ethereum-datafarm uses the Etherscan API to parse event data from specified contracts and store it in CSV format.
 
 ### Other Miscellaneous Tools
 * [aragonPM](https://hack.aragon.org/docs/apm-intro.html) - a decentralized package manager powered by aragonOS and Ethereum. aragonPM enables decentralized governance over package upgrades, removing centralized points of failure.
