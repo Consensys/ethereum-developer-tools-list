@@ -176,6 +176,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Defiprime.com](https://defiprime.com/) - A curated list of awesome decentralized finance projects, software, events, and resources
 * [DEX protocols](https://github.com/evbots/dex-protocols) - A list of protocols for decentralised exchange
 * [Ethereum Token Standards](https://github.com/PhABC/ethereum-token-standards-list) - An exhaustive list of Ethereum Token Standards
+* [Web3Grants.net](https://web3grants.net) - A list of web3/crypto related grant programs
 
 ### Decentralized Finance (DeFi)
 * [ETHLend](https://ethlend.io) - Decentralised peer to peer lending marketplace that allows people all over the world to get a loan or become a lender.
