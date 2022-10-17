@@ -370,6 +370,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
 * [Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) - Free smart contract security audits from Callisto Network
 * [Piet](https://piet.slock.it) - A visual Solidity architecture analyzer
+* [Smack My Contract](https://smackmycontract.xyz/) - Web3 Security Scanner Aggregator
 
 ### Monitoring
 * [Alethio](https://aleth.io/) - An advanced Ethereum analytics platform that provides live monitoring, insights and anomaly detection, token metrics, smart contract audits, graph visualization and blockchain search. Real-time market information and trading activities across Ethereum's decentralized exchanges can also be explored.
