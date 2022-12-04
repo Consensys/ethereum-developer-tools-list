@@ -395,6 +395,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [aragonPM](https://hack.aragon.org/docs/apm-intro.html) - a decentralized package manager powered by aragonOS and Ethereum. aragonPM enables decentralized governance over package upgrades, removing centralized points of failure.
 * [Truffle boxes](https://www.trufflesuite.com/boxes) - Packaged components for building DApps fast.
    * [Cheshire](https://github.com/endless-nameless-inc/cheshire) - A local sandbox implementation of the CryptoKitties API and smart contracts, available as a Truffle Box
+* [Cookbook](https://cookbook.dev) - A platform aggregating all smart contract libraries
 * [Solc](https://docs.soliditylang.org/en/latest/using-the-compiler.html) - Solidity compiler
 * [Sol-compiler](https://sol-compiler.com/) - Project-level Solidity compiler
 * [Solidity cli](https://github.com/pubkey/solidity-cli) - Compile solidity-code faster, easier and more reliable
@@ -440,6 +441,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 
 #### Popular Smart Contract Libraries
 * [Zeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) - Contains tested reusable smart contracts like SafeMath and OpenZeppelin SDK [library](https://github.com/OpenZeppelin/openzeppelin-sdk) for smart contract upgradeability
+* [Cookbook](https://cookbook.dev) - A platform aggregating all smart contract libraries
 * [cryptofin-solidity](https://github.com/cryptofinlabs/cryptofin-solidity) - A collection of Solidity libraries for building secure and gas-efficient smart contracts on Ethereum.
 * [Modular Libraries](https://github.com/Modular-Network/ethereum-libraries) - A group of packages built for use on blockchains utilizing the Ethereum Virtual Machine
 * [DateTime Library](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary) - A gas-efficient Solidity date and time library
