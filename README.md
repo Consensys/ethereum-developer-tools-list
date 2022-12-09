@@ -243,6 +243,9 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [EVMConnector](https://evmconnector.dev) - Create shareable contract dashboards and interact with arbitrary EVM-based blockchain functions, with or without an ABI.
 * [contract-admin](https://github.com/upgreidas/contract-admin) - Minimalistic UI tool for interacting with your smart contracts
 * [Smart Contract GUI](https://smartcontractgui.xyz) - Instant access to read from and write to any smart contract directly (on any EVM chain) by simply uploading the ABI. A simple and powerful UX enables rapid execution of smart contract calls locally, on testnets and mainnets. It also comes packed with a host of useful tools for integration testing. 
+* [Sidekik](https://sidekik.xyz) - Debug, test, and grok smart contracts with a visual UI that lets you interact with local or deployed EVM-based smart contracts. Use cases include hot reloading UI for your smart contracts as you code them, easier auditing without writing scripts to hit a function, end-to-end testing your code before deploying it, and more.
+
+.
 
 #### Patterns & Best Practices
 
@@ -390,6 +393,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [InfStones BlockWatch](https://infstones.com/block_watch) - Set up alarms to monitor node status for resource utilization. Incorporate notifications for SMS, Slack, phone calls, and emails.
 * [Blocktorch](https://blocktorch.xyz) - An obvservability platform for the decentralized stack. Get the big picture of all your smart contracts at a glance. Browse through logs across chains and across contracts fast. Set Service Level Objectives to see and get notified about anomalies. 
 * [Ethereum-datafarm](https://github.com/Nerolation/ethereum-datafarm) - Easy-to-use console app for parsing historical event data without requiring an archive node. Ethereum-datafarm uses the Etherscan API to parse event data from specified contracts and store it in CSV format.
+* [Sidekik](https://sidekik.xyz) - Debug, test, and grok smart contracts with a visual UI that lets you interact with local or deployed EVM-based smart contracts. Easily monitor and browse local chain transactions, decode function calls, and prepare input payloads so you can test your code.
 
 ### Other Miscellaneous Tools
 * [aragonPM](https://hack.aragon.org/docs/apm-intro.html) - a decentralized package manager powered by aragonOS and Ethereum. aragonPM enables decentralized governance over package upgrades, removing centralized points of failure.
