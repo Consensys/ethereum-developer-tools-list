@@ -395,7 +395,6 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [aragonPM](https://hack.aragon.org/docs/apm-intro.html) - a decentralized package manager powered by aragonOS and Ethereum. aragonPM enables decentralized governance over package upgrades, removing centralized points of failure.
 * [Truffle boxes](https://www.trufflesuite.com/boxes) - Packaged components for building DApps fast.
    * [Cheshire](https://github.com/endless-nameless-inc/cheshire) - A local sandbox implementation of the CryptoKitties API and smart contracts, available as a Truffle Box
-* [Cookbook](https://cookbook.dev) - A platform aggregating all smart contract libraries
 * [Solc](https://docs.soliditylang.org/en/latest/using-the-compiler.html) - Solidity compiler
 * [Sol-compiler](https://sol-compiler.com/) - Project-level Solidity compiler
 * [Solidity cli](https://github.com/pubkey/solidity-cli) - Compile solidity-code faster, easier and more reliable
@@ -427,6 +426,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Blocknative Gas Platform](https://www.blocknative.com/gas) — Gas estimation for builders, by builders. Gas Platform harnesses Blocknative's real-time mempool data infrastructure to accurately and consistently estimate Ethereum transaction fees. This provides builders and traders with an up-to-the-moment gas fee API.
 * [ETH Gas.watch](https://ethgas.watch/) - A gas price watcher with email notifications on price change
 * [Diverse Eth Calculator](https://ethcalculator.dsolutions.mn/) - Ease unit calculations & utility tools. PWA , so you can install it on your mac/windows/linux or android/iphone
+* [Cookbook](https://cookbook.dev) - A platform aggregating all smart contract libraries
 
 ### Smart Contract Standards & Libraries
 #### [ERCs](https://eips.ethereum.org/erc) - The Ethereum Request for Comment repository
@@ -441,7 +441,6 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 
 #### Popular Smart Contract Libraries
 * [Zeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) - Contains tested reusable smart contracts like SafeMath and OpenZeppelin SDK [library](https://github.com/OpenZeppelin/openzeppelin-sdk) for smart contract upgradeability
-* [Cookbook](https://cookbook.dev) - A platform aggregating all smart contract libraries
 * [cryptofin-solidity](https://github.com/cryptofinlabs/cryptofin-solidity) - A collection of Solidity libraries for building secure and gas-efficient smart contracts on Ethereum.
 * [Modular Libraries](https://github.com/Modular-Network/ethereum-libraries) - A group of packages built for use on blockchains utilizing the Ethereum Virtual Machine
 * [DateTime Library](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary) - A gas-efficient Solidity date and time library
@@ -451,6 +450,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Token Libraries with Proofs](https://github.com/sec-bit/tokenlibs-with-proofs) - Contains correctness proofs of token contracts wrt. given specifications and high-level properties
 * [Provable API](https://github.com/provable-things/ethereum-api) - Provides contracts for using the Provable service, allowing for off-chain actions, data-fetching, and computation
 * [ABDK Libraries for Solidity](https://github.com/abdk-consulting/abdk-libraries-solidity) - Fixed-point (64.64 bit) and IEEE-754 compliant quad precision (128 bit) floating-point math libraries for Solidity
+* [Cookbook](https://cookbook.dev) - A platform aggregating all smart contract libraries
 
 
 ### Developer Guides for 2nd Layer Infrastructure
