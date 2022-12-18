@@ -189,6 +189,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Notify.js](https://blocknative.com/notify) - Deliver real-time notifications to your users. With built-in support for Speed-Ups and Cancels, Blocknative Notify.js helps users transact with confidence. Notify.js is easy to integrate and quick to customize.
 * [Quiver](https://raid-guild.github.io/quiver/) - A collection of React hooks and components for Ethereum dApps. Built by Raid Guild.
 * [Rainbow](https://www.rainbowkit.com/) - RainbowKit is a React library that makes it easy to add wallet connection to your dapp. It's intuitive, responsive and customizable.
+* [Nexth](https://github.com/wslyvh/nexth) - A Next.js + Ethereum starter kit to quickly ship your Web3 projects ⚡
 
 #### Backend Ethereum APIs
 * [Web3.py](https://github.com/ethereum/web3.py) - Python Web3
