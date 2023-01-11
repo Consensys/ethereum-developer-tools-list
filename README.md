@@ -150,7 +150,8 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Kovan faucet](https://github.com/kovan-testnet/faucet)
 * [Ropsten faucet (MetaMask)](https://faucet.metamask.io/)
 * [Ropsten faucet (rpanic)](https://faucet.rpanic.com)
-* [Goerli faucet](https://goerli-faucet.slock.it/)
+* [Goerli faucet1](https://goerlifaucet.com/)
+* [Goerli faucet2](https://goerli-faucet.pk910.de/)
 * [Universal faucet](https://faucets.blockxlabs.com/)
 * [Nethereum.Faucet](https://github.com/Nethereum/Nethereum.Faucet) - A C#/.NET faucet
 * [Chainlink Faucet](https://faucets.chain.link/rinkeby)
