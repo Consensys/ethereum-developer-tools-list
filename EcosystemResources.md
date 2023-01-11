@@ -110,7 +110,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Chainstack Docs](https://docs.chainstack.com/tutorials/) - Step-by-step DApp building tutorials
 * [Learn web 3 DAO](https://www.learnweb3.io/) - Curious about Web3 as a developer? Wonder what are NFTs, DAOs, DeFi, and Smart Contracts? This is the place for you!
 * [Dapp learning DAO](https://github.com/Dapp-Learning-DAO/Dapp-Learning) - Definitive Guide for Decentralized-app(Dapp) Development on Blockchain Step-by-step Dapp practice through actual projects.
-
+* [L2Beat](https://l2beat.com/) - Analytics and research website about Ethereum layer two (L2) scaling solutions.
 
 #### Security best practices
 * [Smart contract best practices](https://github.com/ConsenSys/smart-contract-best-practices) - by ConsenSys
