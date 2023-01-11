@@ -71,7 +71,6 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Cryptotux](https://cryptotux.org/) - A Linux image ready to be imported in VirtualBox that includes the development tools mentioned above
 * [OpenZeppelin Wizards](https://docs.openzeppelin.com/contracts/4.x/wizard) - Not sure where to start? Use the interactive generator to bootstrap your contract and learn about the components offered in OpenZeppelin Contracts.
 * [EthHub.io](https://docs.ethhub.io/) - Comprehensive crowdsourced overview of Ethereum- its history, governance, future plans and development resources.
-* [EthereumDev.io](https://ethereumdev.io) - The definitive guide for getting started with Ethereum smart contract programming.
 * [Brownie](https://github.com/iamdefinitelyahuman/brownie) - Brownie is a Python framework for deploying, testing and interacting with Ethereum smart contracts.
 * [Ethereum Stack Exchange](https://ethereum.stackexchange.com/) - Post and search questions to help your development life cycle.
 * [dfuse](https://dfuse.io) - Slick blockchain APIs to build world-class applications.
