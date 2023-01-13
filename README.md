@@ -439,6 +439,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [ETH Gas.watch](https://ethgas.watch/) - A gas price watcher with email notifications on price change
 * [Diverse Eth Calculator](https://ethcalculator.dsolutions.mn/) - Ease unit calculations & utility tools. PWA , so you can install it on your mac/windows/linux or android/iphone
 * [Cookbook](https://cookbook.dev) - A platform aggregating all smart contract libraries
+* [Token MultiSender](https://blockbucket.io/) - A platform for Smart Contract Developers to airdrop tokens to multiple address in one transaction with low fees (0.01ETH per airdrop).
 
 ### Smart Contract Standards & Libraries
 #### [ERCs](https://eips.ethereum.org/erc) - The Ethereum Request for Comment repository
