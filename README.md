@@ -193,6 +193,8 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Quiver](https://raid-guild.github.io/quiver/) - A collection of React hooks and components for Ethereum dApps. Built by Raid Guild.
 * [Rainbow](https://www.rainbowkit.com/) - RainbowKit is a React library that makes it easy to add wallet connection to your dapp. It's intuitive, responsive and customizable.
 * [Nexth](https://github.com/wslyvh/nexth) - A Next.js + Ethereum starter kit to quickly ship your Web3 projects ⚡
+* [Db3.js](https://github.com/dbpunk-labs/db3.js) - db3.js is the db3 network(Ethereum layer2) javascript API to write and query JSON documents.
+
 
 #### Backend Ethereum APIs
 * [Web3.py](https://github.com/ethereum/web3.py) - Python Web3
