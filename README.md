@@ -325,6 +325,8 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
    * [TEMPORAL](https://github.com/RTradeLtd/Temporal) - Easy to use API into IPFS and other distributed/decentralised storage protocols
    * [PINATA](https://pinata.cloud) - The Easiest Way to Use IPFS
 * [Swarm](https://swarm-gateways.net/) - Distributed storage platform and content distribution service, a native base layer service of the Ethereum web3 stack
+* [Arweave](https://www.arweave.org/) - Decentralized and permanent storage
+  * [Bundlr](https://bundlr.network/) - Arweave scaling solution with multiple token support
 * [Infura](https://infura.io/) - A managed IPFS API Gateway and pinning service
 * [3Box Storage](https://docs.3box.io/api/storage) - An api for user controlled, distributed storage. Built on top of IPFS and Orbitdb.
 * [Aleph.im](https://aleph.im/) - an offchain incentivized peer-to-peer cloud project (database, file storage, computing and DID) compatible with Ethereum and IPFS.
