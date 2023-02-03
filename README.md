@@ -91,6 +91,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Solidity](https://docs.soliditylang.org/en/latest/) - Ethereum smart contracting language
 * [Vyper](https://vyper.readthedocs.io/en/latest/) - New experimental pythonic programming language
 * [Yul](https://docs.soliditylang.org/en/v0.5.3/yul.html) - is an intermediate programming language that is compiled to bytecode for addressing the needs of different backends.
+* [Fe-Lang](https://fe-lang.org/) - Fe is a statically typed language for the Ethereum Virtual Machine (EVM). It is inspired by Python and Rust.
 
 #### Frameworks
 * [Truffle](https://trufflesuite.com/) - Most popular smart contract development, testing, and deployment framework. The Truffle suite includes Truffle, [Ganache](https://github.com/trufflesuite/ganache), and [Drizzle](https://github.com/truffle-box/drizzle-box). [Deep dive on Truffle here](https://media.consensys.net/truffle-deep-dive-what-you-need-to-know-when-developing-on-ethereum-e548d4df6e9)
@@ -327,10 +328,12 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
    * [Mahuta](https://github.com/ConsenSys/Mahuta) - IPFS Storage service with added search capability, formerly IPFS-Store
    * [OrbitDB](https://github.com/orbitdb/orbit-db) - Decentralised database on top of IPFS
    * [JS IPFS API](https://github.com/ipfs/js-ipfs-http-client) - A client library for the IPFS HTTP API, implemented in JavaScript
+   * [Moralis IPFS API](https://docs.moralis.io/web3-data-api/reference/upload-folder) - Upload mutliple files to IPFS easily in any language
    * [TEMPORAL](https://github.com/RTradeLtd/Temporal) - Easy to use API into IPFS and other distributed/decentralised storage protocols
    * [PINATA](https://pinata.cloud) - The Easiest Way to Use IPFS
 * [Swarm](https://swarm-gateways.net/) - Distributed storage platform and content distribution service, a native base layer service of the Ethereum web3 stack
-* [Moralis IPFS API](https://docs.moralis.io/web3-data-api/reference/upload-folder) - Upload mutliple files to IPFS easily in any language
+* [Arweave](https://www.arweave.org/) - Decentralized and permanent storage
+  * [Bundlr](https://bundlr.network/) - Arweave scaling solution with multiple token support
 * [Infura](https://infura.io/) - A managed IPFS API Gateway and pinning service
 * [3Box Storage](https://docs.3box.io/api/storage) - An api for user controlled, distributed storage. Built on top of IPFS and Orbitdb.
 * [Aleph.im](https://aleph.im/) - an offchain incentivized peer-to-peer cloud project (database, file storage, computing and DID) compatible with Ethereum and IPFS.
