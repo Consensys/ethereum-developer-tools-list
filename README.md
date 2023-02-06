@@ -126,6 +126,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Azure Blockchain Dev Kit for Ethereum for VSCode](https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain) - VSCode extension that allows for creating smart contracts and deploying them inside of Visual Studio Code
 * [Ethereum Remix- Ethereum Remix plugins in VSCode](https://marketplace.visualstudio.com/items?itemName=RemixProject.ethereum-remix) - This plugin brings Remix plugins to Visual Studio Code.
 * [Crypto Address Lens](https://marketplace.visualstudio.com/items?itemName=peetzweg.crypto-address-lens) - VSCode Extension which improves the development experience with Ethereum style addresses.
+* [Ramen](https://github.com/dyng/ramen) - An intuitive, easy-to-use terminal UI to interact with Ethereum (Mainnet, Testnet or local network)
 
 ### Test Blockchain Networks
 * [ethnode](https://github.com/vrde/ethnode) - Run an Ethereum node (Geth or Parity) for development, as easy as `npm i -g ethnode && ethnode`.
