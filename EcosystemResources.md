@@ -67,6 +67,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 ### Services
 * [Provable](http://docs.provable.xyz/#ethereum) - Blockchain oracle service backed by authenticity proofs, for your smart contracts
 * [Infura](https://infura.io/) - API gateway so you don't have to host your own ETH node
+* [Moralis](https://moralis.io) - Enterprise-grade Web3 API that can be used for efficiently indexing blockchain data, authenticate various web3 wallets, and listen to real-time blockchain events in multiple EVM chains
 * [Quiknode](https://quiknode.io/) - Service to spin up personal Parity/Geth nodes
 * [Nodesmith](https://nodesmith.io/) - Free API access to full Ethereum mainnet and testnet nodes, can be used just like a local node
 * [dfuse](https://dfuse.io) - Slick blockchain APIs to build world-class applications
@@ -89,12 +90,14 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [BUIDLHub](https://buidlhub.com) - Create automated workflows between traditional web services & ethereum. Supports bots, webhooks, custom dapp integrations, etc.
 * [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
 * [Picket](https://picketapi.com) - A simple API and SDK for wallet-based authentication and token-based authorization (a.k.a token-gating)
+* [Chainnodes](https://www.chainnodes.org/) - Web3 Infrastructure provider with enterprise grade low latency for all. Supports all major EVM chains.
 
 ### Knowledge/Education
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
 * [Solidity idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies) - Solidity gotchas, pitfalls, limitations, and idiosyncrasies
 * [Ethereum development with Go](https://github.com/miguelmota/ethereum-development-with-go-book) - A little [book](https://goethereumbook.org) on Ethereum Development with Golang
 * [Consensys Academy](https://consensys.net/academy/) - Courses
+* [Moralis Academy](https://academy.moralis.io) - Paid courses on Solidity programming, dApp development, and building blockchain business
 * [B9Lab](https://academy.b9lab.com/) - Paid courses
 * [Blockgeeks](https://courses.blockgeeks.com/) - Paid courses on solidity/dapp development
 * [Chainshot building blocks](https://www.chainshot.com/) - Paid Courses
@@ -109,7 +112,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Chainstack Docs](https://docs.chainstack.com/tutorials/) - Step-by-step DApp building tutorials
 * [Learn web 3 DAO](https://www.learnweb3.io/) - Curious about Web3 as a developer? Wonder what are NFTs, DAOs, DeFi, and Smart Contracts? This is the place for you!
 * [Dapp learning DAO](https://github.com/Dapp-Learning-DAO/Dapp-Learning) - Definitive Guide for Decentralized-app(Dapp) Development on Blockchain Step-by-step Dapp practice through actual projects.
-
+* [L2Beat](https://l2beat.com/) - Analytics and research website about Ethereum layer two (L2) scaling solutions.
 
 #### Security best practices
 * [Smart contract best practices](https://github.com/ConsenSys/smart-contract-best-practices) - by ConsenSys
@@ -176,6 +179,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Defiprime.com](https://defiprime.com/) - A curated list of awesome decentralized finance projects, software, events, and resources
 * [DEX protocols](https://github.com/evbots/dex-protocols) - A list of protocols for decentralised exchange
 * [Ethereum Token Standards](https://github.com/PhABC/ethereum-token-standards-list) - An exhaustive list of Ethereum Token Standards
+* [Web3Grants.net](https://web3grants.net) - A list of web3/crypto related grant programs
 
 ### Decentralized Finance (DeFi)
 * [ETHLend](https://ethlend.io) - Decentralised peer to peer lending marketplace that allows people all over the world to get a loan or become a lender.
@@ -191,5 +195,6 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 ### Jobs
 - [Jobs at ConsenSys](https://consensys.net/careers/) - jobs at ConsenSys
 - [Jobs at Ethereum Foundation](https://ethereum.bamboohr.com/jobs/) - jobs at Ethereum Foundation
+- [Jobs at Moralis](https://talent.moralis.io) - jobs at Moralis
 - [Solidity Jobs](https://cryptojobslist.com/solidity-jobs) - list of Solidity jobs on Crypto Jobs List
 - [Web3Jobs](https://web3.career) - list of jobs in Web3.
