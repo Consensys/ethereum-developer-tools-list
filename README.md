@@ -147,6 +147,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Alchemy](https://alchemyapi.io/) - Blockchain Developer Platform, Ethereum API, and Node Service (Mainnet, Ropsten, Rinkeby, Goerli, Kovan)
 * [ZMOK](https://zmok.io/) - JSON-RPC Ethereum API (Mainnet, Rinkeby, Front-running Mainnet)
 * [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
+* [cheapETH](https://cheapeth.org/) - 100% compatible Ethereum network for cheap and easy development
 
 #### Test Ether Faucets
 * [Rinkeby faucet](https://faucet.rinkeby.io/)
