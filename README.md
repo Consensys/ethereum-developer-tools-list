@@ -236,6 +236,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 
 #### Ethereum ABI (Application Binary Interface) tools
 * [Online ABI encoder](https://github.com/HashEx/abiencoder) - Free ABI encoder online service that allows you to encode your Solidity contract’s functions and constructor arguments.
+* [Online Solidity ABI Encoder](https://neptunemutual.com/web3-tools/solidity-abi-encoder-online/) - Online Solidity ABI Encoder to encode smart contract arguments, and also perform read and write operations on the blockchain.
 * [ABI decoder](https://github.com/ConsenSys/abi-decoder) - library for decoding data params and events from Ethereum transactions
 * [ABI-gen](https://github.com/0xProject/0x-monorepo/tree/development/packages/abi-gen) - Generate Typescript contract wrappers from contract ABI's.
 * [Ethereum ABI UI](https://github.com/hiddentao/ethereum-abi-ui) - Auto-generate UI form field definitions and associated validators from an Ethereum contract ABI
@@ -442,6 +443,8 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [ETH Gas.watch](https://ethgas.watch/) - A gas price watcher with email notifications on price change
 * [Diverse Eth Calculator](https://ethcalculator.dsolutions.mn/) - Ease unit calculations & utility tools. PWA , so you can install it on your mac/windows/linux or android/iphone
 * [Cookbook](https://cookbook.dev) - A platform aggregating all smart contract libraries
+* [Ethereum Unit Converter](https://neptunemutual.com/web3-tools/ethereum-unit-converter/) - Online tool to convert the different Ethereum denominations (wei, gwei, ether).
+* [Solidity Bytes32 Converter](https://neptunemutual.com/web3-tools/string-to-bytes32-converter/) - Online tool to convert Solidity Bytes32 into strings, or numbers and vice versa.
 
 ### Smart Contract Standards & Libraries
 #### [ERCs](https://eips.ethereum.org/erc) - The Ethereum Request for Comment repository
