@@ -444,6 +444,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Unity3dSimpleSample](https://github.com/Nethereum/Unity3dSimpleSample) - Ethereum and Unity integration demo
 * [Flappy](https://github.com/Nethereum/Nethereum.Flappy) - Ethereum and Unity integration demo/sample
 * [Wonka](https://github.com/Nethereum/Wonka) - Nethereum business rules engine demo/sample
+* [Sol2UML](https://github.com/naddison36/sol2uml) Unified Modeling Language (UML) class diagram generator for Solidity contracts
 * [Resolver-Engine](https://github.com/Crypto-Punkers/resolver-engine) - A set of tools to standardize Solidity import and artifact resolution in frameworks.
 * [eth-reveal](https://github.com/justinjmoses/eth-reveal) - A node and browser tool to inspect transactions - decoding where possible the method, event logs and any revert reasons using ABIs found online. 
 * [Ethereum-tx-sender](https://github.com/HydroProtocol/ethereum-tx-sender) - A useful library written in Golang to reliably send a transaction — abstracting away some of the tricky low level details such as gas optimization, nonce calculations, synchronization, and retries.
