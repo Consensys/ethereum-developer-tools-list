@@ -250,6 +250,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [contract-admin](https://github.com/upgreidas/contract-admin) - Minimalistic UI tool for interacting with your smart contracts
 * [Smart Contract GUI](https://smartcontractgui.xyz) - Instant access to read from and write to any smart contract directly (on any EVM chain) by simply uploading the ABI. A simple and powerful UX enables rapid execution of smart contract calls locally, on testnets and mainnets. It also comes packed with a host of useful tools for integration testing. 
 * [Sidekik](https://sidekik.xyz) - Debug, test, and grok smart contracts with a visual UI that lets you interact with local or deployed EVM-based smart contracts. Use cases include hot reloading UI for your smart contracts as you code them, easier auditing without writing scripts to hit a function, end-to-end testing your code before deploying it, and more.
+* [Web3 Client](https://workspace.web3client.app/evm) - Web IDE allows you to execute methods deployed smart contract and Share with others.
 
 .
 
