@@ -91,6 +91,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Solidity](https://docs.soliditylang.org/en/latest/) - Ethereum smart contracting language
 * [Vyper](https://vyper.readthedocs.io/en/latest/) - New experimental pythonic programming language
 * [Yul](https://docs.soliditylang.org/en/v0.5.3/yul.html) - is an intermediate programming language that is compiled to bytecode for addressing the needs of different backends.
+* [Huff](https://docs.huff.sh/) - is not so much a language as a tool with features like macros and constants that make it easier to write pure EVM opcodes.  Huff can be used to write highly-efficient contracts for use in production, or it can also serve as a way for beginners to learn more about the EVM.
 * [Fe-Lang](https://fe-lang.org/) - Fe is a statically typed language for the Ethereum Virtual Machine (EVM). It is inspired by Python and Rust.
 
 #### Frameworks
