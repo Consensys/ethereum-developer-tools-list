@@ -97,7 +97,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Solidity idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies) - Solidity gotchas, pitfalls, limitations, and idiosyncrasies
 * [Ethereum development with Go](https://github.com/miguelmota/ethereum-development-with-go-book) - A little [book](https://goethereumbook.org) on Ethereum Development with Golang
 * [Consensys Academy](https://consensys.net/academy/) - Courses
-* [Moralis Academy](https://academy.moralis.io) - Paid courses on Solidity programming, dApp developmen, and building blockchain business
+* [Moralis Academy](https://academy.moralis.io) - Paid courses on Solidity programming, dApp development, and building blockchain business
 * [B9Lab](https://academy.b9lab.com/) - Paid courses
 * [Blockgeeks](https://courses.blockgeeks.com/) - Paid courses on solidity/dapp development
 * [Chainshot building blocks](https://www.chainshot.com/) - Paid Courses
