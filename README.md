@@ -73,6 +73,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [OpenZeppelin Wizards](https://docs.openzeppelin.com/contracts/4.x/wizard) - Not sure where to start? Use the interactive generator to bootstrap your contract and learn about the components offered in OpenZeppelin Contracts.
 * [EthHub.io](https://docs.ethhub.io/) - Comprehensive crowdsourced overview of Ethereum- its history, governance, future plans and development resources.
 * [Brownie](https://github.com/iamdefinitelyahuman/brownie) - Brownie is a Python framework for deploying, testing and interacting with Ethereum smart contracts.
+* [Moralis](https://moralis.io) - Moralis is a cross-chain Enterprise-grade Web3 API that can be used for efficiently indexing blockchain data, authenticate various web3 wallets, and listen to real-time blockchain events
 * [Ethereum Stack Exchange](https://ethereum.stackexchange.com/) - Post and search questions to help your development life cycle.
 * [dfuse](https://dfuse.io) - Slick blockchain APIs to build world-class applications.
 * [Biconomy](https://biconomy.io) - Do gasless transactions in your dapp by enabling meta-transactions using simple to use SDK.
@@ -167,6 +168,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [light.js](https://github.com/paritytech/js-libs/tree/master/packages/light.js) A high-level reactive JS library optimized for light clients.
 * [Web3Wrapper](https://github.com/0xProject/0x-monorepo/tree/development/packages/web3-wrapper) - Typescript Web3 alternative
 * [Ethereumjs](https://github.com/ethereumjs/) - A collection of utility functions for Ethereum like [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util) and [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx)
+* [Moralis NextJS SDK](https://github.com/MoralisWeb3/Moralis-JS-SDK/tree/main/packages/next) - An easy to use React hooks library for NextJS dapp to index and monitor various blockchain data
 * [Alchemy-web3.js](https://github.com/alchemyplatform/alchemy-web3) - Javascript Web3 wrapper with automatic retries, access to [Alchemy's enhanced APIs](https://docs.alchemyapi.io/documentation/alchemy-web3/enhanced-web3-api), and robust websocket connections.
 * [flex-contract](https://github.com/merklejerk/flex-contract) and [flex-ether](https://github.com/merklejerk/flex-ether) - Modern, zero-configuration, high-level libraries for interacting with smart contracts and making transactions.
 * [ez-ens](https://github.com/merklejerk/ez-ens) - Simple, zero-configuration Ethereum Name Service address resolver.
@@ -204,6 +206,8 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [rust-web3](https://github.com/tomusdrw/rust-web3) - Rust Web3
 * [Web3.hs](https://hackage.haskell.org/package/web3) - Haskell Web3
 * [KEthereum](https://github.com/komputing/KEthereum) - Kotlin Web3
+* [Moralis NodeJS SDK](https://github.com/MoralisWeb3/Moralis-JS-SDK) - NodeJS SDK that integrates with Moralis to index EVM chains
+* [Moralis Python SDK](https://github.com/MoralisWeb3/Moralis-Python-SDK) - Python SDK that integrates with Moralis to index EVM chains
 * [Eventeum](https://github.com/ConsenSys/eventeum) - A bridge between Ethereum smart contract events and backend microservices, written in Java by Kauri
 * [Ethereumex](https://github.com/mana-ethereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain
 * [Ethereum-jsonrpc-gateway](https://github.com/HydroProtocol/ethereum-jsonrpc-gateway) - A gateway that allows you to run multiple Ethereum nodes for redundancy and load-balancing purposes. Can be ran as an alternative to (or on top of) Infura. Written in Golang.
@@ -217,6 +221,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 
 #### Bootstrap/Out-of-Box tools
 * [Truffle boxes](https://trufflesuite.com/boxes) - Packaged components for the Ethereum ecosystem
+* [Ethereum Boilerplates](https://github.com/ethereum-boilerplate/ethereum-boilerplate) -  A full-stack boilerplate to get started building dapp on any EVM chains
 * [Create Eth App](https://github.com/paulrberg/create-eth-app) - Create Ethereum-powered frontend apps with one command
 * [Besu Private Network](https://besu.hyperledger.org/en/stable/Tutorials/Quickstarts/Azure-Private-Network-Quickstart/) - Run a private network of Besu nodes in a Docker container
 * [Testchains](https://github.com/Nethereum/TestChains) - Pre-configured .NET devchains for fast response (PoA) 
@@ -325,6 +330,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
    * [Mahuta](https://github.com/ConsenSys/Mahuta) - IPFS Storage service with added search capability, formerly IPFS-Store
    * [OrbitDB](https://github.com/orbitdb/orbit-db) - Decentralised database on top of IPFS
    * [JS IPFS API](https://github.com/ipfs/js-ipfs-http-client) - A client library for the IPFS HTTP API, implemented in JavaScript
+   * [Moralis IPFS API](https://docs.moralis.io/web3-data-api/reference/upload-folder) - Upload mutliple files to IPFS easily in any language
    * [TEMPORAL](https://github.com/RTradeLtd/Temporal) - Easy to use API into IPFS and other distributed/decentralised storage protocols
    * [PINATA](https://pinata.cloud) - The Easiest Way to Use IPFS
 * [Swarm](https://swarm-gateways.net/) - Distributed storage platform and content distribution service, a native base layer service of the Ethereum web3 stack
@@ -390,6 +396,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Smack My Contract](https://smackmycontract.xyz/) - Web3 Security Scanner Aggregator
 
 ### Monitoring
+* [Moralis Streams API](https://docs.moralis.io/streams-api) - Stream real-time on-chain events to your webhook from multiple EVM blockchains.
 * [Alethio](https://aleth.io/) - An advanced Ethereum analytics platform that provides live monitoring, insights and anomaly detection, token metrics, smart contract audits, graph visualization and blockchain search. Real-time market information and trading activities across Ethereum's decentralized exchanges can also be explored.
 * [amberdata.io](https://amberdata.io) - Provides live monitoring, insights and anomaly detection, token metrics, smart contract audits, graph visualization and blockchain search.
 * [Neufund - Smart Contract Watch](https://github.com/Neufund/smart-contract-watch) - A tool to monitor a number of smart contracts and transactions

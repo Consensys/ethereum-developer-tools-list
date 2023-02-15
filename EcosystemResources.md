@@ -67,6 +67,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 ### Services
 * [Provable](http://docs.provable.xyz/#ethereum) - Blockchain oracle service backed by authenticity proofs, for your smart contracts
 * [Infura](https://infura.io/) - API gateway so you don't have to host your own ETH node
+* [Moralis](https://moralis.io) - Enterprise-grade Web3 API that can be used for efficiently indexing blockchain data, authenticate various web3 wallets, and listen to real-time blockchain events in multiple EVM chains
 * [Quiknode](https://quiknode.io/) - Service to spin up personal Parity/Geth nodes
 * [Nodesmith](https://nodesmith.io/) - Free API access to full Ethereum mainnet and testnet nodes, can be used just like a local node
 * [dfuse](https://dfuse.io) - Slick blockchain APIs to build world-class applications
@@ -96,6 +97,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Solidity idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies) - Solidity gotchas, pitfalls, limitations, and idiosyncrasies
 * [Ethereum development with Go](https://github.com/miguelmota/ethereum-development-with-go-book) - A little [book](https://goethereumbook.org) on Ethereum Development with Golang
 * [Consensys Academy](https://consensys.net/academy/) - Courses
+* [Moralis Academy](https://academy.moralis.io) - Paid courses on Solidity programming, dApp development, and building blockchain business
 * [B9Lab](https://academy.b9lab.com/) - Paid courses
 * [Blockgeeks](https://courses.blockgeeks.com/) - Paid courses on solidity/dapp development
 * [Chainshot building blocks](https://www.chainshot.com/) - Paid Courses
@@ -193,5 +195,6 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 ### Jobs
 - [Jobs at ConsenSys](https://consensys.net/careers/) - jobs at ConsenSys
 - [Jobs at Ethereum Foundation](https://ethereum.bamboohr.com/jobs/) - jobs at Ethereum Foundation
+- [Jobs at Moralis](https://talent.moralis.io) - jobs at Moralis
 - [Solidity Jobs](https://cryptojobslist.com/solidity-jobs) - list of Solidity jobs on Crypto Jobs List
 - [Web3Jobs](https://web3.career) - list of jobs in Web3.
