@@ -49,6 +49,7 @@ Ethereumエコシステムを学習・理解するためのDApps、サービス�
 * [POA Explorer](https://github.com/poanetwork/poa-explorer) - [POA](https://poa.net)により開発され、[Ethprize](http://ethprize.io)に資金を提供されたオープンソースのEthereumブロック・エクスプローラ
 * [QuickBlocks](https://github.com/Great-Hill-Corporation/quickBlocks) - Ethereumブロックチェーンからデータを引き出すためのライブラリ、アプリケーション、ツール、サンプル集のコレクション。(a)より迅速 (b)より詳細な情報 (c)非中央集権 (d)自動化 (e)メンテナンスフリー 
 * [Etherchain Light](https://github.com/gobitfly/etherchain-light) - Ethereumのプライベートチェーン用の軽量ブロックチェーン・エクスプローラ
+* [Ramen](https://github.com/dyng/ramen) - ターミナル上でEthereumを操作できるブロック・エクスプローラ
 * [Alethio EthStats 2.0](https://media.consensys.net/alethio-lighting-up-the-blockchain-with-real-time-stats-a80bb30576db) coming soon
 * [Supermax](https://www.supermax.cool/) - Ethereumスマートコントラクトのアクティビティ、Event logのライブデータフィード
 * [ethq](https://ethq.app) - 開発者向けに構築された[dfuse](https://dfuse.io)を搭載した最も詳細なブロックエクスプローラー
