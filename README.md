@@ -438,6 +438,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Decode](https://github.com/hacker-DOM/decode) - npm package which parses tx's submitted to a local testrpc node to make them more readable and easier to understand
 * [TypeChain](https://github.com/ethereum-ts/TypeChain) - Typescript bindings for Ethereum smartcontracts
 * [EthSum](https://ethsum.netlify.com) - A Simple Ethereum Address Checksum Tool
+* [Subsquid](https://subsquid.io/) - Blockchain indexing SDK, specialized data lakes (Archives), optimized for extraction of large volumes of historical on-chain data
 * [PHP based Blockchain indexer](https://github.com/digitaldonkey/ethereum-php-eventlistener) - allows indexing blocks or listening to Events in PHP
 * [Purser](https://github.com/JoinColony/purser) - JavaScript universal wallet tool for Ethereum-based wallets. Supports software, hardware, and Metamask -- brings all wallets into a consistent and predictable interface for dApp development.
 * [Node-Metamask](https://github.com/JoinColony/node-metamask) - Connect to MetaMask from node.js
