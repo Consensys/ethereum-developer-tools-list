@@ -152,12 +152,13 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [cheapETH](https://cheapeth.org/) - 100% compatible Ethereum network for cheap and easy development
 
 #### Test Ether Faucets
-* [Rinkeby faucet](https://faucet.rinkeby.io/)
+
 * [Kovan faucet](https://github.com/kovan-testnet/faucet)
-* [Ropsten faucet (MetaMask)](https://faucet.metamask.io/)
-* [Ropsten faucet (rpanic)](https://faucet.rpanic.com)
 * [Goerli faucet1](https://goerlifaucet.com/)
 * [Goerli faucet2](https://goerli-faucet.pk910.de/)
+* [Rinkeby faucet](https://faucet.rinkeby.io/) [DEPRECATED NETWORK]
+* [Ropsten faucet (MetaMask)](https://faucet.metamask.io/) [DEPRECATED NETWORK]
+* [Ropsten faucet (rpanic)](https://faucet.rpanic.com) [DEPRECATED NETWORK]
 * [Universal faucet](https://faucets.blockxlabs.com/)
 * [Nethereum.Faucet](https://github.com/Nethereum/Nethereum.Faucet) - A C#/.NET faucet
 * [Chainlink Faucet](https://faucets.chain.link/rinkeby)
