@@ -379,6 +379,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [rocketh](https://github.com/wighawag/rocketh) - A simple lib to test ethereum smart contract that allow to use whatever web3 lib and test runner you choose.
 * [pytest-cobra](https://github.com/cobraframework/pytest-cobra) - PyTest plugin for testing smart contracts for Ethereum blockchain.
 * [Synpress](https://github.com/Synthetixio/synpress) - Web3-enabled e2e testing tool. A wrapper around Cypress.io with included MetaMask support which allows you to test dapps with ease.
+* [ERCx](https://ercx.runtimeverification.com) - Testing tool with a Web interface to test conformance and properties of ERC-20 tokens. Based on Foundry forge.
 
 ### Security Tools
 * [MythX](https://mythx.io/) - Security verification platform and tools ecosystem for Ethereum developers
