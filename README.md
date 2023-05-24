@@ -221,6 +221,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
 * [w3](https://github.com/lmittmann/w3) - Fast and modular Golang JSON RPC client with first-class ABI support
 * [Transpose](https://transpose.io) - Powerful APIs for accessing human-readable Ethereum data at scale.
+* [Libethc](https://github.com/mhw0/libethc) - Open-source Ethereum library for C. [Documentation](https://mhw0.github.io/libethc)
 
 
 #### Bootstrap/Out-of-Box tools
