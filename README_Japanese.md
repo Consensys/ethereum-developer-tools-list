@@ -101,6 +101,7 @@ Ethereum開発で利用可能なツール、コンポーネント、パターン
 * [Eventeum](https://github.com/ConsenSys/eventeum) - Kauri作成のEthereumのスマートコントラクト・イベントと バックエンドのマイクロサービスを繋ぐブリッジ。JAVA製。
 * [Ethereumex](https://github.com/exthereum/ethereumex) - Elixir製のEthereumブロックチェーン用JSON-RPCクライアント 
 * [EthContract](https://github.com/AgileAlpha/eth_contract) - ElixirからEthereumのスマートコントラクトへクエリを投げるためのヘルパーメソッド。 
+* [eth-blockchain-helper](https://github.com/khiem20tc/eth-blockchain-helper) - オールインワンの npm パッケージは、EVM チェーン内のスマート コントラクトやその他の Web3 ユーティリティとの対話に役立ちます。
 
 #### ブートストラップ
 * [Truffle boxes](http://truffleframework.com/boxes/) - Ethereumエコシステムのためのパッケージされたコンポーネント。

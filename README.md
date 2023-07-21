@@ -221,6 +221,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
 * [w3](https://github.com/lmittmann/w3) - Fast and modular Golang JSON RPC client with first-class ABI support
 * [Transpose](https://transpose.io) - Powerful APIs for accessing human-readable Ethereum data at scale.
+* [eth-blockchain-helper](https://github.com/khiem20tc/eth-blockchain-helper) - The all-in-one npm package helps interact with Smart Contract and more Web3 utils in EVM chains.
 
 
 #### Bootstrap/Out-of-Box tools

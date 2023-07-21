@@ -165,6 +165,7 @@ https://github.com/ConsenSys/ethereum-developer-tools-list/pull/70
 * [Torus](https://tor.us/) - 源SDK构建dapps的无缝衔接的UX
 * [Fortmatic](https://fortmatic.com/) - 一种易于使用的SDK，无需扩展或下载即可构建web3 dApp。
 * [Portis](https://portis.io/) - 具有SDK的非托管钱包，可轻松与DApp进行交互而无需安装任何东西。
+* [eth-blockchain-helper](https://github.com/khiem20tc/eth-blockchain-helper) - 一体化 npm 包有助于与 EVM 链中的智能合约和更多 Web3 实用程序进行交互。
 
 #### 后端以太坊API
 * [Web3.py](https://github.com/ethereum/web3.py) - Python Web3
