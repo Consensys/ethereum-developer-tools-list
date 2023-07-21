@@ -192,6 +192,7 @@ Muchas gracias a los ~100 contribuidores, incluidos [@corbpage](https://twitter.
 * [Ethereum Service](https://github.com/mesg-foundation/service-ethereum) - Un servicio MESG, para interactuar con eventos de Ethereum e interactuar con él.
 * [Marmo](https://marmo.io/) - Python, JS y Java SDK para simplificar las interacciones con Ethereum. Utiliza retransmisores para descargar los costos de transacción a los retransmisores.
 * [Ethereum Logging Framework](https://bitbucket.csiro.au/users/kli039/repos/ethereum-logging-framework/browse) - proporciona capacidades de registro avanzadas para aplicaciones y redes de Ethereum, incluido un lenguaje de consulta, procesador de consultas y generación de código de registro.
+* [eth-blockchain-helper](https://github.com/khiem20tc/eth-blockchain-helper) - El paquete npm todo en uno ayuda a interactuar con Smart Contract y más utilidades Web3 en cadenas EVM.
  
 #### Herramientas Listas para Usar
 * [Truffle boxes](https://trufflesuite.com/boxes) - componentes empaquetados para el ecosistema Ethereum.

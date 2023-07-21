@@ -153,6 +153,8 @@
 * [Eventeum](https://github.com/ConsenSys/eventeum) - 이더리움 스마트 컨트렉트 이벤트와 백엔드 마이크로서비스를 연결 합니다. Kauri가 자바로 작성했습니다.
 * [Ethereumex](https://github.com/mana-ethereum/ethereumex) - 이더리움 블록체인을 위한 엘릭서(Elixir) JSON-RPC 클라이언트 입니다.
 * [EthContract](https://github.com/AgileAlpha/eth_contract) - 엘릭서(Elixir) 언어로 된 이더리움 스마트 컨트렉트 쿼리를 도와주는 헬퍼 메소드(helper methods) 세트 입니다.
+* [eth-blockchain-helper](https://github.com/khiem20tc/eth-blockchain-helper) - 올인원 npm 패키지는 EVM 체인에서 스마트 계약 및 더 많은 Web3 유틸리티와 상호 작용하는 데 도움이 됩니다.
+
 <a name="부트스트랩실행도구"></a>
 #### 부트스트랩(Bootstrap) / 실행(out of box) 도구
 * [트러플 박스(Truffle boxes)](https://truffleframework.com/boxes/) - 이더리움 생태계를 위한 패키지 컴포넌트 입니다.
