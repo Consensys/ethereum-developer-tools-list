@@ -55,6 +55,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
       - [Scalability](#scalability)
       - [Payment/State Channels](#paymentstate-channels)
       - [Plasma](#plasma)
+      - [Rollups](#rollups)
       - [Side-Chains](#side-chains)
       - [Privacy / Confidentiality](#privacy--confidentiality)
         - [ZK-SNARKs](#zk-snarks)
@@ -501,6 +502,9 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Plasma MVP Golang](https://github.com/kyokan/plasma) - Golang implementation and extension of the Minimum Viable Plasma specification
 * [Plasma Guard](https://github.com/mesg-foundation/plasma-guard) - Automatically watch and challenge or exit from Omisego Plasma Network when needed.
 * [Plasma OmiseGo Watcher](https://github.com/mesg-foundation/service-plasma-omisego-watcher) - Interact with Plasma OmiseGo network and notifies for any byzantine events.
+
+#### Rollups
+* [Cartesi](https://docs.cartesi.io/cartesi-rollups/)
 
 #### Side-Chains
 * [POA Network](https://www.poa.network/)
