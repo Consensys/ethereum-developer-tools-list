@@ -504,7 +504,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Plasma OmiseGo Watcher](https://github.com/mesg-foundation/service-plasma-omisego-watcher) - Interact with Plasma OmiseGo network and notifies for any byzantine events.
 
 #### Rollups
-* [Cartesi](https://docs.cartesi.io/cartesi-rollups/) - Uses a combination of an Optimistic Rollups framework and the Cartesi Machine Emulator which enables the development of smart contracts and DApps using any package or library that is available for Linux. This allows developers to break free from the scalability limitations of the Ethereum Virtual Machine (EVM), and brings the rise of a new blockchain era to handle real-life and complex use cases.
+* [Cartesi](https://docs.cartesi.io/cartesi-rollups/) - Cartesi is an app-specific rollup protocol with a virtual machine that runs Linux distributions, creating a richer and broader design space for DApp developers. Cartesi Rollups offer a modular scaling solution, deployable as L2, L3, or sovereign rollups, while maintaining strong base layer security guarantees.
 
 #### Side-Chains
 * [POA Network](https://www.poa.network/)
