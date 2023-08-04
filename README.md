@@ -162,6 +162,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Universal faucet](https://faucets.blockxlabs.com/)
 * [Nethereum.Faucet](https://github.com/Nethereum/Nethereum.Faucet) - A C#/.NET faucet
 * [Chainlink Faucet](https://faucets.chain.link/rinkeby)
+* [Chainstack Faucet](https://faucet.chainstack.com/)
 
 ### Communicating with Ethereum
 #### Frontend Ethereum APIs
