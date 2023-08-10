@@ -221,7 +221,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
 * [w3](https://github.com/lmittmann/w3) - Fast and modular Golang JSON RPC client with first-class ABI support
 * [Transpose](https://transpose.io) - Powerful APIs for accessing human-readable Ethereum data at scale.
-
+* [Basement](https://basement.dev) - Index web3 data using GraphQL, SQL or no-code, on Ethereum or op-stack chains.
 
 #### Bootstrap/Out-of-Box tools
 * [Truffle boxes](https://trufflesuite.com/boxes) - Packaged components for the Ethereum ecosystem
