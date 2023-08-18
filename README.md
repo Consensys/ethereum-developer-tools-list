@@ -199,6 +199,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Quiver](https://raid-guild.github.io/quiver/) - A collection of React hooks and components for Ethereum dApps. Built by Raid Guild.
 * [Rainbow](https://www.rainbowkit.com/) - RainbowKit is a React library that makes it easy to add wallet connection to your dapp. It's intuitive, responsive and customizable.
 * [Nexth](https://github.com/wslyvh/nexth) - A Next.js + Ethereum starter kit to quickly ship your Web3 projects ⚡
+* [ConnectKit](https://docs.family.co/connectkit) - ConnectKit is a powerful React component library for connecting a wallet to your dApp
 
 #### Backend Ethereum APIs
 * [Web3.py](https://github.com/ethereum/web3.py) - Python Web3
@@ -400,6 +401,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) - Free smart contract security audits from Callisto Network
 * [Piet](https://piet.slock.it) - A visual Solidity architecture analyzer
 * [Smack My Contract](https://smackmycontract.xyz/) - Web3 Security Scanner Aggregator
+* [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs/) - Reproduce DeFi hacked incidents using Foundry.
 
 ### Monitoring
 * [Moralis Streams API](https://docs.moralis.io/streams-api) - Stream real-time on-chain events to your webhook from multiple EVM blockchains.
@@ -420,6 +422,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Blocktorch](https://blocktorch.xyz) - An obvservability platform for the decentralized stack. Get the big picture of all your smart contracts at a glance. Browse through logs across chains and across contracts fast. Set Service Level Objectives to see and get notified about anomalies. 
 * [Ethereum-datafarm](https://github.com/Nerolation/ethereum-datafarm) - Easy-to-use console app for parsing historical event data without requiring an archive node. Ethereum-datafarm uses the Etherscan API to parse event data from specified contracts and store it in CSV format.
 * [Sidekik](https://sidekik.xyz) - Debug, test, and grok smart contracts with a visual UI that lets you interact with local or deployed EVM-based smart contracts. Easily monitor and browse local chain transactions, decode function calls, and prepare input payloads so you can test your code.
+* [Phalcon Explorer](https://explorer.phalcon.xyz) - Powerful Transaction Explorer
 
 ### Other Miscellaneous Tools
 * [aragonPM](https://hack.aragon.org/docs/apm-intro.html) - a decentralized package manager powered by aragonOS and Ethereum. aragonPM enables decentralized governance over package upgrades, removing centralized points of failure.
@@ -460,6 +463,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Cookbook](https://cookbook.dev) - A platform aggregating all smart contract libraries
 * [Ethereum Unit Converter](https://neptunemutual.com/web3-tools/ethereum-unit-converter/) - Online tool to convert the different Ethereum denominations (wei, gwei, ether).
 * [Solidity Bytes32 Converter](https://neptunemutual.com/web3-tools/string-to-bytes32-converter/) - Online tool to convert Solidity Bytes32 into strings, or numbers and vice versa.
+* [Impersonator](https://www.impersonator.xyz) - Seamlessly log-in to dapps as any address 🕵️ right from your browser!
 
 ### Smart Contract Standards & Libraries
 #### [ERCs](https://eips.ethereum.org/erc) - The Ethereum Request for Comment repository
