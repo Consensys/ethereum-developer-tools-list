@@ -36,7 +36,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
       - [Backend Ethereum APIs](#backend-ethereum-apis)
       - [Bootstrap/Out-of-Box tools](#bootstrapout-of-box-tools)
       - [Ethereum ABI (Application Binary Interface) tools](#ethereum-abi-application-binary-interface-tools)
-      - [Patterns & Best Practices](#patterns--best-practices)
+      - [Patterns \& Best Practices](#patterns--best-practices)
         - [Patterns for Smart Contract Development](#patterns-for-smart-contract-development)
         - [Upgradeability](#upgradeability)
     - [Infrastructure](#infrastructure)
@@ -48,7 +48,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
     - [Security Tools](#security-tools)
     - [Monitoring](#monitoring)
     - [Other Miscellaneous Tools](#other-miscellaneous-tools)
-    - [Smart Contract Standards & Libraries](#smart-contract-standards--libraries)
+    - [Smart Contract Standards \& Libraries](#smart-contract-standards--libraries)
       - [ERCs - The Ethereum Request for Comment repository](#ercs---the-ethereum-request-for-comment-repository)
       - [Popular Smart Contract Libraries](#popular-smart-contract-libraries)
     - [Developer Guides for 2nd Layer Infrastructure](#developer-guides-for-2nd-layer-infrastructure)
@@ -131,6 +131,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Ramen](https://github.com/dyng/ramen) - An intuitive, easy-to-use terminal UI to interact with Ethereum (Mainnet, Testnet or local network)
 
 ### Test Blockchain Networks
+* [Kurtosis' eth2-package](https://github.com/kurtosis-tech/eth2-package) - Open-source tool to spin up reproducible, private testnets over Docker or Kubernetes at any scale you need. Supports all major EL/CL client implementations & comes out-of-the-box with Flashbot's mev-boost infrastructure.
 * [ethnode](https://github.com/vrde/ethnode) - Run an Ethereum node (Geth or Parity) for development, as easy as `npm i -g ethnode && ethnode`.
 * [Ganache](https://github.com/trufflesuite/ganache) - App for test Ethereum blockchain with visual UI and logs
 * [Kaleido](https://kaleido.io/) - Use Kaleido for spinning up a consortium blockchain network. Great for PoCs and testing
@@ -224,6 +225,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Basement](https://basement.dev) - Index web3 data using GraphQL, SQL or no-code, on Ethereum or op-stack chains.
 
 #### Bootstrap/Out-of-Box tools
+* [Kurtosis' eth2-package](https://github.com/kurtosis-tech/eth2-package) - Open-source tool to spin up reproducible, private testnets over Docker or Kubernetes at any scale you need. Supports all major EL/CL client implementations & comes out-of-the-box with Flashbot's mev-boost infrastructure.
 * [Truffle boxes](https://trufflesuite.com/boxes) - Packaged components for the Ethereum ecosystem
 * [Ethereum Boilerplates](https://github.com/ethereum-boilerplate/ethereum-boilerplate) -  A full-stack boilerplate to get started building dapp on any EVM chains
 * [Create Eth App](https://github.com/paulrberg/create-eth-app) - Create Ethereum-powered frontend apps with one command
@@ -357,6 +359,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Meroku](https://github.com/merokudao/meroku) - A community owned dApp Store. Package, distribute your dApp without hosting costs.
 
 ### Testing Tools
+* [Kurtosis' eth2-package](https://github.com/kurtosis-tech/eth2-package) - Open-source tool to spin up reproducible, private testnets over Docker or Kubernetes at any scale you need. Supports all major EL/CL client implementations & comes out-of-the-box with Flashbot's mev-boost infrastructure.
 * [Truffle Teams](https://trufflesuite.com/teams) - Zero-Config continuous integration for truffle projects
 * [Solidity code coverage](https://github.com/0xProject/0x-monorepo/tree/development/packages/sol-coverage) - Solidity code coverage tool
 * [Solidity coverage](https://github.com/sc-forks/solidity-coverage) - Alternative code coverage for Solidity smart-contracts
