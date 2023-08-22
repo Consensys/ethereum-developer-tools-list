@@ -131,7 +131,6 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Ramen](https://github.com/dyng/ramen) - An intuitive, easy-to-use terminal UI to interact with Ethereum (Mainnet, Testnet or local network)
 
 ### Test Blockchain Networks
-* [Kurtosis' eth2-package](https://github.com/kurtosis-tech/eth2-package) - Open-source tool to spin up reproducible, private testnets over Docker or Kubernetes at any scale you need. Supports all major EL/CL client implementations & comes out-of-the-box with Flashbot's mev-boost infrastructure.
 * [ethnode](https://github.com/vrde/ethnode) - Run an Ethereum node (Geth or Parity) for development, as easy as `npm i -g ethnode && ethnode`.
 * [Ganache](https://github.com/trufflesuite/ganache) - App for test Ethereum blockchain with visual UI and logs
 * [Kaleido](https://kaleido.io/) - Use Kaleido for spinning up a consortium blockchain network. Great for PoCs and testing
@@ -151,6 +150,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [ZMOK](https://zmok.io/) - JSON-RPC Ethereum API (Mainnet, Rinkeby, Front-running Mainnet)
 * [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
 * [cheapETH](https://cheapeth.org/) - 100% compatible Ethereum network for cheap and easy development
+* [Kurtosis' eth2-package](https://github.com/kurtosis-tech/eth2-package) - Open-source tool to spin up reproducible, private testnets over Docker or Kubernetes at any scale you need. Supports all major EL/CL client implementations & comes out-of-the-box with Flashbot's mev-boost infrastructure.
 
 #### Test Ether Faucets
 
@@ -225,7 +225,6 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Basement](https://basement.dev) - Index web3 data using GraphQL, SQL or no-code, on Ethereum or op-stack chains.
 
 #### Bootstrap/Out-of-Box tools
-* [Kurtosis' eth2-package](https://github.com/kurtosis-tech/eth2-package) - Open-source tool to spin up reproducible, private testnets over Docker or Kubernetes at any scale you need. Supports all major EL/CL client implementations & comes out-of-the-box with Flashbot's mev-boost infrastructure.
 * [Truffle boxes](https://trufflesuite.com/boxes) - Packaged components for the Ethereum ecosystem
 * [Ethereum Boilerplates](https://github.com/ethereum-boilerplate/ethereum-boilerplate) -  A full-stack boilerplate to get started building dapp on any EVM chains
 * [Create Eth App](https://github.com/paulrberg/create-eth-app) - Create Ethereum-powered frontend apps with one command
@@ -244,6 +243,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Arkane Connect](https://docs.arkane.network/pages/connect-js.html) - JavaScript client that provides an API for interacting with Arkane Network, a wallet provider for building user-friendly dapps.
 * [Onboard.js](https://blocknative.com/onboard) - Blocknative Onboard is the quick and easy way to add multi-wallet support to your project. With built-in modules for more than 20 unique hardware and software wallets, Onboard saves you time and headaches.
 * [web3-react](https://github.com/NoahZinsmeister/web3-react) - React framework for building single-page Ethereum dApps
+* [Kurtosis' eth2-package](https://github.com/kurtosis-tech/eth2-package) - Open-source tool to spin up reproducible, private testnets over Docker or Kubernetes at any scale you need. Supports all major EL/CL client implementations & comes out-of-the-box with Flashbot's mev-boost infrastructure.
 
 #### Ethereum ABI (Application Binary Interface) tools
 * [Online ABI encoder](https://github.com/HashEx/abiencoder) - Free ABI encoder online service that allows you to encode your Solidity contract’s functions and constructor arguments.
@@ -359,7 +359,6 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Meroku](https://github.com/merokudao/meroku) - A community owned dApp Store. Package, distribute your dApp without hosting costs.
 
 ### Testing Tools
-* [Kurtosis' eth2-package](https://github.com/kurtosis-tech/eth2-package) - Open-source tool to spin up reproducible, private testnets over Docker or Kubernetes at any scale you need. Supports all major EL/CL client implementations & comes out-of-the-box with Flashbot's mev-boost infrastructure.
 * [Truffle Teams](https://trufflesuite.com/teams) - Zero-Config continuous integration for truffle projects
 * [Solidity code coverage](https://github.com/0xProject/0x-monorepo/tree/development/packages/sol-coverage) - Solidity code coverage tool
 * [Solidity coverage](https://github.com/sc-forks/solidity-coverage) - Alternative code coverage for Solidity smart-contracts
@@ -383,6 +382,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [pytest-cobra](https://github.com/cobraframework/pytest-cobra) - PyTest plugin for testing smart contracts for Ethereum blockchain.
 * [Synpress](https://github.com/Synthetixio/synpress) - Web3-enabled e2e testing tool. A wrapper around Cypress.io with included MetaMask support which allows you to test dapps with ease.
 * [BuildBear](https://www.buildbear.io/) - BuildBear simplifies the process of creating a custom private testnet sandbox of different blockchain networks such as Ethereum, Polygon, Binance Smart Chain, Avalanche, Fantom, Optimism, and Arbitrum Mainnets.
+* [Kurtosis' eth2-package](https://github.com/kurtosis-tech/eth2-package) - Open-source tool to spin up reproducible, private testnets over Docker or Kubernetes at any scale you need. Supports all major EL/CL client implementations & comes out-of-the-box with Flashbot's mev-boost infrastructure.
 
 ### Security Tools
 * [MythX](https://mythx.io/) - Security verification platform and tools ecosystem for Ethereum developers
