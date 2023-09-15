@@ -396,6 +396,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Solgraph](https://github.com/raineorshine/solgraph) - Visualize Solidity control flow for smart contract security analysis
 * [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool on Smart Contracts and Binaries
 * [Slither](https://github.com/crytic/slither) - A Solidity static analysis framework
+* [Slitherin](https://github.com/pessimistic-io/slitherin) - Slither plugin with additional security detectors
 * [Adelaide](https://github.com/sec-bit/adelaide) - The SECBIT static analysis extension to Solidity compiler
 * [solc-verify](https://github.com/SRI-CSL/solidity/) - A modular verifier for Solidity smart contracts
 * [Solidity security blog](https://github.com/sigp/solidity-security-blog) - Comprehensive list of known attack vectors and common anti-patterns
@@ -424,6 +425,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Ethereum-datafarm](https://github.com/Nerolation/ethereum-datafarm) - Easy-to-use console app for parsing historical event data without requiring an archive node. Ethereum-datafarm uses the Etherscan API to parse event data from specified contracts and store it in CSV format.
 * [Sidekik](https://sidekik.xyz) - Debug, test, and grok smart contracts with a visual UI that lets you interact with local or deployed EVM-based smart contracts. Easily monitor and browse local chain transactions, decode function calls, and prepare input payloads so you can test your code.
 * [GuardianUI](https://guardianui.com) - Provide users with a safer and more robust experience by testing and monitoring the functionality, performance, and security of your web3 frontend.
+* [Pessimistic Spotter](https://spotter.pessimistic.io/) - Protects your smart contracts from hacks. Spotter monitors blockchain activity and detects exploits before they happen. If the hack targets any of your contracts, Spotter will send an alert and trigger defensive measures.
 
 ### Other Miscellaneous Tools
 * [aragonPM](https://hack.aragon.org/docs/apm-intro.html) - a decentralized package manager powered by aragonOS and Ethereum. aragonPM enables decentralized governance over package upgrades, removing centralized points of failure.
