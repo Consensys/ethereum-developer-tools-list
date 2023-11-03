@@ -359,6 +359,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Meroku](https://github.com/merokudao/meroku) - A community owned dApp Store. Package, distribute your dApp without hosting costs.
 
 ### Testing Tools
+* [Zeusfyi](https://docs.zeus.fyi/docs/lb/guide/serverless) - Foundry’s Anvil as a serverless EVM simulation environment fit for smart contract development, CI/CD, and real-time tx simulation analysis.
 * [Truffle Teams](https://trufflesuite.com/teams) - Zero-Config continuous integration for truffle projects
 * [Solidity code coverage](https://github.com/0xProject/0x-monorepo/tree/development/packages/sol-coverage) - Solidity code coverage tool
 * [Solidity coverage](https://github.com/sc-forks/solidity-coverage) - Alternative code coverage for Solidity smart-contracts
