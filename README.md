@@ -404,6 +404,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) - Free smart contract security audits from Callisto Network
 * [Piet](https://piet.slock.it) - A visual Solidity architecture analyzer
 * [Smack My Contract](https://smackmycontract.xyz/) - Web3 Security Scanner Aggregator
+* [EVMole](https://github.com/cdump/evmole) - Extracts function selectors from EVM bytecode, even for unverified contracts
 
 ### Monitoring
 * [Moralis Streams API](https://docs.moralis.io/streams-api) - Stream real-time on-chain events to your webhook from multiple EVM blockchains.
