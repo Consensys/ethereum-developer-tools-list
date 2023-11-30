@@ -84,6 +84,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Smartcontract challenges](https://www.smartcontract.engineer/) — Learn Solidity and Vyper with challenges.
 * [Solidity by Example](https://solidity-by-example.org/) — An introduction to Solidity with simple examples.
 * [L2Beat](https://l2beat.com/) - Discover Ethereum Layer2 solutions and the risks associated with using them.
+* [Woke](https://ackeeblockchain.com/woke/docs/latest/testing-framework/overview/) - Woke development and testing framework allows writing unit tests, fuzz tests and deployment scripts in Python. It focuses on performance and user experience. Developed by Ackee Blockchain Security.
 
 ## Developer Tools
 ### Developing Smart Contracts
@@ -110,6 +111,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Cobra](https://github.com/cobraframework/cobra) - A fast, flexible and simple development environment framework for Ethereum smart contract, testing and deployment on Ethereum virtual machine(EVM).
 * [Epirus](https://docs.epirus.io/sdk/) - Java framework for building smart contracts.
 * [Etherspot](https://etherspot.io/) - MultiChain Smart Wallet SDK, supports most of the EVM-compatible chains.
+* [Woke](https://ackeeblockchain.com/woke/docs/latest/testing-framework/overview/) - Woke development and testing framework allows writing unit tests, fuzz tests and deployment scripts in Python. It focuses on performance and user experience. Developed by Ackee Blockchain Security.
 
 #### IDEs
 * [Remix](https://remix.ethereum.org/) - Web IDE with built in static analysis, test blockchain VM.
