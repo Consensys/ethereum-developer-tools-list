@@ -110,6 +110,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Cobra](https://github.com/cobraframework/cobra) - A fast, flexible and simple development environment framework for Ethereum smart contract, testing and deployment on Ethereum virtual machine(EVM).
 * [Epirus](https://docs.epirus.io/sdk/) - Java framework for building smart contracts.
 * [Etherspot](https://etherspot.io/) - MultiChain Smart Wallet SDK, supports most of the EVM-compatible chains.
+* [Ambire Login SDK](https://github.com/AmbireTech/wallet-login-sdk) - Smart Wallet SDK focused on onboarding via email, supports the popular EVM chains.
 
 #### IDEs
 * [Remix](https://remix.ethereum.org/) - Web IDE with built in static analysis, test blockchain VM.
@@ -201,6 +202,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Quiver](https://raid-guild.github.io/quiver/) - A collection of React hooks and components for Ethereum dApps. Built by Raid Guild.
 * [Rainbow](https://www.rainbowkit.com/) - RainbowKit is a React library that makes it easy to add wallet connection to your dapp. It's intuitive, responsive and customizable.
 * [Nexth](https://github.com/wslyvh/nexth) - A Next.js + Ethereum starter kit to quickly ship your Web3 projects ⚡
+* [signature-validator](https://github.com/AmbireTech/signature-validator/) - TypeScript library that universally validates account abstraction (ERC-6492, ERC-1271) signatures, as well as traditional EOA signatures.
 
 #### Backend Ethereum APIs
 * [Web3.py](https://github.com/ethereum/web3.py) - Python Web3
