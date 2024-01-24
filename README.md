@@ -36,7 +36,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
       - [Backend Ethereum APIs](#backend-ethereum-apis)
       - [Bootstrap/Out-of-Box tools](#bootstrapout-of-box-tools)
       - [Ethereum ABI (Application Binary Interface) tools](#ethereum-abi-application-binary-interface-tools)
-      - [Patterns & Best Practices](#patterns--best-practices)
+      - [Patterns \& Best Practices](#patterns--best-practices)
         - [Patterns for Smart Contract Development](#patterns-for-smart-contract-development)
         - [Upgradeability](#upgradeability)
     - [Infrastructure](#infrastructure)
@@ -48,7 +48,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
     - [Security Tools](#security-tools)
     - [Monitoring](#monitoring)
     - [Other Miscellaneous Tools](#other-miscellaneous-tools)
-    - [Smart Contract Standards & Libraries](#smart-contract-standards--libraries)
+    - [Smart Contract Standards \& Libraries](#smart-contract-standards--libraries)
       - [ERCs - The Ethereum Request for Comment repository](#ercs---the-ethereum-request-for-comment-repository)
       - [Popular Smart Contract Libraries](#popular-smart-contract-libraries)
     - [Developer Guides for 2nd Layer Infrastructure](#developer-guides-for-2nd-layer-infrastructure)
@@ -110,6 +110,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Cobra](https://github.com/cobraframework/cobra) - A fast, flexible and simple development environment framework for Ethereum smart contract, testing and deployment on Ethereum virtual machine(EVM).
 * [Epirus](https://docs.epirus.io/sdk/) - Java framework for building smart contracts.
 * [Etherspot](https://etherspot.io/) - MultiChain Smart Wallet SDK, supports most of the EVM-compatible chains.
+* [Ambire Login SDK](https://github.com/AmbireTech/wallet-login-sdk) - Smart Wallet SDK focused on onboarding via email, supports the popular EVM chains.
 
 #### IDEs
 * [Remix](https://remix.ethereum.org/) - Web IDE with built in static analysis, test blockchain VM.
@@ -122,6 +123,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [YAKINDU Solidity Tools](https://github.com/Yakindu/solidity-ide) - Eclipse based IDE. Features context sensitive code completion and help, code navigation, syntax coloring, build in compiler, quick fixes and templates.
 * [Eth Fiddle](https://ethfiddle.com/) - IDE developed by [The Loom Network](https://loomx.io/) that allows you to write, compile and debug your smart contract. Easy to share and find code snippets.
 * [Solidity + Hardhat VSCode Extension](https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity) - Solidity and Hardhat support by the Hardhat team.
+* [Tools for Solidity VS Code Extension](https://marketplace.visualstudio.com/items?itemName=AckeeBlockchain.tools-for-solidity) - Solidity support and live vulnerability detectors developed by Ackee Blockchain Security.
 
 ### Other tools
 * [Atra Blockchain Services](https://console.atra.io) - Atra provides web services to help you build, deploy, and maintain decentralized applications on the Ethereum blockchain.
@@ -150,6 +152,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [ZMOK](https://zmok.io/) - JSON-RPC Ethereum API (Mainnet, Rinkeby, Front-running Mainnet)
 * [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
 * [cheapETH](https://cheapeth.org/) - 100% compatible Ethereum network for cheap and easy development
+* [Kurtosis' eth2-package](https://github.com/kurtosis-tech/eth2-package) - Open-source tool to spin up reproducible, private testnets over Docker or Kubernetes at any scale you need. Supports all major EL/CL client implementations & comes out-of-the-box with Flashbot's mev-boost infrastructure.
 
 #### Test Ether Faucets
 
@@ -199,6 +202,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Quiver](https://raid-guild.github.io/quiver/) - A collection of React hooks and components for Ethereum dApps. Built by Raid Guild.
 * [Rainbow](https://www.rainbowkit.com/) - RainbowKit is a React library that makes it easy to add wallet connection to your dapp. It's intuitive, responsive and customizable.
 * [Nexth](https://github.com/wslyvh/nexth) - A Next.js + Ethereum starter kit to quickly ship your Web3 projects ⚡
+* [signature-validator](https://github.com/AmbireTech/signature-validator/) - TypeScript library that universally validates account abstraction (ERC-6492, ERC-1271) signatures, as well as traditional EOA signatures.
 
 #### Backend Ethereum APIs
 * [Web3.py](https://github.com/ethereum/web3.py) - Python Web3
@@ -222,7 +226,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [w3](https://github.com/lmittmann/w3) - Fast and modular Golang JSON RPC client with first-class ABI support
 * [Transpose](https://transpose.io) - Powerful APIs for accessing human-readable Ethereum data at scale.
 * [Web3-Ethereum-Defi](https://github.com/tradingstrategy-ai/web3-ethereum-defi) - Integrate DeFi protocols to your Python applications, data research and trading tools
-
+* [Basement](https://basement.dev) - Index web3 data using GraphQL, SQL or no-code, on Ethereum or op-stack chains.
 
 #### Bootstrap/Out-of-Box tools
 * [Truffle boxes](https://trufflesuite.com/boxes) - Packaged components for the Ethereum ecosystem
@@ -243,6 +247,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Arkane Connect](https://docs.arkane.network/pages/connect-js.html) - JavaScript client that provides an API for interacting with Arkane Network, a wallet provider for building user-friendly dapps.
 * [Onboard.js](https://blocknative.com/onboard) - Blocknative Onboard is the quick and easy way to add multi-wallet support to your project. With built-in modules for more than 20 unique hardware and software wallets, Onboard saves you time and headaches.
 * [web3-react](https://github.com/NoahZinsmeister/web3-react) - React framework for building single-page Ethereum dApps
+* [Kurtosis' eth2-package](https://github.com/kurtosis-tech/eth2-package) - Open-source tool to spin up reproducible, private testnets over Docker or Kubernetes at any scale you need. Supports all major EL/CL client implementations & comes out-of-the-box with Flashbot's mev-boost infrastructure.
 
 #### Ethereum ABI (Application Binary Interface) tools
 * [Online ABI encoder](https://github.com/HashEx/abiencoder) - Free ABI encoder online service that allows you to encode your Solidity contract’s functions and constructor arguments.
@@ -254,7 +259,6 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [EasyDapper](https://www.easydapper.com) - Generate dapps from Truffle artifacts, deploy contracts on public/private networks, offers live customizable public page to interact with contracts.
 * [One Click dApp](https://oneclickdapp.com) - Instantly create a dApp at a unique URL using the ABI.
 * [Truffle Pig](https://npmjs.com/package/trufflepig) - a development tool that provides a simple HTTP API to find and read from Truffle-generated contract files, for use during local development. Serves fresh contract ABIs over http.
-* [Ethereum Contract Service](https://github.com/mesg-foundation/service-ethereum-contract) - A MESG Service to interact with any Ethereum contract based on its address and ABI.
 * [Nethereum-CodeGenerator](https://github.com/StefH/Nethereum-CodeGenerator) - A web based generator which creates a Nethereum based C# Interface and Service based on Solidity Smart Contracts.
 * [EVMConnector](https://evmconnector.dev) - Create shareable contract dashboards and interact with arbitrary EVM-based blockchain functions, with or without an ABI.
 * [contract-admin](https://github.com/upgreidas/contract-admin) - Minimalistic UI tool for interacting with your smart contracts
@@ -380,6 +384,8 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [rocketh](https://github.com/wighawag/rocketh) - A simple lib to test ethereum smart contract that allow to use whatever web3 lib and test runner you choose.
 * [pytest-cobra](https://github.com/cobraframework/pytest-cobra) - PyTest plugin for testing smart contracts for Ethereum blockchain.
 * [Synpress](https://github.com/Synthetixio/synpress) - Web3-enabled e2e testing tool. A wrapper around Cypress.io with included MetaMask support which allows you to test dapps with ease.
+* [BuildBear](https://www.buildbear.io/) - BuildBear simplifies the process of creating a custom private testnet sandbox of different blockchain networks such as Ethereum, Polygon, Binance Smart Chain, Avalanche, Fantom, Optimism, and Arbitrum Mainnets.
+* [Kurtosis' eth2-package](https://github.com/kurtosis-tech/eth2-package) - Open-source tool to spin up reproducible, private testnets over Docker or Kubernetes at any scale you need. Supports all major EL/CL client implementations & comes out-of-the-box with Flashbot's mev-boost infrastructure.
 
 ### Security Tools
 * [MythX](https://mythx.io/) - Security verification platform and tools ecosystem for Ethereum developers
@@ -393,6 +399,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Solgraph](https://github.com/raineorshine/solgraph) - Visualize Solidity control flow for smart contract security analysis
 * [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool on Smart Contracts and Binaries
 * [Slither](https://github.com/crytic/slither) - A Solidity static analysis framework
+* [Slitherin](https://github.com/pessimistic-io/slitherin) - Slither plugin with additional security detectors
 * [Adelaide](https://github.com/sec-bit/adelaide) - The SECBIT static analysis extension to Solidity compiler
 * [solc-verify](https://github.com/SRI-CSL/solidity/) - A modular verifier for Solidity smart contracts
 * [Solidity security blog](https://github.com/sigp/solidity-security-blog) - Comprehensive list of known attack vectors and common anti-patterns
@@ -400,6 +407,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) - Free smart contract security audits from Callisto Network
 * [Piet](https://piet.slock.it) - A visual Solidity architecture analyzer
 * [Smack My Contract](https://smackmycontract.xyz/) - Web3 Security Scanner Aggregator
+* [EVMole](https://github.com/cdump/evmole) - Extracts function selectors from EVM bytecode, even for unverified contracts
 
 ### Monitoring
 * [Moralis Streams API](https://docs.moralis.io/streams-api) - Stream real-time on-chain events to your webhook from multiple EVM blockchains.
@@ -420,6 +428,8 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Blocktorch](https://blocktorch.xyz) - An obvservability platform for the decentralized stack. Get the big picture of all your smart contracts at a glance. Browse through logs across chains and across contracts fast. Set Service Level Objectives to see and get notified about anomalies. 
 * [Ethereum-datafarm](https://github.com/Nerolation/ethereum-datafarm) - Easy-to-use console app for parsing historical event data without requiring an archive node. Ethereum-datafarm uses the Etherscan API to parse event data from specified contracts and store it in CSV format.
 * [Sidekik](https://sidekik.xyz) - Debug, test, and grok smart contracts with a visual UI that lets you interact with local or deployed EVM-based smart contracts. Easily monitor and browse local chain transactions, decode function calls, and prepare input payloads so you can test your code.
+* [GuardianUI](https://guardianui.com) - Provide users with a safer and more robust experience by testing and monitoring the functionality, performance, and security of your web3 frontend.
+* [Pessimistic Spotter](https://spotter.pessimistic.io/) - Protects your smart contracts from hacks. Spotter monitors blockchain activity and detects exploits before they happen. If the hack targets any of your contracts, Spotter will send an alert and trigger defensive measures.
 
 ### Other Miscellaneous Tools
 * [aragonPM](https://hack.aragon.org/docs/apm-intro.html) - a decentralized package manager powered by aragonOS and Ethereum. aragonPM enables decentralized governance over package upgrades, removing centralized points of failure.
@@ -501,7 +511,6 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Plasma MVP](https://github.com/omisego/plasma-contracts) - OmiseGO's research implementation of Minimal Viable Plasma
 * [Plasma MVP Golang](https://github.com/kyokan/plasma) - Golang implementation and extension of the Minimum Viable Plasma specification
 * [Plasma Guard](https://github.com/mesg-foundation/plasma-guard) - Automatically watch and challenge or exit from Omisego Plasma Network when needed.
-* [Plasma OmiseGo Watcher](https://github.com/mesg-foundation/service-plasma-omisego-watcher) - Interact with Plasma OmiseGo network and notifies for any byzantine events.
 
 #### Side-Chains
 * [POA Network](https://www.poa.network/)
