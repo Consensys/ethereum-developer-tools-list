@@ -145,6 +145,7 @@
 * [Web3.php](https://github.com/sc0Vu/web3.php) - PHP 웹3 입니다.
 * [Ethereum-php](https://github.com/digitaldonkey/ethereum-php) - PHP 웹3 입니다.
 * [Web3j](https://github.com/web3j/web3j) - 자바 웹3 입니다.
+* [ethers-kt](https://github.com/Kr1ptal/ethers-kt) - EVM 기반 블록체인과 상호 작용하기 위한 비동기, 고성능 Kotlin 라이브러리입니다. JVM 및 Android 플랫폼을 대상으로 합니다.
 * [Nethereum](https://nethereum.com/) - 닷넷 웹3 입니다.
 * [Ethereum.rb](https://github.com/EthWorks/ethereum.rb) - 루비 웹3 입니다.
 * [Web3.hs](https://hackage.haskell.org/package/web3) - 하스켈(Haskell) 웹3 입니다.

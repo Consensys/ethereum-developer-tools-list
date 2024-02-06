@@ -179,6 +179,7 @@ Muchas gracias a los ~100 contribuidores, incluidos [@corbpage](https://twitter.
 * [Web3.php](https://github.com/sc0Vu/web3.php) - PHP Web3
 * [Ethereum-php](https://github.com/digitaldonkey/ethereum-php) - PHP Web3
 * [Web3j](https://github.com/web3j/web3j) - Java Web3
+* [ethers-kt](https://github.com/Kr1ptal/ethers-kt) - Biblioteca Kotlin asíncrona de alto rendimiento para interactuar con blockchains basadas en EVM. Orientada a plataformas JVM y Android.
 * [Nethereum](https://nethereum.com/) - .Net Web3
 * [Ethereum.rb](https://github.com/EthWorks/ethereum.rb) - Ruby Web3
 * [rust-web3](https://github.com/tomusdrw/rust-web3) - Rust Web3
