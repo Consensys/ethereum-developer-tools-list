@@ -93,6 +93,7 @@ Ethereum開発で利用可能なツール、コンポーネント、パターン
 * [Web3.php](https://github.com/sc0Vu/web3.php) - PHP Web3
 * [Ethereum-php](https://github.com/digitaldonkey/ethereum-php) - PHP Web3
 * [Web3j](https://github.com/web3j/web3j) - Java Web3
+* [ethers-kt](https://github.com/Kr1ptal/ethers-kt) - EVMベースのブロックチェーンと対話するための非同期、高性能Kotlinライブラリ。JVMおよびAndroidプラットフォームを対象としています。
 * [Nethereum](https://nethereum.com/) - .Net Web3
 * [Ethereum.rb](https://github.com/EthWorks/ethereum.rb) - Ruby Web3
 * [Web3.hs](http://hackage.haskell.org/package/web3) - Haskell Web3
