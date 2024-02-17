@@ -70,7 +70,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Hardhat](https://hardhat.org/) - Flexible, extensible and fast Ethereum development environment.
 * [Foundry](https://book.getfoundry.sh/) - Smart contract development toolchain. Foundry manages your dependencies, compiles your project, runs tests, deploys, and lets you interact with the chain from the command-line.
 * [Cryptotux](https://cryptotux.org/) - A Linux image ready to be imported in VirtualBox that includes the development tools mentioned above
-* [OpenZeppelin Wizards](https://docs.openzeppelin.com/contracts/4.x/wizard) - Not sure where to start? Use the interactive generator to bootstrap your contract and learn about the components offered in OpenZeppelin Contracts.
+* [OpenZeppelin Wizards](https://docs.openzeppelin.com/contracts/5.x/wizard) - Not sure where to start? Use the interactive generator to bootstrap your contract and learn about the components offered in OpenZeppelin Contracts.
 * [EthHub.io](https://docs.ethhub.io/) - Comprehensive crowdsourced overview of Ethereum- its history, governance, future plans and development resources.
 * [Brownie](https://github.com/iamdefinitelyahuman/brownie) - Brownie is a Python framework for deploying, testing and interacting with Ethereum smart contracts.
 * [Moralis](https://moralis.io) - Moralis is a cross-chain Enterprise-grade Web3 API that can be used for efficiently indexing blockchain data, authenticate various web3 wallets, and listen to real-time blockchain events
@@ -164,7 +164,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Ropsten faucet (rpanic)](https://faucet.rpanic.com) [DEPRECATED NETWORK]
 * [Universal faucet](https://faucets.blockxlabs.com/)
 * [Nethereum.Faucet](https://github.com/Nethereum/Nethereum.Faucet) - A C#/.NET faucet
-* [Chainlink Faucet](https://faucets.chain.link/rinkeby)
+* [Chainlink Faucet](https://faucets.chain.link/sepolia)
 
 ### Communicating with Ethereum
 #### Frontend Ethereum APIs
@@ -340,14 +340,13 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
    * [Mahuta](https://github.com/ConsenSys/Mahuta) - IPFS Storage service with added search capability, formerly IPFS-Store
    * [OrbitDB](https://github.com/orbitdb/orbit-db) - Decentralised database on top of IPFS
    * [JS IPFS API](https://github.com/ipfs/js-ipfs-http-client) - A client library for the IPFS HTTP API, implemented in JavaScript
-   * [Moralis IPFS API](https://docs.moralis.io/web3-data-api/reference/upload-folder) - Upload mutliple files to IPFS easily in any language
+   * [Moralis IPFS API](https://docs.moralis.io/web3-data-api/reference/upload-folder) - Upload multiple files to IPFS easily in any language
    * [TEMPORAL](https://github.com/RTradeLtd/Temporal) - Easy to use API into IPFS and other distributed/decentralised storage protocols
    * [PINATA](https://pinata.cloud) - The Easiest Way to Use IPFS
 * [Swarm](https://swarm-gateways.net/) - Distributed storage platform and content distribution service, a native base layer service of the Ethereum web3 stack
 * [Arweave](https://www.arweave.org/) - Decentralized and permanent storage
   * [Bundlr](https://bundlr.network/) - Arweave scaling solution with multiple token support
 * [Infura](https://infura.io/) - A managed IPFS API Gateway and pinning service
-* [3Box Storage](https://docs.3box.io/api/storage) - An api for user controlled, distributed storage. Built on top of IPFS and Orbitdb.
 * [Aleph.im](https://aleph.im/) - an offchain incentivized peer-to-peer cloud project (database, file storage, computing and DID) compatible with Ethereum and IPFS.
 * [DB3 Network](https://github.com/dbpunk-labs/db3) - Decentralized Firebase Firestore Alternative.
 
@@ -356,7 +355,6 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Whisper](https://github.com/ethereum/wiki/wiki/Whisper) - Communication protocol for DApps to communicate with each other, a native base layer service of the Ethereum web3 stack
 * [DEVp2p Wire Protocol](https://github.com/ethereum/devp2p/blob/master/rlpx.md) - Peer-to-peer communications between nodes running Ethereum/Whisper
 * [Pydevp2p](https://github.com/ethereum/pydevp2p) - Python implementation of the RLPx network layer
-* [3Box Threads](https://docs.3box.io/api/messaging) - API to allow developers to implement IPFS persisted, or in memory peer to peer messaging.
 * [EPNS SNS Notifications](https://docs.epns.io/developers/developer-zone/receiving-notifications/sns-notifications) - SNS module for Push Delivery Nodes allows any developer to receive notifications, chats, or any other form of web3 communication directly to the platform they are building with the help of webhooks.
 
 ### Distribution
@@ -382,7 +380,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [solpp](https://github.com/merklejerk/solpp) - Solidity preprocessor and flattener with a comprehensive directive and expression language, high precision math, and many useful helper functions.
 * [Decode and Publish](https://flightwallet.github.io/decode-eth-tx/) – Decode and publish raw ethereum tx. Similar to https://live.blockcypher.com/btc-testnet/decodetx/
 * [Doppelgänger](https://getdoppelganger.io/) - a library for mocking smart contract dependencies during unit testing.
-* [rocketh](https://github.com/wighawag/rocketh) - A simple lib to test ethereum smart contract that allow to use whatever web3 lib and test runner you choose.
+* [rocketh](https://github.com/wighawag/rocketh) - A simple lib to test ethereum smart contract that allows to use whatever web3 lib and test runner you choose.
 * [pytest-cobra](https://github.com/cobraframework/pytest-cobra) - PyTest plugin for testing smart contracts for Ethereum blockchain.
 * [Synpress](https://github.com/Synthetixio/synpress) - Web3-enabled e2e testing tool. A wrapper around Cypress.io with included MetaMask support which allows you to test dapps with ease.
 * [BuildBear](https://www.buildbear.io/) - BuildBear simplifies the process of creating a custom private testnet sandbox of different blockchain networks such as Ethereum, Polygon, Binance Smart Chain, Avalanche, Fantom, Optimism, and Arbitrum Mainnets.
@@ -548,4 +546,3 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Nethereum.UI.Desktop](https://github.com/Nethereum/Nethereum.UI.Desktop) - Cross-platform desktop wallet sample
 * [eth-button](https://eth-button.github.io/eth-button/) - Minimalist donation button
 * [Rimble Design System](https://rimble.consensys.design/) - Adaptable components and design standards for decentralized applications.
-* [3Box Plugins](https://docs.3box.io/build/plugins) - Drop in react components for social functionality. Including comments, profiles and messaging.
