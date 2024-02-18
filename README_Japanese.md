@@ -68,6 +68,9 @@ Ethereum開発で利用可能なツール、コンポーネント、パターン
 * [Rinkeby faucet](https://faucet.rinkeby.io/)
 * [Kovan faucet](https://github.com/kovan-testnet/faucet)
 * [Ropsten faucet](http://faucet.ropsten.be:3001/)
+* [Goerli faucet](https://goerli-faucet.slock.it/)
+* [Holesky faucet](https://stakely.io/en/faucet/ethereum-holesky-testnet-eth)
+* [Universal faucet](https://faucets.blockxlabs.com/)
 
 ### Ethereumを利用するためのクライアント
 #### フロントエンドEthereum API

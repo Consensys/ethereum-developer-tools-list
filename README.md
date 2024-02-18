@@ -162,6 +162,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Rinkeby faucet](https://faucet.rinkeby.io/) [DEPRECATED NETWORK]
 * [Ropsten faucet (MetaMask)](https://faucet.metamask.io/) [DEPRECATED NETWORK]
 * [Ropsten faucet (rpanic)](https://faucet.rpanic.com) [DEPRECATED NETWORK]
+* [Holesky faucet](https://stakely.io/en/faucet/ethereum-holesky-testnet-eth)
 * [Universal faucet](https://faucets.blockxlabs.com/)
 * [Nethereum.Faucet](https://github.com/Nethereum/Nethereum.Faucet) - A C#/.NET faucet
 * [Chainlink Faucet](https://faucets.chain.link/rinkeby)

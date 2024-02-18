@@ -134,11 +134,12 @@ Muchas gracias a los ~100 contribuidores, incluidos [@corbpage](https://twitter.
 * [ZMOK](https://zmok.io/) - API JSON-RPC de Ethereum (Mainnet, Rinkeby, Mainnet de ejecución frontal).
  
 #### Prueba Grifos (Faucets) de Ether
-[Grifo Rinkeby](https://faucet.rinkeby.io/)
+* [Grifo Rinkeby](https://faucet.rinkeby.io/)
 * [Grifo Kovan](https://github.com/kovan-testnet/faucet)
 * [Grifo Ropsten (MetaMask)](https://faucet.metamask.io/)
 * [Grifo Ropsten (rpanic)](https://faucet.rpanic.com)
 * [Grifo Goerli](https://goerli-faucet.slock.it/)
+* [Grifo Holesky](https://stakely.io/en/faucet/ethereum-holesky-testnet-eth)
 * [Grifo Universal](https://faucets.blockxlabs.com/)
 * [Nethereum.Faucet](https://github.com/Nethereum/Nethereum.Faucet) - A C#/.NET faucet
  

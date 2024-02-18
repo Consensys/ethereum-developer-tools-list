@@ -114,6 +114,7 @@
 * [링크비 파우셋(Rinkeby faucet)](https://faucet.rinkeby.io/)
 * [코반 파우셋(Kovan faucet)](https://github.com/kovan-testnet/faucet)
 * [롭스텐 파우셋(Ropsten faucet)](http://faucet.ropsten.be:3001/)
+* [홀레스키 파우셋(Holesky faucet)](https://stakely.io/en/faucet/ethereum-holesky-testnet-eth)
 * [유니버셜 파우셋(Universal faucet)](https://faucets.blockxlabs.com/)
 * [니더리움 파우셋(Nethereum Faucet)](https://github.com/Nethereum/Nethereum.Faucet) - C#/.NET 파우셋 입니다.
 <a name="이더리움과정보전달"></a>
