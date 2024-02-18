@@ -340,7 +340,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
    * [Mahuta](https://github.com/ConsenSys/Mahuta) - IPFS Storage service with added search capability, formerly IPFS-Store
    * [OrbitDB](https://github.com/orbitdb/orbit-db) - Decentralised database on top of IPFS
    * [JS IPFS API](https://github.com/ipfs/js-ipfs-http-client) - A client library for the IPFS HTTP API, implemented in JavaScript
-   * [Moralis IPFS API](https://docs.moralis.io/web3-data-api/reference/upload-folder) - Upload mutliple files to IPFS easily in any language
+   * [Moralis IPFS API](https://docs.moralis.io/web3-data-api/reference/upload-folder) - Upload multiple files to IPFS easily in any language
    * [TEMPORAL](https://github.com/RTradeLtd/Temporal) - Easy to use API into IPFS and other distributed/decentralised storage protocols
    * [PINATA](https://pinata.cloud) - The Easiest Way to Use IPFS
 * [Swarm](https://swarm-gateways.net/) - Distributed storage platform and content distribution service, a native base layer service of the Ethereum web3 stack
