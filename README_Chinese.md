@@ -135,6 +135,7 @@ https://github.com/ConsenSys/ethereum-developer-tools-list/pull/70
 * [Kovan 水龙头](https://github.com/kovan-testnet/faucet)
 * [Ropsten 水龙头](https://faucet.metamask.io/)
 * [Goerli 水龙头](https://goerli-faucet.slock.it/)
+* [Holesky 水龙头](https://stakely.io/en/faucet/ethereum-holesky-testnet-eth)
 * [Universal 水龙头](https://faucets.blockxlabs.com/)
 * [Nethereum 水龙头](https://github.com/Nethereum/Nethereum.Faucet) - 一个 C#/.NET 水龙头
 
