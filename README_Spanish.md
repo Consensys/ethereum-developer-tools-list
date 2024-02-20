@@ -186,6 +186,7 @@ Muchas gracias a los ~100 contribuidores, incluidos [@corbpage](https://twitter.
 * [rust-web3](https://github.com/tomusdrw/rust-web3) - Rust Web3
 * [Web3.hs](https://hackage.haskell.org/package/web3) - Haskell Web3
 * [KEthereum](https://github.com/komputing/KEthereum) - Kotlin Web3
+* [web3dart](https://github.com/xclud/web3dart) - Dart Web3
 * [Eventeum](https://github.com/ConsenSys/eventeum) - Un puente entre los eventos de contratos inteligentes de Ethereum y los microservicios del backend, escrito en Java por Kauri.
 * [Ethereumex](https://github.com/mana-ethereum/ethereumex) - Cliente Elixir JSON-RPC para la blockchain de Ethereum.
 * [Ethereum-jsonrpc-gateway](https://github.com/HydroProtocol/ethereum-jsonrpc-gateway) - Una puerta de enlace que permite ejecutar varios nodos Ethereum con fines de redundancia y equilibrio de carga. Se puede ejecutar como alternativa a (o sobre) Infura. Escrito en Golang.

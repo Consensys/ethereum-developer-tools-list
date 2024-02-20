@@ -151,6 +151,7 @@
 * [Ethereum.rb](https://github.com/EthWorks/ethereum.rb) - 루비 웹3 입니다.
 * [Web3.hs](https://hackage.haskell.org/package/web3) - 하스켈(Haskell) 웹3 입니다.
 * [KEthereum](https://github.com/walleth/kethereum) - 코틀린(Kotlin) 웹3 입니다.
+* [web3dart](https://github.com/xclud/web3dart) - 다트 웹3
 * [Pyethereum](https://github.com/ethereum/pyethereum) - 이더리움 프로젝트의 파이썬 코어 라이브러리 입니다.
 * [Eventeum](https://github.com/ConsenSys/eventeum) - 이더리움 스마트 컨트렉트 이벤트와 백엔드 마이크로서비스를 연결 합니다. Kauri가 자바로 작성했습니다.
 * [Ethereumex](https://github.com/mana-ethereum/ethereumex) - 이더리움 블록체인을 위한 엘릭서(Elixir) JSON-RPC 클라이언트 입니다.

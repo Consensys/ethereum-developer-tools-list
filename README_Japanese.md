@@ -101,6 +101,7 @@ Ethereum開発で利用可能なツール、コンポーネント、パターン
 * [Ethereum.rb](https://github.com/EthWorks/ethereum.rb) - Ruby Web3
 * [Web3.hs](http://hackage.haskell.org/package/web3) - Haskell Web3
 * [KEthereum](https://github.com/walleth/kethereum) - Kotlin Web3
+* [web3dart](https://github.com/xclud/web3dart) - Dart Web3
 * [Pyethereum](https://github.com/ethereum/pyethereum) - The Python core library of the Ethereum project
 * [Eventeum](https://github.com/ConsenSys/eventeum) - Kauri作成のEthereumのスマートコントラクト・イベントと バックエンドのマイクロサービスを繋ぐブリッジ。JAVA製。
 * [Ethereumex](https://github.com/exthereum/ethereumex) - Elixir製のEthereumブロックチェーン用JSON-RPCクライアント 
