@@ -216,6 +216,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [rust-web3](https://github.com/tomusdrw/rust-web3) - Rust Web3
 * [Web3.hs](https://hackage.haskell.org/package/web3) - Haskell Web3
 * [KEthereum](https://github.com/komputing/KEthereum) - Kotlin Web3
+* [web3dart](https://github.com/xclud/web3dart) - Dart Web3
 * [Moralis NodeJS SDK](https://github.com/MoralisWeb3/Moralis-JS-SDK) - NodeJS SDK that integrates with Moralis to index EVM chains
 * [Moralis Python SDK](https://github.com/MoralisWeb3/Moralis-Python-SDK) - Python SDK that integrates with Moralis to index EVM chains
 * [Eventeum](https://github.com/ConsenSys/eventeum) - A bridge between Ethereum smart contract events and backend microservices, written in Java by Kauri

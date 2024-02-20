@@ -177,6 +177,7 @@ https://github.com/ConsenSys/ethereum-developer-tools-list/pull/70
 * [Ethereum.rb](https://github.com/EthWorks/ethereum.rb) - Ruby Web3
 * [Web3.hs](https://hackage.haskell.org/package/web3) - Haskell Web3
 * [KEthereum](https://github.com/komputing/KEthereum) - Kotlin Web3
+* [web3dart](https://github.com/xclud/web3dart) - Dart Web3
 * [Eventeum](https://github.com/ConsenSys/eventeum) - 由Kauri用Java编写的以太坊智能合约事件和后端微服务之间的桥梁
 * [Ethereumex](https://github.com/mana-ethereum/ethereumex) - 以太坊区块链的Elixir JSON-RPC客户端
 * [Ethereum-jsonrpc-gateway](https://github.com/HydroProtocol/ethereum-jsonrpc-gateway) - 一个网关，允许您运行多个以太坊节点以实现冗余和负载平衡。可以作为Infura的替代品（或在其之上）运行。用Golang写的。
