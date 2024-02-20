@@ -198,7 +198,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Fortmatic](https://fortmatic.com/) - A simple to use SDK to build web3 dApps without extensions or downloads.
 * [Portis](https://portis.io/) - A non-custodial wallet with an SDK that enables easy interaction with DApps without installing anything.
 * [create-eth-app](https://github.com/paulrberg/create-eth-app) - Create Ethereum-powered front-end apps with one command.
-* [Scaffold-ETH](https://github.com/austintgriffith/scaffold-eth) - Beginner friendly forkable github for getting started building smart contracts.
+* [Scaffold-ETH 2](https://github.com/scaffold-eth/scaffold-eth-2) - Beginner friendly forkable github for getting started building smart contracts.
 * [Notify.js](https://blocknative.com/notify) - Deliver real-time notifications to your users. With built-in support for Speed-Ups and Cancels, Blocknative Notify.js helps users transact with confidence. Notify.js is easy to integrate and quick to customize.
 * [Quiver](https://raid-guild.github.io/quiver/) - A collection of React hooks and components for Ethereum dApps. Built by Raid Guild.
 * [Rainbow](https://www.rainbowkit.com/) - RainbowKit is a React library that makes it easy to add wallet connection to your dapp. It's intuitive, responsive and customizable.
