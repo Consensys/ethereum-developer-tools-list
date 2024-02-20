@@ -84,6 +84,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Smartcontract challenges](https://www.smartcontract.engineer/) — Learn Solidity and Vyper with challenges.
 * [Solidity by Example](https://solidity-by-example.org/) — An introduction to Solidity with simple examples.
 * [L2Beat](https://l2beat.com/) - Discover Ethereum Layer2 solutions and the risks associated with using them.
+* [Wriggly](https://wriggly.io/problemset/all) - Learn Solidity and smart contract development with interactive code challenges.
 
 ## Developer Tools
 ### Developing Smart Contracts
