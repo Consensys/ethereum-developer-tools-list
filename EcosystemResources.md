@@ -63,6 +63,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 ### Gas price calculators and tools
 * [EthGasStation](https://ethgasstation.info/) - Website for estimating tx prices vs times
 * [Petrometer](https://github.com/makerdao/petrometer) - Summarises daily and total gas consumption of all transactions sent from a specified Ethereum address
+* [Cryptoneur Gas Fees Calculator](https://www.cryptoneur.xyz/gas-fees-calculator) - Calculate gas fees in your local currency for different transaction types on Mainnet, Arbitrum, Optimism, Binance Smart Chain, Avalanche, Polygon, Gnosis, Celo, Moonriver, Fantom and Harmony.
 
 ### Services
 * [Provable](http://docs.provable.xyz/#ethereum) - Blockchain oracle service backed by authenticity proofs, for your smart contracts
@@ -180,6 +181,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [DEX protocols](https://github.com/evbots/dex-protocols) - A list of protocols for decentralised exchange
 * [Ethereum Token Standards](https://github.com/PhABC/ethereum-token-standards-list) - An exhaustive list of Ethereum Token Standards
 * [Web3Grants.net](https://web3grants.net) - A list of web3/crypto related grant programs
+* [Crunchbase for Web3 Grants](https://www.cryptoneur.xyz/web3-grants) - A current list of web3 grants featuring sophisticated filtering options.
 
 ### Decentralized Finance (DeFi)
 * [ETHLend](https://ethlend.io) - Decentralised peer to peer lending marketplace that allows people all over the world to get a loan or become a lender.
