@@ -387,6 +387,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Synpress](https://github.com/Synthetixio/synpress) - Web3-enabled e2e testing tool. A wrapper around Cypress.io with included MetaMask support which allows you to test dapps with ease.
 * [BuildBear](https://www.buildbear.io/) - BuildBear simplifies the process of creating a custom private testnet sandbox of different blockchain networks such as Ethereum, Polygon, Binance Smart Chain, Avalanche, Fantom, Optimism, and Arbitrum Mainnets.
 * [Kurtosis' eth2-package](https://github.com/kurtosis-tech/eth2-package) - Open-source tool to spin up reproducible, private testnets over Docker or Kubernetes at any scale you need. Supports all major EL/CL client implementations & comes out-of-the-box with Flashbot's mev-boost infrastructure.
+* [ERCx](https://ercx.runtimeverification.com) - Website, API, and VSCode extension to test tokens for ERC compliance to the standard and security properties.
 
 ### Security Tools
 * [MythX](https://mythx.io/) - Security verification platform and tools ecosystem for Ethereum developers
@@ -409,6 +410,8 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Piet](https://piet.slock.it) - A visual Solidity architecture analyzer
 * [Smack My Contract](https://smackmycontract.xyz/) - Web3 Security Scanner Aggregator
 * [EVMole](https://github.com/cdump/evmole) - Extracts function selectors from EVM bytecode, even for unverified contracts
+* [ERCx](https://ercx.runtimeverification.com) - Website, API, and VSCode extension to test tokens for ERC compliance to the standard and security properties akin to a flash audit tool.
+
 
 ### Monitoring
 * [Moralis Streams API](https://docs.moralis.io/streams-api) - Stream real-time on-chain events to your webhook from multiple EVM blockchains.
