@@ -333,6 +333,7 @@ https://github.com/ConsenSys/ethereum-developer-tools-list/pull/70
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) -受影响的代币中ERC20智能合约中的漏洞的集合
 * [Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) - Callisto Network提供的免费的智能合约安全审核
 * [Piet](https://piet.slock.it) - 可视化Solidity体系结构分析器
+* [Kontrol](https://github.com/runtimeverification/kontrol) - 通过 Foundry 属性测试对 Solidity 智能合约进行形式验证 
 
 ### 监控方式
 * [Alethio](https://aleth.io/) - 一个先进的以太坊分析平台，提供实时监控，洞察和异常检测，令牌指标，智能合约审计，图形可视化和区块链搜索。还可以探索以太坊去中心化交易所的实时市场信息和交易活动。

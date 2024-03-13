@@ -409,7 +409,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Piet](https://piet.slock.it) - A visual Solidity architecture analyzer
 * [Smack My Contract](https://smackmycontract.xyz/) - Web3 Security Scanner Aggregator
 * [EVMole](https://github.com/cdump/evmole) - Extracts function selectors from EVM bytecode, even for unverified contracts
-* [Kontrol](https://github.com/runtimeverification/kontrol) — Formal verification of Solidity smart contracts through Foundry property tests
+* [Kontrol](https://github.com/runtimeverification/kontrol) - Formal verification of Solidity smart contracts through Foundry property tests
 
 ### Monitoring
 * [Moralis Streams API](https://docs.moralis.io/streams-api) - Stream real-time on-chain events to your webhook from multiple EVM blockchains.
