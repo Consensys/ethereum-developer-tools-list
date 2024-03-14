@@ -346,7 +346,7 @@ Muchas gracias a los ~100 contribuidores, incluidos [@corbpage](https://twitter.
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - una colección de vulnerabilidades en contratos inteligentes ERC20 con tokens afectados.
 * [Auditoría de seguridad de contrato inteligente gratuita](https://callisto.network/smart-contract-audit/) - Auditorías de seguridad de contrato inteligente gratuitas de Callisto Network.
 * [Piet](https://piet.slock.it) - un analizador visual de arquitectura de Solidity.
-* [Kontrol](https://github.com/runtimeverification/kontrol) - Verificación formal de contratos inteligentes Solidity mediante pruebas de propiedades de Foundry.
+* [Kontrol](https://github.com/runtimeverification/kontrol) - Verificación formal de smart contracts escritos en Solidity mediante tests de propiedades en Foundry.
 
 ### Monitoreo
 * [Alethio](https://aleth.io/) - una plataforma de análisis avanzada de Ethereum que proporciona monitoreo en vivo, información y detección de anomalías, métricas de tokens, auditorías de contratos inteligentes, visualización de gráficos y búsqueda de blockchain. También se puede explorar la información de mercado en tiempo real y las actividades comerciales en los intercambios descentralizados de Ethereum.
