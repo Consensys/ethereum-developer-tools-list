@@ -284,6 +284,7 @@
 * [솔리디티 보안 블로그(Solidity security blog)](https://github.com/sigp/solidity-security-blog) - 알려진 공격 백터(vectors)와 일반적인 안티패턴(anti-patterns) 종합 리스트 입니다.
 * [어썸 버기 ERC20 토큰(Awesome Buggy ERC20 Tokens)](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - 토큰에 영향을 주는 ERC20 스마트 컨트렉트의 취약성 모음 입니다.
 * [Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) - Callisto 네트워크의 무료 스마트 컨트렉브 보안 감사(audits) 입니다.
+* [Kontrol](https://github.com/runtimeverification/kontrol) - Foundry 속성 테스트를 통한 Solidity 스마트 계약의 형식 검증.
 <a name="모니터링"></a>
 ### 모니터링
 * [노이펀드(Neufund) - Smart Contract Watch](https://github.com/Neufund/smart-contract-watch) - 스마트 컨트렉트와 거래의 수를 모니터하는 도구 입니다.

@@ -211,6 +211,7 @@ Ethereum開発で利用可能なツール、コンポーネント、パターン
 * [Manticore](https://github.com/trailofbits/manticore) - スマートコントラクトとバイナリのためのSymbolic executionツール  
 * [Solidity security blog](https://github.com/sigp/solidity-security-blog) - 既知の攻撃手法と一般的なアンチパターンの包括的なリスト  
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - ERC20トークン・スマートコントラクトの脆弱性コレクション 
+* [Kontrol](https://github.com/runtimeverification/kontrol) - Foundryのプロパティテストを通じたSolidityスマートコントラクトの形式的検証
 
 ### モニタリング
 * [Neufund - Smart Contract Watch](https://github.com/Neufund/smart-contract-watch) - 多くのスマートコントラクト、トランザクションを監視するためのツール
