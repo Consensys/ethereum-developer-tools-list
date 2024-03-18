@@ -84,6 +84,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Smartcontract challenges](https://www.smartcontract.engineer/) — Learn Solidity and Vyper with challenges.
 * [Solidity by Example](https://solidity-by-example.org/) — An introduction to Solidity with simple examples.
 * [L2Beat](https://l2beat.com/) - Discover Ethereum Layer2 solutions and the risks associated with using them.
+* [Tatum](https://tatum.io/) - The blockchain development tool that streamlines the development of blockchain applications.
 
 ## Developer Tools
 ### Developing Smart Contracts
@@ -111,6 +112,8 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Epirus](https://docs.epirus.io/sdk/) - Java framework for building smart contracts.
 * [Etherspot](https://etherspot.io/) - MultiChain Smart Wallet SDK, supports most of the EVM-compatible chains.
 * [Ambire Login SDK](https://github.com/AmbireTech/wallet-login-sdk) - Smart Wallet SDK focused on onboarding via email, supports the popular EVM chains.
+* [Tatum](https://github.com/tatumio/tatum-js) - Tatum SDK is a powerful, feature-rich TypeScript/JavaScript library that streamlines the development of blockchain applications.
+  
 
 #### IDEs
 * [Remix](https://remix.ethereum.org/) - Web IDE with built in static analysis, test blockchain VM.
@@ -434,6 +437,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Sidekik](https://sidekik.xyz) - Debug, test, and grok smart contracts with a visual UI that lets you interact with local or deployed EVM-based smart contracts. Easily monitor and browse local chain transactions, decode function calls, and prepare input payloads so you can test your code.
 * [GuardianUI](https://guardianui.com) - Provide users with a safer and more robust experience by testing and monitoring the functionality, performance, and security of your web3 frontend.
 * [Pessimistic Spotter](https://spotter.pessimistic.io/) - Protects your smart contracts from hacks. Spotter monitors blockchain activity and detects exploits before they happen. If the hack targets any of your contracts, Spotter will send an alert and trigger defensive measures.
+* [Tatum Notifications](https://docs.tatum.io/docs/notifications) - Stay ahead with lightning-fast Web3 notifications, designed exclusively for all developers.
 
 ### Other Miscellaneous Tools
 * [aragonPM](https://hack.aragon.org/docs/apm-intro.html) - a decentralized package manager powered by aragonOS and Ethereum. aragonPM enables decentralized governance over package upgrades, removing centralized points of failure.
