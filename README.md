@@ -128,6 +128,9 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Solidity + Hardhat VSCode Extension](https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity) - Solidity and Hardhat support by the Hardhat team.
 * [Tools for Solidity VS Code Extension](https://marketplace.visualstudio.com/items?itemName=AckeeBlockchain.tools-for-solidity) - Solidity support and live vulnerability detectors developed by Ackee Blockchain Security.
 
+#### Indexers
+* [GhostGraph](https://ghostgraph.xyz) - The easiest way to create EVM chains indexers using Solidity. 
+
 ### Other tools
 * [Atra Blockchain Services](https://console.atra.io) - Atra provides web services to help you build, deploy, and maintain decentralized applications on the Ethereum blockchain.
 * [Azure Blockchain Dev Kit for Ethereum for VSCode](https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain) - VSCode extension that allows for creating smart contracts and deploying them inside of Visual Studio Code
