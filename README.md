@@ -129,7 +129,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Tools for Solidity VS Code Extension](https://marketplace.visualstudio.com/items?itemName=AckeeBlockchain.tools-for-solidity) - Solidity support and live vulnerability detectors developed by Ackee Blockchain Security.
 
 #### Indexers
-* [GhostGraph](https://ghostgraph.xyz) - The easiest way to create EVM chains indexers using Solidity. 
+* [GhostGraph](https://ghostgraph.xyz) - The easiest way to create EVM chain indexers using Solidity. 
 
 ### Other tools
 * [Atra Blockchain Services](https://console.atra.io) - Atra provides web services to help you build, deploy, and maintain decentralized applications on the Ethereum blockchain.
