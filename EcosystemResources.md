@@ -180,6 +180,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [DEX protocols](https://github.com/evbots/dex-protocols) - A list of protocols for decentralised exchange
 * [Ethereum Token Standards](https://github.com/PhABC/ethereum-token-standards-list) - An exhaustive list of Ethereum Token Standards
 * [Web3Grants.net](https://web3grants.net) - A list of web3/crypto related grant programs
+* [Ethereum Ecosystem](https://www.ethereum-ecosystem.com/) - An unofficial Ecosystem page for Ethereum and its Layer 2s featuring 1000+ dApps
 
 ### Decentralized Finance (DeFi)
 * [ETHLend](https://ethlend.io) - Decentralised peer to peer lending marketplace that allows people all over the world to get a loan or become a lender.
