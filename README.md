@@ -233,6 +233,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Transpose](https://transpose.io) - Powerful APIs for accessing human-readable Ethereum data at scale.
 * [Web3-Ethereum-Defi](https://github.com/tradingstrategy-ai/web3-ethereum-defi) - Integrate DeFi protocols to your Python applications, data research and trading tools
 * [Basement](https://basement.dev) - Index web3 data using GraphQL, SQL or no-code, on Ethereum or op-stack chains.
+* [GhostGraph](https://ghostgraph.xyz) - The easiest way to create EVM chain indexers using Solidity.
 
 #### Bootstrap/Out-of-Box tools
 * [Truffle boxes](https://trufflesuite.com/boxes) - Packaged components for the Ethereum ecosystem
