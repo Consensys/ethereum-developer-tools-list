@@ -334,6 +334,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Mana](https://github.com/mana-ethereum/mana) - Ethereum full node implementation written in Elixir.
 * [Chainstack](https://chainstack.com/) - A managed service providing elastic and dedicated Geth nodes
 * [QuickNode](https://quicknode.com/) - Blockchain developer cloud with API access and node-as-a-service.
+* [GetBlock](https://getblock.io/) - Blockchain-as-a-Service provider (RPC Node provider) that supports over 50 multiple networks, including ETH.
 * [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
 * [NOWNodes](https://nownodes.io) - Provide access to ETH node (and 48+ more) and Block Explorer. Get free API key to test blockchain-as-a-service solution
 * [Spice](https://spice.xyz) - Data and AI managed service, with SQL, API, and Node-as-a-Service.
