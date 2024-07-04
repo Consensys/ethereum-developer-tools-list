@@ -79,6 +79,7 @@ https://github.com/ConsenSys/ethereum-developer-tools-list/pull/70
 * [Kauri.io](https://kauri.io/) - 基于Web3的社区和新兴技术的知识平台。分享精选内容，并就最新，高质量的技术文章和系列进行协作。 请查看[“入门”社区](https://kauri.io/community/5d9b16fc890d310001b66e1b)以学习基础知识。
 * [dfuse](https://dfuse.io) - Slick 区块链 API 可以构建世界一流的应用程序。
 * [Biconomy](https://biconomy.io) - 通过使用简单易用的SDK启用元交易来在dapp中进行无Gas交易。
+* [EVMTools](https://evmtools.xyz) - 面向Web3和Solidity开发者的EVM工具包，所有开发工具集中在一个地方。它有20多个实用工具，并且经常添加新的工具。
 
 ## 开发者工具
 ### 开发智能合约
