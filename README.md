@@ -114,6 +114,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Ambire Login SDK](https://github.com/AmbireTech/wallet-login-sdk) - Smart Wallet SDK focused on onboarding via email, supports the popular EVM chains.
 * [Tatum](https://github.com/tatumio/tatum-js) - Tatum SDK is a powerful, feature-rich TypeScript/JavaScript library that streamlines the development of blockchain applications.
 * [Catapulta](https://catapulta.sh) - Zero config smart contracts deployment platform, automate verifications and share deployment reports, compatible with Foundry and Hardhat.
+* [EVMTools](https://evmtools.xyz) - EVM toolkit for web3 developers, all your day to day used tools in one place.
 
   
 

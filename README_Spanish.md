@@ -77,6 +77,7 @@ Muchas gracias a los ~100 contribuidores, incluidos [@corbpage](https://twitter.
 * [dfuse](https://dfuse.io) - Eficiente blockchain API para crear aplicaciones de clase mundial.
 * [Biconomy](https://biconomy.io) - realice transacciones sin gas en su dapp habilitando meta-transacciones utilizando un SDK fácil de usar.
 * [Blocknative](https://blocknative.com) - eventos de Blockchain antes de que sucedan. El portafolio de desarrolladores de Blocknative facilita la creación con datos mempool.
+* [EVMTools](https://evmtools.xyz) - Kit de herramientas EVM para desarrolladores de web3 y Solidity, todas tus herramientas de desarrollo en un solo lugar. Tiene más de 20 utilidades y se agregan más con frecuencia.
  
 ## Herramientas para desarrollador
 ### Desarrollando Contratos Inteligentes

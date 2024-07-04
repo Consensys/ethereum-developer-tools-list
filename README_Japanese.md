@@ -42,6 +42,7 @@ Ethereum開発で利用可能なツール、コンポーネント、パターン
 * [Dapp](https://dapp.tools/dapp/) - DApps開発フレームワーク。DAppleの後継。
 * [Populus](https://github.com/ethereum/populus) - もっともかわいい動物写真を含むEthereum開発フレームワーク。 
 * [Etherlime](https://github.com/LimeChain/etherlime) - ethers.jsベースのDApps開発フレームワーク。
+* [EVMTools](https://evmtools.xyz) - Web3およびSolidity開発者のためのEVMツールキット。すべての開発ツールを一箇所にまとめました。20以上のユーティリティがあり、さらに頻繁に追加されています。
 
 #### IDEs
 * [Remix](https://remix.ethereum.org/) - 静的解析とブロックチェーンVMによるテスト機能を含むWeb IDE。
