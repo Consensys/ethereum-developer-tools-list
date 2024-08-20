@@ -353,7 +353,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
    * [PINATA](https://pinata.cloud) - The Easiest Way to Use IPFS
 * [Swarm](https://swarm-gateways.net/) - Distributed storage platform and content distribution service, a native base layer service of the Ethereum web3 stack
 * [Arweave](https://www.arweave.org/) - Decentralized and permanent storage
-  * [Bundlr](https://bundlr.network/) - Arweave scaling solution with multiple token support
+  * [Irys (Bundlr)](https://irys.xyz/) - Arweave scaling solution with multiple token support
 * [Infura](https://infura.io/) - A managed IPFS API Gateway and pinning service
 * [Aleph.im](https://aleph.im/) - an offchain incentivized peer-to-peer cloud project (database, file storage, computing and DID) compatible with Ethereum and IPFS.
 * [DB3 Network](https://github.com/dbpunk-labs/db3) - Decentralized Firebase Firestore Alternative.
