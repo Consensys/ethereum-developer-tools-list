@@ -238,7 +238,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 
 #### Bootstrap/Out-of-Box tools
 * [Truffle boxes](https://trufflesuite.com/boxes) - Packaged components for the Ethereum ecosystem
-* [Ethereum Boilerplates](https://github.com/ethereum-boilerplate/ethereum-boilerplate) -  A full-stack boilerplate to get started building dapp on any EVM chains
+* [Ethereum Boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate) -  A full-stack boilerplate to get started building dapp on any EVM chains
 * [Create Eth App](https://github.com/paulrberg/create-eth-app) - Create Ethereum-powered frontend apps with one command
 * [Besu Private Network](https://besu.hyperledger.org/en/stable/Tutorials/Quickstarts/Azure-Private-Network-Quickstart/) - Run a private network of Besu nodes in a Docker container
 * [Testchains](https://github.com/Nethereum/TestChains) - Pre-configured .NET devchains for fast response (PoA) 
