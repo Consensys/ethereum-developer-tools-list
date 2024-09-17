@@ -43,6 +43,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
       - [Ethereum Clients](#ethereum-clients)
       - [Storage](#storage)
       - [Messaging](#messaging)
+    - [Source Code Verification](#source-code-verification)
     - [Distribution](#distribution)
     - [Testing Tools](#testing-tools)
     - [Security Tools](#security-tools)
@@ -365,6 +366,11 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [DEVp2p Wire Protocol](https://github.com/ethereum/devp2p/blob/master/rlpx.md) - Peer-to-peer communications between nodes running Ethereum/Whisper
 * [Pydevp2p](https://github.com/ethereum/pydevp2p) - Python implementation of the RLPx network layer
 * [EPNS SNS Notifications](https://docs.epns.io/developers/developer-zone/receiving-notifications/sns-notifications) - SNS module for Push Delivery Nodes allows any developer to receive notifications, chats, or any other form of web3 communication directly to the platform they are building with the help of webhooks.
+
+### Source Code Verification
+* [Etherscan](https://etherscan.io/) - Ethereum block explorer with contract source code verification functionality 
+* [Sourcify](https://sourcify.dev/) - Decentralized and open-sourced smart contract verification service
+* [Tenderly](https://tenderly.co/) - Web3 development kit with public and private contract verification functionality
 
 ### Distribution
 * [Meroku](https://github.com/merokudao/meroku) - A community owned dApp Store. Package, distribute your dApp without hosting costs.
