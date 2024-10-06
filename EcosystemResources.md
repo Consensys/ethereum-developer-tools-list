@@ -16,7 +16,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Metamask](https://metamask.io/) - Chrome extension Ether wallet with ERC tokens support
 * [Gnosis multisig wallet](https://github.com/gnosis/MultiSigWallet) - Audited multi-sig wallet
 * [Exodus](https://www.exodus.io) - Desktop wallet with Shapeshift integration
-* [Nifty Wallet](https://github.com/poanetwork/nifty-wallet) - Ethereum Browser Extension focused on usability of real world applications
+* [Nifty Wallet](https://github.com/poanetwork/nifty-wallet) - Ethereum Browser Extension focused on usability of real-world applications
 
 #### Web Wallets
 * [MyEtherWallet](https://github.com/MyEtherWallet) - Open-source [tools](https://www.myetherwallet.com/) for interacting with the blockchains easily & securely
@@ -53,12 +53,12 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 ### Block explorers
 * [Etherscan](https://etherscan.io/) - most popular centralized way to view Eth transactions and contract code
 * [BlockScout](https://github.com/poanetwork/blockscout) - Open Source Ethereum Block explorer, funded by [Ethprize](http://ethprize.io) and developed by [POA](https://poa.network/)
-* [TrueBlocks](https://github.com/Great-Hill-Corporation/trueblocks-core) - TrueBlocks is a collection of software libraries, applications, tools, and examples that allow you to retrieve Ethereum blockchain data (a) more quickly, (b) with higher information content, \(c\) in an fully decentralized way, (d) in a fully automated way, and (e) in a highly maintenance free way.)
+* [TrueBlocks](https://github.com/Great-Hill-Corporation/trueblocks-core) - TrueBlocks is a collection of software libraries, applications, tools, and examples that allow you to retrieve Ethereum blockchain data (a) more quickly, (b) with higher information content, \(c\) in a fully decentralized way, (d) in a fully automated way, and (e) in a highly maintenance-free way.)
 * [Etherchain lite](https://github.com/gobitfly/etherchain-light) - Lightweight blockchain explorer for your private Ethereum chain
 * [EthStats](https://ethstats.io/) - The Ethereum Blockchain Analytics Platform
 * [Scout](https://scout.cool/) - A live data feed of the activities and event logs of your smart contracts on Ethereum
 * [ethq](https://ethq.app) - The [dfuse](https://dfuse.io) powered, most detailed, block explorer built for developers
-* [Ethernal](https://www.tryethernal.com) - Ethereum block explorer for private chain. Browse transactions, decode function calls, event data or contract variables values on your locally running chain.
+* [Ethernal](https://www.tryethernal.com) - Ethereum block explorer for private chain. Browse transactions, decode function calls, event data or contract variable values on your locally running chain.
 
 ### Gas price calculators and tools
 * [EthGasStation](https://ethgasstation.info/) - Website for estimating tx prices vs times
@@ -69,7 +69,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Infura](https://infura.io/) - API gateway so you don't have to host your own ETH node
 * [Moralis](https://moralis.io) - Enterprise-grade Web3 API that can be used for efficiently indexing blockchain data, authenticate various web3 wallets, and listen to real-time blockchain events in multiple EVM chains
 * [Quiknode](https://quiknode.io/) - Service to spin up personal Parity/Geth nodes
-* [Nodesmith](https://nodesmith.io/) - Free API access to full Ethereum mainnet and testnet nodes, can be used just like a local node
+* [Nodesmith](https://nodesmith.io/) - Free API access to full Ethereum mainnet and testnet nodes, which can be used just like a local node
 * [dfuse](https://dfuse.io) - Slick blockchain APIs to build world-class applications
 * [Regis](https://regis.nu/) - Registry Framework for Digital Assets
 * [Treum](https://treum.io/) - Just consider using Treum as your backend if the use case is business process oriented, formerly Viant
@@ -90,7 +90,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [BUIDLHub](https://buidlhub.com) - Create automated workflows between traditional web services & ethereum. Supports bots, webhooks, custom dapp integrations, etc.
 * [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
 * [Picket](https://picketapi.com) - A simple API and SDK for wallet-based authentication and token-based authorization (a.k.a token-gating)
-* [Chainnodes](https://www.chainnodes.org/) - Web3 Infrastructure provider with enterprise grade low latency for all. Supports all major EVM chains.
+* [Chainnodes](https://www.chainnodes.org/) - Web3 Infrastructure provider with enterprise-grade low latency for all. Supports all major EVM chains.
 
 ### Knowledge/Education
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
