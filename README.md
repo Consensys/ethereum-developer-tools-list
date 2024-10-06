@@ -359,6 +359,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Aleph.im](https://aleph.im/) - an offchain incentivized peer-to-peer cloud project (database, file storage, computing and DID) compatible with Ethereum and IPFS.
 * [DB3 Network](https://github.com/dbpunk-labs/db3) - Decentralized Firebase Firestore Alternative.
 
+
 #### Messaging
 * [Whisper](https://github.com/ethereum/wiki/wiki/Whisper) - Communication protocol for DApps to communicate with each other, a native base layer service of the Ethereum web3 stack
 * [DEVp2p Wire Protocol](https://github.com/ethereum/devp2p/blob/master/rlpx.md) - Peer-to-peer communications between nodes running Ethereum/Whisper
