@@ -245,6 +245,8 @@
 * [위스퍼(Whisper)](https://github.com/ethereum/wiki/wiki/Whisper) - 각각의 탈중앙화 어플리케이션들 통신을 위한 의사소통 프로토콜, 이더리움 웹3 스택의 네이티브 기초 계층 서비스 입니다.
 * [데브p2p 와이어 프로토콜(DEVp2p Wire Protocol)](https://github.com/ethereum/devp2p/blob/master/devp2p.md) - 작동 중인 이더리움/위스퍼 노드간 피어-투-피어(Peer-to-peer) 통신 입니다.
 * [파이데브p2p(Pydevp2p)](https://github.com/ethereum/pydevp2p) - RLPx 네트워크 계층의 파이썬 구현 입니다.
+* [GroupFi](https://github.com/TanglePay/GroupFi-Chatbox/blob/dev/packages/sdk/README.md) - GroupFi Chatbox SDK를 사용하여 개발자가 EVM 체인의 dApps에 GroupFi의 채팅 기능을 쉽게 통합 
+할 수 있습니다.
 <a name="테스팅도구"></a>
 ### 테스팅 도구
 * [솔리디티 코드 커버리지(Solidity code coverage)](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/sol-cov) - 솔리디티 코드 커버리지 도구 입니다.
