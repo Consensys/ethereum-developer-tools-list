@@ -291,7 +291,7 @@ https://github.com/ConsenSys/ethereum-developer-tools-list/pull/70
 * [DEVp2p Wire Protocol](https://github.com/ethereum/devp2p/blob/master/rlpx.md) - 运行以太坊/低语的节点之间的对等通信
 * [Pydevp2p](https://github.com/ethereum/pydevp2p) - RLPx网络层的Python实现
 * [3Box Threads](https://docs.3box.io/api/messaging) - API，使开发人员能够持久地实现IPFS，或在内存中实现对等消息传递。
-* [GroupFi](https://github.com/TanglePay/GroupFi-Chatbox/blob/dev/packages/sdk/README.md) - GroupFi Chatbox SDK enables developers to easily integrate GroupFi\u2019s chatbox with their dApps on EVM chains.
+* [GroupFi](https://github.com/TanglePay/GroupFi-Chatbox/blob/dev/packages/sdk/README.md) - GroupFi 聊天框 SDK 使开发者能够轻松将 GroupFi 的聊天框集成到他们基于 EVM 链的 dApp 中。
 
 
 ### 测试工具
