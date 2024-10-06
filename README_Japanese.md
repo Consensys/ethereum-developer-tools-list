@@ -185,6 +185,8 @@ Ethereum開発で利用可能なツール、コンポーネント、パターン
 * [Whisper](https://github.com/ethereum/wiki/wiki/Whisper) - Ethereum web3スタックのネイティブ・ベース・レイヤーの、DApps間のコミュニケーションプロトコル
 * [DEVp2p Wire Protocol](https://github.com/ethereum/wiki/wiki/%C3%90%CE%9EVp2p-Wire-Protocol) - Ethereum/Whisperが稼働するノード間のP2Pコミュニケーション 
 * [Pydevp2p](https://github.com/ethereum/pydevp2p) - RLPxネットワークレイヤーのPython実装
+* [GroupFi](https://github.com/TanglePay/GroupFi-Chatbox/blob/dev/packages/sdk/README.md) - GroupFi Chatbox SDKにより、開発者はGroupFiのチャットボックスをEVMチェーン上のdAppsに簡単に 
+統合できます。
 
 ### テストツール
 * [Solidity code coverage](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/sol-cov) - Solidityコードカバレッジツール
