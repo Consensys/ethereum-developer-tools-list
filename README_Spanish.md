@@ -305,6 +305,7 @@ Muchas gracias a los ~100 contribuidores, incluidos [@corbpage](https://twitter.
 * [Protocolo de cable DEVp2p](https://github.com/ethereum/devp2p/blob/master/rlpx.md) - comunicaciones de igual a igual entre nodos que ejecutan Ethereum/Whisper.
 * [Pydevp2p](https://github.com/ethereum/pydevp2p) - implementación de Python de la capa de red RLPx.
 * [3Box Threads](https://docs.3box.io/api/messaging) - API que permite a los desarrolladores implementar IPFS persistente o en la memoria de mensajes de igual a igual.
+* [GroupFi](https://github.com/TanglePay/GroupFi-Chatbox/blob/dev/packages/sdk/README.md) - GroupFi Chatbox SDK permite a los desarrolladores integrar fácilmente el chatbox de GroupFi en sus dApps en cadenas EVM.
 
 ### Herramientas para Pruebas
 * [Truffle Teams](https://trufflesuite.com/teams) - Integración continua Zero-Config para proyectos de truffle.
