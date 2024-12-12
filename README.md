@@ -226,7 +226,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Moralis Python SDK](https://github.com/MoralisWeb3/Moralis-Python-SDK) - Python SDK that integrates with Moralis to index EVM chains
 * [Eventeum](https://github.com/ConsenSys/eventeum) - A bridge between Ethereum smart contract events and backend microservices, written in Java by Kauri
 * [Ethereumex](https://github.com/mana-ethereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain
-* [Ethereum-jsonrpc-gateway](https://github.com/HydroProtocol/ethereum-jsonrpc-gateway) - A gateway that allows you to run multiple Ethereum nodes for redundancy and load-balancing purposes. Can be ran as an alternative to (or on top of) Infura. Written in Golang.
+* [Ethereum-jsonrpc-gateway](https://github.com/HydroProtocol/ethereum-jsonrpc-gateway) - A gateway that allows you to run multiple Ethereum nodes for redundancy and load-balancing purposes. Can be run as an alternative to (or on top of) Infura. Written in Golang.
 * [EthContract](https://github.com/AgileAlpha/eth_contract) - A set of helper methods to help query ETH smart contracts in Elixir
 * [Marmo](https://marmo.io/) - Python, JS, and Java SDK for simplifying interactions with Ethereum. Uses relayers to offload transaction costs to relayers.
 * [Ethereum Logging Framework](https://bitbucket.csiro.au/users/kli039/repos/ethereum-logging-framework/browse) - provides advanced logging capabilities for Ethereum applications and networks including a query language, query processor, and logging code generation
@@ -481,7 +481,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [truffle-plugin-verify](https://github.com/rkalis/truffle-plugin-verify) - Seamlessly verify contract source code on Etherscan from the Truffle command line.
 * [Blocknative Gas Platform](https://www.blocknative.com/gas) — Gas estimation for builders, by builders. Gas Platform harnesses Blocknative's real-time mempool data infrastructure to accurately and consistently estimate Ethereum transaction fees. This provides builders and traders with an up-to-the-moment gas fee API.
 * [ETH Gas Tracker](https://www.ethgastracker.com/) - Monitor and track Ethereum and L2 gas prices to reduce transaction fees, save money and take control of your blockchain experience
-* [Diverse Eth Calculator](https://ethcalculator.dsolutions.mn/) - Ease unit calculations & utility tools. PWA , so you can install it on your mac/windows/linux or android/iphone
+* [Diverse Eth Calculator](https://ethcalculator.dsolutions.mn/) - Ease unit calculations & utility tools. PWA , so you can install it on your mac/windows/linux or android/iPhone
 * [Cookbook](https://cookbook.dev) - A platform aggregating all smart contract libraries
 * [Ethereum Unit Converter](https://neptunemutual.com/web3-tools/ethereum-unit-converter/) - Online tool to convert the different Ethereum denominations (wei, gwei, ether).
 * [Solidity Bytes32 Converter](https://neptunemutual.com/web3-tools/string-to-bytes32-converter/) - Online tool to convert Solidity Bytes32 into strings, or numbers and vice versa.
