@@ -55,6 +55,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
       - [Scalability](#scalability)
       - [Payment/State Channels](#paymentstate-channels)
       - [Plasma](#plasma)
+      - [Rollups](#rollups)
       - [Side-Chains](#side-chains)
       - [Privacy / Confidentiality](#privacy--confidentiality)
         - [ZK-SNARKs](#zk-snarks)
@@ -526,6 +527,9 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Plasma MVP](https://github.com/omisego/plasma-contracts) - OmiseGO's research implementation of Minimal Viable Plasma
 * [Plasma MVP Golang](https://github.com/kyokan/plasma) - Golang implementation and extension of the Minimum Viable Plasma specification
 * [Plasma Guard](https://github.com/mesg-foundation/plasma-guard) - Automatically watch and challenge or exit from Omisego Plasma Network when needed.
+
+#### Rollups
+* [Cartesi](https://docs.cartesi.io/cartesi-rollups/) - Cartesi is an app-specific rollup protocol with a virtual machine that runs Linux distributions, creating a richer and broader design space for DApp developers. Cartesi Rollups offer a modular scaling solution, deployable as L2, L3, or sovereign rollups, while maintaining strong base layer security guarantees.
 
 #### Side-Chains
 * [POA Network](https://www.poa.network/)
