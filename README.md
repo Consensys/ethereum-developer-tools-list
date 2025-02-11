@@ -445,6 +445,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [GuardianUI](https://guardianui.com) - Provide users with a safer and more robust experience by testing and monitoring the functionality, performance, and security of your web3 frontend.
 * [Pessimistic Spotter](https://spotter.pessimistic.io/) - Protects your smart contracts from hacks. Spotter monitors blockchain activity and detects exploits before they happen. If the hack targets any of your contracts, Spotter will send an alert and trigger defensive measures.
 * [Tatum Notifications](https://docs.tatum.io/docs/notifications) - Stay ahead with lightning-fast Web3 notifications, designed exclusively for all developers.
+* [QuillMonitor](https://www.quillaudits.com/web3-hacks-database) - Track major crypto hacks and scams with access of comprehensive database of web3 hacks. 
 
 ### Other Miscellaneous Tools
 * [aragonPM](https://hack.aragon.org/docs/apm-intro.html) - a decentralized package manager powered by aragonOS and Ethereum. aragonPM enables decentralized governance over package upgrades, removing centralized points of failure.
