@@ -85,6 +85,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Solidity by Example](https://solidity-by-example.org/) — An introduction to Solidity with simple examples.
 * [L2Beat](https://l2beat.com/) - Discover Ethereum Layer2 solutions and the risks associated with using them.
 * [Tatum](https://tatum.io/) - The blockchain development tool that streamlines the development of blockchain applications.
+* [thirdweb](https://thirdweb.com/) - The complete web3 development framework.
 
 ## Developer Tools
 ### Developing Smart Contracts
