@@ -246,6 +246,7 @@ Muchas gracias a los ~100 contribuidores, incluidos [@corbpage](https://twitter.
     * [Blog sobre prácticas recomendadas con auditorías de seguridad](https://blog.openzeppelin.com/)
 * [Taller avanzado con montaje](https://github.com/androlo/solidity-workshop)
 * [Simpler Ethereum Multisig](https://medium.com/@ChrisLundkvist/exploring-simpler-ethereum-multisig-contracts-b71020c19037) - especialmente la sección _Benefits_
+* [EthTrust Security LEvels Specification](https://entethalliance.org/specs/ethtrust-sl) Una especificación mantenido ([ultima versión borrador del editor](https://github.com/entethalliance/eta-registry)) de pautas para verificar la seguridad de código escrito en Solidity. Da cobertura para los ataques conocidos, incluyendo problemas en versiones especificas del compilador, divididos en tres niveles según la dificultad de verificación.
 * [Lista de verificación de auditoría de Solidity de CryptoFin](https://github.com/cryptofinlabs/audit-checklist) - una lista de verificación de hallazgos comunes y problemas a tener en cuenta al auditar un contrato para el lanzamiento de una red principal.
 * [aragonOS: un framework de contrato inteligente para crear DAO, Dapps y protocolos](https://hack.aragon.org/docs/aragonos-intro.html)
     * Capacidad de actualización: los contratos inteligentes se pueden actualizar a una versión más reciente.
