@@ -297,6 +297,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
     * [Blog about Best Practices with Security Audits](https://blog.openzeppelin.com/)
 * [Advanced Workshop with Assembly](https://github.com/androlo/solidity-workshop)
 * [Simpler Ethereum Multisig](https://medium.com/@ChrisLundkvist/exploring-simpler-ethereum-multisig-contracts-b71020c19037) - especially section _Benefits_
+* [EthTrust Security Levels spec](https://entethalliance.org/specs/ethtrust-sl/) - a maintained checklist for security evaluation of Smart Contracts in Solidity, covering kown vulnerabilities.
 * [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
 * [aragonOS: A smart contract framework for building DAOs, Dapps and protocols](https://hack.aragon.org/docs/aragonos-intro.html)
     * Upgradeability: Smart contracts can be upgraded to a newer version
